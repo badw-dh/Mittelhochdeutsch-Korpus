@@ -1,0 +1,1583 @@
++H
+1) Allgemeine Informationen
+ID	M136
+Strukturschlssel
+Texttitel	Arnsteiner Marienlied
+Textkrzel
+a) ReM	ArnM
+b) MWB	MarldA
+c) MiGraKo-intern	II-4-V_ArnM
+Textbereich	Religion, Poesie
+Textsorte, spezifisch	Mariendichtung
+Textart	V
+Prim„re Referenz	Edition
+Sekund„re Referenz	Handschrift
+2) šberlieferungstr„ger
+Aufbewahrungsort	Wiesbaden, Hauptstaatsarchiv
+Signatur	Abt. 3004 Nr. C 8
+Handschriftencensus	http://www.handschriftencensus.de/3688
+3) Niederschrift
+šberlieferungstyp	Handschrift
+Blattangabe	Bl. 129v-135v
+Ausschnitt
+Sprachstufe	mhd
+nieder-, mittel-, oberdeutsch	mitteldeutsch
+sprachlicher Groáraum	westmitteldeutsch
+Sprachlandschaft	mittelfr„nkisch, rheinfr„nkisch
+Lokalisierung
+Zeit (Jahrhundert, Jahrhunderth„lfte)	12,2
+Zeit (genauere Datierung)	12,3D (nicht vor den siebziger Jahren)
+Besonderheiten
+4) Text/ šbersetzungsvorlage
+Datierung_Text	12,M
+Lokalisierung_Text
+Autor
+Sprache des Autors
+šbersetzungsvorlage
+Edition	"Friedrich Maurer (Hg.), Die religi”sen Dichtungen des 11. und 12. Jahrhunderts, Bd. I, Tbingen 1964,  Nr.  19, S. 433-452; Werner Schr”der (Hg.), Kleinere deutsche Gedichte des 11. und 12. Jahrhunderts. Nach der Auswahl von Albert Waag, Tbingen 1972, Nr. 10"
+5) Korpus, Transkription, Annotation
+Korpuszugeh”rigkeit	MiGraKo
+Besonderheiten: Transkription
+Besonderheiten: Annotation
+6) Bearbeiter
+Bearbeiter: Digitalisierung	Erika Schr”ppel (IgL, Bonn)
+Bearbeiter: Kollationierung	Christine Hentschel, Frank Ringeler, Thomas Klein (Bonn)
+Bearbeiter: Pr„editierung	Thomas Klein (Bonn)
+Bearbeiter: Annotierung	Thomas Klein (Bonn)
+Bearbeiter: Korrektur	Thomas Klein (Bonn)
+05/16/16 16:45:55: Lemmabestand mit KRP-AEND (nderungsliste D:\MG\FLEX\PRON\NUM\SEHS\HS_HS.TXT) korrigiert!
+05/16/16 16:52:45: Lemmabestand mit KRP-AEND (nderungsliste D:\MG\FLEX\PRON\NUM\SEHS\HS_HS2.TXT) korrigiert!
+12/14/17 15:46:41: Lemmabestand mit KRP-AEND (nderungsliste D:\MG\LAUT\V\FEHL_NEU.TXT) korrigiert!
+07/31/18 16:14:42: Lemmabestand mit KRP-AEND (nderungsliste D:\TEMP\EN-DT.TXT) korrigiert!
+08/31/18 11:47:08: Lemmabestand mit KRP-AEND (nderungsliste D:\PP\KORR\KOR_LST\BRIEF.TXT) korrigiert!
+09/04/18 19:53:43: Lemmabestand mit KRP-AEND (nderungsliste D:\PP\KORR\KOR_LST\KRP-AEND.NUL) korrigiert!
+02/09/20 21:32:25: Lemmabestand mit KRP-AEND (nderungsliste D:\PP\ABGLEICH\KORR_LST.TXT) korrigiert!
+02/09/20 22:24:33: Lemmabestand mit KRP-AEND (nderungsliste D:\PP\ABGLEICH\ER-KRZL.TXT) korrigiert!
+04/22/20 18:43:22: Lemmabestand mit KRP-AEND (nderungsliste D:\PP\MUELLER\P_KORR-S.TXT) korrigiert!
+@H
+`[!] @[!]	ù[!]	#[!]	^	~[!]	\[*(D*)][...]	_IIú4úV_ArnM-001{130v,04}.01	ø	:	*³[*(D*)][...]=[!]³
+`all @pron	ùall	#pron	^NASf	~alle	\[all e]	_IIú4úV_ArnM-001{130v,04}.02	ø	:	*³[alle]=alle³
+`dise @pron	ùdise	#pron	^NASf	~dise	\[du$ e]	_IIú4úV_ArnM-001{130v,04}.03	ø	:	*³[duse]=dise³
+`w‰r(e)lt @f	ùw‰r(e)lt	#f	^NAS	~w‰r<e>lt	\[werlt.](.)	_IIú4úV_ArnM-001{130v,05}.04@	ø	:	³[werlt]=[w‰relt]³
+`von @pr„p	ùvon	#pr„p	^	~van	\[van]	_IIú4úV_ArnM-002{130v,05}.01	ø	:	*³[van]=van³
+`d‰r @art	ùd‰r	#art	^DSf	~d‰r	\[d er]	_IIú4úV_ArnM-002{130v,05}.02	ø	:	*³[der]=d‰r³
+`sunne @mf	ùsunne	#f	^DS	~sunnen	\[$unnen]	_IIú4úV_ArnM-002{130v,05}.03	ø	:	*³[sunnen]=sunnen³
+`‰r @pron	ù‰r	#pron	^NSn	~‰zz	\[ez]	_IIú4úV_ArnM-002{130v,05}.04	ø	:/E[ez: Papp; {iz} Maurer]	*³[ez]=‰zz³
+`gƒn @anv	ùgƒn	#anv	^3SGI	~gŠit	\<geit>	_IIú4úV_ArnM-002{130v,05}.05@	ø	:	³g=g³ei=Ši³t=t³
+`ƒne @pr„p	ùƒne	#pr„p	^	~ƒne	\[ane]	_IIú4úV_ArnM-003{130v,05}.01	ø	:	*³[ane]=ƒne³
+`sˆr @mn	ùsˆr	#mn	^AS	~sˆr	\$er	_IIú4úV_ArnM-003{130v,05}.02	ø	:	³s=s³e=ˆ³r=r³
+`unte @konj	ùunte	#konj	^	~unt<e>	\und	_IIú4úV_ArnM-003{130v,06}.03	ø	:	³u=u³n=n³d=t³=e³
+`ƒne @pr„p	ùƒne	#pr„p	^	~ƒn<e>	\an	_IIú4úV_ArnM-003{130v,06}.04	ø	:	³a=ƒ³n=n³=e³
+`arbŠit @fn	ùarbŠit	#fn	^AS	~arbŠit	\arbeit.(.)	_IIú4úV_ArnM-003{130v,06}.05@	ø	:	³a=a³r=r³b=b³ei=Ši³t=t³
+`d‰r @art	ùd‰r	#art	^NSn	~dazz	\d az	_IIú4úV_ArnM-004{130v,06}.01	ø	:	³d=d³a=a³z=zz³
+`kind @n	ùkind	#n	^NS	~kind	\kint,,	_IIú4úV_ArnM-004{130v,06}.02	ø	:	³k=k³i=i³n=n³t=d³
+`d‰r @pron	ùd‰r	#pron	^NSn+	~dazz	\d az	_IIú4úV_ArnM-004{130v,06}.03	ø	:	³d=d³a=a³z=zz³
+`himel @m	ùhimel	#m	^AS	~himel	\hime[l]	_IIú4úV_ArnM-004{130v,06}.04	ø	:	³h=h³i=i³m=m³e=e³[l]=l³
+`unte @konj	ùunte	#konj	^	~unt<e>	\und	_IIú4úV_ArnM-004{130v,06}.05	ø	:	³u=u³n=n³d=t³=e³
+`‰rde @f	ù‰rde	#f	^AS	~‰rden	\erden	_IIú4úV_ArnM-004{130v,07}.06	ø	:	³e=‰³r=r³d=d³e=e³n=n³
+`sol(e)n @anv	ùsol(e)n	#anv	^3SV	~solte	\$olde	_IIú4úV_ArnM-004{130v,07}.07	ø	:	³s=s³o=o³l=l³d=t³e=e³
+`er-vr”uwen @swv	ùer-vr”uwen	#swv i	^-	~er-vr”uwen	\er#frowen.,,	_IIú4úV_ArnM-004{130v,07}.08@	ø	:	³e=e³r=r³=-³f=v³r=r³o=”u³w=w³e=e³n=n³
+`d‰r @pron	ùd‰r	#pron	^NSn+	~dazz	\d az	_IIú4úV_ArnM-005{130v,07}.01	ø	:	³d=d³a=a³z=zz³
+`ze @pr„p	ùze	#pr„p	^	~ze	\ce	_IIú4úV_ArnM-005{130v,07}.02	ø	:	³c=z³e=e³
+`stoŠren @swv	ùstoŠren	#swv i	^DS	~stoŠrenne	\$torene	_IIú4úV_ArnM-005{130v,07}.03	ø	:	³s=s³t=t³o=oŠ³r=r³e=e³n=nn³e=e³
+`komen @stv4	ùkomen	#stv4	^3SVI	~quam	\qu\-a	_IIú4úV_ArnM-005{130v,08}.04	ø	:	³qu=qu³\-a=am³
+`unser @pron_poss	ùunser	#pron_poss	^ASm	~unsen	\un$ en	_IIú4úV_ArnM-005{130v,08}.05	ø	:	³u=u³n=n³s=s³e=e³n=n³
+`riuwe @mf	ùriuwe	#m	^AS	~riuwen	\ruwen.,,	_IIú4úV_ArnM-005{130v,08}.06@	ø	:	³r=r³u=iu³w=w³e=e³n=n³
+`ƒne @pr„p	ùƒne	#pr„p	^	~ƒn<e>	\an	_IIú4úV_ArnM-006{130v,08}.01	ø	:	³a=ƒ³n=n³=e³
+`all @pron	ùall	#pron	^GPf	~aller	\all er|	_IIú4úV_ArnM-006{130v,08}.02	ø	:	³a=a³ll=ll³e=e³r=r³
+`slahte @f	ùslahte	#f	^GP	~slahte	\|$laht[e]	_IIú4úV_ArnM-006{130v,08}.03	ø	:	³s=s³l=l³a=a³h=h³t=t³[e]=e³
+`sˆr @mn	ùsˆr	#mn	^AS	~sˆr	\[$]<er>	_IIú4úV_ArnM-006{130v,08}.04	ø	:	³[s]=s³e=ˆ³r=r³
+`‰r @pron	ù‰r	#pron	^NSn	~izz	\iz	_IIú4úV_ArnM-006{130v,08}.05	ø	:	³i=i³z=zz³
+`von @pr„p	ùvon	#pr„p	^	~van	\uan	_IIú4úV_ArnM-006{130v,09}.06	ø	:	³u=v³a=a³n=n³
+`d– @pron	ùd–	#pron	^DS	~dir	\dir	_IIú4úV_ArnM-006{130v,09}.07	ø	:	³d=d³i=i³r=r³
+`komen @stv4	ùkomen	#stv4	^3SVI	~quam	\qu\-a.,,	_IIú4úV_ArnM-006{130v,09}.08@	ø	:	³qu=qu³\-a=am³
+`all-s“ @adv/konj	ùall-s“	#konj	^	~all-s	\al$|	_IIú4úV_ArnM-007{130v,09}.01	ø	:	³a=a³l=ll³=-³s=s³
+`‰r @pron	ù‰r	#pron	^NSn	~izz	\|iz	_IIú4úV_ArnM-007{130v,09}.02	ø	:	³i=i³z=zz³
+`got @m	ùgot	#m	^GS	~gotes	\gode$	_IIú4úV_ArnM-007{130v,09}.03	ø	:/E[gode$: {godes} Maurer]	³g=g³o=o³d=t³e=e³s=s³
+`kind @n	ùkind	#n	^DS	~kinde	\kinde	_IIú4úV_ArnM-007{130v,09}.04	ø	:	³k=k³i=i³n=n³d=d³e=e³
+`all-Šin(e) @adj	ùall-Šin(e)	#adj	^DSn=	~all-Šineme	\all[ei]n e= me	_IIú4úV_ArnM-007{130v,09}.05	ø	:	³a=a³ll=ll³=-³[ei]=Ši³n=n³e=e³m=m³e=e³
+`ge-z‰men @stv4	ùge-z‰men	#stv4	^3SVI	~ge-zam	\gezam.(.)	_IIú4úV_ArnM-007{130v,10}.06@	ø	:	³g=g³e=e³=-³z=z³a=a³m=m³
+`von @pr„p	ùvon	#pr„p	^	~van	\*(V*)an	_IIú4úV_ArnM-008{130v,10}.01	ø	:	³v=v³a=a³n=n³
+`d‰r @art	ùd‰r	#art	^DSf	~d‰r	\d er	_IIú4úV_ArnM-008{130v,10}.02	ø	:	³d=d³e=‰³r=r³
+`sunne @mf	ùsunne	#f	^DS	~sunnen	\$unnen	_IIú4úV_ArnM-008{130v,10}.03	ø	:	³s=s³u=u³nn=nn³e=e³n=n³
+`gƒn @anv	ùgƒn	#anv	^3SGI	~gŠit	\geit	_IIú4úV_ArnM-008{130v,10}.04	ø	:	³g=g³ei=Ši³t=t³
+`d‰r @art	ùd‰r	#art	^NSn	~dazz	\<d> az	_IIú4úV_ArnM-008{130v,10}.05	ø	:	³d=d³a=a³z=zz³
+`tage-liŠht @n	ùtage-liŠht	#n	^NS	~tage-liŠ<h>t	\dage#liet.,,	_IIú4úV_ArnM-008{130v,11}.06@	ø	:	³d=t³a=a³g=g³e=e³=-³l=l³ie=iŠ³=h³t=t³
+`‰r @pron	ù‰r	#pron	^NSf	~si	\$i|	_IIú4úV_ArnM-009{130v,11}.01	ø	:	³s=s³i=i³
+`ne @partikel	ùne	#partikel	^	~ne	\|ne	_IIú4úV_ArnM-009{130v,11}.02	ø	:	³n=n³e=e³
+`w‰rden @stv3b	ùw‰rden	#stv3b	^3SGI	~wirdet	\wirdet	_IIú4úV_ArnM-009{130v,11}.03	ø	:	³w=w³i=i³r=r³d=d³e=e³t=t³
+`umbe @pr„p	ùumbe	#pr„p	^	~umbe	\umbe	_IIú4úV_ArnM-009{130v,11}.04	ø	:	³u=u³m=m³b=b³e=e³
+`d‰r @pron	ùd‰r	#pron	^ASn	~dazz	\d az	_IIú4úV_ArnM-009{130v,11}.05	ø	:	³d=d³a=a³z=zz³
+`d‰r @pron	ùd‰r	#pron	^IS	~diu	\d u	_IIú4úV_ArnM-009{130v,11}.06	ø	:/ù[s. PWG õ387]	³d=d³u=iu³
+`tunkel @adj	ùtunkel	#adj comp	^-	~tunkel(e)r(e)	\dunkeler e 	_IIú4úV_ArnM-009{130v,12}.07	ø	:/^[!]	³d=t³u=u³n=n³k=k³e=e³l=l³e=e³r=r³e=e³
+`niht @adv	ùniht	#adv	^	~niŠt	\niet.,,	_IIú4úV_ArnM-009{130v,12}.08@	ø	:	³n=n³ie=iŠ³t=t³
+`noh @adv/konj	ùnoh	#konj	^	~noh	\nog	_IIú4úV_ArnM-010{130v,12}.01	ø	:	³n=n³o=o³g=h³
+`be-w‰llen @stv3b	ùbe-w‰llen	#stv3b pV	^-	~be-wollen	\bewollen 	_IIú4úV_ArnM-010{130v,12}.02	ø	:	³b=b³e=e³=-³w=w³o=o³ll=ll³e=e³n=n³
+`w‰rden @stv3b	ùw‰rden	#stv3b	^3SVI	~ward	\ward	_IIú4úV_ArnM-010{130v,12}.03	ø	:	³w=w³a=a³r=r³d=d³
+`dŒn @pron_poss	ùdŒn	#pron_poss	^0NSm	~dŒn	\din	_IIú4úV_ArnM-010{130v,13}.04	ø	:	³d=d³i=Œ³n=n³
+`maged-lich @adj	ùmaged-lich	#adj	^NSm	~maged-lŒcher	\megedlich er	_IIú4úV_ArnM-010{130v,13}.05	ø	:	³m=m³e=a³g=g³e=e³d=d³=-³l=l³i=Œ³ch=ch³e=e³r=r³
+`lŒb @mn	ùlŒb	#m	^NS	~lŒb	\lif.,,	_IIú4úV_ArnM-010{130v,13}.06@	ø	:	³l=l³i=Œ³f=b³
+`all-Šin(e) @adv/konj	ùall-Šin(e)	#konj	^	~all-Šin	\allein	_IIú4úV_ArnM-011{130v,13}.01	ø	:	³a=a³ll=ll³=-³ei=Ši³n=n³
+`ge-b‰r(e)n @stv4	ùge-b‰r(e)n	#stv4	^2SVI	~ge-b‘re	\gebere	_IIú4úV_ArnM-011{130v,13}.02	ø	:	³g=g³e=e³=-³b=b³e=‘³r=r³e=e³
+`d– @pron	ùd–	#pron	^NS	~d–	\du	_IIú4úV_ArnM-011{130v,13}.03	ø	:	³d=d³u=–³
+`d‰r @art	ùd‰r	#art	^ASn	~dazz	\d az	_IIú4úV_ArnM-011{130v,14}.04	ø	:	³d=d³a=a³z=zz³
+`kind @n	ùkind	#n	^AS	~kind	\kint,,	_IIú4úV_ArnM-011{130v,14}.05	ø	:	³k=k³i=i³n=n³t=d³
+`hŠilig @adj	ùhŠilig	#adj	^NSn"	~hŠiligezz	\heilig ez	_IIú4úV_ArnM-011{130v,14}.06	ø	:	³h=h³ei=Ši³l=l³i=i³g=g³e=e³z=zz³
+`wŒb @n	ùwŒb	#n	^NS	~wŒb	\wif.(.)	_IIú4úV_ArnM-011{130v,14}.07@	ø	:	³w=w³i=Œ³f=b³
+`sint @adv/konj	ùsint	#konj	^	~sint	\*(S*)int	_IIú4úV_ArnM-012{130v,14}.01	ø	:	³s=s³i=i³n=n³t=t³
+`d– @pron	ùd–	#pron	^NS	~d–	\du	_IIú4úV_ArnM-012{130v,14}.02	ø	:	³d=d³u=–³
+`d‰r @art	ùd‰r	#art	^ASn	~dazz	\d az	_IIú4úV_ArnM-012{130v,14}.03	ø	:	³d=d³a=a³z=zz³
+`kind @n	ùkind	#n	^AS	~kind	\kint	_IIú4úV_ArnM-012{130v,15}.04	ø	:	³k=k³i=i³n=n³t=d³
+`ge-b‰r(e)n @stv4	ùge-b‰r(e)n	#stv4	^2SVI	~ge-b‘re	\gebere.,,	_IIú4úV_ArnM-012{130v,15}.05@	ø	:	³g=g³e=e³=-³b=b³e=‘³r=r³e=e³
+`mit-alle @adv	ùmit-alle	#adv	^	~bitalle	\bit#alle	_IIú4úV_ArnM-013{130v,15}.01	ø	:	³b=b³i=i³t=t³a=a³ll=ll³e=e³
+`d– @pron	ùd–	#pron	^NS	~d–	\du	_IIú4úV_ArnM-013{130v,15}.02	ø	:	³d=d³u=–³
+`w‰sen @stv5	ùw‰sen	#stv5	^2SVI	~w‘re	\were	_IIú4úV_ArnM-013{130v,15}.03@	ø	:	³w=w³e=‘³r=r³e=e³
+`l–ter @adj	ùl–ter	#adj	^-	~l–ter	\luter 	_IIú4úV_ArnM-014{130v,15}.01	ø	:	³l=l³u=–³t=t³e=e³r=r³
+`unte @konj	ùunte	#konj	^	~unte	\unde	_IIú4úV_ArnM-014{130v,15}.02	ø	:	³u=u³n=n³d=t³e=e³
+`rŠin(e) @adj	ùrŠin(e)	#adj	^-	~rŠine	\rein e .	_IIú4úV_ArnM-014{130v,16}.03@	ø	:	³r=r³ei=Ši³n=n³e=e³
+`von @pr„p	ùvon	#pr„p	^	~van	\uan	_IIú4úV_ArnM-015{130v,16}.01	ø	:	³u=v³a=a³n=n³
+`mann @m	ùmann	#m	^GS	~mannes	\manne$	_IIú4úV_ArnM-015{130v,16}.02	ø	:	³m=m³a=a³nn=nn³e=e³s=s³
+`ge-mŠin(e) @f	ùge-mŠin(e)	#f	^DS	~ge-mŠine	\gemeine(.)	_IIú4úV_ArnM-015{130v,16}.03@	ø	:	³g=g³e=e³=-³m=m³ei=Ši³n=n³e=e³
+`sw‰r @pron	ùsw‰r	#pron	^ASm	~sw‰nen	\$w enen	_IIú4úV_ArnM-016{130v,16}.01	ø	:	³s=s³w=w³e=‰³n=n³e=e³n=n³
+`s“ @partikel	ùs“	#partikel	^	~s“	\$o	_IIú4úV_ArnM-016{130v,16}.02	ø	:	³s=s³o=“³
+`d‰r @pron	ùd‰r	#pron	^NSn	~dazz	\d az	_IIú4úV_ArnM-016{130v,17}.03	ø	:	³d=d³a=a³z=zz³
+`dunken @swv-a	ùdunken	#swv-a	^3SGI	~dunket	\dunket	_IIú4úV_ArnM-016{130v,17}.04	ø	:	³d=d³u=u³n=n³k=k³e=e³t=t³
+`un-mge-lich @adj	ùun-mge-lich	#adj	^-	~un-mge-lich	\unmu\ogelich ,,	_IIú4úV_ArnM-016{130v,17}.05@	ø	:	³u=u³n=n³=-³m=m³u\o=³g=g³e=e³=-³l=l³i=i³ch=ch³
+`d‰r @pron	ùd‰r	#pron	^NSm	~d‰r	\d er	_IIú4úV_ArnM-017{130v,17}.01	ø	:	³d=d³e=‰³r=r³
+`mŠrken @swv	ùmŠrken	#swv	^3SGK	~mŠrke	\merke	_IIú4úV_ArnM-017{130v,17}.02	ø	:	³m=m³e=Š³r=r³k=k³e=e³
+`d‰r @art	ùd‰r	#art	^ASn	~dazz	\d az	_IIú4úV_ArnM-017{130v,18}.03	ø	:	³d=d³a=a³z=zz³
+`glas @n	ùglas	#n	^AS	~glas	\gla$,,	_IIú4úV_ArnM-017{130v,18}.04	ø	:	³g=g³l=l³a=a³s=s³
+`d‰r @pron	ùd‰r	#pron	^NSn+	~dazz	\d az	_IIú4úV_ArnM-017{130v,18}.05	ø	:	³d=d³a=a³z=zz³
+`d– @pron	ùd–	#pron	^DS	~dir	\dir	_IIú4úV_ArnM-017{130v,18}.06	ø	:	³d=d³i=i³r=r³
+`sŒn @anv	ùsŒn	#anv	^3SGI	~is	\i$|	_IIú4úV_ArnM-017{130v,18}.07	ø	:	³i=i³s=s³
+`ge-lŒch @adj	ùge-lŒch	#adj	^-	~ge-lŒch	\|gelig (:)	_IIú4úV_ArnM-017{130v,18}.08@	ø	:	³g=g³e=e³=-³l=l³i=Œ³g=ch³
+`d‰r @art	ùd‰r	#art	^NSn	~dazz	\d az	_IIú4úV_ArnM-018{130v,18}.01	ø	:	³d=d³a=a³z=zz³
+`sunne(n)-liŠht @n	ùsunne(n)-liŠht	#n	^NS	~sunnen-liŠ<h>t	\$unnen(=)liet	_IIú4úV_ArnM-018{130v,18}.02	ø	:	³s=s³u=u³nn=nn³e=e³n=n³=-³l=l³ie=iŠ³=h³t=t³
+`schŒnen @stv1a	ùschŒnen	#stv1a	^3SGI	~schŒnet	\$chinet	_IIú4úV_ArnM-018{130v,19}.03	ø	:	³sch=sch³i=Œ³n=n³e=e³t=t³
+`durh @pr„p	ùdurh	#pr„p	^	~durh	\durg	_IIú4úV_ArnM-018{130v,19}.04	ø	:	³d=d³u=u³r=r³g=h³
+`mitten(e) @adv	ùmitten(e)	#adv	^	~mitten<e>	\mitden	_IIú4úV_ArnM-018{130v,19}.05	ø	:/E[mitden: {mittlen} Maurer]	³m=m³i=i³td=tt³e=e³n=n³=e³
+`d‰r @art	ùd‰r	#art	^ASn	~dazz	\d az	_IIú4úV_ArnM-018{130v,19}.06	ø	:	³d=d³a=a³z=zz³
+`glas @n	ùglas	#n	^AS	~glas	\gla$.,,	_IIú4úV_ArnM-018{130v,19}.07@	ø	:	³g=g³l=l³a=a³s=s³
+`‰r @pron	ù‰r	#pron	^NSn	~izz	\iz	_IIú4úV_ArnM-019{130v,19}.01	ø	:	³i=i³z=zz³
+`sŒn @anv	ùsŒn	#anv	^3SGI	~is	\i$	_IIú4úV_ArnM-019{130v,20}.02	ø	:	³i=i³s=s³
+`alang @adj	ùalang	#adj	^-	~alang	\alinc 	_IIú4úV_ArnM-019{130v,20}.03	ø	:	³a=a³l=l³i=a³n=n³c=g³
+`unte @konj	ùunte	#konj	^	~unte	\unde	_IIú4úV_ArnM-019{130v,20}.04	ø	:	³u=u³n=n³d=t³e=e³
+`l–ter @adj	ùl–ter	#adj	^-	~l–ter	\luter 	_IIú4úV_ArnM-019{130v,20}.05	ø	:	³l=l³u=–³t=t³e=e³r=r³
+`sint @adv/konj	ùsint	#adv	^	~sint	\$int,,	_IIú4úV_ArnM-019{130v,20}.06	ø	:	³s=s³i=i³n=n³t=t³
+`all-s“ @adv/konj	ùall-s“	#konj	^	~all-s	\al$|	_IIú4úV_ArnM-019{130v,20}.07	ø	:	³a=a³l=ll³=-³s=s³
+`‰r @pron	ù‰r	#pron	^NSn	~izz	\|iz	_IIú4úV_ArnM-019{130v,20}.08	ø	:	³i=i³z=zz³
+`ˆr @pr„p	ùˆr	#pr„p	^	~ˆ<r>	\e|	_IIú4úV_ArnM-019{130v,20}.09	ø	:	³e=ˆ³=r³
+`d‰r @pron	ùd‰r	#pron	^GSn	~d‰s	\|d e$	_IIú4úV_ArnM-019{130v,20}.10	ø	:	³d=d³e=‰³s=s³
+`w‰sen @stv5	ùw‰sen	#stv5	^3SVI	~was	\wa$.(.)	_IIú4úV_ArnM-019{130v,20}.11@	ø	:	³w=w³a=a³s=s³
+`durh @pr„p	ùdurh	#pr„p	^	~durh	\durg	_IIú4úV_ArnM-020{130v,21}.01	ø	:	³d=d³u=u³r=r³g=h³
+`d‰r @art	ùd‰r	#art	^ASn	~dazz	\d az	_IIú4úV_ArnM-020{130v,21}.02	ø	:	³d=d³a=a³z=zz³
+`alang @adj	ùalang	#adj	^ASnw	~alange	\aling e	_IIú4úV_ArnM-020{130v,21}.03	ø	:	³a=a³l=l³i=a³n=n³g=g³e=e³
+`glas @n	ùglas	#n	^AS	~glas	\gla$	_IIú4úV_ArnM-020{130v,21}.04	ø	:	³g=g³l=l³a=a³s=s³
+`gƒn @anv	ùgƒn	#anv	^3SGI	~gŠit	\geit	_IIú4úV_ArnM-020{130v,21}.05	ø	:	³g=g³ei=Ši³t=t³
+`‰r @pron	ù‰r	#pron	^NSn	~izz	\iz	_IIú4úV_ArnM-020{130v,21}.06	ø	:	³i=i³z=zz³
+`in @pr„p	ùin	#pr„p	^	~in	\in	_IIú4úV_ArnM-020{130v,21}.07	ø	:	³i=i³n=n³
+`d‰r @art	ùd‰r	#art	^ASn	~dazz	\d az	_IIú4úV_ArnM-020{130v,21}.08	ø	:	³d=d³a=a³z=zz³
+`h–s @n	ùh–s	#n	^AS	~h–s	\hu$.,,	_IIú4úV_ArnM-020{130v,22}.09@	ø	:	³h=h³u=–³s=s³
+`d‰r @art	ùd‰r	#art	^ASn	~dazz	\d az	_IIú4úV_ArnM-021{130v,22}.01	ø	:	³d=d³a=a³z=zz³
+`vinsternisse @fn	ùvinsternisse	#n	^AS	~vinesternisse	\uine$terni$$e	_IIú4úV_ArnM-021{130v,22}.02	ø	:	³u=v³i=i³n=n³e=e³s=s³t=t³e=e³r=r³n=n³i=i³ss=ss³e=e³
+`ver-trŒben @stv1a	ùver-trŒben	#stv1a	^3SGI	~ver-trŒbet	\uer#driuet	_IIú4úV_ArnM-021{130v,22}.03	ø	:	³u=v³e=e³r=r³=-³d=t³r=r³i=Œ³u=b³e=e³t=t³
+`‰r @pron	ù‰r	#pron	^NSn	~izz	\iz	_IIú4úV_ArnM-021{130v,22}.04	ø	:	³i=i³z=zz³
+`dƒr @adv	ùdƒr	#adv	^	~dƒ<r>	\daz	_IIú4úV_ArnM-021{130v,22}.05	ø	:/ù[!]	³d=d³a=ƒ³=r³z=³
+`–z @adv	ù–z	#adv	^	~–z	\uz.(.)	_IIú4úV_ArnM-021{130v,23}.06@	ø	:	³u=–³z=z³
+`d– @pron	ùd–	#pron	^NS	~d–	\*(D*)u	_IIú4úV_ArnM-022{130v,23}.01	ø	:	³d=d³u=–³
+`sŒn @anv	ùsŒn	#anv	^2SGI	~bis	\bi$	_IIú4úV_ArnM-022{130v,23}.02	ø	:	³b=b³i=i³s=s³
+`d‰r @art	ùd‰r	#art	^NSn	~dazz	\d az	_IIú4úV_ArnM-022{130v,23}.03	ø	:	³d=d³a=a³z=zz³
+`alang @adj	ùalang	#adj	^NSnw	~alange	\aling e	_IIú4úV_ArnM-022{130v,23}.04	ø	:	³a=a³l=l³i=a³n=n³g=g³e=e³
+`glas @n	ùglas	#n	^NS	~glas	\gla$,,	_IIú4úV_ArnM-022{130v,23}.05	ø	:	³g=g³l=l³a=a³s=s³
+`dƒr @adv	ùdƒr	#adv	^	~dƒ	\da	_IIú4úV_ArnM-022{130v,23}.06	ø	:	³d=d³a=ƒ³
+`dƒr @adv	ùdƒr	#adv	^	~dƒr	\der	_IIú4úV_ArnM-022{130v,23}.07	ø	:	³d=d³e=ƒ³r=r³
+`durh @adv	ùdurh	#adv	^	~durh	\durg	_IIú4úV_ArnM-022{131r,01}.08	ø	:	³d=d³u=u³r=r³g=h³
+`komen @stv4	ùkomen	#stv4	^3SVI	~quam	\qu\-a.	_IIú4úV_ArnM-022{131r,01}.09@	ø	:	³qu=qu³\-a=am³
+`d‰r @art	ùd‰r	#art	^NSn	~dazz	\d az	_IIú4úV_ArnM-023{131r,01}.01	ø	:	³d=d³a=a³z=zz³
+`liŠht @n	ùliŠht	#n	^NS	~liŠ<h>t	\liet,,	_IIú4úV_ArnM-023{131r,01}.02	ø	:	³l=l³ie=iŠ³=h³t=t³
+`d‰r @pron	ùd‰r	#pron	^NSn+	~dazz	\d az	_IIú4úV_ArnM-023{131r,01}.03	ø	:	³d=d³a=a³z=zz³
+`vinsternisse @fn	ùvinsternisse	#fn	^AS	~vinsternisse	\uine$terni$$e	_IIú4úV_ArnM-023{131r,01}.04	ø	:	³u=v³i=i³n=n³e=³s=s³t=t³e=e³r=r³n=n³i=i³ss=ss³e=e³
+`d‰r @art	ùd‰r	#art	^DSf	~d‰r	\d er	_IIú4úV_ArnM-023{131r,01}.05	ø	:	³d=d³e=‰³r=r³
+`w‰r(e)lt @f	ùw‰r(e)lt	#f	^DS	~w‰r<e>lte	\werlde	_IIú4úV_ArnM-023{131r,02}.06	ø	:	³w=w³e=‰³r=r³=e³l=l³d=t³e=e³
+`be-n‰men @stv4	ùbe-n‰men	#stv4	^3SVI	~be-nam	\benam.(.)	_IIú4úV_ArnM-023{131r,02}.07@	ø	:	³b=b³e=e³=-³n=n³a=a³m=m³
+`von @pr„p	ùvon	#pr„p	^	~van	\u<a>n|	_IIú4úV_ArnM-024{131r,02}.01	ø	:	³u=v³a=a³n=n³
+`d– @pron	ùd–	#pron	^DS	~dir	\|dir	_IIú4úV_ArnM-024{131r,02}.02	ø	:	³d=d³i=i³r=r³
+`schŒnen @stv1a	ùschŒnen	#stv1a	^3SVI	~schŠin	\$chein	_IIú4úV_ArnM-024{131r,02}.03	ø	:	³sch=sch³ei=Ši³n=n³
+`d‰r @art	ùd‰r	#art	^NSn	~dazz	\d az	_IIú4úV_ArnM-024{131r,02}.04	ø	:	³d=d³a=a³z=zz³
+`got @m	ùgot	#m	^GS	~gotes	\go=de$	_IIú4úV_ArnM-024{131r,02}.05	ø	:	³g=g³o=o³d=t³e=e³s=s³
+`liŠht @n	ùliŠht	#n	^NS	~liŠ<h>t	\liet	_IIú4úV_ArnM-024{131r,03}.06	ø	:	³l=l³ie=iŠ³=h³t=t³
+`in @pr„p	ùin	#pr„p	^	~in	\in|	_IIú4úV_ArnM-024{131r,03}.07	ø	:	³i=i³n=n³
+`all @pron	ùall	#pron	^APn	~alle	\|all e	_IIú4úV_ArnM-024{131r,03}.08	ø	:	³a=a³ll=ll³e=e³
+`d‰r @art	ùd‰r	#art	^APn	~diŠ	\d ie	_IIú4úV_ArnM-024{131r,03}.09	ø	:	³d=d³ie=iŠ³
+`lant @n	ùlant	#n	^AP	~lant	\lant.(.)	_IIú4úV_ArnM-024{131r,03}.10@	ø	:	³l=l³a=a³n=n³t=t³
+`d“ @adv/konj	ùd“	#konj	^	~d“	\do	_IIú4úV_ArnM-025{131r,03}.01	ø	:	³d=d³o=“³
+`von @pr„p	ùvon	#pr„p	^	~van	\uan	_IIú4úV_ArnM-025{131r,03}.02	ø	:	³u=v³a=a³n=n³
+`d– @pron	ùd–	#pron	^DS	~dir	\dir	_IIú4úV_ArnM-025{131r,03}.03	ø	:	³d=d³i=i³r=r³
+`ge-b‰r(e)n @stv4	ùge-b‰r(e)n	#stv4 pV	^-	~ge-bor(e)n	\ge(=)boren 	_IIú4úV_ArnM-025{131r,03}.04	ø	:	³g=g³e=e³=-³b=b³o=o³r=r³e=e³n=n³
+`w‰rden @stv3b	ùw‰rden	#stv3b	^3SVI	~ward	\warth	_IIú4úV_ArnM-025{131r,04}.05	ø	:	³w=w³a=a³r=r³th=d³
+`unser @pron_poss	ùunser	#pron_poss	^NSmw!	~unse	\un$ e	_IIú4úV_ArnM-025{131r,04}.06	ø	:	³u=u³n=n³s=s³e=e³
+`hŠilant @m	ùhŠilant	#m	^NS	~hŠilant	\[heilant.],,	_IIú4úV_ArnM-025{131r,04}.07@	ø	:	*³[h]=h³[ei]=Ši³[l]=l³[a]=a³[n]=n³[t]=t³
+`d‰r @pron	ùd‰r	#pron	^NSn	~dazz	\[d a]z	_IIú4úV_ArnM-026{131r,04}.01	ø	:	³[d]=d³[a]=a³z=zz³
+`be-liuhten @swv	ùbe-liuhten	#swv	^3SV	~be-liuhtte	\beluhte	_IIú4úV_ArnM-026{131r,04}.02	ø	:	³b=b³e=e³=-³l=l³u=iu³h=h³t=tt³e=e³
+`d– @pron	ùd–	#pron	^AS	~dich	\dich	_IIú4úV_ArnM-026{131r,05}.03	ø	:	³d=d³i=i³ch=ch³
+`unte @konj	ùunte	#konj	^	~unt<e>	\und	_IIú4úV_ArnM-026{131r,05}.04	ø	:	³u=u³n=n³d=t³=e³
+`all @pron	ùall	#pron	^ASf	~alle	\all e	_IIú4úV_ArnM-026{131r,05}.05	ø	:	³a=a³ll=ll³e=e³
+`kristen-hŠit @f	ùkristen-hŠit	#f	^AS	~kristen-hŠit	\cri$tenheit.,,	_IIú4úV_ArnM-026{131r,05}.06@	ø	:	³c=k³r=r³i=i³s=s³t=t³e=e³n=n³=-³h=h³ei=Ši³t=t³
+`d‰r @pron	ùd‰r	#pron	^NSf+	~diu	\d u	_IIú4úV_ArnM-027{131r,05}.01	ø	:	³d=d³u=iu³
+`in @pr„p	ùin	#pr„p	^	~in	\in|	_IIú4úV_ArnM-027{131r,05}.02	ø	:	³i=i³n=n³
+`d‰r @art	ùd‰r	#art	^ASm	~d‰n	\|d en	_IIú4úV_ArnM-027{131r,05}.03	ø	:	³d=d³e=‰³n=n³
+`un-ge-loube @mf	ùun-ge-loube	#m	^AS	~un-ge-louben	\ungelouuen	_IIú4úV_ArnM-027{131r,06}.04	ø	:	³u=u³n=n³=-³g=g³e=e³=-³l=l³ou=ou³u=b³e=e³n=n³
+`v‰rre @adv	ùv‰rre	#adv	^	~v‰rre	\uerre	_IIú4úV_ArnM-027{131r,06}.05	ø	:	³u=v³e=‰³rr=rr³e=e³
+`w‰sen @stv5	ùw‰sen	#stv5	^3SVI	~was	\wa$	_IIú4úV_ArnM-027{131r,06}.06	ø	:	³w=w³a=a³s=s³
+`ver-lŠiten @swv	ùver-lŠiten	#swv pV	^-	~ver-lŠitt	\uerleit .(.)	_IIú4úV_ArnM-027{131r,06}.07@	ø	:	³u=v³e=e³r=r³=-³l=l³ei=Ši³t=tt³
+`‰r @pron	ù‰r	#pron	^NSn	~izz	\iz	_IIú4úV_ArnM-028{131r,06}.01	ø	:	³i=i³z=zz³
+`vinden @stv3a	ùvinden	#stv3a	^3SVI	~vand	\uant	_IIú4úV_ArnM-028{131r,06}.02	ø	:	³u=v³a=a³n=n³t=d³
+`d– @pron	ùd–	#pron	^AS	~dich	\dich.,,	_IIú4úV_ArnM-028{131r,07}.03	ø	:	³d=d³i=i³ch=ch³
+`‰r @pron	ù‰r	#pron	^NSn	~izz	\iz	_IIú4úV_ArnM-028{131r,07}.04	ø	:	³i=i³z=zz³
+`lƒzen @stv7	ùlƒzen	#stv7	^3SVI	~liŠz	\liz	_IIú4úV_ArnM-028{131r,07}.05	ø	:	³l=l³i=iŠ³z=z³
+`d– @pron	ùd–	#pron	^AS	~dich	\dich.	_IIú4úV_ArnM-028{131r,07}.06	ø	:	³d=d³i=i³ch=ch³
+`mit-alle @adv	ùmit-alle	#adv	^	~bitalle	\bit#alle	_IIú4úV_ArnM-028{131r,07}.07	ø	:	³b=b³i=i³t=t³a=a³ll=ll³e=e³
+`l–ter @adj	ùl–ter	#adj	^-	~l–ter	\luter ,,	_IIú4úV_ArnM-028{131r,07}.08@	ø	:	³l=l³u=–³t=t³e=e³r=r³
+`all-s“ @adv/konj	ùall-s“	#konj	^	~all-se	\al$e	_IIú4úV_ArnM-029{131r,07}.01	ø	:	³a=a³l=ll³=-³s=s³e=e³
+`d‰r @art	ùd‰r	#art	^NSf	~diu	\d u	_IIú4úV_ArnM-029{131r,07}.02	ø	:	³d=d³u=iu³
+`sunne @mf	ùsunne	#f	^NS	~sunne	\$unne	_IIú4úV_ArnM-029{131r,08}.03	ø	:	³s=s³u=u³nn=nn³e=e³
+`tuon @anv	ùtuon	#anv	^3SGI	~tŠit	\deit	_IIú4úV_ArnM-029{131r,08}.04	ø	:	³d=t³ei=Ši³t=t³
+`d‰r @art	ùd‰r	#art	^ASn	~dazz	\d az	_IIú4úV_ArnM-029{131r,08}.05	ø	:	³d=d³a=a³z=zz³
+`glase-v‰nster @n	ùglase-v‰nster	#n	^AS	~glase-v‰nster	\gla$e#uin$ter.(.)	_IIú4úV_ArnM-029{131r,08}.06@	ø	:	³g=g³l=l³a=a³s=s³e=e³=-³u=v³i=‰³n=n³s=s³t=t³e=e³r=r³
+`jude @m	ùjude	#m	^NP	~juden	\*(I*)vden,,	_IIú4úV_ArnM-030{131r,08}.01	ø	:	³i=j³v=u³d=d³e=e³n=n³
+`d‰r @pron	ùd‰r	#pron	^NPm	~diŠ	\d ie	_IIú4úV_ArnM-030{131r,09}.02	ø	:	³d=d³ie=iŠ³
+`ir @pron	ùir	#pron	^AP©	~iuch	\ug	_IIú4úV_ArnM-030{131r,09}.03	ø	:	³u=iu³g=ch³
+`wŠllen @anv	ùwŠllen	#anv	^2PG	~willet	\willen	_IIú4úV_ArnM-030{131r,09}.04	ø	:/^[!]	³w=w³i=i³ll=ll³e=e³n=t³
+`ze @pr„p	ùze	#pr„p	^	~ze	\ce	_IIú4úV_ArnM-030{131r,09}.05	ø	:	³c=z³e=e³
+`got @m	ùgot	#m	^DS	~gote	\gode	_IIú4úV_ArnM-030{131r,09}.06	ø	:	³g=g³o=o³d=t³e=e³
+`kˆren @swv	ùkˆren	#swv i	^-	~kˆren	\keren.,,	_IIú4úV_ArnM-030{131r,09}.07@	ø	:	³k=k³e=ˆ³r=r³e=e³n=n³
+`mŠrken @swv	ùmŠrken	#swv	^2PGB	~mŠrket	\merket	_IIú4úV_ArnM-031{131r,09}.01	ø	:	³m=m³e=Š³r=r³k=k³e=e³t=t³
+`d‰r @art	ùd‰r	#art	^ASn	~dazz	\d az	_IIú4úV_ArnM-031{131r,10}.02	ø	:	³d=d³a=a³z=zz³
+`glas @n	ùglas	#n	^AS	~glas	\gla$,,	_IIú4úV_ArnM-031{131r,10}.03	ø	:	³g=g³l=l³a=a³s=s³
+`d‰r @pron	ùd‰r	#pron	^NSn	~dazz	\d az	_IIú4úV_ArnM-031{131r,10}.04	ø	:	³d=d³a=a³z=zz³
+`mgen @anv	ùmgen	#anv	^3SGI	~mag	\mag	_IIú4úV_ArnM-031{131r,10}.05	ø	:	³m=m³a=a³g=g³
+`ir @pron	ùir	#pron	^AP	~iuch	\ug	_IIú4úV_ArnM-031{131r,10}.06	ø	:	³u=iu³g=ch³
+`lˆren @swv	ùlˆren	#swv i	^-	~lˆren	\leren.(!)	_IIú4úV_ArnM-031{131r,10}.07@	ø	:	³l=l³e=ˆ³r=r³e=e³n=n³
+`in @pr„p	ùin	#pr„p	^	~in	\*(I*)n|	_IIú4úV_ArnM-032{131r,10}.01	ø	:	³i=i³n=n³
+`d‰r @art	ùd‰r	#art	^DSf	~d‰r	\|d er	_IIú4úV_ArnM-032{131r,10}.02	ø	:	³d=d³e=‰³r=r³
+`buoch(e) @f	ùbuoch(e)	#f	^DS	~buoche	\bu\oche	_IIú4úV_ArnM-032{131r,11}.03	ø	:	³b=b³u\o=uo³ch=ch³e=e³
+`l‰sen @stv5	ùl‰sen	#stv5	^1PG	~l‰se<n>	\l<e$>e	_IIú4úV_ArnM-032{131r,11}.04	ø	:	³l=l³e=‰³s=s³e=e³=n³
+`wir @pron	ùwir	#pron	^NP	~wir	\wir.,,	_IIú4úV_ArnM-032{131r,11}.05@	ø	:	³w=w³i=i³r=r³
+`dazz @konj	ùdazz	#konj	^	~dazz	\daz	_IIú4úV_ArnM-033{131r,11}.01	ø	:	³d=d³a=a³z=zz³
+`Jesaias* @PN	ùIsaias	#PN	^NS	~Isaias	\y\'$aia$	_IIú4úV_ArnM-033{131r,11}.02	ø	:	*³y\'$aia$=Isaias³
+`von @pr„p	ùvon	#pr„p	^	~vane	\uane	_IIú4úV_ArnM-033{131r,11}.03	ø	:	³u=v³a=a³n=n³e=e³
+`d– @pron	ùd–	#pron	^DS	~dir	\dir.	_IIú4úV_ArnM-033{131r,11}.04@	ø	:	³d=d³i=i³r=r³
+`all-sus @adv	ùall-sus	#adv	^	~all-sus	\al$u$	_IIú4úV_ArnM-034{131r,12}.01	ø	:	³a=a³l=ll³=-³s=s³u=u³s=s³
+`haben @swv-a	ùhaben	#swv-a	^3SGI	~habet	\haue[t]	_IIú4úV_ArnM-034{131r,12}.02	ø	:	³h=h³a=a³u=b³e=e³[t]=t³
+`spr‰chen @stv4	ùspr‰chen	#stv4 pV	^-	~ge-sprochen	\ge$prochen .(;)	_IIú4úV_ArnM-034{131r,12}.03@	ø	:	³g=g³e=e³=-³s=s³p=p³r=r³o=o³ch=ch³e=e³n=n³
+`d‰r @art	ùd‰r	#art	^NPn	~diŠ	\d ie	_IIú4úV_ArnM-035{131r,12}.01	ø	:	³d=d³ie=iŠ³
+`wort @n	ùwort	#n	^NP	~wort	\wort,,	_IIú4úV_ArnM-035{131r,12}.02	ø	:	³w=w³o=o³r=r³t=t³
+`d‰r @pron	ùd‰r	#pron	^NPn	~diŠ	\d ie	_IIú4úV_ArnM-035{131r,12}.03	ø	:	³d=d³ie=iŠ³
+`sŒn @anv	ùsŒn	#anv	^3PGI	~sint	\$int	_IIú4úV_ArnM-035{131r,13}.04	ø	:	³s=s³i=i³n=n³t=t³
+`be-l–chen @stv2d	ùbe-l–chen	#stv2d pV	^-	~be-lochen	\belochen .(:)	_IIú4úV_ArnM-035{131r,13}.05@	ø	:/ù[?]	³b=b³e=e³=-³l=l³o=o³ch=ch³e=e³n=n³
+`–z @adv	ù–z	#adv	^	~–z	\*(V*)z	_IIú4úV_ArnM-036{131r,13}.01	ø	:	³v=–³z=z³
+`von @pr„p	ùvon	#pr„p	^	~van	\uan	_IIú4úV_ArnM-036{131r,13}.02	ø	:	³u=v³a=a³n=n³
+`J‰sse @PN	ùJ‰sse	#PN	^DS	~J‰sse	\ie$$e	_IIú4úV_ArnM-036{131r,13}.03	ø	:	*³i=j³e=‰³ss=ss³e=e³
+`sol(e)n @anv	ùsol(e)n	#anv	^3SGI	~sal	\$al	_IIú4úV_ArnM-036{131r,13}.04	ø	:	³s=s³a=a³l=l³
+`wahsen @stv6	ùwahsen	#stv6 i	^-	~wahsen	\wah$en	_IIú4úV_ArnM-036{131r,13}.05	ø	:	³w=w³a=a³h=h³s=s³e=e³n=n³
+`Šin @art	ùŠin	#art	^0NSf	~Šin	\ein	_IIú4úV_ArnM-036{131r,14}.06	ø	:	³ei=Ši³n=n³
+`ruote @f	ùruote	#f	^NS	~ruote	\rv\ode.,,	_IIú4úV_ArnM-036{131r,14}.07@	ø	:	³r=r³v\o=uo³d=t³e=e³
+`–fe @pr„p	ù–fe	#pr„p	^	~–fe	\uffe	_IIú4úV_ArnM-037{131r,14}.01	ø	:	³u=–³ff=f³e=e³
+`d‰r @art	ùd‰r	#art	^DSf	~d‰r	\d er	_IIú4úV_ArnM-037{131r,14}.02	ø	:	³d=d³e=‰³r=r³
+`ruote @f	ùruote	#f	^DS	~ruoten	\ru\oden	_IIú4úV_ArnM-037{131r,14}.03	ø	:	³r=r³u\o=uo³d=t³e=e³n=n³
+`sol(e)n @anv	ùsol(e)n	#anv	^3SGI	~sal	\$al	_IIú4úV_ArnM-037{131r,14}.04	ø	:	³s=s³a=a³l=l³
+`wahsen @stv6	ùwahsen	#stv6 i	^-	~wahsen	\wah$en	_IIú4úV_ArnM-037{131r,14}.05	ø	:	³w=w³a=a³h=h³s=s³e=e³n=n³
+`Šin @art	ùŠin	#art	^0ASmf	~Šin	\ein	_IIú4úV_ArnM-037{131r,15}.06	ø	:	³ei=Ši³n=n³
+`bluome @mf	ùbluome	#mf	^AS	~bluome	\blu\ome.,,	_IIú4úV_ArnM-037{131r,15}.07@	ø	:	³b=b³l=l³u\o=uo³m=m³e=e³
+`ane @pr„p	ùane	#pr„p	^	~an<e>	\an|	_IIú4úV_ArnM-038{131r,15}.01	ø	:	³a=a³n=n³=e³
+`d‰r @art	ùd‰r	#art	^DSf	~d‰r	\|d er	_IIú4úV_ArnM-038{131r,15}.02	ø	:	³d=d³e=‰³r=r³
+`bluome @mf	ùbluome	#f	^DS	~bluomen	\blu\omen	_IIú4úV_ArnM-038{131r,15}.03	ø	:	³b=b³l=l³u\o=uo³m=m³e=e³n=n³
+`sol(e)n @anv	ùsol(e)n	#anv	^3SGI	~sal	\$al	_IIú4úV_ArnM-038{131r,15}.04	ø	:	³s=s³a=a³l=l³
+`ge-ruowen @swv	ùge-ruowen	#swv i	^-	~ge-ruo<we>n	\gerv\on	_IIú4úV_ArnM-038{131r,15}.05	ø	:	³g=g³e=e³=-³r=r³v\o=uo³=we³n=n³
+`d‰r @art	ùd‰r	#art	^NSm	~d‰r	\d er	_IIú4úV_ArnM-038{131r,16}.06	ø	:	³d=d³e=‰³r=r³
+`hŠilig @adj	ùhŠilig	#adj	^NSmw	~hŠilige	\heilig e	_IIú4úV_ArnM-038{131r,16}.07	ø	:	³h=h³ei=Ši³l=l³i=i³g=g³e=e³
+`gŠist @m	ùgŠist	#m	^NS	~gŠist	\gei$t.,,	_IIú4úV_ArnM-038{131r,16}.08@	ø	:	³g=g³ei=Ši³s=s³t=t³
+`‰r @pron	ù‰r	#pron	^NSm	~h‰r	\her	_IIú4úV_ArnM-039{131r,16}.01	ø	:	³h=h³e=‰³r=r³
+`sol(e)n @anv	ùsol(e)n	#anv	^3SGI	~sal	\$al	_IIú4úV_ArnM-039{131r,16}.02	ø	:	³s=s³a=a³l=l³
+`‰r @pron	ù‰r	#pron	^ASf	~siŠ	\$ie	_IIú4úV_ArnM-039{131r,16}.03	ø	:/E[$ie: {sie} Maurer]	³s=s³ie=iŠ³
+`ge-stŠrken @swv	ùge-stŠrken	#swv i	^-	~ge-stŠrken	\ge$terken	_IIú4úV_ArnM-039{131r,16}.04	ø	:	³g=g³e=e³=-³s=s³t=t³e=Š³r=r³k=k³e=e³n=n³
+`mit @pr„p	ùmit	#pr„p	^	~mit	\bit	_IIú4úV_ArnM-039{131r,17}.05	ø	:	³b=m³i=i³t=t³
+`all @pron	ùall	#pron	^DP	~allen	\all en	_IIú4úV_ArnM-039{131r,17}.06	ø	:	³a=a³ll=ll³e=e³n=n³
+`sŒn @pron_poss	ùsŒn	#pron_poss	^DP	~sŒnen	\$in en	_IIú4úV_ArnM-039{131r,17}.07	ø	:	³s=s³i=Œ³n=n³e=e³n=n³
+`kraft @f<u>	ùkraft	#f<u>	^DP	~krŠften	\crefden.(.)	_IIú4úV_ArnM-039{131r,17}.08@	ø	:	³c=k³r=r³e=Š³f=f³d=t³e=e³n=n³
+`von @pr„p	ùvon	#pr„p	^	~van	\uan	_IIú4úV_ArnM-040{131r,17}.01	ø	:	³u=v³a=a³n=n³
+`‰r @pron	ù‰r	#pron	^DSm	~ime	\ime	_IIú4úV_ArnM-040{131r,17}.02	ø	:	³i=i³m=m³e=e³
+`sol(e)n @anv	ùsol(e)n	#anv	^3SGI	~sal	\$al	_IIú4úV_ArnM-040{131r,17}.03	ø	:	³s=s³a=a³l=l³
+`‰r @pron	ù‰r	#pron	^NSf	~siŠ	\$ie	_IIú4úV_ArnM-040{131r,17}.04	ø	:	³s=s³ie=iŠ³
+`d‰r @art	ùd‰r	#art	^ASf	~diu	\d u	_IIú4úV_ArnM-040{131r,18}.05	ø	:	³d=d³u=iu³
+`got @m	ùgot	#m	^GS	~gotes	\gode$	_IIú4úV_ArnM-040{131r,18}.06	ø	:	³g=g³o=o³d=t³e=e³s=s³
+`kraft @f<u>	ùkraft	#f<u>	^AS	~kraft	\craft	_IIú4úV_ArnM-040{131r,18}.07	ø	:	³c=k³r=r³a=a³f=f³t=t³
+`ent-vƒhen @stv7	ùent-vƒhen	#stv7 i	^-	~ent-vƒ<he>n	\entfan.,,	_IIú4úV_ArnM-040{131r,18}.08@	ø	:	³e=e³n=n³t=t³=-³f=v³a=ƒ³=he³n=n³
+`dƒr @adv	ùdƒr	#adv	^	~dƒ	\da	_IIú4úV_ArnM-041{131r,18}.01	ø	:	³d=d³a=ƒ³
+`mit(e) @adv	ùmit(e)	#adv	^	~mite	\mide	_IIú4úV_ArnM-041{131r,18}.02	ø	:	³m=m³i=i³d=t³e=e³
+`sol(e)n @anv	ùsol(e)n	#anv	^3SGI	~sal	\$al	_IIú4úV_ArnM-041{131r,18}.03	ø	:	³s=s³a=a³l=l³
+`‰r @pron	ù‰r	#pron	^NSf	~siŠ	\$ie	_IIú4úV_ArnM-041{131r,18}.04	ø	:	³s=s³ie=iŠ³
+`d‰r @art	ùd‰r	#art	^ASm	~d‰n	\d en	_IIú4úV_ArnM-041{131r,19}.05	ø	:	³d=d³e=‰³n=n³
+`vŒent @m	ùvŒent	#m	^AS	~vŒant	\uiant	_IIú4úV_ArnM-041{131r,19}.06	ø	:	³u=v³i=Œ³a=a³n=n³t=t³
+`er-slahen @stv6	ùer-slahen	#stv6 i	^-	~er-slƒ{ahe}n	\er$lan.(.)	_IIú4úV_ArnM-041{131r,19}.07@	ø	:	³e=e³r=r³=-³s=s³l=l³a=ƒ{ahe}³n=n³
+`mŠinen @swv	ùmŠinen	#swv	^3SGI	~mŠinet	\meinet	_IIú4úV_ArnM-042{131r,19}.01	ø	:	³m=m³ei=Ši³n=n³e=e³t=t³
+`d‰r @art	ùd‰r	#art	^NSf	~diu	\d u	_IIú4úV_ArnM-042{131r,19}.02	ø	:	³d=d³u=iu³
+`ruote @f	ùruote	#f	^NS	~ruote	\ru\ode	_IIú4úV_ArnM-042{131r,19}.03	ø	:	³r=r³u\o=uo³d=t³e=e³
+`d– @pron	ùd–	#pron	^AS	~dich	\dig,,	_IIú4úV_ArnM-042{131r,19}.04	ø	:	³d=d³i=i³g=ch³
+`hŠilig @adj	ùhŠilig	#adj	^0NSn"	~hŠilig	\heilig 	_IIú4úV_ArnM-042{131r,20}.05	ø	:	³h=h³ei=Ši³l=l³i=i³g=g³
+`magedŒn @n	ùmagedŒn	#n	^NS	~magedŒn	\m<e>gedin.,,	_IIú4úV_ArnM-042{131r,20}.06@	ø	:	³m=m³e=a³g=g³e=e³d=d³i=Œ³n=n³
+`be-diuten @swv	ùbe-diuten	#swv	^3SGI	~be-diutet	\be#dudet	_IIú4úV_ArnM-043{131r,20}.01	ø	:	³b=b³e=e³=-³d=d³u=iu³d=t³e=e³t=t³
+`d‰r @art	ùd‰r	#art	^NSf	~diu	\d u	_IIú4úV_ArnM-043{131r,20}.02	ø	:	³d=d³u=iu³
+`bluome @mf	ùbluome	#f	^NS	~bluome	\blu\ome	_IIú4úV_ArnM-043{131r,20}.03	ø	:	³b=b³l=l³u\o=uo³m=m³e=e³
+`dŒn @pron_poss	ùdŒn	#pron_poss	^0ASn	~dŒn	\din	_IIú4úV_ArnM-043{131r,21}.04	ø	:	³d=d³i=Œ³n=n³
+`tr–t @adj	ùtr–t	#adj	^0ASn	~tr–t	\drut 	_IIú4úV_ArnM-043{131r,21}.05	ø	:	³d=t³r=r³u=–³t=t³
+`kindelŒn @n	ùkindelŒn	#n	^AS	~kindelŒn	\kindelin.(.)	_IIú4úV_ArnM-043{131r,21}.06@	ø	:	³k=k³i=i³n=n³d=d³e=e³l=l³i=Œ³n=n³
+`ouch @adv/konj	ùouch	#adv	^	~ouch	\*(O*)ug	_IIú4úV_ArnM-044{131r,21}.01	ø	:	³ou=ou³g=ch³
+`sagen @swv-a	ùsagen	#swv-a	^3SGI	~saget	\$aget	_IIú4úV_ArnM-044{131r,21}.02	ø	:	³s=s³a=a³g=g³e=e³t=t³
+`wir @pron	ùwir	#pron	^DP	~uns	\un$	_IIú4úV_ArnM-044{131r,22}.03	ø	:	³u=u³n=n³s=s³
+`all-sus @adv	ùall-sus	#adv	^	~all-sus	\al$u$.	_IIú4úV_ArnM-044{131r,22}.04@	ø	:	³a=a³l=ll³=-³s=s³u=u³s=s³
+`d‰r @art	ùd‰r	#art	^NSf	~diu	\d u	_IIú4úV_ArnM-045{131r,22}.01	ø	:	³d=d³u=iu³
+`buoch(e) @f	ùbuoch(e)	#f	^NS	~buoch	\bu\och,,	_IIú4úV_ArnM-045{131r,22}.02	ø	:	³b=b³u\o=uo³ch=ch³
+`d‰r @pron	ùd‰r	#pron	^NSf+	~diu	\d u	_IIú4úV_ArnM-045{131r,22}.03	ø	:	³d=d³u=iu³
+`dƒr @adv	ùdƒr	#adv	^	~dƒr	\der	_IIú4úV_ArnM-045{131r,22}.04	ø	:	³d=d³e=ƒ³r=r³
+`hŠizen @stv7	ùhŠizen	#stv7	^3SGI	~hŠizet	\heizet	_IIú4úV_ArnM-045{131r,22}.05	ø	:	³h=h³ei=Ši³z=z³e=e³t=t³
+`[!] @[!]	ùExodus	#BN	^NS	~Exodus	\exo(=)du$!,,	_IIú4úV_ArnM-045{131r,22}.06@	ø	:	³e=e³x=x³o=o³d=d³u=u³s=s³
+`dazz @konj	ùdazz	#konj	^	~dazz	\daz	_IIú4úV_ArnM-046{131r,23}.01	ø	:	³d=d³a=a³z=zz³
+`Moyses* @PN	ùMoyses	#PN	^NS	~Moises	\moy\'$e$,	_IIú4úV_ArnM-046{131r,23}.02	ø	:	*³moy\'$e$=Moises³
+`Šin @art	ùŠin	#art	^0NSm	~Šin	\ein	_IIú4úV_ArnM-046{131r,23}.03	ø	:	³ei=Ši³n=n³
+`hŠilig @adj	ùhŠilig	#adj	^0NSm	~hŠilig	\heilig 	_IIú4úV_ArnM-046{131r,23}.04	ø	:	³h=h³ei=Ši³l=l³i=i³g=g³
+`mann @m	ùmann	#m	^NS	~mann	\man.,)	_IIú4úV_ArnM-046{131r,23}.05@	ø	:	³m=m³a=a³n=nn³
+`s‰hen @stv5	ùs‰hen	#stv5	^3SVI	~sah	\$ag	_IIú4úV_ArnM-047{131r,23}.01	ø	:	³s=s³a=a³g=h³
+`Šin @art	ùŠin	#art	^ASm	~Šinen	\ein en	_IIú4úV_ArnM-047{131v,01}.02	ø	:	³ei=Ši³n=n³e=e³n=n³
+`busch @m<(u)>	ùbusch	#m<(u)>	^AS	~busch	\bu$ch,,	_IIú4úV_ArnM-047{131v,01}.03	ø	:	³b=b³u=u³sch=sch³
+`d‰r @pron	ùd‰r	#pron	^NSm+	~dˆ	\d e	_IIú4úV_ArnM-047{131v,01}.04	ø	:	³d=d³e=ˆ³
+`dƒr @adv	ùdƒr	#adv	^	~dƒr	\der	_IIú4úV_ArnM-047{131v,01}.05	ø	:	³d=d³e=ƒ³r=r³
+`brinnen @stv3a	ùbrinnen	#stv3a	^3SVI	~bran	\bran.(.)	_IIú4úV_ArnM-047{131v,01}.06@	ø	:	³b=b³r=r³a=a³n=n³
+`d‰r @art	ùd‰r	#art	^ASm	~d‰n	\d en	_IIú4úV_ArnM-048{131v,01}.01	ø	:	³d=d³e=‰³n=n³
+`busch @m<(u)>	ùbusch	#m<(u)>	^AS	~busch	\bu$ch	_IIú4úV_ArnM-048{131v,01}.02	ø	:	³b=b³u=u³sch=sch³
+`d‰r @art	ùd‰r	#art	^NSf	~diu	\d u	_IIú4úV_ArnM-048{131v,01}.03	ø	:	³d=d³u=iu³
+`vlamme @mf	ùvlamme	#f	^NS	~vlamme	\flamme	_IIú4úV_ArnM-048{131v,02}.04	ø	:	³f=v³l=l³a=a³mm=mm³e=e³
+`be-vƒhen @stv7	ùbe-vƒhen	#stv7	^3SVI	~be-viŠng	\beuienc.,,	_IIú4úV_ArnM-048{131v,02}.05@	ø	:	³b=b³e=e³=-³u=v³ie=iŠ³n=n³c=g³
+`iŠ-doh @adv/konj	ùiŠ-doh	#adv	^	~iŠ-doh	\ie#doch	_IIú4úV_ArnM-049{131v,02}.01	ø	:	³ie=iŠ³=-³d=d³o=o³ch=h³
+`‰r @pron	ù‰r	#pron	^NSm	~h‰r	\her	_IIú4úV_ArnM-049{131v,02}.02	ø	:	³h=h³e=‰³r=r³
+`niht @adv	ùniht	#adv	^	~niŠt	\niet	_IIú4úV_ArnM-049{131v,02}.03	ø	:	³n=n³ie=iŠ³t=t³
+`ne @partikel	ùne	#partikel	^	~ne	\ne	_IIú4úV_ArnM-049{131v,02}.04	ø	:	³n=n³e=e³
+`zer-gƒn @anv	ùzer-gƒn	#anv	^3SVI	~ze<r>-giŠng	\cegienc.(.)	_IIú4úV_ArnM-049{131v,03}.05@	ø	:	³c=z³e=e³=r³=-³g=g³ie=iŠ³n=n³c=g³
+`‰r @pron	ù‰r	#pron	^NSm	~h‰r	\her	_IIú4úV_ArnM-050{131v,03}.01	ø	:	³h=h³e=‰³r=r³
+`brinnen @stv3a	ùbrinnen	#stv3a	^3SVI	~bran	\bran	_IIú4úV_ArnM-050{131v,03}.02	ø	:	³b=b³r=r³a=a³n=n³
+`unte @konj	ùunte	#konj	^	~unte	\unde	_IIú4úV_ArnM-050{131v,03}.03	ø	:	³u=u³n=n³d=t³e=e³
+`louben @swv	ùlouben	#swv	^3SV	~loubete	\louvede.,,	_IIú4úV_ArnM-050{131v,03}.04@	ø	:	³l=l³ou=ou³v=b³e=e³d=t³e=e³
+`d‰r @art	ùd‰r	#art	^NSn	~dazz	\d az	_IIú4úV_ArnM-051{131v,03}.01	ø	:	³d=d³a=a³z=zz³
+`viur @n	ùviur	#n	^NS	~viur	\fur	_IIú4úV_ArnM-051{131v,04}.02	ø	:	³f=v³u=iu³r=r³
+`‰r @pron	ù‰r	#pron	^DSm	~ime	\ime	_IIú4úV_ArnM-051{131v,04}.03	ø	:	³i=i³m=m³e=e³
+`niŠne @adv	ùniŠne	#adv	^	~niŠne	\nine	_IIú4úV_ArnM-051{131v,04}.04	ø	:	³n=n³i=iŠ³n=n³e=e³
+`schaden @swv	ùschaden	#swv	^3SV	~schadete	\$cadede.(.)	_IIú4úV_ArnM-051{131v,04}.05@	ø	:	³sc=sch³a=a³d=d³e=e³d=t³e=e³
+`schŒnen @stv1a	ùschŒnen	#stv1a	^3SVI	~schŠin	\*(S*)ehein	_IIú4úV_ArnM-052{131v,04}.01	ø	:/E[*(S*)ehein: {Schein} Maurer]/~[!]	³seh=sch³ei=Ši³n=n³
+`von @pr„p	ùvon	#pr„p	^	~van	\uan	_IIú4úV_ArnM-052{131v,04}.02	ø	:	³u=v³a=a³n=n³
+`d‰r @art	ùd‰r	#art	^DSm	~d‰me	\d eme	_IIú4úV_ArnM-052{131v,05}.03	ø	:	³d=d³e=‰³m=m³e=e³
+`busch @m<(u)>	ùbusch	#m<(u)>	^DS	~busche	\bu$che	_IIú4úV_ArnM-052{131v,05}.04	ø	:	³b=b³u=u³sch=sch³e=e³
+`d‰r @art	ùd‰r	#art	^NSn	~dazz	\d az	_IIú4úV_ArnM-052{131v,05}.05	ø	:	³d=d³a=a³z=zz³
+`viur @n	ùviur	#n	^NS	~viur	\fur.,,	_IIú4úV_ArnM-052{131v,05}.06@	ø	:	³f=v³u=iu³r=r³
+`d‰r @pron	ùd‰r	#pron	^NSn	~dazz	\d az	_IIú4úV_ArnM-053{131v,05}.01	ø	:	³d=d³a=a³z=zz³
+`mŠinen @swv	ùmŠinen	#swv	^3SVI	~mŠinete	\meinede,,	_IIú4úV_ArnM-053{131v,05}.02	ø	:	³m=m³ei=Ši³n=n³e=e³d=t³e=e³
+`dazz @konj	ùdazz	#konj	^	~dazz	\daz	_IIú4úV_ArnM-053{131v,05}.03	ø	:	³d=d³a=a³z=zz³
+`von @pr„p	ùvon	#pr„p	^	~vane	\uane	_IIú4úV_ArnM-053{131v,06}.04	ø	:	³u=v³a=a³n=n³e=e³
+`d– @pron	ùd–	#pron	^DS	~dir	\dir.	_IIú4úV_ArnM-053{131v,06}.05@	ø	:	³d=d³i=i³r=r³
+`got @m	ùgot	#m	^NS	~got	\got	_IIú4úV_ArnM-054{131v,06}.01	ø	:	³g=g³o=o³t=t³
+`hiŠr @adv	ùhiŠr	#adv	^	~hiŠ<r>	\hie	_IIú4úV_ArnM-054{131v,06}.02	ø	:	³h=h³ie=iŠ³=r³
+`in @pr„p	ùin	#pr„p	^	~in	\in|	_IIú4úV_ArnM-054{131v,06}.03	ø	:	³i=i³n=n³
+`‰rde @f	ù‰rde	#f	^DS	~‰rden	\|erden.	_IIú4úV_ArnM-054{131v,06}.04@	ø	:	³e=‰³r=r³d=d³e=e³n=n³
+`er-barwen @swv	ùer-barwen	#swv pV	^-	~er-barwet	\erberwet 	_IIú4úV_ArnM-055{131v,06}.01	ø	:	³e=e³r=r³=-³b=b³e=a³r=r³w=w³e=e³t=t³
+`sol(e)n @anv	ùsol(e)n	#anv	^3SV	~solte	\$olde	_IIú4úV_ArnM-055{131v,07}.02	ø	:	³s=s³o=o³l=l³d=t³e=e³
+`w‰rden @stv3b	ùw‰rden	#stv3b i	^-	~w‰rden	\werden.(.)	_IIú4úV_ArnM-055{131v,07}.03@	ø	:	³w=w³e=‰³r=r³d=d³e=e³n=n³
+`gruonen @swv	ùgruonen	#swv	^3SVI	~gruonete	\gru\onede	_IIú4úV_ArnM-056{131v,07}.01	ø	:	³g=g³r=r³u\o=uo³n=n³e=e³d=t³e=e³
+`d‰r @art	ùd‰r	#art	^NSn	~dazz	\d az	_IIú4úV_ArnM-056{131v,07}.02	ø	:	³d=d³a=a³z=zz³
+`loub @n	ùloub	#n	^NS	~loub	\lo\vf	_IIú4úV_ArnM-056{131v,07}.03	ø	:	³l=l³o\v=ou³f=b³
+`in @pr„p	ùin	#pr„p	^	~in	\in|	_IIú4úV_ArnM-056{131v,07}.04	ø	:	³i=i³n=n³
+`d‰r @art	ùd‰r	#art	^DSn	~d‰me	\|d eme	_IIú4úV_ArnM-056{131v,07}.05	ø	:	³d=d³e=‰³m=m³e=e³
+`viur @n	ùviur	#n	^DS	~viure	\fure.,,	_IIú4úV_ArnM-056{131v,08}.06@	ø	:	³f=v³u=iu³r=r³e=e³
+`blŠjen @swv	ùblŠjen	#swv	^3SV	~bluote	\blu\ode	_IIú4úV_ArnM-057{131v,08}.01	ø	:	³b=b³l=l³u\o=uo³d=t³e=e³
+`dƒr @adv	ùdƒr	#adv	^	~dƒr	\der	_IIú4úV_ArnM-057{131v,08}.02	ø	:	³d=d³e=ƒ³r=r³
+`dŒn @pron_poss	ùdŒn	#pron_poss	^0NSm	~dŒn	\din	_IIú4úV_ArnM-057{131v,08}.03	ø	:	³d=d³i=Œ³n=n³
+`maged-tuom @mfn	ùmaged-tuom	#m	^NS	~mage<d>-tuom	\magedu\om	_IIú4úV_ArnM-057{131v,08}.04	ø	:	³m=m³a=a³g=g³e=e³=d³=-³d=t³u\o=uo³m=m³
+`in @pr„p	ùin	#pr„p	^	~in	\in|	_IIú4úV_ArnM-057{131v,08}.05	ø	:	³i=i³n=n³
+`d‰r @art	ùd‰r	#art	^DSf	~d‰r	\|d er	_IIú4úV_ArnM-057{131v,08}.06	ø	:	³d=d³e=‰³r=r³
+`ge-burt @f<u>	ùge-burt	#f<u>	^DS	~ge-brte	\geburte.(.)	_IIú4úV_ArnM-057{131v,09}.07@	ø	:	³g=g³e=e³=-³b=b³u=³r=r³t=t³e=e³
+`d‰r @art	ùd‰r	#art	^NSm	~d‰r	\d er	_IIú4úV_ArnM-058{131v,09}.01	ø	:	³d=d³e=‰³r=r³
+`busch @m<(u)>	ùbusch	#m<(u)>	^NS	~busch	\bu$ch	_IIú4úV_ArnM-058{131v,09}.02	ø	:	³b=b³u=u³sch=sch³
+`be-halten @stv7	ùbe-halten	#stv7	^3SVI	~be-hiŠlt	\behielt	_IIú4úV_ArnM-058{131v,09}.03	ø	:	³b=b³e=e³=-³h=h³ie=iŠ³l=l³t=t³
+`d‰r @art	ùd‰r	#art	^ASf	~diu	\d u|	_IIú4úV_ArnM-058{131v,09}.04	ø	:	³d=d³u=iu³
+`sŒn @pron_poss	ùsŒn	#pron_poss	^ASf!	~sŒne	\|$in e	_IIú4úV_ArnM-058{131v,09}.05	ø	:	³s=s³i=Œ³n=n³e=e³
+`schoŠnig-hŠit @f	ùschoŠnig-hŠit	#f	^AS	~schoŠnig-<h>Šit	\$co=necheit.,,	_IIú4úV_ArnM-058{131v,09}.06@	ø	:	³sc=sch³o=oŠ³n=n³e=i³ch=g³=-³=h³ei=Ši³t=t³
+`s“ @adv/konj	ùs“	#adv	^	~s“	\$o	_IIú4úV_ArnM-059{131v,10}.01	ø	:/E[$o: {so} Maurer]	³s=s³o=“³
+`tuon @anv	ùtuon	#anv	^3SVI	~t‰te	\dede	_IIú4úV_ArnM-059{131v,10}.02	ø	:	³d=t³e=‰³d=t³e=e³
+`dŒn @pron_poss	ùdŒn	#pron_poss	^0NSm	~dŒn	\din	_IIú4úV_ArnM-059{131v,10}.03	ø	:	³d=d³i=Œ³n=n³
+`hŠilig @adj	ùhŠilig	#adj	^0NSm	~hŠilig	\heilig 	_IIú4úV_ArnM-059{131v,10}.04	ø	:	³h=h³ei=Ši³l=l³i=i³g=g³
+`lŒb @mn	ùlŒb	#m	^NS	~lŒb	\lif	_IIú4úV_ArnM-059{131v,10}.05	ø	:	³l=l³i=Œ³f=b³
+`d‰r @art	ùd‰r	#art	^ASf	~diu	\d u	_IIú4úV_ArnM-059{131v,10}.06	ø	:	³d=d³u=iu³
+`sŒn @pron_poss	ùsŒn	#pron_poss	^ASf!	~sŒne	\$in e	_IIú4úV_ArnM-059{131v,10}.07	ø	:	³s=s³i=Œ³n=n³e=e³
+`rŠinig-hŠit @f	ùrŠinig-hŠit	#f	^AS	~rŠinig-<h>Šit	\reinicheit.(.)	_IIú4úV_ArnM-059{131v,11}.08@	ø	:	³r=r³ei=Ši³n=n³i=i³ch=g³=-³=h³ei=Ši³t=t³
+`dŒn @pron_poss	ùdŒn	#pron_poss	^GSm	~dŒnes	\*(D*)in e$	_IIú4úV_ArnM-060{131v,11}.01	ø	:	³d=d³i=Œ³n=n³e=e³s=s³
+`maged-tuom @mfn	ùmaged-tuom	#m	^GS	~mage<d>-tuomes	\magedu\ome$	_IIú4úV_ArnM-060{131v,11}.02	ø	:	³m=m³a=a³g=g³e=e³=d³=-³d=t³u\o=uo³m=m³e=e³s=s³
+`bluome @mf	ùbluome	#mf	^NS	~bluome	\blu\o=me	_IIú4úV_ArnM-060{131v,11}.03	ø	:	³b=b³l=l³u\o=uo³m=m³e=e³
+`gruonen @swv	ùgruonen	#swv	^3SGI	~gruonet	\grunet	_IIú4úV_ArnM-060{131v,12}.04	ø	:	³g=g³r=r³u=uo³n=n³e=e³t=t³
+`iŠ-noh @adv	ùiŠ-noh	#adv	^	~iŠ-noh	\ie#nog.(.)	_IIú4úV_ArnM-060{131v,12}.05@	ø	:	³ie=iŠ³=-³n=n³o=o³g=h³
+`d– @pron	ùd–	#pron	^NS	~d–	\du	_IIú4úV_ArnM-061{131v,12}.01	ø	:	³d=d³u=–³
+`hŠizen @stv7	ùhŠizen	#stv7	^2SGI	~hŠizes	\heize$	_IIú4úV_ArnM-061{131v,12}.02	ø	:	³h=h³ei=Ši³z=z³e=e³s=s³
+`unte @konj	ùunte	#konj	^	~inte	\inde	_IIú4úV_ArnM-061{131v,12}.03	ø	:	³i=i³n=n³d=t³e=e³
+`sŒn @anv	ùsŒn	#anv	^2SGI	~bis	\bi$	_IIú4úV_ArnM-061{131v,12}.04	ø	:	³b=b³i=i³s=s³
+`muoter @f<(u)>	ùmuoter	#f<(u)>	^NS	~muoter	\mu\oder	_IIú4úV_ArnM-061{131v,13}.05	ø	:	³m=m³u\o=uo³d=t³e=e³r=r³
+`iŠ-doh @adv/konj	ùiŠ-doh	#adv	^	~iŠ-doh	\iedog!(.)	_IIú4úV_ArnM-061{131v,13}.06@	ø	:	³ie=iŠ³=-³d=d³o=o³g=h³
+`d‰r @pron	ùd‰r	#pron	^NSn	~dazz	\d az	_IIú4úV_ArnM-062{131v,13}.01	ø	:	³d=d³a=a³z=zz³
+`sŒn @anv	ùsŒn	#anv	^3SGI	~is	\i$	_IIú4úV_ArnM-062{131v,13}.02	ø	:	³i=i³s=s³
+`d‰r @art	ùd‰r	#art	^NSn	~dazz	\d az	_IIú4úV_ArnM-062{131v,13}.03	ø	:	³d=d³a=a³z=zz³
+`wunter @n	ùwunter	#n	^NS	~wunter	\wunder,,	_IIú4úV_ArnM-062{131v,13}.04	ø	:	³w=w³u=u³n=n³d=t³e=e³r=r³
+`d‰r @pron	ùd‰r	#pron	^NSn+	~dazz	\d az	_IIú4úV_ArnM-062{131v,13}.05	ø	:	³d=d³a=a³z=zz³
+`niŠne @adv	ùniŠne	#adv	^	~niŠne	\niene	_IIú4úV_ArnM-062{131v,14}.06	ø	:	³n=n³ie=iŠ³n=n³e=e³
+`ge-sch‰hen @stv5	ùge-sch‰hen	#stv5	^3SVI	~ge-schah	\ge$cag.,,	_IIú4úV_ArnM-062{131v,14}.07@	ø	:	³g=g³e=e³=-³sc=sch³a=a³g=h³
+`d‰r @pron	ùd‰r	#pron	^ASn+	~dazz	\d az	_IIú4úV_ArnM-063{131v,14}.01	ø	:	³d=d³a=a³z=zz³
+`niŠ @adv	ùniŠ	#adv	^	~niŠ	\nie	_IIú4úV_ArnM-063{131v,14}.02	ø	:	³n=n³ie=iŠ³
+`“re @n	ù“re	#n	^NS	~“re	\ore	_IIú4úV_ArnM-063{131v,14}.03	ø	:	³o=“³r=r³e=e³
+`ne @partikel	ùne	#partikel	^	~ne	\ne|	_IIú4úV_ArnM-063{131v,14}.04	ø	:	³n=n³e=e³
+`ge-hoŠren @swv	ùge-hoŠren	#swv	^3SV	~ge-h“rte	\|gehorde.	_IIú4úV_ArnM-063{131v,14}.05	ø	:	³g=g³e=e³=-³h=h³o=“³r=r³d=t³e=e³
+`noh @adv/konj	ùnoh	#konj	^	~noh	\nog	_IIú4úV_ArnM-063{131v,15}.06	ø	:	³n=n³o=o³g=h³
+`ouge @n	ùouge	#n	^NS	~ouge	\ouge	_IIú4úV_ArnM-063{131v,15}.07	ø	:	³ou=ou³g=g³e=e³
+`ne @partikel	ùne	#partikel	^	~ne	\ne	_IIú4úV_ArnM-063{131v,15}.08	ø	:	³n=n³e=e³
+`ge-s‰hen @stv5	ùge-s‰hen	#stv5	^3SVI	~ge-sah	\ge$ag.(.)	_IIú4úV_ArnM-063{131v,15}.09@	ø	:	³g=g³e=e³=-³s=s³a=a³g=h³
+`ouch @adv/konj	ùouch	#adv	^	~ouch	\*(O*)ug	_IIú4úV_ArnM-064{131v,15}.01	ø	:	³ou=ou³g=ch³
+`be-zŠichenen @swv	ùbe-zŠichenen	#swv	^3SVI	~be-zŠichen(e)te	\becechene=de	_IIú4úV_ArnM-064{131v,15}.02	ø	:	³b=b³e=e³=-³c=z³e=Ši³ch=ch³e=e³n=n³e=e³d=t³e=e³
+`d– @pron	ùd–	#pron	^AS	~dich	\dich	_IIú4úV_ArnM-064{131v,16}.03@	ø	:	³d=d³i=i³ch=ch³
+`wŒlen(t) @adv	ùwŒlen(t)	#adv	^	~wŒlen<t>	\wilen	_IIú4úV_ArnM-065{131v,16}.01	ø	:	³w=w³i=Œ³l=l³e=e³n=n³=t³
+`d‰r @art	ùd‰r	#art	^GSPmf	~dˆ	\d e	_IIú4úV_ArnM-065{131v,16}.02	ø	:	³d=d³e=ˆ³
+`mandel(e) @mf	ùmandel(e)	#mf	^GSP	~mandel(e)n	\mandelen	_IIú4úV_ArnM-065{131v,16}.03	ø	:	³m=m³a=a³n=n³d=d³e=e³l=l³e=e³n=n³
+`zwŒg @mn	ùzwŒg	#mn	^NS	~zwŒg	\zu¡g.,,	_IIú4úV_ArnM-065{131v,16}.04@	ø	:	³z=z³u=w³¡=Œ³g=g³
+`d‰r @pron	ùd‰r	#pron	^NSm+	~dˆ	\d e	_IIú4úV_ArnM-066{131v,16}.01	ø	:	³d=d³e=ˆ³
+`vor(e) @pr„p	ùvor(e)	#pr„p	^	~vor(e)	\uore	_IIú4úV_ArnM-066{131v,17}.02	ø	:	³u=v³o=o³r=r³e=e³
+`got @m	ùgot	#m	^DS	~gote	\gode	_IIú4úV_ArnM-066{131v,17}.03	ø	:	³g=g³o=o³d=t³e=e³
+`blŠjen @swv	ùblŠjen	#swv	^3SV	~bluote	\blu\ode.(.)	_IIú4úV_ArnM-066{131v,17}.04@	ø	:	³b=b³l=l³u\o=uo³d=t³e=e³
+`d‰r @pron	ùd‰r	#pron	^NSn	~dazz	\d az	_IIú4úV_ArnM-067{131v,17}.01	ø	:	³d=d³a=a³z=zz³
+`w‰sen @stv5	ùw‰sen	#stv5	^3SVI	~was	\wa$	_IIú4úV_ArnM-067{131v,17}.02	ø	:	³w=w³a=a³s=s³
+`Aaron @PN	ùAaron	#PN	^GS	~Aarones	\  rone$	_IIú4úV_ArnM-067{131v,17}.03	ø	:	*³ =a³ =a³r=r³o=o³n=n³e=e³s=s³
+`ruote @f	ùruote	#f	^NS	~ruote	\ru\ode.,,	_IIú4úV_ArnM-067{131v,18}.04@	ø	:	³r=r³u\o=uo³d=t³e=e³
+`d‰r @pron	ùd‰r	#pron	^NSf+	~dˆ	\d e	_IIú4úV_ArnM-068{131v,18}.01	ø	:	³d=d³e=ˆ³
+`same(n)t @adv	ùsame(n)t	#adv	^	~sament	\$ament	_IIú4úV_ArnM-068{131v,18}.02	ø	:	³s=s³a=a³m=m³e=e³n=n³t=t³
+`mit @pr„p	ùmit	#pr„p	^	~mit	\bit	_IIú4úV_ArnM-068{131v,18}.03	ø	:	³b=m³i=i³t=t³
+`d‰r @art	ùd‰r	#art	^DP	~d‰n	\d en	_IIú4úV_ArnM-068{131v,18}.04	ø	:	³d=d³e=‰³n=n³
+`bluome @mf	ùbluome	#mf	^DP	~bluomen	\blumen	_IIú4úV_ArnM-068{131v,18}.05@	ø	:	³b=b³l=l³u=uo³m=m³e=e³n=n³
+`er-ougenen @swv	ùer-ougenen	#swv	^3SV	~er-ou<ge>n(e)te	\erou=nede	_IIú4úV_ArnM-069{131v,18}.01	ø	:	³e=e³r=r³=-³ou=ou³=ge³n=n³e=e³d=t³e=e³
+`d‰r @art	ùd‰r	#art	^APmf	~diŠ	\d ie	_IIú4úV_ArnM-069{131v,19}.02	ø	:	³d=d³ie=iŠ³
+`mandel(e) @mf	ùmandel(e)	#mf	^AP	~mandel(e)n	\mandelen.(.)	_IIú4úV_ArnM-069{131v,19}.03@	ø	:	³m=m³a=a³n=n³d=d³e=e³l=l³e=e³n=n³
+`d‰r @art	ùd‰r	#art	^NSf	~diu	\*(D*) u	_IIú4úV_ArnM-070{131v,19}.01	ø	:	³d=d³u=iu³
+`pforze @f	ùpforze	#f	^NS	~pforze	\porce	_IIú4úV_ArnM-070{131v,19}.02	ø	:	³p=pf³o=o³r=r³c=z³e=e³
+`be-slozzen @adj_part	ùbe-slozzen	#adj_part	^0NSfwø	~be-slozzen	\be$loz=zen ,	_IIú4úV_ArnM-070{131v,19}.03@	ø	:	³b=b³e=e³=-³s=s³l=l³o=o³zz=zz³e=e³n=n³
+`got @m	ùgot	#m	^DS	~gote	\gode	_IIú4úV_ArnM-071{131v,20}.01	ø	:	³g=g³o=o³d=t³e=e³
+`all-Šin(e) @adj	ùall-Šin(e)	#adj	^DSm=	~all-Šineme	\allein e me	_IIú4úV_ArnM-071{131v,20}.02	ø	:	³a=a³ll=ll³=-³ei=Ši³n=n³e=e³m=m³e=e³
+`offen @adj	ùoffen	#adj	^NSfwø	~offene	\offen e.,,	_IIú4úV_ArnM-071{131v,20}.03@	ø	:	³o=o³ff=ff³e=e³n=n³e=e³
+`d‰r @pron	ùd‰r	#pron	^NSf+	~diu	\d u	_IIú4úV_ArnM-072{131v,20}.01	ø	:	³d=d³u=iu³
+`Ezechiel @PN	ùEzechiel	#PN	^DS	~EzechielŒ	\ezechi(=)eli	_IIú4úV_ArnM-072{131v,20}.02	ø	:	*³e=e³z=z³e=e³ch=ch³i=i³e=e³l=l³i=Œ³
+`er-schŒnen @stv1a	ùer-schŒnen	#stv1a	^3SVI	~er-schŠin	\er$chein.,,	_IIú4úV_ArnM-072{131v,21}.03@	ø	:	³e=e³r=r³=-³sch=sch³ei=Ši³n=n³
+`‰r @pron	ù‰r	#pron	^NSf	~si	\$i	_IIú4úV_ArnM-073{131v,21}.01	ø	:	³s=s³i=i³
+`w‰sen @stv5	ùw‰sen	#stv5	^3SVI	~was	\wa$	_IIú4úV_ArnM-073{131v,21}.02	ø	:	³w=w³a=a³s=s³
+`ouch @adv/konj	ùouch	#adv	^	~ouch	\oug	_IIú4úV_ArnM-073{131v,21}.03	ø	:	³ou=ou³g=ch³
+`dŒn @pron_poss	ùdŒn	#pron_poss	^GPn	~dŒner	\din er	_IIú4úV_ArnM-073{131v,21}.04	ø	:	³d=d³i=Œ³n=n³e=e³r=r³
+`zŠichen @n	ùzŠichen	#n	^GP	~zŠichen<e>	\ceichen	_IIú4úV_ArnM-073{131v,21}.05	ø	:	³c=z³ei=Ši³ch=ch³e=e³n=n³=e³
+`Šin @num	ùŠin	#num	^0NSn%	~Šin	\ein.(.)	_IIú4úV_ArnM-073{131v,22}.06@	ø	:	³ei=Ši³n=n³
+`man @pron_subst	ùman	#pron_subst	^NS	~man	\*(M*)an	_IIú4úV_ArnM-074{131v,22}.01	ø	:	³m=m³a=a³n=n³
+`l‰sen @stv5	ùl‰sen	#stv5	^3SGI	~liset	\li$et	_IIú4úV_ArnM-074{131v,22}.02	ø	:	³l=l³i=i³s=s³e=e³t=t³
+`ouch @adv/konj	ùouch	#adv	^	~ouch	\oug	_IIú4úV_ArnM-074{131v,22}.03	ø	:	³ou=ou³g=ch³
+`ander @pron	ùander	#pron	^0ASn	~ander	\ander.	_IIú4úV_ArnM-074{131v,22}.04@	ø	:	³a=a³n=n³d=d³e=e³r=r³
+`vil(e) @adv	ùvil(e)	#adv	^	~vil<e>	\uil	_IIú4úV_ArnM-075{131v,22}.01	ø	:	³u=v³i=i³l=l³=e³
+`manig @pron	ùmanig	#pron	^0ASn	~manig	\manig	_IIú4úV_ArnM-075{131v,22}.02	ø	:	³m=m³a=a³n=n³i=i³g=g³
+`wunter @n	ùwunter	#n	^AS	~wunter	\wunder.,,	_IIú4úV_ArnM-075{131v,23}.03@	ø	:	³w=w³u=u³n=n³d=t³e=e³r=r³
+`dƒr @adv	ùdƒr	#adv	^	~dƒ	\da|	_IIú4úV_ArnM-076{131v,23}.01	ø	:	³d=d³a=ƒ³
+`mit(e) @adv	ùmit(e)	#adv	^	~mite	\|mide	_IIú4úV_ArnM-076{131v,23}.02	ø	:	³m=m³i=i³d=t³e=e³
+`dŒn @pron_poss	ùdŒn	#pron_poss	^0ASf	~dŒn	\din	_IIú4úV_ArnM-076{131v,23}.03	ø	:	³d=d³i=Œ³n=n³
+`ge-burt @f<u>	ùge-burt	#f<u>	^AS	~ge-burt	\geburd	_IIú4úV_ArnM-076{131v,23}.04@	ø	:	³g=g³e=e³=-³b=b³u=u³r=r³d=t³
+`wŒlen(t) @adv	ùwŒlen(t)	#adv	^	~wŒlen<t>	\wilen.	_IIú4úV_ArnM-077{131v,23}.01	ø	:	³w=w³i=Œ³l=l³e=e³n=n³=t³
+`vor(e) @adv	ùvor(e)/>+knden	#adv	^	~vor(e)	\uore*1	_IIú4úV_ArnM-077{132r,01}.02	ø	:	³u=v³o=o³r=r³e=e³
+`knden @swv	ùknden/vor(e)>+	#swv pV	^-	~ge-kndet	\gekundet *2	_IIú4úV_ArnM-077{132r,01}.03	ø	:	³g=g³e=e³=-³k=k³u=³n=n³d=d³e=e³t=t³
+`w‰rden @stv3b	ùw‰rden	#stv3b	^3SVI	~ward	\ward.(.)	_IIú4úV_ArnM-077{132r,01}.04@	ø	:	³w=w³a=a³r=r³d=d³
+`haben @swv-a	ùhaben	#swv-a	^1SVK	~hŠtt<e>	\*(H*)ed	_IIú4úV_ArnM-078{132r,01}.01	ø	:	³h=h³e=Š³d=tt³=e³
+`ich @pron	ùich	#pron	^NS	~ich	\ich	_IIú4úV_ArnM-078{132r,01}.02	ø	:	³i=i³ch=ch³
+`t–sent @num	ùt–sent	#num	^0APm	~t–sent	\du$ent	_IIú4úV_ArnM-078{132r,01}.03	ø	:	³d=t³u=–³s=s³e=e³n=n³t=t³
+`mund @m<(u)>	ùmund	#m<(u)>	^AP	~munde	\munde.,,	_IIú4úV_ArnM-078{132r,02}.04@	ø	:	³m=m³u=u³n=n³d=d³e=e³
+`ge-sagen @swv-a	ùge-sagen	#swv-a i	^-	~ge-sagen	\ge$agen	_IIú4úV_ArnM-079{132r,02}.01	ø	:	³g=g³e=e³=-³s=s³a=a³g=g³e=e³n=n³
+`ich @pron	ùich	#pron	^NS	~ich	\ich	_IIú4úV_ArnM-079{132r,02}.02	ø	:	³i=i³ch=ch³
+`niŠne @adv	ùniŠne	#adv	^	~niŠne	\niene	_IIú4úV_ArnM-079{132r,02}.03	ø	:	³n=n³ie=iŠ³n=n³e=e³
+`kunnen @anv	ùkunnen	#anv	^1SVK	~kunde	\kunde.	_IIú4úV_ArnM-079{132r,02}.04@	ø	:	³k=k³u=u³n=n³d=d³e=e³
+`en-vollen @adv	ùen-vollen	#adv	^	~en-vollen	\en(=)uollen	_IIú4úV_ArnM-080{132r,02}.01	ø	:	³e=e³n=n³=-³u=v³o=o³ll=ll³e=e³n=n³
+`d‰r @art	ùd‰r	#art	^GSn	~d‰s	\d e$	_IIú4úV_ArnM-080{132r,03}.02	ø	:	³d=d³e=‰³s=s³
+`wunter @n	ùwunter	#n	^GS	~wunter(e)s	\wundere$.,,	_IIú4úV_ArnM-080{132r,03}.03@	ø	:	³w=w³u=u³n=n³d=t³e=e³r=r³e=e³s=s³
+`d‰r @pron	ùd‰r	#pron	^NSn+	~dazz	\d az	_IIú4úV_ArnM-081{132r,03}.01	ø	:	³d=d³a=a³z=zz³
+`von @pr„p	ùvon	#pr„p	^	~van	\uan	_IIú4úV_ArnM-081{132r,03}.02	ø	:	³u=v³a=a³n=n³
+`d– @pron	ùd–	#pron	^DS	~dir	\dir	_IIú4úV_ArnM-081{132r,03}.03	ø	:	³d=d³i=i³r=r³
+`schrŒben @stv1a	ùschrŒben	#stv1a pV	^-	~ge-schriben	\ge(=)$criuen 	_IIú4úV_ArnM-081{132r,03}.04	ø	:	³g=g³e=e³=-³sc=sch³r=r³i=i³u=b³e=e³n=n³
+`sŒn @anv	ùsŒn	#anv	^3SGI	~is	\i$.(.)	_IIú4úV_ArnM-081{132r,04}.05@	ø	:	³i=i³s=s³
+`‰r @pron	ù‰r	#pron	^NSn	~izz	\iz	_IIú4úV_ArnM-082{132r,04}.01	ø	:	³i=i³z=zz³
+`ne @partikel	ùne	#partikel	^	~ne	\ne	_IIú4úV_ArnM-082{132r,04}.02	ø	:	³n=n³e=e³
+`mgen @anv	ùmgen	#anv	^3PG	~mgen	\mogen	_IIú4úV_ArnM-082{132r,04}.03	ø	:	³m=m³o=³g=g³e=e³n=n³
+`all @pron	ùall	#pron	^NPf	~alle	\all e	_IIú4úV_ArnM-082{132r,04}.04	ø	:	³a=a³ll=ll³e=e³
+`zunge @f	ùzunge	#f	^NP	~zungen	\zungen	_IIú4úV_ArnM-082{132r,04}.05@	ø	:	³z=z³u=u³n=n³g=g³e=e³n=n³
+`ge-sagen @swv-a	ùge-sagen	#swv-a i	^-	~ge-sagen	\ge$agen.	_IIú4úV_ArnM-083{132r,05}.01	ø	:	³g=g³e=e³=-³s=s³a=a³g=g³e=e³n=n³
+`noh @adv/konj	ùnoh	#konj	^	~noh	\nog	_IIú4úV_ArnM-083{132r,05}.02	ø	:	³n=n³o=o³g=h³
+`ge-singen @stv3a	ùge-singen	#stv3a i	^-	~ge-singen	\g<e>[$ingen.],,(	_IIú4úV_ArnM-083{132r,05}.03@	ø	:	³g=g³e=e³=-³[s]=s³[i]=i³[n]=n³[g]=g³[e]=e³[n]=n³
+`vrouwe @f	ùvrouwe	#f	^NS	~vrouwe	\[frowe],,)	_IIú4úV_ArnM-084{132r,05}.01	ø	:	*³[frowe]=vrouwe³
+`dŒn @pron_poss	ùdŒn	#pron_poss	^GSf	~dŒner	\din er	_IIú4úV_ArnM-084{132r,05}.02	ø	:	³d=d³i=Œ³n=n³e=e³r=r³
+`ˆre @f	ùˆre	#f	^GS	~ˆren	\eren.	_IIú4úV_ArnM-084{132r,06}.03@	ø	:	³e=ˆ³r=r³e=e³n=n³
+`noh @adv/konj	ùnoh	#konj	^	~noh	\nog	_IIú4úV_ArnM-085{132r,06}.01	ø	:	³n=n³o=o³g=h³
+`dŒn @pron_poss	ùdŒn	#pron_poss	^GSmn	~dŒnes	\din e$	_IIú4úV_ArnM-085{132r,06}.02	ø	:	³d=d³i=Œ³n=n³e=e³s=s³
+`lob @mn	ùlob	#mn	^GS	~lobes	\lou<e$>	_IIú4úV_ArnM-085{132r,06}.03	ø	:	³l=l³o=o³u=b³e=e³s=s³
+`en-vollen @adv	ùen-vollen	#adv	^	~en-vollen	\enuollen.(.)	_IIú4úV_ArnM-085{132r,06}.04@	ø	:	³e=e³n=n³=-³u=v³o=o³ll=ll³e=e³n=n³
+`d‰r @art	ùd‰r	#art	^NSm	~d‰r	\*(D*) er	_IIú4úV_ArnM-086{132r,06}.01	ø	:	³d=d³e=‰³r=r³
+`himelisch @adj	ùhimelisch	#adj	^NSm!	~himelischer	\himeli$ch er	_IIú4úV_ArnM-086{132r,07}.02	ø	:/^[nach {*(D*)er}]	³h=h³i=i³m=m³e=e³l=l³i=i³sch=sch³e=e³r=r³
+`hov @m<(u)>	ùhov	#m<(u)>	^NS	~hov	\hof.	_IIú4úV_ArnM-086{132r,07}.03@	ø	:	³h=h³o=o³f=v³
+`singen @stv3a	ùsingen	#stv3a	^3SGI	~singet	\$inget	_IIú4úV_ArnM-087{132r,07}.01	ø	:	³s=s³i=i³n=n³g=g³e=e³t=t³
+`all @pron	ùall	#pron	^NSmø!	~aller	\all er	_IIú4úV_ArnM-087{132r,07}.02	ø	:	³a=a³ll=ll³e=e³r=r³
+`dŒn @pron_poss	ùdŒn	#pron_poss	^ASm	~dŒnen	\din en	_IIú4úV_ArnM-087{132r,07}.03	ø	:	³d=d³i=Œ³n=n³e=e³n=n³
+`lob @mn	ùlob	#m	^AS	~lob	\lof.(.)	_IIú4úV_ArnM-087{132r,08}.04@	ø	:	³l=l³o=o³f=b³
+`loben @swv	ùloben	#swv	^3SGI	~lobet	\louet	_IIú4úV_ArnM-088{132r,08}.01	ø	:	³l=l³o=o³u=b³e=e³t=t³
+`d– @pron	ùd–	#pron	^AS	~dich	\dig	_IIú4úV_ArnM-088{132r,08}.02	ø	:	³d=d³i=i³g=ch³
+`CherubŒn @PN	ùCherubŒn	#PN	^NS	~CherubŒn	\cherubin.,,	_IIú4úV_ArnM-088{132r,08}.03@	ø	:	*³ch=ch³e=e³r=r³u=u³b=b³i=Œ³n=n³
+`ˆren @swv	ùˆren	#swv	^3SGI	~ˆret	\eret	_IIú4úV_ArnM-089{132r,08}.01	ø	:	³e=ˆ³r=r³e=e³t=t³
+`d– @pron	ùd–	#pron	^AS	~dich	\dig	_IIú4úV_ArnM-089{132r,08}.02	ø	:	³d=d³i=i³g=ch³
+`SˆraphŒn @PN	ùSˆraphŒn	#PN	^NS	~SˆraphŒn	\$era=phin.,	_IIú4úV_ArnM-089{132r,08}.03@	ø	:	*³s=s³e=ˆ³r=r³a=a³ph=ph³i=Œ³n=n³
+`all @pron	ùall	#pron	^NSn	~allezz	\all ez	_IIú4úV_ArnM-090{132r,09}.01	ø	:	³a=a³ll=ll³e=e³z=zz³
+`d‰r @art	ùd‰r	#art	^NSn	~dazz	\d az	_IIú4úV_ArnM-090{132r,09}.02	ø	:	³d=d³a=a³z=zz³
+`hŠr(e) @n	ùhŠr(e)	#n	^NS	~hŠr(e)	\herie	_IIú4úV_ArnM-090{132r,09}.03@	ø	:	³h=h³e=Š³r=r³ie=e³
+`d‰r @art	ùd‰r	#art	^GPm	~d‰r	\d er	_IIú4úV_ArnM-091{132r,09}.01	ø	:	³d=d³e=‰³r=r³
+`hŠilig @adj	ùhŠilig	#adj	^GPm!	~hŠiliger	\heilig er	_IIú4úV_ArnM-091{132r,09}.02	ø	:/^[nach {der}]	³h=h³ei=Ši³l=l³i=i³g=g³e=e³r=r³
+`Šngel @m	ùŠngel	#m	^GP	~Šngel(e)	\en(=)gele,,	_IIú4úV_ArnM-091{132r,09}.03@	ø	:	³e=Š³n=n³g=g³e=e³l=l³e=e³
+`d‰r @pron	ùd‰r	#pron	^NPm+	~diŠ	\d ie	_IIú4úV_ArnM-092{132r,10}.01	ø	:	³d=d³ie=iŠ³
+`in @pr„p	ùin	#pr„p	^	~in	\in	_IIú4úV_ArnM-092{132r,10}.02	ø	:	³i=i³n=n³
+`got @m	ùgot	#m	^GS	~gotes	\gode$	_IIú4úV_ArnM-092{132r,10}.03	ø	:	³g=g³o=o³d=t³e=e³s=s³
+`ant-ouge @n	ùant-ouge	#n	^DS	~and-ouge	\andouge	_IIú4úV_ArnM-092{132r,10}.04@	ø	:	³a=a³n=n³d=d³=-³ou=ou³g=g³e=e³
+`stƒn @anv	ùstƒn	#anv	^3PGI	~stˆnt	\$tent	_IIú4úV_ArnM-093{132r,10}.01	ø	:	³s=s³t=t³e=ˆ³n=n³t=t³
+`von @pr„p	ùvon	#pr„p	^	~von	\uon	_IIú4úV_ArnM-093{132r,10}.02	ø	:	³u=v³o=o³n=n³
+`ane-ginne @n	ùane-ginne	#n	^DS	~ane-ginne	\aneginne(.)	_IIú4úV_ArnM-093{132r,11}.03@	ø	:	³a=a³n=n³e=e³=-³g=g³i=i³nn=nn³e=e³
+`prophˆt(e) @m	ùprophˆt(e)	#m	^NP	~prophˆten	\propheten	_IIú4úV_ArnM-094{132r,11}.01	ø	:	³p=p³r=r³o=o³ph=ph³e=ˆ³t=t³e=e³n=n³
+`unte @konj	ùunte	#konj	^	~unt<e>	\und	_IIú4úV_ArnM-094{132r,11}.02	ø	:	³u=u³n=n³d=t³=e³
+`apostel(e) @m	ùapostel(e)	#m	^NP	~apost‚l(e)n	\apo$tolen.	_IIú4úV_ArnM-094{132r,11}.03@	ø	:	³a=a³p=p³o=o³s=s³t=t³o=‚³l=l³e=e³n=n³
+`unte @konj	ùunte	#konj	^	~unt<e>	\und	_IIú4úV_ArnM-095{132r,12}.01	ø	:	³u=u³n=n³d=t³=e³
+`all @pron	ùall	#pron	^NPmfn	~alle	\all e	_IIú4úV_ArnM-095{132r,12}.02	ø	:	³a=a³ll=ll³e=e³
+`got @m	ùgot	#m	^GS	~gotes	\gode$	_IIú4úV_ArnM-095{132r,12}.03	ø	:	³g=g³o=o³d=t³e=e³s=s³
+`hŠilig @adj	ùhŠilig	#adj	^NPmfnw%	~hŠiligen	\heilig en.,,	_IIú4úV_ArnM-095{132r,12}.04@	ø	:	³h=h³ei=Ši³l=l³i=i³g=g³e=e³n=n³
+`d‰r @pron	ùd‰r	#pron	^NPmfn	~diŠ	\d ie	_IIú4úV_ArnM-096{132r,12}.01	ø	:	³d=d³ie=iŠ³
+`vr”uwen @swv	ùvr”uwen	#swv	^3PGI	~vr”uwent	\frowent	_IIú4úV_ArnM-096{132r,12}.02	ø	:	³f=v³r=r³o=”u³w=w³e=e³n=n³t=t³
+`sich @pron	ùsich	#pron	^A	~sich	\$ig	_IIú4úV_ArnM-096{132r,13}.03	ø	:	³s=s³i=i³g=ch³
+`iŠmer @adv	ùiŠmer	#adv	^	~iŠmer	\iemer	_IIú4úV_ArnM-096{132r,13}.04	ø	:	³ie=iŠ³m=m³e=e³r=r³
+`d– @pron	ùd–	#pron	^GS	~dŒn	\din.,,	_IIú4úV_ArnM-096{132r,13}.05@	ø	:	³d=d³i=Œ³n=n³
+`kni(n)g-lich @adj	ùkni(n)g-lich	#adj	^NSn"	~kni(n)g-lŒchezz	\kunenclich ez	_IIú4úV_ArnM-097{132r,13}.01	ø	:	³k=k³u=³n=n³e=i³n=n³c=g³=-³l=l³i=Œ³ch=ch³e=e³z=zz³
+`magedŒn @n	ùmagedŒn	#n	^NS	~magedŒn	\mege=din.(.)	_IIú4úV_ArnM-097{132r,13}.02@	ø	:	³m=m³e=a³g=g³e=e³d=d³i=Œ³n=n³
+`wol(e) @adv/konj	ùwol(e)	#adv	^	~wol(e)	\*(W*)ale	_IIú4úV_ArnM-098{132r,14}.01	ø	:	³w=w³a=o³l=l³e=e³
+`mŠzen @anv	ùmŠzen	#anv	^3PG	~mŠzen	\mu\ozen	_IIú4úV_ArnM-098{132r,14}.02	ø	:	³m=m³u\o=Š³z=z³e=e³n=n³
+`‰r @pron	ù‰r	#pron	^NPmfn	~siŠ	\$ie	_IIú4úV_ArnM-098{132r,14}.03	ø	:	³s=s³ie=iŠ³
+`d– @pron	ùd–	#pron	^AS	~dich	\dig	_IIú4úV_ArnM-098{132r,14}.04	ø	:	³d=d³i=i³g=ch³
+`ˆren @swv	ùˆren	#swv i	^-	~ˆren	\eren.(:)	_IIú4úV_ArnM-098{132r,14}.05@	ø	:	³e=ˆ³r=r³e=e³n=n³
+`d– @pron	ùd–	#pron	^NS	~d–	\du	_IIú4úV_ArnM-099{132r,14}.01	ø	:	³d=d³u=–³
+`sŒn @anv	ùsŒn	#anv	^2SGI	~bis	\bi$	_IIú4úV_ArnM-099{132r,15}.02	ø	:	³b=b³i=i³s=s³
+`muoter @f<(u)>	ùmuoter	#f<(u)>	^NS	~muoter	\mu\oder	_IIú4úV_ArnM-099{132r,15}.03	ø	:	³m=m³u\o=uo³d=t³e=e³r=r³
+`ir(e) @pron_poss	ùir(e)	#pron_poss	^GSm	~ir(e)s	\ir e$	_IIú4úV_ArnM-099{132r,15}.04	ø	:	³i=i³r=r³e=e³s=s³
+`hˆrre @m	ùhˆrre	#m	^GS	~hˆrren	\heren.,,	_IIú4úV_ArnM-099{132r,15}.05@	ø	:	³h=h³e=ˆ³r=rr³e=e³n=n³
+`d‰r @pron	ùd‰r	#pron	^NSm+	~dˆ	\d e	_IIú4úV_ArnM-100{132r,15}.01	ø	:	³d=d³e=ˆ³
+`dƒr @adv	ùdƒr	#adv	^	~dƒr	\der	_IIú4úV_ArnM-100{132r,15}.02	ø	:	³d=d³e=ƒ³r=r³
+`himel @m	ùhimel	#m	^AS	~himel	\himel	_IIú4úV_ArnM-100{132r,15}.03	ø	:	³h=h³i=i³m=m³e=e³l=l³
+`unte @konj	ùunte	#konj	^	~unt<e>	\und	_IIú4úV_ArnM-100{132r,16}.04	ø	:	³u=u³n=n³d=t³=e³
+`‰rde @f	ù‰rde	#f	^AS	~‰rden	\erden.	_IIú4úV_ArnM-100{132r,16}.05@	ø	:	³e=‰³r=r³d=d³e=e³n=n³
+`von(e) @adv	ùvon(e)	#adv	^	~van	\uan	_IIú4úV_ArnM-101{132r,16}.01	ø	:	³u=v³a=a³n=n³
+`ˆr(e)ste @adv sup	ùˆr(e)ste	#adv sup	^	~ˆr(e)s<t>	\ere$	_IIú4úV_ArnM-101{132r,16}.02	ø	:	³e=ˆ³r=r³e=e³s=s³=t³
+`hŠizen @stv7	ùhŠizen	#stv7	^3SVI	~hiŠz	\hiez	_IIú4úV_ArnM-101{132r,16}.03	ø	:	³h=h³ie=iŠ³z=z³
+`w‰rden @stv3b	ùw‰rden	#stv3b i	^-	~w‰rden	\werden.,,	_IIú4úV_ArnM-101{132r,16}.04@	ø	:	³w=w³e=‰³r=r³d=d³e=e³n=n³
+`d‰r @pron	ùd‰r	#pron	^NSm+	~dˆ	\d e	_IIú4úV_ArnM-102{132r,16}.01	ø	:	³d=d³e=ˆ³
+`mit @pr„p	ùmit	#pr„p	^	~mit	\bit	_IIú4úV_ArnM-102{132r,17}.02	ø	:	³b=m³i=i³t=t³
+`Šin @art	ùŠin	#art	^DSn	~Šineme	\ein eme	_IIú4úV_ArnM-102{132r,17}.03	ø	:	³ei=Ši³n=n³e=e³m=m³e=e³
+`wort @n	ùwort	#n	^DS	~worte	\worte	_IIú4úV_ArnM-102{132r,17}.04@	ø	:	³w=w³o=o³r=r³t=t³e=e³
+`ge-schŠpfen @stv6b	ùge-schŠpfen	#stv6b	^3SVI	~ge-schuof	\ge$cu\of	_IIú4úV_ArnM-103{132r,17}.01	ø	:	³g=g³e=e³=-³sc=sch³u\o=uo³f=f³
+`d‰r @art	ùd‰r	#art	^ASf	~diu	\d u	_IIú4úV_ArnM-103{132r,17}.02	ø	:	³d=d³u=iu³
+`w‰r(e)lt @f	ùw‰r(e)lt	#f	^AS	~w‰r<e>lt	\werlt	_IIú4úV_ArnM-103{132r,17}.03	ø	:	³w=w³e=‰³r=r³=e³l=l³t=t³
+`all @pron	ùall	#pron	^ASfø!	~alle	\all e,,	_IIú4úV_ArnM-103{132r,18}.04@	ø	:	³a=a³ll=ll³e=e³
+`d‰r @pron	ùd‰r	#pron	^DSm+	~d‰m	\d em	_IIú4úV_ArnM-104{132r,18}.01	ø	:	³d=d³e=‰³m=m³
+`all @pron	ùall	#pron	^NPn	~alle	\all e	_IIú4úV_ArnM-104{132r,18}.02	ø	:	³a=a³ll=ll³e=e³
+`ding @n	ùding	#n	^NP	~ding	\dinc	_IIú4úV_ArnM-104{132r,18}.03	ø	:	³d=d³i=i³n=n³c=g³
+`sŒn @anv	ùsŒn	#anv	^3PGI	~sint	\$int	_IIú4úV_ArnM-104{132r,18}.04	ø	:	³s=s³i=i³n=n³t=t³
+`unter-tƒn @adj_part	ùunter-tƒn	#adj_part	^-	~unter-tƒn	\under#dan ,,	_IIú4úV_ArnM-104{132r,18}.05@	ø	:	³u=u³n=n³d=t³e=e³r=r³=-³d=t³a=ƒ³n=n³
+`d‰r @pron	ùd‰r	#pron	^DSm+	~d‰m	\d em	_IIú4úV_ArnM-105{132r,19}.01	ø	:	³d=d³e=‰³m=m³
+`niht @n	ùniht	#n	^NS	~niŠt	\niet	_IIú4úV_ArnM-105{132r,19}.02	ø	:	³n=n³ie=iŠ³t=t³
+`ne @partikel	ùne	#partikel	^	~ne	\ne	_IIú4úV_ArnM-105{132r,19}.03	ø	:	³n=n³e=e³
+`mgen @anv	ùmgen	#anv	^3SGI	~mag	\mag	_IIú4úV_ArnM-105{132r,19}.04	ø	:	³m=m³a=a³g=g³
+`wider-stƒn @anv	ùwider-stƒn	#anv i	^-	~wider-stƒn	\wider#$tan.,,	_IIú4úV_ArnM-105{132r,19}.05@	ø	:	³w=w³i=i³d=d³e=e³r=r³=-³s=s³t=t³a=ƒ³n=n³
+`d‰r @pron	ùd‰r	#pron	^DSm+	~d‰m	\d em	_IIú4úV_ArnM-106{132r,19}.01	ø	:	³d=d³e=‰³m=m³
+`all @pron	ùall	#pron	^NSf	~alle	\all e	_IIú4úV_ArnM-106{132r,20}.02	ø	:	³a=a³ll=ll³e=e³
+`kraft @f<u>	ùkraft	#f<u>	^NS	~kraft	\craft	_IIú4úV_ArnM-106{132r,20}.03	ø	:	³c=k³r=r³a=a³f=f³t=t³
+`ge-wŒchen @stv1a	ùge-wŒchen	#stv1a	^3SGI	~ge-wŒchet	\gewichet,,	_IIú4úV_ArnM-106{132r,20}.04@	ø	:	³g=g³e=e³=-³w=w³i=Œ³ch=ch³e=e³t=t³
+`d‰r @pron	ùd‰r	#pron	^DSm+	~d‰m	\d em	_IIú4úV_ArnM-107{132r,20}.01	ø	:	³d=d³e=‰³m=m³
+`niht @n	ùniht	#n	^NS	~niŠt	\niet	_IIú4úV_ArnM-107{132r,20}.02	ø	:	³n=n³ie=iŠ³t=t³
+`ne @partikel	ùne	#partikel	^	~ne	\ne	_IIú4úV_ArnM-107{132r,20}.03	ø	:	³n=n³e=e³
+`ge-lŒchen @swv	ùge-lŒchen	#swv	^3SGI	~ge-lŒchet	\ge(=)lichet.,,	_IIú4úV_ArnM-107{132r,20}.04@	ø	:	³g=g³e=e³=-³l=l³i=Œ³ch=ch³e=e³t=t³
+`d‰r @pron	ùd‰r	#pron	^ASm+	~d‰n	\d en	_IIú4úV_ArnM-108{132r,21}.01	ø	:	³d=d³e=‰³n=n³
+`dƒr @adv	ùdƒr	#adv	^	~dƒr	\der	_IIú4úV_ArnM-108{132r,21}.02	ø	:	³d=d³e=ƒ³r=r³
+`ˆren @swv	ùˆren	#swv	^3SGI	~ˆret	\eret	_IIú4úV_ArnM-108{132r,21}.03	ø	:	³e=ˆ³r=r³e=e³t=t³
+`unte @konj	ùunte	#konj	^	~unt<e>	\und	_IIú4úV_ArnM-108{132r,21}.04	ø	:	³u=u³n=n³d=t³=e³
+`vrhten @swv-a	ùvrhten	#swv-a	^3SGI	~vr<h>tet	\uortet.	_IIú4úV_ArnM-108{132r,21}.05@	ø	:	³u=v³o=³r=r³=h³t=t³e=e³t=t³
+`all @pron	ùall	#pron	^NSfw!	~alle	\all e	_IIú4úV_ArnM-109{132r,21}.01	ø	:	³a=a³ll=ll³e=e³
+`dise @pron	ùdise	#pron	^NSf	~dise	\du$ e	_IIú4úV_ArnM-109{132r,22}.02	ø	:	³d=d³u=i³s=s³e=e³
+`w‰r(e)lt @f	ùw‰r(e)lt	#f	^NS	~w‰r<e>lt	\werlt.(.)	_IIú4úV_ArnM-109{132r,22}.03@	ø	:	³w=w³e=‰³r=r³=e³l=l³t=t³
+`d‰r @pron	ùd‰r	#pron	^NSn	~dazz	\*(D*) az	_IIú4úV_ArnM-110{132r,22}.01	ø	:	³d=d³a=a³z=zz³
+`sŒn @anv	ùsŒn	#anv	^3SGI	~is	\i$	_IIú4úV_ArnM-110{132r,22}.02	ø	:	³i=i³s=s³
+`ich @pron	ùich	#pron	^DS	~mir	\mir	_IIú4úV_ArnM-110{132r,22}.03	ø	:	³m=m³i=i³r=r³
+`lang @adj	ùlang	#adj	^-	~lang	\lanc 	_IIú4úV_ArnM-110{132r,22}.04	ø	:	³l=l³a=a³n=n³c=g³
+`ze @pr„p	ùze	#pr„p	^	~ze	\ce|	_IIú4úV_ArnM-110{132r,22}.05	ø	:	³c=z³e=e³
+`sagen @swv-a	ùsagen	#swv-a i	^DS	~sagenne	\|$a(=)gene.,,	_IIú4úV_ArnM-110{132r,22}.06@	ø	:	³s=s³a=a³g=g³e=e³n=nn³e=e³
+`wiŠ @adv_int	ùwiŠ	#adv_int	^	~wiŠ	\wie	_IIú4úV_ArnM-111{132r,23}.01	ø	:	³w=w³ie=iŠ³
+`hˆr(e) @adj	ùhˆr(e)	#adj	^-	~hˆr	\her 	_IIú4úV_ArnM-111{132r,23}.02	ø	:	³h=h³e=ˆ³r=r³
+`d– @pron	ùd–	#pron	^NS	~d–	\du	_IIú4úV_ArnM-111{132r,23}.03	ø	:	³d=d³u=–³
+`sŒn @anv	ùsŒn	#anv	^2SGK	~sŒs	\$i$	_IIú4úV_ArnM-111{132r,23}.04	ø	:	³s=s³i=Œ³s=s³
+`ze @pr„p	ùze	#pr„p	^	~ze	\ce	_IIú4úV_ArnM-111{132r,23}.05	ø	:	³c=z³e=e³
+`himel @m	ùhimel	#m	^DS	~himel(e)	\himele.(.)	_IIú4úV_ArnM-111{132r,23}.06@	ø	:	³h=h³i=i³m=m³e=e³l=l³e=e³
+`‰r @pron	ù‰r	#pron	^NSn	~izz	\iz	_IIú4úV_ArnM-112{132r,23}.01	ø	:	³i=i³z=zz³
+`ne @partikel	ùne	#partikel	^	~n<e>	\n|	_IIú4úV_ArnM-112{132r,23}.02	ø	:	³n=n³=e³
+`sŒn @anv	ùsŒn	#anv	^3SGI	~is	\|i$	_IIú4úV_ArnM-112{132r,23}.03	ø	:	³i=i³s=s³
+`ouch @adv/konj	ùouch	#adv	^	~ouch	\oug	_IIú4úV_ArnM-112{132v,01}.04	ø	:	³ou=ou³g=ch³
+`niŠ-mann(d) @pron_subst	ùniŠ-mann	#pron_subst	^DS	~niŠ-manne	\niemanne	_IIú4úV_ArnM-112{132v,01}.05	ø	:	³n=n³ie=iŠ³=-³m=m³a=a³nn=nn³e=e³
+`kund @adj	ùkund	#adj	^-	~kund	\kunt .	_IIú4úV_ArnM-112{132v,01}.06@	ø	:	³k=k³u=u³n=n³t=d³
+`ƒne @adv/konj	ùƒne	#konj	^	~ƒne	\ane	_IIú4úV_ArnM-113{132v,01}.01	ø	:/#[partikel?]	³a=ƒ³n=n³e=e³
+`d‰r @art	ùd‰r	#art	^DP	~d‰n	\d en	_IIú4úV_ArnM-113{132v,01}.02	ø	:	³d=d³e=‰³n=n³
+`s‘lig @adj	ùs‘lig	#adj	^DP!%	~s‘ligen	\$elig en,,	_IIú4úV_ArnM-113{132v,01}.03	ø	:	³s=s³e=‘³l=l³i=i³g=g³e=e³n=n³
+`d‰r @pron	ùd‰r	#pron	^NPmfn+	~diŠ	\d ie	_IIú4úV_ArnM-113{132v,02}.04	ø	:	³d=d³ie=iŠ³
+`dƒr @adv	ùdƒr	#adv	^	~dƒ	\da	_IIú4úV_ArnM-113{132v,02}.05	ø	:	³d=d³a=ƒ³
+`sŒn @anv	ùsŒn	#anv	^3PGI	~sint	\$int.(.)	_IIú4úV_ArnM-113{132v,02}.06@	ø	:	³s=s³i=i³n=n³t=t³
+`d‰r @art	ùd‰r	#art	^GSn	~d‰s	\*(D*) e$	_IIú4úV_ArnM-114{132v,02}.01	ø	:	³d=d³e=‰³s=s³
+`Šin @num	ùŠin	#num	^GSn!%	~Šines	\ein e$	_IIú4úV_ArnM-114{132v,02}.02	ø	:	³ei=Ši³n=n³e=e³s=s³
+`sŒn @anv	ùsŒn	#anv	^1SGI	~bin	\bin	_IIú4úV_ArnM-114{132v,02}.03	ø	:	³b=b³i=i³n=n³
+`ich @pron	ùich	#pron	^NS	~ich	\ig	_IIú4úV_ArnM-114{132v,02}.04	ø	:	³i=i³g=ch³
+`von @pr„p	ùvon	#pr„p	^	~van	\uan|	_IIú4úV_ArnM-114{132v,02}.05	ø	:	³u=v³a=a³n=n³
+`d– @pron	ùd–	#pron	^DS	~dir	\|dir	_IIú4úV_ArnM-114{132v,02}.06	ø	:	³d=d³i=i³r=r³
+`ge-wiss @adj	ùge-wiss	#adj	^-	~ge-wiss	\gewi$ .,,	_IIú4úV_ArnM-114{132v,03}.07@	ø	:	³g=g³e=e³=-³w=w³i=i³s=ss³
+`dazz @konj	ùdazz	#konj	^	~dazz	\daz,,(	_IIú4úV_ArnM-115{132v,03}.01	ø	:	³d=d³a=a³z=zz³
+`vrouwe @f	ùvrouwe	#f	^NS	~vrouwe	\frowe,,)	_IIú4úV_ArnM-115{132v,03}.02	ø	:	³f=v³r=r³o=ou³w=w³e=e³
+`sus @adv/konj	ùsus	#adv	^	~sus	\$u$	_IIú4úV_ArnM-115{132v,03}.03	ø	:	³s=s³u=u³s=s³
+`ˆren @swv	ùˆren	#swv pV	^-	~g<e->ˆret	\geret 	_IIú4úV_ArnM-115{132v,03}.04	ø	:	³g=g³=e-³e=ˆ³r=r³e=e³t=t³
+`sŒn @anv	ùsŒn	#anv	^2SGI	~bis	\bi$.	_IIú4úV_ArnM-115{132v,03}.05@	ø	:	³b=b³i=i³s=s³
+`durh @pr„p	ùdurh	#pr„p	^	~durh	\durg	_IIú4úV_ArnM-116{132v,03}.01	ø	:	³d=d³u=u³r=r³g=h³
+`d‰r @art	ùd‰r	#art	^ASf	~diŠ	\d ie	_IIú4úV_ArnM-116{132v,04}.02	ø	:	³d=d³ie=iŠ³
+`dŒn @pron_poss	ùdŒn	#pron_poss	^ASf!	~dŒne	\din e	_IIú4úV_ArnM-116{132v,04}.03	ø	:	³d=d³i=Œ³n=n³e=e³
+`gr“z @adj	ùgr“z	#adj	^ASf!	~gr“ze	\groz e	_IIú4úV_ArnM-116{132v,04}.04	ø	:/^[nach {die dine}]	³g=g³r=r³o=“³z=z³e=e³
+`gŠte @f	ùgŠte	#f	^AS	~gŠte	\gu\ode.,	_IIú4úV_ArnM-116{132v,04}.05@	ø	:	³g=g³u\o=Š³d=t³e=e³
+`durh @pr„p	ùdurh	#pr„p	^	~durh	\durg	_IIú4úV_ArnM-117{132v,04}.01	ø	:	³d=d³u=u³r=r³g=h³
+`d‰r @art	ùd‰r	#art	^ASf	~diu	\d u|	_IIú4úV_ArnM-117{132v,04}.02	ø	:	³d=d³u=iu³
+`dŒn @pron_poss	ùdŒn	#pron_poss	^ASf!	~dŒne	\|din e	_IIú4úV_ArnM-117{132v,04}.03	ø	:	³d=d³i=Œ³n=n³e=e³
+`“d-mŠte @f	ù“d-mŠte	#f	^AS	~“d-mŠte	\otmv\ode.,	_IIú4úV_ArnM-117{132v,05}.04@	ø	:	³o=“³t=d³=-³m=m³v\o=Š³d=t³e=e³
+`durh @pr„p	ùdurh	#pr„p	^	~durh	\durg	_IIú4úV_ArnM-118{132v,05}.01	ø	:	³d=d³u=u³r=r³g=h³
+`d‰r @art	ùd‰r	#art	^ASf	~diu	\d u	_IIú4úV_ArnM-118{132v,05}.02	ø	:	³d=d³u=iu³
+`dŒn @pron_poss	ùdŒn	#pron_poss	^ASf!	~dŒne	\din e	_IIú4úV_ArnM-118{132v,05}.03	ø	:	³d=d³i=Œ³n=n³e=e³
+`s–berig-hŠit @f	ùs–berig-hŠit	#f	^AS	~s–ber<i>g-<h>Šit	\$uvercheit.,	_IIú4úV_ArnM-118{132v,05}.04@	ø	:	³s=s³u=–³v=b³e=e³r=r³=i³ch=g³=-³=h³ei=Ši³t=t³
+`durh @pr„p	ùdurh	#pr„p	^	~durh	\durg	_IIú4úV_ArnM-119{132v,06}.01	ø	:	³d=d³u=u³r=r³g=h³
+`d‰r @art	ùd‰r	#art	^ASf	~diu	\d u	_IIú4úV_ArnM-119{132v,06}.02	ø	:	³d=d³u=iu³
+`dŒn @pron_poss	ùdŒn	#pron_poss	^ASf!	~dŒne	\din e	_IIú4úV_ArnM-119{132v,06}.03	ø	:	³d=d³i=Œ³n=n³e=e³
+`gr“z @adj	ùgr“z	#adj	^ASf!	~gr“ze	\groz e	_IIú4úV_ArnM-119{132v,06}.04	ø	:/^[nach {du dine}]	³g=g³r=r³o=“³z=z³e=e³
+`miltig-hŠit @f	ùmiltig-hŠit	#f	^AS	~miltig-<h>Šit	\mildecheit.(.)	_IIú4úV_ArnM-119{132v,06}.05@	ø	:	³m=m³i=i³l=l³d=t³e=i³ch=g³=-³=h³ei=Ši³t=t³
+`von @pr„p	ùvon	#pr„p	^	~van	\*(V*)an	_IIú4úV_ArnM-120{132v,07}.01	ø	:	³v=v³a=a³n=n³
+`d‰r @pron	ùd‰r	#pron	^IS	~diu	\d u	_IIú4úV_ArnM-120{132v,07}.02	ø	:	³d=d³u=iu³
+`ane @adv	ùane/>+ruofen	#adv	^	~ane	\ane*1	_IIú4úV_ArnM-120{132v,07}.03	ø	:	³a=a³n=n³e=e³
+`ruofen @stv7	ùruofen/ane>+	#stv7	^1SGI	~ruofen	\ru\ofen*2	_IIú4úV_ArnM-120{132v,07}.04	ø	:	³r=r³u\o=uo³f=f³e=e³n=n³
+`ich @pron	ùich	#pron	^NS	~ich	\ig	_IIú4úV_ArnM-120{132v,07}.05	ø	:	³i=i³g=ch³
+`d– @pron	ùd–	#pron	^AS	~dich	\dich.,,(	_IIú4úV_ArnM-120{132v,07}.06@	ø	:	³d=d³i=i³ch=ch³
+`vrouwe @f	ùvrouwe	#f	^NS	~vrouwe	\frowe,,)	_IIú4úV_ArnM-121{132v,07}.01	ø	:	³f=v³r=r³o=ou³w=w³e=e³
+`n– @adv/konj	ùn–	#adv	^	~n–	\<nu>	_IIú4úV_ArnM-121{132v,07}.02	ø	:	³n=n³u=–³
+`ge-hoŠren @swv	ùge-hoŠren	#swv	^2SGB	~ge-hoŠre	\gehore	_IIú4úV_ArnM-121{132v,08}.03	ø	:	³g=g³e=e³=-³h=h³o=oŠ³r=r³e=e³
+`ich @pron	ùich	#pron	^AS	~mich	\mig.(!)	_IIú4úV_ArnM-121{132v,08}.04@	ø	:	³m=m³i=i³g=ch³
+`aller-hŠiligest @adj sup	ùaller-hŠiligest	#adj sup	^NSnw!"	~aller-hŠiligeste	\aller#heilige$t e	_IIú4úV_ArnM-122{132v,08}.01	ø	:	³a=a³ll=ll³e=e³r=r³=-³h=h³ei=Ši³l=l³i=i³g=g³e=e³s=s³t=t³e=e³
+`wŒb @n	ùwŒb	#n	^NS	~wŒb	\wif.,,	_IIú4úV_ArnM-122{132v,08}.02@	ø	:	³w=w³i=Œ³f=b³
+`ver-n‰men @stv4	ùver-n‰men	#stv4	^2SGB	~ver-nim	\<uer>(=)nim	_IIú4úV_ArnM-123{132v,08}.01	ø	:	³u=v³e=e³r=r³=-³n=n³i=i³m=m³
+`ich @pron	ùich	#pron	^AS	~mich	\mig	_IIú4úV_ArnM-123{132v,09}.02	ø	:	³m=m³i=i³g=ch³
+`sntig @adj	ùsntig	#adj	^ASn&	~sntigezz	\$undig ez	_IIú4úV_ArnM-123{132v,09}.03	ø	:	³s=s³u=³n=n³d=t³i=i³g=g³e=e³z=zz³
+`wŒb @n	ùwŒb	#n	^AS	~wŒb	\wif.(!)	_IIú4úV_ArnM-123{132v,09}.04@	ø	:	³w=w³i=Œ³f=b³
+`all @pron	ùall	#pron	^NSn	~allezz	\all ez	_IIú4úV_ArnM-124{132v,09}.01	ø	:	³a=a³ll=ll³e=e³z=zz³
+`d‰r @art	ùd‰r	#art	^NSn	~dazz	\d <az>	_IIú4úV_ArnM-124{132v,09}.02	ø	:	³d=d³a=a³z=zz³
+`mŒn @pron_poss	ùmŒn	#pron_poss	^0NSnw	~mŒn	\min	_IIú4úV_ArnM-124{132v,10}.03	ø	:	³m=m³i=Œ³n=n³
+`h‰rze @n	ùh‰rze	#n	^NS	~h‰rze	\herze.,,	_IIú4úV_ArnM-124{132v,10}.04@	ø	:	³h=h³e=‰³r=r³z=z³e=e³
+`d‰r @pron	ùd‰r	#pron	^NSn	~dazz	\d az	_IIú4úV_ArnM-125{132v,10}.01	ø	:	³d=d³a=a³z=zz³
+`vlˆhen @swv	ùvlˆhen	#swv	^3SGI	~vlˆ<he>t	\fled	_IIú4úV_ArnM-125{132v,10}.02	ø	:	³f=v³l=l³e=ˆ³=he³d=t³
+`d– @pron	ùd–	#pron	^DS	~dir	\dir	_IIú4úV_ArnM-125{132v,10}.03	ø	:	³d=d³i=i³r=r³
+`mit @pr„p	ùmit	#pr„p	^	~mit	\bit	_IIú4úV_ArnM-125{132v,10}.04	ø	:	³b=m³i=i³t=t³
+`vlŒz @m	ùvlŒz	#m	^DS	~vlŒze	\flize.,,	_IIú4úV_ArnM-125{132v,10}.05@	ø	:	³f=v³l=l³i=Œ³z=z³e=e³
+`dazz @konj	ùdazz	#konj	^	~dazz	\daz	_IIú4úV_ArnM-126{132v,11}.01	ø	:	³d=d³a=a³z=zz³
+`d– @pron	ùd–	#pron	^NS	~d–	\du	_IIú4úV_ArnM-126{132v,11}.02	ø	:	³d=d³u=–³
+`ich @pron	ùich	#pron	^DS	~mir	\mir	_IIú4úV_ArnM-126{132v,11}.03	ø	:	³m=m³i=i³r=r³
+`wŠllen @anv	ùwŠllen	#anv	^2SG	~willes	\wille$	_IIú4úV_ArnM-126{132v,11}.04	ø	:	³w=w³i=i³ll=ll³e=e³s=s³
+`ge-nƒden @swv	ùge-nƒden	#swv i	^-	~ge-nƒden	\genaden.	_IIú4úV_ArnM-126{132v,11}.05@	ø	:	³g=g³e=e³=-³n=n³a=ƒ³d=d³e=e³n=n³
+`ze @pr„p	ùze	#pr„p	^	~ze	\ce	_IIú4úV_ArnM-127{132v,11}.01	ø	:	³c=z³e=e³
+`dŒn @pron_poss	ùdŒn	#pron_poss	^DSm	~dŒneme	\din e(=)me	_IIú4úV_ArnM-127{132v,11}.02	ø	:	³d=d³i=Œ³n=n³e=e³m=m³e=e³
+`sun @m<u>	ùsun	#m<u>	^DS	~sune	\$une	_IIú4úV_ArnM-127{132v,12}.03	ø	:	³s=s³u=u³n=n³e=e³
+`h‰lfen @stv3b	ùh‰lfen	#stv3b i	^-	~h‰lfen	\helfen.,,	_IIú4úV_ArnM-127{132v,12}.04@	ø	:	³h=h³e=‰³l=l³f=f³e=e³n=n³
+`dazz @konj	ùdazz	#konj	^	~dazz	\daz	_IIú4úV_ArnM-128{132v,12}.01	ø	:	³d=d³a=a³z=zz³
+`‰r @pron	ù‰r	#pron	^NSm	~‰r	\er	_IIú4úV_ArnM-128{132v,12}.02	ø	:	³e=‰³r=r³
+`durh @pr„p	ùdurh	#pr„p	^	~durh	\durg	_IIú4úV_ArnM-128{132v,12}.03	ø	:	³d=d³u=u³r=r³g=h³
+`sŒn @pron_poss	ùsŒn	#pron_poss	^ASf	~sŒne	\$in e	_IIú4úV_ArnM-128{132v,12}.04	ø	:	³s=s³i=Œ³n=n³e=e³
+`gŠte @f	ùgŠte	#f	^AS	~gŠte	\gu\o(=)de.	_IIú4úV_ArnM-128{132v,12}.05@	ø	:	³g=g³u\o=Š³d=t³e=e³
+`mŒn @pron_poss	ùmŒn	#pron_poss	^GPf	~mŒner	\min er	_IIú4úV_ArnM-129{132v,13}.01	ø	:	³m=m³i=Œ³n=n³e=e³r=r³
+`misse-tƒt @f<u>	ùmisse-tƒt	#f<u>	^GP	~misse-t‘te	\mi$$edede.	_IIú4úV_ArnM-129{132v,13}.02@	ø	:	³m=m³i=i³ss=ss³e=e³=-³d=t³e=‘³d=t³e=e³
+`ver-g‰zzen @stv5	ùver-g‰zzen	#stv5	^3SGK	~ver-g‰zze	\uer#gezze	_IIú4úV_ArnM-130{132v,13}.01	ø	:	³u=v³e=e³r=r³=-³g=g³e=‰³zz=zz³e=e³
+`mit-alle @adv	ùmit-alle	#adv	^	~betalle	\bit(=)alle	_IIú4úV_ArnM-130{132v,13}.02@	ø	:	³b=b³i=e³t=t³a=a³ll=ll³e=e³
+`unte @konj	ùunte	#konj	^	~unte	\unde	_IIú4úV_ArnM-131{132v,14}.01	ø	:	³u=u³n=n³d=t³e=e³
+`ich @pron	ùich	#pron	^DS	~mir	\mir	_IIú4úV_ArnM-131{132v,14}.02	ø	:	³m=m³i=i³r=r³
+`ge-nƒden @swv	ùge-nƒden	#swv i	^-	~ge-nƒden	\genaden	_IIú4úV_ArnM-131{132v,14}.03	ø	:	³g=g³e=e³=-³n=n³a=ƒ³d=d³e=e³n=n³
+`wŠllen @anv	ùwŠllen	#anv	^3SGK	~wille	\wille.(!)	_IIú4úV_ArnM-131{132v,14}.04@	ø	:	³w=w³i=i³ll=ll³e=e³
+`lŠider @adv	ùlŠider	#adv	^	~lŠider	\*(L*)ei<=>der	_IIú4úV_ArnM-132{132v,14}.01	ø	:	³l=l³ei=Ši³d=d³e=e³r=r³
+`mŒn @pron_poss	ùmŒn	#pron_poss	^NSfw!	~mŒne	\min e	_IIú4úV_ArnM-132{132v,15}.02	ø	:	³m=m³i=Œ³n=n³e=e³
+`lŠdig-hŠit @f	ùlŠdig-hŠit	#f	^NS	~lŠdi<g>-hŠit	\lidicheit,,	_IIú4úV_ArnM-132{132v,15}.03@	ø	:	³l=l³i=Š³d=d³i=i³ch=g³=-³=h³ei=Ši³t=t³
+`d‰r @pron	ùd‰r	#pron	^NSf	~diu	\d u	_IIú4úV_ArnM-133{132v,15}.01	ø	:	³d=d³u=iu³
+`haben @swv-a	ùhaben	#swv-a	^3SGI	~hƒt	\hat	_IIú4úV_ArnM-133{132v,15}.02	ø	:	³h=h³a=ƒ³t=t³
+`ich @pron	ùich	#pron	^AS	~mich	\mig	_IIú4úV_ArnM-133{132v,15}.03	ø	:	³m=m³i=i³g=ch³
+`dicke @adv	ùdicke	#adv	^	~dicke	\dik(=)ke	_IIú4úV_ArnM-133{132v,15}.04	ø	:	³d=d³i=i³kk=ck³e=e³
+`ver-lŠiten @swv	ùver-lŠiten	#swv pV	^-	~ver-lŠitt	\uer#leit .,,	_IIú4úV_ArnM-133{132v,16}.05@	ø	:	³u=v³e=e³r=r³=-³l=l³ei=Ši³t=tt³
+`dazz @konj	ùdazz	#konj	^	~dazz	\daz	_IIú4úV_ArnM-134{132v,16}.01	ø	:	³d=d³a=a³z=zz³
+`ich @pron	ùich	#pron	^NS	~ich	\ig	_IIú4úV_ArnM-134{132v,16}.02	ø	:	³i=i³g=ch³
+`von @pr„p	ùvon	#pr„p	^	~van	\uan	_IIú4úV_ArnM-134{132v,16}.03	ø	:	³u=v³a=a³n=n³
+`mŒn @pron_poss	ùmŒn	#pron_poss	^DP	~mŒnen	\min en	_IIú4úV_ArnM-134{132v,16}.04	ø	:	³m=m³i=Œ³n=n³e=e³n=n³
+`schuld(e) @f	ùschuld(e)	#f	^DP	~schulden	\$cul(=)den	_IIú4úV_ArnM-134{132v,16}.05@	ø	:	³sc=sch³u=u³l=l³d=d³e=e³n=n³
+`ver-wirken @swv-a	ùver-wirken	#swv-a	^1SV	~ver-wor<h>te	\uer#worte	_IIú4úV_ArnM-135{132v,17}.01	ø	:	³u=v³e=e³r=r³=-³w=w³o=o³r=r³=h³t=t³e=e³
+`sŒn @pron_poss	ùsŒn	#pron_poss	^ASf	~sŒne	\$in e	_IIú4úV_ArnM-135{132v,17}.02	ø	:	³s=s³i=Œ³n=n³e=e³
+`hulde @f	ùhulde	#f	^AS	~hulde	\hulde.(.)	_IIú4úV_ArnM-135{132v,17}.03@	ø	:	³h=h³u=u³l=l³d=d³e=e³
+`vrouwe @f	ùvrouwe	#f	^NS	~vrouwe	\frowe,,	_IIú4úV_ArnM-136{132v,17}.01	ø	:	³f=v³r=r³o=ou³w=w³e=e³
+`d‰r @pron	ùd‰r	#pron	^NSn	~dazz	\d az	_IIú4úV_ArnM-136{132v,18}.02	ø	:	³d=d³a=a³z=zz³
+`sŒn @anv	ùsŒn	#anv	^3SGI	~is	\i$	_IIú4úV_ArnM-136{132v,18}.03	ø	:	³i=i³s=s³
+`ich @pron	ùich	#pron	^DS	~mir	\mir	_IIú4úV_ArnM-136{132v,18}.04	ø	:	³m=m³i=i³r=r³
+`angest-lich @adj	ùangest-lich	#adj	^-	~angest-lich	\enge$tlich (.)	_IIú4úV_ArnM-136{132v,18}.05@	ø	:/ù[!]/E[enge$tlich: {enege$tlich} Maurer]	³e=a³n=n³g=g³e=e³s=s³t=t³=-³l=l³i=i³ch=ch³
+`h‰r(e) @adv	ùh‰r(e)	#adv	^	~h‰r<e>	\her	_IIú4úV_ArnM-137{132v,18}.01	ø	:	³h=h³e=‰³r=r³=e³
+`umbe @adv	ùumbe	#adv	^	~umbe	\umbe	_IIú4úV_ArnM-137{132v,18}.02	ø	:	³u=u³m=m³b=b³e=e³
+`s“ @adv/konj	ùs“	#adv	^	~s“	\$o	_IIú4úV_ArnM-137{132v,18}.03	ø	:	³s=s³o=“³
+`vrhten @swv-a	ùvrhten	#swv-a	^1SGI	~vr<h>ten	\<uo>rten	_IIú4úV_ArnM-137{132v,19}.04	ø	:	³u=v³o=³r=r³=h³t=t³e=e³n=n³
+`ich @pron	ùich	#pron	^NS	~ich	\ig.,,	_IIú4úV_ArnM-137{132v,19}.05@	ø	:	³i=i³g=ch³
+`dazz @konj	ùdazz	#konj	^	~dazz	\daz	_IIú4úV_ArnM-138{132v,19}.01	ø	:	³d=d³a=a³z=zz³
+`‰r @pron	ù‰r	#pron	^NSm	~‰r	\er	_IIú4úV_ArnM-138{132v,19}.02	ø	:	³e=‰³r=r³
+`sŒn @pron_poss	ùsŒn	#pron_poss	^APf	~sŒne	\$in e	_IIú4úV_ArnM-138{132v,19}.03	ø	:	³s=s³i=Œ³n=n³e=e³
+`ge-nƒde @f	ùge-nƒde	#f	^AP	~ge-nƒden	\genaden	_IIú4úV_ArnM-138{132v,19}.04@	ø	:	³g=g³e=e³=-³n=n³a=ƒ³d=d³e=e³n=n³
+`von @pr„p	ùvon	#pr„p	^	~van	\ua<n>	_IIú4úV_ArnM-139{132v,19}.01	ø	:	³u=v³a=a³n=n³
+`ich @pron	ùich	#pron	^DS	~mir	\mir	_IIú4úV_ArnM-139{132v,20}.02	ø	:	³m=m³i=i³r=r³
+`sol(e)n @anv	ùsol(e)n	#anv	^3SGK	~sul(e)	\$ule	_IIú4úV_ArnM-139{132v,20}.03	ø	:	³s=s³u=u³l=l³e=e³
+`kˆren @swv	ùkˆren	#swv i	^-	~kˆren	\keren.(.)	_IIú4úV_ArnM-139{132v,20}.04@	ø	:	³k=k³e=ˆ³r=r³e=e³n=n³
+`von @pr„p	ùvon	#pr„p	^	~van	\*(V*)an	_IIú4úV_ArnM-140{132v,20}.01	ø	:	³v=v³a=a³n=n³
+`d‰r @pron	ùd‰r	#pron	^IS	~diu	\d u	_IIú4úV_ArnM-140{132v,20}.02	ø	:	³d=d³u=iu³
+`vlˆhen @swv	ùvlˆhen	#swv	^1SGI	~vliŠ{ˆhe}n	\flien	_IIú4úV_ArnM-140{132v,20}.03	ø	:	³f=v³l=l³ie=iŠ{ˆhe}³n=n³
+`ich @pron	ùich	#pron	^NS	~ich	\ig	_IIú4úV_ArnM-140{132v,20}.04	ø	:	³i=i³g=ch³
+`ze @pr„p	ùze	#pr„p	^	~ze	\<ce>|	_IIú4úV_ArnM-140{132v,21}.05	ø	:	³c=z³e=e³
+`d– @pron	ùd–	#pron	^DS	~dir	\|dir.(.)	_IIú4úV_ArnM-140{132v,21}.06@	ø	:	³d=d³i=i³r=r³
+`n– @adv/konj	ùn–	#adv	^	~n–	\nu|	_IIú4úV_ArnM-141{132v,21}.01	ø	:	³n=n³u=–³
+`mŠzen @anv	ùmŠzen	#anv	^3SGK	~mŠze	\|mu\oze	_IIú4úV_ArnM-141{132v,21}.02	ø	:	³m=m³u\o=Š³z=z³e=e³
+`d‰r @pron	ùd‰r	#pron	^NSn	~dazz	\d az	_IIú4úV_ArnM-141{132v,21}.03	ø	:	³d=d³a=a³z=zz³
+`stƒn @anv	ùstƒn	#anv i	^-	~stƒn	\$tan	_IIú4úV_ArnM-141{132v,21}.04	ø	:	³s=s³t=t³a=ƒ³n=n³
+`ane @pr„p	ùane	#pr„p	^	~ane	\ane	_IIú4úV_ArnM-141{132v,21}.05	ø	:	³a=a³n=n³e=e³
+`d– @pron	ùd–	#pron	^DS	~dir	\dir.,	_IIú4úV_ArnM-141{132v,21}.06@	ø	:	³d=d³i=i³r=r³
+`wiŠ @adv_int	ùwiŠ	#adv_int	^	~wiŠ	\wie	_IIú4úV_ArnM-142{132v,22}.01	ø	:	³w=w³ie=iŠ³
+`d– @pron	ùd–	#pron	^NS	~d–	\du	_IIú4úV_ArnM-142{132v,22}.02	ø	:	³d=d³u=–³
+`ich @pron	ùich	#pron	^DS	~mir	\mir,,(	_IIú4úV_ArnM-142{132v,22}.03	ø	:	³m=m³i=i³r=r³
+`maged @f<u>	ùmaged	#f<u>	^NS	~maged	\maged	_IIú4úV_ArnM-142{132v,22}.04	ø	:	³m=m³a=a³g=g³e=e³d=d³
+`milte @adj	ùmilte	#adj	^NSfwø!"	~milte	\mild e .,,)	_IIú4úV_ArnM-142{132v,22}.05@	ø	:	³m=m³i=i³l=l³d=t³e=e³
+`ge-h‰lfen @stv3b	ùge-h‰lfen	#stv3b	^2SG	~ge-h‰lfes	\gehelfe$	_IIú4úV_ArnM-143{132v,22}.01	ø	:	³g=g³e=e³=-³h=h³e=‰³l=l³f=f³e=e³s=s³
+`sŒn @pron_poss	ùsŒn	#pron_poss	^GSf	~sŒner	\[$]in er	_IIú4úV_ArnM-143{132v,23}.02	ø	:	³[s]=s³i=Œ³n=n³e=e³r=r³
+`hulde @f	ùhulde	#f	^GS	~hulde	\hulde.(.)	_IIú4úV_ArnM-143{132v,23}.03@	ø	:	³h=h³u=u³l=l³d=d³e=e³
+`h‰lfen @stv3b	ùh‰lfen	#stv3b	^2SGB	~hilf	\hi%lf	_IIú4úV_ArnM-144{132v,23}.01	ø	:	³h=h³i=i³l=l³f=f³
+`ich @pron	ùich	#pron	^DS	~mir	\mir	_IIú4úV_ArnM-144{132v,23}.02	ø	:	³m=m³i=i³r=r³
+`wƒr @adj	ùwƒr	#adj	^GSm	~wƒres	\war e$	_IIú4úV_ArnM-144{132v,23}.03	ø	:	³w=w³a=ƒ³r=r³e=e³s=s³
+`riuwe @mf	ùriuwe	#m	^GS	~riuwen	\ruw[en].,,	_IIú4úV_ArnM-144{132v,23}.04@	ø	:	³r=r³u=iu³w=w³[e]=e³[n]=n³
+`dazz @konj	ùdazz	#konj	^	~dazz	\daz	_IIú4úV_ArnM-145{133r,01}.01	ø	:	³d=d³a=a³z=zz³
+`ich @pron	ùich	#pron	^NS	~ich	\ich	_IIú4úV_ArnM-145{133r,01}.02	ø	:	³i=i³ch=ch³
+`mŒn @pron_poss	ùmŒn	#pron_poss	^APf	~mŒne	\min e	_IIú4úV_ArnM-145{133r,01}.03	ø	:	³m=m³i=Œ³n=n³e=e³
+`snte @f	ùsnte	#f	^AP	~snten	\$unden.	_IIú4úV_ArnM-145{133r,01}.04@	ø	:	³s=s³u=³n=n³d=t³e=e³n=n³
+`mŠzen @anv	ùmŠzen	#anv	^1SGK	~mŠze	\mu\oze	_IIú4úV_ArnM-146{133r,01}.01	ø	:	³m=m³u\o=Š³z=z³e=e³
+`ge-wŠinen @swv	ùge-wŠinen	#swv i	^-	~ge-wŠinen	\gewei=nen.	_IIú4úV_ArnM-146{133r,01}.02@	ø	:	³g=g³e=e³=-³w=w³ei=Ši³n=n³e=e³n=n³
+`mit @pr„p	ùmit	#pr„p	^	~mit	\bit	_IIú4úV_ArnM-147{133r,02}.01	ø	:	³b=m³i=i³t=t³
+`innig-lich @adj	ùinnig-lich	#adj	^DP	~innig-lŒchen	\inneclich en	_IIú4úV_ArnM-147{133r,02}.02	ø	:	³i=i³nn=nn³e=i³c=g³=-³l=l³i=Œ³ch=ch³e=e³n=n³
+`trahen @m<(u)>	ùtrahen	#m<(u)>	^DP	~tr‘{Šhe}nen	\trenen.(.)	_IIú4úV_ArnM-147{133r,02}.03@	ø	:	³t=t³r=r³e=‘{Šhe}³n=n³e=e³n=n³
+`h‰lfen @stv3b	ùh‰lfen	#stv3b	^2SGB	~hilf	\*(H*)ilf	_IIú4úV_ArnM-148{133r,02}.01	ø	:	³h=h³i=i³l=l³f=f³
+`ich @pron	ùich	#pron	^DS	~mir	\mir	_IIú4úV_ArnM-148{133r,03}.02	ø	:	³m=m³i=i³r=r³
+`mit @pr„p	ùmit	#pr„p	^	~mit	\bit	_IIú4úV_ArnM-148{133r,03}.03	ø	:	³b=m³i=i³t=t³
+`vlŒz @m	ùvlŒz	#m	^DS	~vlŒze	\flize.,,	_IIú4úV_ArnM-148{133r,03}.04@	ø	:	³f=v³l=l³i=Œ³z=z³e=e³
+`dazz @konj	ùdazz	#konj	^	~dazz	\daz	_IIú4úV_ArnM-149{133r,03}.01	ø	:	³d=d³a=a³z=zz³
+`ich @pron	ùich	#pron	^NS	~ich	\ig	_IIú4úV_ArnM-149{133r,03}.02	ø	:	³i=i³g=ch³
+`d‰r @art	ùd‰r	#art	^ASf	~diu	\d u	_IIú4úV_ArnM-149{133r,03}.03	ø	:	³d=d³u=iu³
+`hŠlle-wŒze @fn	ùhŠlle-wŒze	#f	^AS	~hŠlle-wŒze	\hellewize	_IIú4úV_ArnM-149{133r,03}.04@	ø	:	³h=h³e=Š³ll=ll³e=e³=-³w=w³i=Œ³z=z³e=e³
+`niŠmer @adv	ùniŠmer	#adv	^	~niŠmer	\niemer	_IIú4úV_ArnM-150{133r,04}.01	ø	:	³n=n³ie=iŠ³m=m³e=e³r=r³
+`ne @partikel	ùne	#partikel	^	~en	\in|	_IIú4úV_ArnM-150{133r,04}.02	ø	:	³i=e³n=n³
+`er-lŒden @stv1a	ùer-lŒden	#stv1a	^1SG	~er-lŒde	\|relide.,,	_IIú4úV_ArnM-150{133r,04}.03@	ø	:/ù[!]/E[in|relide.: {inrelide} Maurer]	³re=er³=-³l=l³i=Œ³d=d³e=e³
+`dazz @konj	ùdazz	#konj	^	~dazz	\dad	_IIú4úV_ArnM-151{133r,04}.01	ø	:/K[dad: 2. {d} < {z} ?]	³d=d³a=a³d=zz³
+`ich @pron	ùich	#pron	^NS	~ich	\ig	_IIú4úV_ArnM-151{133r,04}.02	ø	:	³i=i³g=ch³
+`ouch @adv/konj	ùouch	#adv	^	~ouch	\oug	_IIú4úV_ArnM-151{133r,04}.03	ø	:	³ou=ou³g=ch³
+`ver-mŒden @stv1a	ùver-mŒden	#stv1a	^1SG	~ver-mŒde	\uer#mi=de	_IIú4úV_ArnM-151{133r,04}.04@	ø	:	³u=v³e=e³r=r³=-³m=m³i=Œ³d=d³e=e³
+`hin(e) @adv	ùhin(e)/+vort	#adv	^	~hine	\hinne	_IIú4úV_ArnM-152{133r,05}.01	ø	:	³h=h³i=i³nn=n³e=e³
+`vort @adv	ùvort/hin(e)+	#adv	^	~vort	\uord	_IIú4úV_ArnM-152{133r,05}.02	ø	:	³u=v³o=o³r=r³d=t³
+`all @pron	ùall	#pron	^APn	~alle	\all e	_IIú4úV_ArnM-152{133r,05}.03	ø	:	³a=a³ll=ll³e=e³
+`ding @n	ùding	#n	^AP	~ding	\dinc,,	_IIú4úV_ArnM-152{133r,05}.04@	ø	:	³d=d³i=i³n=n³c=g³
+`d‰r @pron	ùd‰r	#pron	^NPn+	~diŠ	\d ie	_IIú4úV_ArnM-153{133r,05}.01	ø	:	³d=d³ie=iŠ³
+`wider @pr„p	ùwider	#pr„p	^	~wider	\wider	_IIú4úV_ArnM-153{133r,05}.02	ø	:	³w=w³i=i³d=d³e=e³r=r³
+`got @m	ùgot	#m	^GS	~gotes	\gode$	_IIú4úV_ArnM-153{133r,06}.03	ø	:	³g=g³o=o³d=t³e=e³s=s³
+`hulde @f	ùhulde	#f	^ASP	~hulden	\hulden	_IIú4úV_ArnM-153{133r,06}.04	ø	:	³h=h³u=u³l=l³d=d³e=e³n=n³
+`sŒn @anv	ùsŒn	#anv	^3PGI	~sint	\$i[nt].(.)	_IIú4úV_ArnM-153{133r,06}.05@	ø	:	³s=s³i=i³[n]=n³[t]=t³
+`unte @konj	ùunte	#konj	^	~unte	\*(V*)nde	_IIú4úV_ArnM-154{133r,06}.01	ø	:	³v=u³n=n³d=t³e=e³
+`ruochen @swv	ùruochen	#swv	^2SGB	~ruoche	\ru\oche	_IIú4úV_ArnM-154{133r,06}.02	ø	:	³r=r³u\o=uo³ch=ch³e=e³
+`ich @pron	ùich	#pron	^AS	~mich	\mig	_IIú4úV_ArnM-154{133r,07}.03	ø	:	³m=m³i=i³g=ch³
+`ge-stŠrken @swv	ùge-stŠrken	#swv i	^-	~ge-stŠrken	\ge$terken.	_IIú4úV_ArnM-154{133r,07}.04@	ø	:	³g=g³e=e³=-³s=s³t=t³e=Š³r=r³k=k³e=e³n=n³
+`in @pr„p	ùin	#pr„p	^	~in	\in	_IIú4úV_ArnM-155{133r,07}.01	ø	:	³i=i³n=n³
+`all @pron	ùall	#pron	^DP	~allen	\all en	_IIú4úV_ArnM-155{133r,07}.02	ø	:	³a=a³ll=ll³e=e³n=n³
+`guot @adj	ùguot	#adj	^DP!	~guoten	\gu\od en	_IIú4úV_ArnM-155{133r,07}.03	ø	:	³g=g³u\o=uo³d=t³e=e³n=n³
+`w‰rk @n	ùw‰rk	#n	^DP	~w‰rken	\werken.,,	_IIú4úV_ArnM-155{133r,07}.04@	ø	:	³w=w³e=‰³r=r³k=k³e=e³n=n³
+`dazz @konj	ùdazz	#konj	^	~dazz	\daz	_IIú4úV_ArnM-156{133r,08}.01	ø	:	³d=d³a=a³z=zz³
+`ich @pron	ùich	#pron	^NS	~ich	\ig	_IIú4úV_ArnM-156{133r,08}.02	ø	:	³i=i³g=ch³
+`be-gƒn @anv	ùbe-gƒn	#anv	^1SGK	~be-gˆ	\bege	_IIú4úV_ArnM-156{133r,08}.03	ø	:	³b=b³e=e³=-³g=g³e=ˆ³
+`mŒn @pron_poss	ùmŒn	#pron_poss	^ASm	~mŒnen	\min en	_IIú4úV_ArnM-156{133r,08}.04	ø	:	³m=m³i=Œ³n=n³e=e³n=n³
+`lŒb @mn	ùlŒb	#m	^AS	~lŒb	\lif.	_IIú4úV_ArnM-156{133r,08}.05@	ø	:	³l=l³i=Œ³f=b³
+`all-s“ @adv/konj	ùall-s“	#konj	^	~all-se	\al$e	_IIú4úV_ArnM-157{133r,08}.01	ø	:	³a=a³l=ll³=-³s=s³e=e³
+`d‰r @art	ùd‰r	#art	^NPn	~diŠ	\d ie	_IIú4úV_ArnM-157{133r,08}.02	ø	:	³d=d³ie=iŠ³
+`hŠilig @adj	ùhŠilig	#adj	^NPn!	~hŠilige	\heili=g e	_IIú4úV_ArnM-157{133r,08}.03	ø	:/^[nach {die}]	³h=h³ei=Ši³l=l³i=i³g=g³e=e³
+`wŒb @n	ùwŒb	#n	^NP	~wŒb	\wif.,,	_IIú4úV_ArnM-157{133r,09}.04@	ø	:	³w=w³i=Œ³f=b³
+`d‰r @pron	ùd‰r	#pron	^NPn+	~diŠ	\d ie	_IIú4úV_ArnM-158{133r,09}.01	ø	:	³d=d³ie=iŠ³
+`wir @pron	ùwir	#pron	^DP	~uns	\un$	_IIú4úV_ArnM-158{133r,09}.02	ø	:	³u=u³n=n³s=s³
+`all @pron	ùall	#pron	^GSPf	~aller	\all er	_IIú4úV_ArnM-158{133r,09}.03	ø	:	³a=a³ll=ll³e=e³r=r³
+`tugend(e) @f	ùtugend(e)	#f	^GSP	~tugende	\dugende.	_IIú4úV_ArnM-158{133r,09}.04@	ø	:	³d=t³u=u³g=g³e=e³n=n³d=d³e=e³
+`g‰ben @stv5	ùg‰ben	#stv5 pV	^-	~ge-g‰ben	\gege=uen 	_IIú4úV_ArnM-159{133r,09}.01	ø	:	³g=g³e=e³=-³g=g³e=‰³u=b³e=e³n=n³
+`haben @swv-a	ùhaben	#swv-a	^3PGI	~habent	\hauent	_IIú4úV_ArnM-159{133r,10}.02	ø	:	³h=h³a=a³u=b³e=e³n=n³t=t³
+`bil(e)de @n	ùbil(e)de	#n	^AS	~bil(e)de	\bilede.(:)	_IIú4úV_ArnM-159{133r,10}.03@	ø	:	³b=b³i=i³l=l³e=e³d=d³e=e³
+`unser @pron_poss	ùunser	#pron_poss	^0NSf	~unser	\un$er	_IIú4úV_ArnM-160{133r,10}.01	ø	:	³u=u³n=n³s=s³e=e³r=r³
+`muoter @f<(u)>	ùmuoter	#f<(u)>	^NS	~muoter	\mu\oder	_IIú4úV_ArnM-160{133r,10}.02	ø	:	³m=m³u\o=uo³d=t³e=e³r=r³
+`Sara* @PN	ùSara	#PN	^NS	~Sara	\$a=ra,	_IIú4úV_ArnM-160{133r,10}.03	ø	:	*³$ara=Sara³
+`d‰r @art	ùd‰r	#art	^NSf	~diu	\d u	_IIú4úV_ArnM-160{133r,11}.04	ø	:	³d=d³u=iu³
+`“d-mŠtig @adj	ù“d-mŠtig	#adj	^NSfw%	~“d-mŠtige	\otmu\odig e.,,	_IIú4úV_ArnM-160{133r,11}.05@	ø	:	³o=“³t=d³=-³m=m³u\o=Š³d=t³i=i³g=g³e=e³
+`Anna* @PN	ùAnna	#PN	^NS	~Anna	\anna,	_IIú4úV_ArnM-161{133r,11}.01	ø	:	*³anna=Anna³
+`d‰r @art	ùd‰r	#art	^NSf	~diu	\d u	_IIú4úV_ArnM-161{133r,11}.02	ø	:	³d=d³u=iu³
+`ge-dultig @adj	ùge-dultig	#adj	^NSfw%	~ge-dultig‚	\geduldi(=)g <a>.,,	_IIú4úV_ArnM-161{133r,11}.03@	ø	:	³g=g³e=e³=-³d=d³u=u³l=l³d=t³i=i³g=g³a=‚³
+`Hester @PN	ùHester	#PN	^NS	~Hester	\he$ter,	_IIú4úV_ArnM-162{133r,12}.01	ø	:	*³h=h³e=e³s=s³t=t³e=e³r=r³
+`d‰r @art	ùd‰r	#art	^NSf	~diu	\d u|	_IIú4úV_ArnM-162{133r,12}.02	ø	:	³d=d³u=iu³
+`milte @adj	ùmilte	#adj	^NSfw%	~milte	\|mild e .,,	_IIú4úV_ArnM-162{133r,12}.03@	ø	:	³m=m³i=i³l=l³d=t³e=e³
+`[!] @[!]	ùJudit	#PN	^NS	~Judit	\¡udit,	_IIú4úV_ArnM-163{133r,12}.01	ø	:	*³¡=j³u=u³d=d³i=i³t=t³
+`d‰r @art	ùd‰r	#art	^NSf	~diu	\d u	_IIú4úV_ArnM-163{133r,12}.02	ø	:	³d=d³u=iu³
+`witzig @adj	ùwitzig	#adj	^NSfw%	~witzige	\wizzi=g e.,,	_IIú4úV_ArnM-163{133r,12}.03@	ø	:	³w=w³i=i³zz=tz³i=i³g=g³e=e³
+`unte @konj	ùunte	#konj	^	~unt<e>	\und|	_IIú4úV_ArnM-164{133r,13}.01	ø	:	³u=u³n=n³d=t³=e³
+`ander @pron	ùander	#pron	^NPf	~ander(e)	\|ander e	_IIú4úV_ArnM-164{133r,13}.02	ø	:	³a=a³n=n³d=d³e=e³r=r³e=e³
+`d‰r @art	ùd‰r	#art	^NPf	~diŠ	\d ie	_IIú4úV_ArnM-164{133r,13}.03	ø	:	³d=d³ie=iŠ³
+`vrouwe @f	ùvrouwe	#f	^NP	~vrouwen	\frowen.,,	_IIú4úV_ArnM-164{133r,13}.04@	ø	:	³f=v³r=r³o=ou³w=w³e=e³n=n³
+`d‰r @pron	ùd‰r	#pron	^NPf+	~diŠ	\d ie	_IIú4úV_ArnM-165{133r,13}.01	ø	:	³d=d³ie=iŠ³
+`in @pr„p	ùin	#pr„p	^	~in	\in|	_IIú4úV_ArnM-165{133r,13}.02	ø	:	³i=i³n=n³
+`got @m	ùgot	#m	^GS	~gotes	\|go(=)de$	_IIú4úV_ArnM-165{133r,13}.03	ø	:	³g=g³o=o³d=t³e=e³s=s³
+`vorht(e) @f	ùvorht(e)	#f	^DSP	~vorhten	\forhten.	_IIú4úV_ArnM-165{133r,14}.04@	ø	:	³f=v³o=o³r=r³h=h³t=t³e=e³n=n³
+`hiŠr @adv	ùhiŠr	#adv	^	~hiŠ<r>	\hie	_IIú4úV_ArnM-166{133r,14}.01	ø	:	³h=h³ie=iŠ³=r³
+`sich @pron	ùsich	#pron	^A	~sich	\$ig|	_IIú4úV_ArnM-166{133r,14}.02	ø	:	³s=s³i=i³g=ch³
+`s“ @adv/konj	ùs“	#adv	^	~s“	\|$o	_IIú4úV_ArnM-166{133r,14}.03	ø	:	³s=s³o=“³
+`be-tragen @swv	ùbe-tragen	#swv	^3PV	~be-trageten	\bedrageden.,,	_IIú4úV_ArnM-166{133r,14}.04@	ø	:	³b=b³e=e³=-³d=t³r=r³a=a³g=g³e=e³d=t³e=e³n=n³
+`dazz @konj	ùdazz	#konj	^	~dazz	\daz	_IIú4úV_ArnM-167{133r,14}.01	ø	:	³d=d³a=a³z=zz³
+`‰r @pron	ù‰r	#pron	^NPf	~siŠ	\$ie	_IIú4úV_ArnM-167{133r,15}.02	ø	:	³s=s³ie=iŠ³
+`got @m	ùgot	#m	^DS	~gote	\gode	_IIú4úV_ArnM-167{133r,15}.03	ø	:	³g=g³o=o³d=t³e=e³
+`wol(e) @adv/konj	ùwol(e)	#adv	^	~wol(e)	\wole	_IIú4úV_ArnM-167{133r,15}.04	ø	:	³w=w³o=o³l=l³e=e³
+`be-hagen @swv	ùbe-hagen	#swv	^3PV	~be-hageten	\behageden.(.)	_IIú4úV_ArnM-167{133r,15}.05@	ø	:	³b=b³e=e³=-³h=h³a=a³g=g³e=e³d=t³e=e³n=n³
+`ouch @adv/konj	ùouch	#adv	^	~ouch	\*(O*)ug	_IIú4úV_ArnM-168{133r,15}.01	ø	:	³ou=ou³g=ch³
+`nƒh @pr„p	ùnƒh	#pr„p	^	~nƒ<h>	\na|	_IIú4úV_ArnM-168{133r,15}.02	ø	:	³n=n³a=ƒ³=h³
+`dŒn @pron_poss	ùdŒn	#pron_poss	^DSf	~dŒner	\|di(=)n er	_IIú4úV_ArnM-168{133r,15}.03	ø	:	³d=d³i=Œ³n=n³e=e³r=r³
+`gŠte @f	ùgŠte	#f	^DS	~gŠte	\gu\ode.,	_IIú4úV_ArnM-168{133r,16}.04@	ø	:	³g=g³u\o=Š³d=t³e=e³
+`nƒh @pr„p	ùnƒh	#pr„p	^	~nƒ<h>	\na|	_IIú4úV_ArnM-169{133r,16}.01	ø	:	³n=n³a=ƒ³=h³
+`dŒn @pron_poss	ùdŒn	#pron_poss	^DSf	~dŒner	\|din er	_IIú4úV_ArnM-169{133r,16}.02	ø	:	³d=d³i=Œ³n=n³e=e³r=r³
+`“d-mŠte @f	ù“d-mŠte	#f	^DS	~“d-mŠte	\otmu\ode.	_IIú4úV_ArnM-169{133r,16}.03@	ø	:	³o=“³t=d³=-³m=m³u\o=Š³d=t³e=e³
+`mŠzen @anv	ùmŠzen	#anv	^1SGI	~muoz	\muz	_IIú4úV_ArnM-170{133r,16}.01	ø	:	³m=m³u=uo³z=z³
+`ich @pron	ùich	#pron	^NS	~ich	\ig	_IIú4úV_ArnM-170{133r,16}.02	ø	:	³i=i³g=ch³
+`ge-schŠpfen @stv6b	ùge-schŠpfen	#stv6b i	^-	~ge-schŠpfen	\ge$cheppen	_IIú4úV_ArnM-170{133r,17}.03	ø	:	³g=g³e=e³=-³sch=sch³e=Š³pp=pf³e=e³n=n³
+`mŒn @pron_poss	ùmŒn	#pron_poss	^ASm	~mŒnen	\min en	_IIú4úV_ArnM-170{133r,17}.04	ø	:	³m=m³i=Œ³n=n³e=e³n=n³
+`lŒb @mn	ùlŒb	#m	^AS	~lŒb	\lif.(.)	_IIú4úV_ArnM-170{133r,17}.05@	ø	:	³l=l³i=Œ³f=b³
+`d‰r @pron	ùd‰r	#pron	^GSn	~d‰s	\d e$	_IIú4úV_ArnM-171{133r,17}.01	ø	:	³d=d³e=‰³s=s³
+`h‰lfen @stv3b	ùh‰lfen	#stv3b	^2SGB	~hilf	\hilf	_IIú4úV_ArnM-171{133r,17}.02	ø	:	³h=h³i=i³l=l³f=f³
+`ich @pron	ùich	#pron	^DS	~mir	\mir,,	_IIú4úV_ArnM-171{133r,17}.03	ø	:	³m=m³i=i³r=r³
+`hŠilig @adj	ùhŠilig	#adj	^NSn"	~hŠiligezz	\hei=lig ez	_IIú4úV_ArnM-171{133r,17}.04	ø	:	³h=h³ei=Ši³l=l³i=i³g=g³e=e³z=zz³
+`wŒb @n	ùwŒb	#n	^NS	~wŒb	\wif!(!)	_IIú4úV_ArnM-171{133r,18}.05@	ø	:	³w=w³i=Œ³f=b³
+`ane @pr„p	ùane	#pr„p	^	~an<e>	\an	_IIú4úV_ArnM-172{133r,18}.01	ø	:	³a=a³n=n³=e³
+`dŒn @pron_poss	ùdŒn	#pron_poss	^ASf	~dŒne	\din e	_IIú4úV_ArnM-172{133r,18}.02	ø	:	³d=d³i=Œ³n=n³e=e³
+`hant @f<(u)>	ùhant	#f<(u)>	^AS	~hant	\hant	_IIú4úV_ArnM-172{133r,18}.03	ø	:	³h=h³a=a³n=n³t=t³
+`ich @pron	ùich	#pron	^NS	~ich	\ig	_IIú4úV_ArnM-172{133r,18}.04	ø	:	³i=i³g=ch³
+`be-g‰ben @stv5	ùbe-g‰ben	#stv5	^1SGI	~be-giben	\begeuen.	_IIú4úV_ArnM-172{133r,18}.05@	ø	:	³b=b³e=e³=-³g=g³e=i³u=b³e=e³n=n³
+`ich @pron	ùich	#pron	^AS©	~mich	\mig	_IIú4úV_ArnM-173{133r,19}.01	ø	:	³m=m³i=i³g=ch³
+`unte @konj	ùunte	#konj	^	~unt<e>	\und	_IIú4úV_ArnM-173{133r,19}.02	ø	:	³u=u³n=n³d=t³=e³
+`all @pron	ùall	#pron	^ASn	~allezz	\all ez	_IIú4úV_ArnM-173{133r,19}.03	ø	:	³a=a³ll=ll³e=e³z=zz³
+`d‰r @art	ùd‰r	#art	^ASn	~dazz	\d az	_IIú4úV_ArnM-173{133r,19}.04	ø	:	³d=d³a=a³z=zz³
+`mŒn @pron_poss	ùmŒn	#pron_poss	^0ASnw	~mŒn	\min	_IIú4úV_ArnM-173{133r,19}.05	ø	:	³m=m³i=Œ³n=n³
+`l‰ben @mn	ùl‰ben	#n	^AS	~l‰ben	\leuen!(.)	_IIú4úV_ArnM-173{133r,19}.06@	ø	:	³l=l³e=‰³u=b³e=e³n=n³
+`d– @pron	ùd–	#pron	^DS	~dir	\dir	_IIú4úV_ArnM-174{133r,19}.01	ø	:	³d=d³i=i³r=r³
+`be-v‰lhen @stv3b	ùbe-v‰lhen	#stv3b	^1SGI	~be-vil<h>en	\be(=)uelen	_IIú4úV_ArnM-174{133r,19}.02	ø	:	³b=b³e=e³=-³u=v³e=i³l=l³=h³e=e³n=n³
+`ich @pron	ùich	#pron	^NS	~ich	\ig	_IIú4úV_ArnM-174{133r,20}.03	ø	:	³i=i³g=ch³
+`all @pron	ùall	#pron	^ASf	~alle	\all e	_IIú4úV_ArnM-174{133r,20}.04	ø	:	³a=a³ll=ll³e=e³
+`mŒn @pron_poss	ùmŒn	#pron_poss	^ASf!	~mŒne	\min e	_IIú4úV_ArnM-174{133r,20}.05	ø	:/^[nach {alle}]	³m=m³i=Œ³n=n³e=e³
+`n“t @mf<u>	ùn“t	#f<u>	^AS	~n“t	\not.,,	_IIú4úV_ArnM-174{133r,20}.06@	ø	:	³n=n³o=“³t=t³
+`dazz @konj	ùdazz	#konj	^	~dazz	\daz	_IIú4úV_ArnM-175{133r,20}.01	ø	:	³d=d³a=a³z=zz³
+`d– @pron	ùd–	#pron	^NS	~d–	\du	_IIú4úV_ArnM-175{133r,20}.02	ø	:	³d=d³u=–³
+`ich @pron	ùich	#pron	^DS	~mir	\mir	_IIú4úV_ArnM-175{133r,20}.03	ø	:	³m=m³i=i³r=r³
+`wŠllen @anv	ùwŠllen	#anv	^2SGK	~willes	\wille$	_IIú4úV_ArnM-175{133r,21}.04	ø	:	³w=w³i=i³ll=ll³e=e³s=s³
+`sŒn @anv	ùsŒn	#anv i	^-	~sŒn	\<$>in	_IIú4úV_ArnM-175{133r,21}.05	ø	:	³s=s³i=Œ³n=n³
+`ge-rŠit(e) @adj	ùge-rŠit(e)	#adj	^-	~ge-rŠit	\gereit (.)	_IIú4úV_ArnM-175{133r,21}.06@	ø	:	³g=g³e=e³=-³r=r³ei=Ši³t=t³
+`in @pr„p	ùin	#pr„p	^	~in	\in|	_IIú4úV_ArnM-176{133r,21}.01	ø	:	³i=i³n=n³
+`swŠl(i)ch @pron	ùswŠl(i)ch	#pron	^DP	~swŠl(i)chen	\|$welech en	_IIú4úV_ArnM-176{133r,21}.02	ø	:	³s=s³w=w³e=Š³l=l³e=i³ch=ch³e=e³n=n³
+`mŒn @pron_poss	ùmŒn	#pron_poss	^DP	~mŒnen	\min en	_IIú4úV_ArnM-176{133r,21}.03	ø	:	³m=m³i=Œ³n=n³e=e³n=n³
+`n“t @mf<u>	ùn“t	#f<u>	^DP	~noŠten	\noden.	_IIú4úV_ArnM-176{133r,22}.04@	ø	:	³n=n³o=oŠ³d=t³e=e³n=n³
+`ich @pron	ùich	#pron	^NS	~ich	\ig	_IIú4úV_ArnM-177{133r,22}.01	ø	:	³i=i³g=ch³
+`d– @pron	ùd–	#pron	^AS	~dich	\dich	_IIú4úV_ArnM-177{133r,22}.02	ø	:	³d=d³i=i³ch=ch³
+`iŠmer @adv	ùiŠmer	#adv	^	~iŠmer	\iemer	_IIú4úV_ArnM-177{133r,22}.03	ø	:	³ie=iŠ³m=m³e=e³r=r³
+`ane @adv	ùane/>+ge-ruofen	#adv	^	~ane	\ane*1	_IIú4úV_ArnM-177{133r,22}.04	ø	:	³a=a³n=n³e=e³
+`ge-ruofen @stv7	ùge-ruofen/ane>+	#stv7	^1SG	~ge-ruofen	\geru\ofen.*2,,	_IIú4úV_ArnM-177{133r,22}.05@	ø	:	³g=g³e=e³=-³r=r³u\o=uo³f=f³e=e³n=n³
+`vrouwe @f	ùvrouwe	#f	^NS	~vrouwe	\*(F*)ro(=)we,,	_IIú4úV_ArnM-178{133r,22}.01	ø	:	³f=v³r=r³o=ou³w=w³e=e³
+`dŒn @pron_poss	ùdŒn	#pron_poss	^DSf	~dŒner	\din er	_IIú4úV_ArnM-178{133r,23}.02	ø	:	³d=d³i=Œ³n=n³e=e³r=r³
+`hant @f<(u)>	ùhant	#f<(u)>	^DS	~hŠnte	\hende	_IIú4úV_ArnM-178{133r,23}.03@	ø	:	³h=h³e=Š³n=n³d=t³e=e³
+`be-v‰lhen @stv3b	ùbe-v‰lhen	#stv3b pV	^-	~be-vol<h>en	\be#uolen 	_IIú4úV_ArnM-179{133r,23}.01	ø	:	³b=b³e=e³=-³u=v³o=o³l=l³=h³e=e³n=n³
+`sŒn @anv	ùsŒn	#anv	^3SGK	~sŒ	\$i	_IIú4úV_ArnM-179{133r,23}.02	ø	:	³s=s³i=Œ³
+`mŒn @pron_poss	ùmŒn	#pron_poss	^0NSmn	~mŒn	\min	_IIú4úV_ArnM-179{133r,23}.03	ø	:	³m=m³i=Œ³n=n³
+`Šnte @mn	ùŠnte	#mn	^NS	~Šnte	\ende!(.)	_IIú4úV_ArnM-179{133r,23}.04@	ø	:	³e=Š³n=n³d=t³e=e³
+`unte @konj	ùunte	#konj	^	~unt<e>	\und	_IIú4úV_ArnM-180{133v,01}.01	ø	:	³u=u³n=n³d=t³=e³
+`ruochen @swv	ùruochen	#swv	^2SGB	~ruoche	\ru\oche	_IIú4úV_ArnM-180{133v,01}.02	ø	:	³r=r³u\o=uo³ch=ch³e=e³
+`ich @pron	ùich	#pron	^GS	~mŒn	\min	_IIú4úV_ArnM-180{133v,01}.03	ø	:	³m=m³i=Œ³n=n³
+`ge-wŒsen @swv	ùge-wŒsen	#swv i	^-	~ge-wŒsen	\gewi$en.	_IIú4úV_ArnM-180{133v,01}.04@	ø	:	³g=g³e=e³=-³w=w³i=Œ³s=s³e=e³n=n³
+`unte @konj	ùunte	#konj	^	~unt<e>	\und	_IIú4úV_ArnM-181{133v,01}.01	ø	:	³u=u³n=n³d=t³=e³
+`ich @pron	ùich	#pron	^AS	~mich	\mich|	_IIú4úV_ArnM-181{133v,01}.02	ø	:	³m=m³i=i³ch=ch³
+`er-loŠsen @swv	ùer-loŠsen	#swv i	^-	~er-loŠsen	\|er(=)lo$en	_IIú4úV_ArnM-181{133v,01}.03@	ø	:	³e=e³r=r³=-³l=l³o=oŠ³s=s³e=e³n=n³
+`–z @adv	ù–z	#adv	^	~–z	\uz	_IIú4úV_ArnM-182{133v,02}.01	ø	:	³u=–³z=z³
+`von @pr„p	ùvon	#pr„p	^	~van	\uan|	_IIú4úV_ArnM-182{133v,02}.02	ø	:	³u=v³a=a³n=n³
+`d‰r @art	ùd‰r	#art	^DSf	~d‰r	\|d er	_IIú4úV_ArnM-182{133v,02}.03	ø	:	³d=d³e=‰³r=r³
+`gr“z @adj	ùgr“z	#adj	^DSf!	~gr“zer	\groz er	_IIú4úV_ArnM-182{133v,02}.04	ø	:/^[nach {uan|der}]	³g=g³r=r³o=“³z=z³e=e³r=r³
+`n“t @mf<u>	ùn“t	#f<u>	^DS	~n“t	\not,,	_IIú4úV_ArnM-182{133v,02}.05@	ø	:	³n=n³o=“³t=t³
+`swanne @konj	ùswanne	#konj	^	~swanne	\$uanne	_IIú4úV_ArnM-183{133v,02}.01	ø	:	³s=s³u=w³a=a³nn=nn³e=e³
+`s“ @partikel	ùs“	#partikel	^	~s“	\$o	_IIú4úV_ArnM-183{133v,03}.02	ø	:	³s=s³o=“³
+`d‰r @art	ùd‰r	#art	^NSm	~d‰r	\d er	_IIú4úV_ArnM-183{133v,03}.03	ø	:	³d=d³e=‰³r=r³
+`lŠid @adj	ùlŠid	#adj	^NSmw	~lŠide	\leid e	_IIú4úV_ArnM-183{133v,03}.04	ø	:	³l=l³ei=Ši³d=d³e=e³
+`t“d @m<(u)>	ùt“d	#m<(u)>	^NS	~t“d	\dot!	_IIú4úV_ArnM-183{133v,03}.05@	ø	:	³d=t³o=“³t=d³
+`ane @pr„p	ùane	#pr„p	^	~ane	\ane	_IIú4úV_ArnM-184{133v,03}.01	ø	:	³a=a³n=n³e=e³
+`ich @pron	ùich	#pron	^DS	~mir	\mir	_IIú4úV_ArnM-184{133v,03}.02	ø	:	³m=m³i=i³r=r³
+`sol(e)n @anv	ùsol(e)n	#anv	^3SGI	~sal	\$al	_IIú4úV_ArnM-184{133v,03}.03	ø	:	³s=s³a=a³l=l³
+`ge-schŠiden @stv7	ùge-schŠiden	#stv7 i	^-	~ge-schŠiden	\ge$cheiden.	_IIú4úV_ArnM-184{133v,03}.04@	ø	:	³g=g³e=e³=-³sch=sch³ei=Ši³d=d³e=e³n=n³
+`d‰r @art	ùd‰r	#art	^ASm	~d‰n	\d en	_IIú4úV_ArnM-185{133v,04}.01	ø	:	³d=d³e=‰³n=n³
+`lŒb @mn	ùlŒb	#m	^AS	~lŒb	\lif	_IIú4úV_ArnM-185{133v,04}.02	ø	:	³l=l³i=Œ³f=b³
+`von @pr„p	ùvon	#pr„p	^	~van	\uan	_IIú4úV_ArnM-185{133v,04}.03	ø	:	³u=v³a=a³n=n³
+`d‰r @art	ùd‰r	#art	^DSf	~d‰r	\d er	_IIú4úV_ArnM-185{133v,04}.04	ø	:	³d=d³e=‰³r=r³
+`sˆle @f	ùsˆle	#f	^DS	~sˆlen	\$elen.(.)	_IIú4úV_ArnM-185{133v,04}.05@	ø	:	³s=s³e=ˆ³l=l³e=e³n=n³
+`in @pr„p	ùin	#pr„p	^	~in	\*(I*)n|	_IIú4úV_ArnM-186{133v,04}.01	ø	:	³i=i³n=n³
+`d‰r @art	ùd‰r	#art	^DSf	~d‰r	\|d er	_IIú4úV_ArnM-186{133v,04}.02	ø	:	³d=d³e=‰³r=r³
+`gr“z @adj	ùgr“z	#adj	^DSf!	~gr“zer	\groz er	_IIú4úV_ArnM-186{133v,04}.03	ø	:/^[nach {*(I*)n|der}]	³g=g³r=r³o=“³z=z³e=e³r=r³
+`angest @mf<(u)>	ùangest	#f<(u)>	^DS	~Šngeste	\enge$te	_IIú4úV_ArnM-186{133v,05}.04@	ø	:	³e=Š³n=n³g=g³e=e³s=s³t=t³e=e³
+`komen @stv4	ùkomen	#stv4	^2SGB	~kum	\cum	_IIú4úV_ArnM-187{133v,05}.01	ø	:	³c=k³u=u³m=m³
+`d– @pron	ùd–	#pron	^NS	~d–	\du	_IIú4úV_ArnM-187{133v,05}.02	ø	:	³d=d³u=–³
+`ich @pron	ùich	#pron	^DS	~mir	\mir	_IIú4úV_ArnM-187{133v,05}.03	ø	:	³m=m³i=i³r=r³
+`ze @pr„p	ùze	#pr„p	^	~ze	\ce	_IIú4úV_ArnM-187{133v,05}.04	ø	:	³c=z³e=e³
+`tr“st @m	ùtr“st	#m	^DS	~tr“ste	\tro$te!,,	_IIú4úV_ArnM-187{133v,05}.05@	ø	:	³t=t³r=r³o=“³s=s³t=t³e=e³
+`unte @konj	ùunte	#konj	^	~unte	\unde	_IIú4úV_ArnM-188{133v,05}.01	ø	:	³u=u³n=n³d=t³e=e³
+`h‰lfen @stv3b	ùh‰lfen	#stv3b	^2SGB	~hilf	\hilf,,	_IIú4úV_ArnM-188{133v,05}.02	ø	:	³h=h³i=i³l=l³f=f³
+`dazz @konj	ùdazz	#konj	^	~dazz	\daz	_IIú4úV_ArnM-188{133v,06}.03	ø	:	³d=d³a=a³z=zz³
+`mŒn @pron_poss	ùmŒn	#pron_poss	^0NSf	~mŒn	\min	_IIú4úV_ArnM-188{133v,06}.04	ø	:	³m=m³i=Œ³n=n³
+`sˆle @f	ùsˆle	#f	^NS	~sˆle	\$ele	_IIú4úV_ArnM-188{133v,06}.05@	ø	:	³s=s³e=ˆ³l=l³e=e³
+`w‰rden @stv3b	ùw‰rden	#stv3b	^3SGK	~w‰rde	\werde	_IIú4úV_ArnM-189{133v,06}.01	ø	:	³w=w³e=‰³r=r³d=d³e=e³
+`ze @pr„p	ùze	#pr„p	^	~ze	\ce	_IIú4úV_ArnM-189{133v,06}.02	ø	:	³c=z³e=e³
+`tŠil @mn	ùtŠil	#mn	^DS	~tŠile	\deile.	_IIú4úV_ArnM-189{133v,06}.03@	ø	:	³d=t³ei=Ši³l=l³e=e³
+`d‰r @art	ùd‰r	#art	^DP	~d‰n	\d en	_IIú4úV_ArnM-190{133v,06}.01	ø	:	³d=d³e=‰³n=n³
+`liŠb @adj	ùliŠb	#adj	^DP!	~liŠben	\lie(=)u en	_IIú4úV_ArnM-190{133v,06}.02	ø	:	³l=l³ie=iŠ³u=b³e=e³n=n³
+`got @m	ùgot	#m	^GS	~gotes	\gode$	_IIú4úV_ArnM-190{133v,07}.03	ø	:	³g=g³o=o³d=t³e=e³s=s³
+`Šngel @m	ùŠngel	#m	^DP	~Šngel(e)n	\engelen.,	_IIú4úV_ArnM-190{133v,07}.04@	ø	:	³e=Š³n=n³g=g³e=e³l=l³e=e³n=n³
+`niht @adv	ùniht	#adv	^	~niŠt	\niet	_IIú4úV_ArnM-191{133v,07}.01	ø	:	³n=n³ie=iŠ³t=t³
+`d‰r @art	ùd‰r	#art	^DP	~d‰n	\d en	_IIú4úV_ArnM-191{133v,07}.02	ø	:	³d=d³e=‰³n=n³
+`lŠid @adj	ùlŠid	#adj	^DP!	~lŠiden	\leid en	_IIú4úV_ArnM-191{133v,07}.03	ø	:	³l=l³ei=Ši³d=d³e=e³n=n³
+`tiuvel @m	ùtiuvel	#m	^DP	~tiuvel(e)n	\du=uelen!,,	_IIú4úV_ArnM-191{133v,07}.04@	ø	:	³d=t³u=iu³u=v³e=e³l=l³e=e³n=n³
+`dazz @konj	ùdazz	#konj	^	~dazz	\daz	_IIú4úV_ArnM-192{133v,08}.01	ø	:	³d=d³a=a³z=zz³
+`‰r @pron	ù‰r	#pron	^NPm	~siŠ	\$ie	_IIú4úV_ArnM-192{133v,08}.02	ø	:	³s=s³ie=iŠ³
+`ich @pron	ùich	#pron	^AS	~mich	\mich	_IIú4úV_ArnM-192{133v,08}.03	ø	:	³m=m³i=i³ch=ch³
+`dar(e) @adv/konj	ùdar(e)	#adv	^	~dar(e)	\dare	_IIú4úV_ArnM-192{133v,08}.04	ø	:	³d=d³a=a³r=r³e=e³
+`bringen @anv	ùbringen	#anv i	^-	~brŠngen	\brengen.,,	_IIú4úV_ArnM-192{133v,08}.05@	ø	:	³b=b³r=r³e=Š³n=n³g=g³e=e³n=n³
+`dƒr @adv	ùdƒr	#adv	^	~dƒ	\da	_IIú4úV_ArnM-193{133v,08}.01	ø	:	³d=d³a=ƒ³
+`ich @pron	ùich	#pron	^NS	~ich	\ig	_IIú4úV_ArnM-193{133v,09}.02	ø	:	³i=i³g=ch³
+`mŠzen @anv	ùmŠzen	#anv	^1SGK	~mŠze	\mu\oze	_IIú4úV_ArnM-193{133v,09}.03	ø	:	³m=m³u\o=Š³z=z³e=e³
+`vinden @stv3a	ùvinden	#stv3a i	^-	~vinden	\u¡nden	_IIú4úV_ArnM-193{133v,09}.04@	ø	:	³u=v³¡=i³n=n³d=d³e=e³n=n³
+`d‰r @art	ùd‰r	#art	^ASf	~diu	\d u	_IIú4úV_ArnM-194{133v,09}.01	ø	:	³d=d³u=iu³
+`ˆ(we)-lich @adj	ùˆ(we)-lich	#adj	^ASf!	~ˆwe-lŒche	\ewelich e	_IIú4úV_ArnM-194{133v,09}.02	ø	:/^[nach {du}]	³e=ˆ³w=w³e=e³=-³l=l³i=Œ³ch=ch³e=e³
+`vr”u(we)de @f	ùvr”u(we)de	#f	^AS	~vr”u(we)de	\frowede,,	_IIú4úV_ArnM-194{133v,09}.03@	ø	:	³f=v³r=r³o=”u³w=w³e=e³d=d³e=e³
+`d‰r @pron	ùd‰r	#pron	^ASf+	~diŠ	\d ie	_IIú4úV_ArnM-195{133v,10}.01	ø	:	³d=d³ie=iŠ³
+`dƒr @adv	ùdƒr	#adv	^	~dƒ	\da	_IIú4úV_ArnM-195{133v,10}.02	ø	:	³d=d³a=ƒ³
+`haben @swv-a	ùhaben	#swv-a	^3PGI	~habent	\hauent	_IIú4úV_ArnM-195{133v,10}.03	ø	:	³h=h³a=a³u=b³e=e³n=n³t=t³
+`ze @pr„p	ùze	#pr„p	^	~ze	\ce	_IIú4úV_ArnM-195{133v,10}.04	ø	:	³c=z³e=e³
+`himel @m	ùhimel	#m	^DS	~himel(e)	\himile!	_IIú4úV_ArnM-195{133v,10}.05@	ø	:	³h=h³i=i³m=m³i=e³l=l³e=e³
+`d‰r @art	ùd‰r	#art	^NPn	~diŠ	\d ie	_IIú4úV_ArnM-196{133v,10}.01	ø	:	³d=d³ie=iŠ³
+`vil(e) @adv	ùvil(e)	#adv	^	~vil<e>	\fil	_IIú4úV_ArnM-196{133v,10}.02	ø	:	³f=v³i=i³l=l³=e³
+`s‘lig @adj	ùs‘lig	#adj	^NPn!	~s‘lige	\$elig e	_IIú4úV_ArnM-196{133v,10}.03	ø	:/^[nach {die fil}]	³s=s³e=‘³l=l³i=i³g=g³e=e³
+`got @m	ùgot	#m	^GS	~gotes	\gode$	_IIú4úV_ArnM-196{133v,11}.04	ø	:	³g=g³o=o³d=t³e=e³s=s³
+`kind @n	ùkind	#n	^NP	~kind	\kint.,,	_IIú4úV_ArnM-196{133v,11}.05@	ø	:	³k=k³i=i³n=n³t=d³
+`d‰r @pron	ùd‰r	#pron	^NPn+	~diŠ	\d ie	_IIú4úV_ArnM-197{133v,11}.01	ø	:	³d=d³ie=iŠ³
+`dƒr @adv	ùdƒr	#adv	^	~dƒr	\dar	_IIú4úV_ArnM-197{133v,11}.02	ø	:	³d=d³a=ƒ³r=r³
+`zuo @adv	ùzuo	#adv	^	~zuo	\zu\o	_IIú4úV_ArnM-197{133v,11}.03	ø	:	³z=z³u\o=uo³
+`er-wŠl(e)n @swv	ùer-wŠl(e)n	#swv pV	^-	~er-wŠl(e)t	\irwele<t> 	_IIú4úV_ArnM-197{133v,11}.04	ø	:	³i=e³r=r³=-³w=w³e=Š³l=l³e=e³t=t³
+`sŒn @anv	ùsŒn	#anv	^3PGI	~sint	\sint.,,	_IIú4úV_ArnM-197{133v,11}.05@	ø	:	³s=s³i=i³n=n³t=t³
+`dazz @konj	ùdazz	#konj	^	~dazz	\*(D*)az	_IIú4úV_ArnM-198{133v,12}.01	ø	:	³d=d³a=a³z=zz³
+`ich @pron	ùich	#pron	^NS	~ich	\ig	_IIú4úV_ArnM-198{133v,12}.02	ø	:	³i=i³g=ch³
+`mŠzen @anv	ùmŠzen	#anv	^1SGK	~mŠze	\mu\oze	_IIú4úV_ArnM-198{133v,12}.03	ø	:	³m=m³u\o=Š³z=z³e=e³
+`schouwen @swv	ùschouwen	#swv i	^-	~schouwen	\$cowen.	_IIú4úV_ArnM-198{133v,12}.04@	ø	:	³sc=sch³o=ou³w=w³e=e³n=n³
+`d‰r @art	ùd‰r	#art	^ASm	~d‰n	\d en	_IIú4úV_ArnM-199{133v,12}.01	ø	:	³d=d³e=‰³n=n³
+`unser @pron_poss	ùunser	#pron_poss	^ASm	~unsen	\un$ en	_IIú4úV_ArnM-199{133v,12}.02	ø	:	³u=u³n=n³s=s³e=e³n=n³
+`liŠb @adj	ùliŠb	#adj	^ASm!	~liŠben	\lieu en	_IIú4úV_ArnM-199{133v,12}.03	ø	:	³l=l³ie=iŠ³u=b³e=e³n=n³
+`hˆrre @m	ùhˆrre	#m	^AS	~hˆrren	\herren.,	_IIú4úV_ArnM-199{133v,13}.04@	ø	:	³h=h³e=ˆ³rr=rr³e=e³n=n³
+`d‰r @art	ùd‰r	#art	^ASm	~d‰n	\d en	_IIú4úV_ArnM-200{133v,13}.01	ø	:	³d=d³e=‰³n=n³
+`unser @pron_poss	ùunser	#pron_poss	^ASm	~unsen	\un$ en	_IIú4úV_ArnM-200{133v,13}.02	ø	:	³u=u³n=n³s=s³e=e³n=n³
+`schŠpf‘re @m	ùschŠpf‘re	#m	^AS	~schŠpf‘re	\$cheppere.,	_IIú4úV_ArnM-200{133v,13}.03@	ø	:	³sch=sch³e=Š³pp=pf³e=‘³r=r³e=e³
+`d‰r @art	ùd‰r	#art	^ASm	~d‰n	\d en	_IIú4úV_ArnM-201{133v,13}.01	ø	:	³d=d³e=‰³n=n³
+`unser @pron_poss	ùunser	#pron_poss	^ASm	~unsen	\un$ en	_IIú4úV_ArnM-201{133v,13}.02	ø	:	³u=u³n=n³s=s³e=e³n=n³
+`hŠil‘re @m	ùhŠil‘re	#m	^AS	~hŠil‘re	\heilere.,,	_IIú4úV_ArnM-201{133v,14}.03@	ø	:	³h=h³ei=Ši³l=l³e=‘³r=r³e=e³
+`d‰r @pron	ùd‰r	#pron	^NSm+	~d‰r	\d er	_IIú4úV_ArnM-202{133v,14}.01	ø	:	³d=d³e=‰³r=r³
+`wir @pron	ùwir	#pron	^AP	~uns	\un$	_IIú4úV_ArnM-202{133v,14}.02	ø	:	³u=u³n=n³s=s³
+`ge-schŠpfen @stv6b	ùge-schŠpfen	#stv6b	^3SVI	~ge-schuof	\ge$cv\of	_IIú4úV_ArnM-202{133v,14}.03	ø	:	³g=g³e=e³=-³sc=sch³v\o=uo³f=f³
+`von @pr„p	ùvon	#pr„p	^	~van	\uan	_IIú4úV_ArnM-202{133v,14}.04	ø	:	³u=v³a=a³n=n³
+`niht @n	ùniht	#n	^DS	~niwete	\niwete.,,	_IIú4úV_ArnM-202{133v,14}.05@	ø	:	³n=n³i=i³w=w³e=e³t=t³e=e³
+`d‰r @pron	ùd‰r	#pron	^NSm+	~d‰r	\d er	_IIú4úV_ArnM-203{133v,14}.01	ø	:	³d=d³e=‰³r=r³
+`wir @pron	ùwir	#pron	^AP	~uns	\<u>n$	_IIú4úV_ArnM-203{133v,15}.02	ø	:	³u=u³n=n³s=s³
+`ouch @adv/konj	ùouch	#adv	^	~ouch	\oug	_IIú4úV_ArnM-203{133v,15}.03	ø	:	³ou=ou³g=ch³
+`ge-koufen @swv	ùge-koufen	#swv	^3SV	~ge-koufte	\gecoufte!	_IIú4úV_ArnM-203{133v,15}.04@	ø	:	³g=g³e=e³=-³c=k³ou=ou³f=f³t=t³e=e³
+`mit @pr„p	ùmit	#pr„p	^	~mit	\bit	_IIú4úV_ArnM-204{133v,15}.01	ø	:	³b=m³i=i³t=t³
+`sŒn @pron_poss	ùsŒn	#pron_poss	^GSm	~sŒnes	\$in e$	_IIú4úV_ArnM-204{133v,15}.02	ø	:	³s=s³i=Œ³n=n³e=e³s=s³
+`sun @m<u>	ùsun	#m<u>	^GS	~sunes	\$u\one$	_IIú4úV_ArnM-204{133v,15}.03	ø	:	³s=s³u\o=u³n=n³e=e³s=s³
+`bluot @n	ùbluot	#n	^DS	~bluote	\blu\o=de	_IIú4úV_ArnM-204{133v,15}.04@	ø	:	³b=b³l=l³u\o=uo³d=t³e=e³
+`von @pr„p	ùvon	#pr„p	^	~van	\uan	_IIú4úV_ArnM-205{133v,16}.01	ø	:	³u=v³a=a³n=n³
+`d‰r @art	ùd‰r	#art	^DSm	~d‰me	\d eme	_IIú4úV_ArnM-205{133v,16}.02	ø	:	³d=d³e=‰³m=m³e=e³
+`ˆwig @adj	ùˆwig	#adj	^DSm!	~ˆwigeme	\ewig eme	_IIú4úV_ArnM-205{133v,16}.03	ø	:/^[nach {deme}]	³e=ˆ³w=w³i=i³g=g³e=e³m=m³e=e³
+`t“d @m<(u)>	ùt“d	#m<(u)>	^DS	~t“de	\dode.(.)	_IIú4úV_ArnM-205{133v,16}.04@	ø	:	³d=t³o=“³d=d³e=e³
+`w‰r @pron	ùw‰r	#pron	^NSm	~w‰r	\*(V*)v er	_IIú4úV_ArnM-206{133v,16}.01	ø	:	³vv=w³e=‰³r=r³
+`sol(e)n @anv	ùsol(e)n	#anv	^3SGI	~sal	\$al	_IIú4úV_ArnM-206{133v,16}.02	ø	:	³s=s³a=a³l=l³
+`ich @pron	ùich	#pron	^DS	~mir	\mir	_IIú4úV_ArnM-206{133v,17}.03	ø	:	³m=m³i=i³r=r³
+`d‰r @pron	ùd‰r	#pron	^GSn	~d‰s	\d e$	_IIú4úV_ArnM-206{133v,17}.04	ø	:	³d=d³e=‰³s=s³
+`ge-h‰lfen @stv3b	ùge-h‰lfen	#stv3b i	^-	~ge-h‰lfen	\gehelfen.,,	_IIú4úV_ArnM-206{133v,17}.05@	ø	:	³g=g³e=e³=-³h=h³e=‰³l=l³f=f³e=e³n=n³
+`w‰r @pron	ùw‰r	#pron	^NSm	~w‰r	\w er	_IIú4úV_ArnM-207{133v,17}.01	ø	:	³w=w³e=‰³r=r³
+`sol(e)n @anv	ùsol(e)n	#anv	^3SGI	~sal	\$al	_IIú4úV_ArnM-207{133v,17}.02	ø	:/K[$al: dZ]	³s=s³a=a³l=l³
+`ich @pron	ùich	#pron	^AS	~mich	\mig	_IIú4úV_ArnM-207{133v,17}.03	ø	:	³m=m³i=i³g=ch³
+`s“ @adv/konj	ùs“	#adv	^	~s“	\$o	_IIú4úV_ArnM-207{133v,17}.04	ø	:/E[$o: {so} Maurer]	³s=s³o=“³
+`ge-liuter(e)n @swv	ùge-liuter(e)n	#swv i	^-	~ge-liuter(e)n	\geluteren!,,	_IIú4úV_ArnM-207{133v,17}.05@	ø	:	³g=g³e=e³=-³l=l³u=iu³t=t³e=e³r=r³e=e³n=n³
+`dazz @konj	ùdazz	#konj	^	~dazz	\daz	_IIú4úV_ArnM-208{133v,18}.01	ø	:	³d=d³a=a³z=zz³
+`ich @pron	ùich	#pron	^NS	~ich	\ig	_IIú4úV_ArnM-208{133v,18}.02	ø	:	³i=i³g=ch³
+`d‰r @pron	ùd‰r	#pron	^GSn	~d‰s	\d e$	_IIú4úV_ArnM-208{133v,18}.03	ø	:	³d=d³e=‰³s=s³
+`wirdig @adj	ùwirdig	#adj	^-	~wirdig	\wirdich 	_IIú4úV_ArnM-208{133v,18}.04	ø	:	³w=w³i=i³r=r³d=d³i=i³ch=g³
+`mŠzen @anv	ùmŠzen	#anv	^1SGK	~mŠze	\mu\oze	_IIú4úV_ArnM-208{133v,18}.05	ø	:	³m=m³u\o=Š³z=z³e=e³
+`sŒn @anv	ùsŒn	#anv i	^-	~sŒn	\$in.(?)	_IIú4úV_ArnM-208{133v,18}.06@	ø	:	³s=s³i=Œ³n=n³
+`d‰r @pron	ùd‰r	#pron	^ASn	~dazz	\d az	_IIú4úV_ArnM-209{133v,18}.01	ø	:/^[N?]	³d=d³a=a³z=zz³
+`sol(e)n @anv	ùsol(e)n	#anv	^2SGI	~salt	\$alt|	_IIú4úV_ArnM-209{133v,18}.02	ø	:	³s=s³a=a³l=l³t=t³
+`d– @pron	ùd–	#pron	^NS	~<d>–	\|u,,	_IIú4úV_ArnM-209{133v,18}.03	ø	:	³=d³u=–³
+`Jˆsus* @PN	ùJˆsus	#PN	^NS	~Jˆsus	\ih\-c,	_IIú4úV_ArnM-209{133v,19}.04	ø	:	*³ih\-c=Jˆsus³
+`hˆrre @m	ùhˆrre	#m	^NS	~hˆrre	\herre	_IIú4úV_ArnM-209{133v,19}.05	ø	:	³h=h³e=ˆ³rr=rr³e=e³
+`mŒn @pron_poss	ùmŒn	#pron_poss	^0NSmø"	~mŒn	\min.(!)	_IIú4úV_ArnM-209{133v,19}.06@	ø	:	³m=m³i=Œ³n=n³
+`g‰ben @stv5	ùg‰ben	#stv5	^2SGB	~gib	\gif	_IIú4úV_ArnM-210{133v,19}.01	ø	:	³g=g³i=i³f=b³
+`ich @pron	ùich	#pron	^DS	~mir	\mir,,(	_IIú4úV_ArnM-210{133v,19}.02	ø	:	³m=m³i=i³r=r³
+`hˆrre @m	ùhˆrre	#m	^NS	~hˆrre	\herre,,)	_IIú4úV_ArnM-210{133v,19}.03	ø	:	³h=h³e=ˆ³rr=rr³e=e³
+`dŒn @pron_poss	ùdŒn	#pron_poss	^ASm	~dŒnen	\din en	_IIú4úV_ArnM-210{133v,19}.04	ø	:	³d=d³i=Œ³n=n³e=e³n=n³
+`gŠist @m	ùgŠist	#m	^AS	~gŠist	\ge=i$t.,,	_IIú4úV_ArnM-210{133v,19}.05@	ø	:	³g=g³ei=Ši³s=s³t=t³
+`wante @konj	ùwante	#konj	^	~wan<te>	\wan|	_IIú4úV_ArnM-211{133v,20}.01	ø	:	³w=w³a=a³n=n³=te³
+`d– @pron	ùd–	#pron	^NS	~d–	\|tu	_IIú4úV_ArnM-211{133v,20}.02	ø	:	³t=d³u=–³
+`s‰lb @pron	ùs‰lb	#pron	^NSmw!%&	~s‰lbe	\$elb e	_IIú4úV_ArnM-211{133v,20}.03	ø	:	³s=s³e=‰³l=l³b=b³e=e³
+`wol(e) @adv/konj	ùwol(e)	#adv	^	~wol(e)	\wale	_IIú4úV_ArnM-211{133v,20}.04	ø	:	³w=w³a=o³l=l³e=e³
+`wizzen @anv	ùwizzen	#anv	^2SGI	~wŠist	\wei$t	_IIú4úV_ArnM-211{133v,20}.05@	ø	:	³w=w³ei=Ši³s=s³t=t³
+`all @pron	ùall	#pron	^ASf	~alle	\all e	_IIú4úV_ArnM-212{133v,20}.01	ø	:	³a=a³ll=ll³e=e³
+`mŒn @pron_poss	ùmŒn	#pron_poss	^ASf!	~mŒne	\mi<n e>	_IIú4úV_ArnM-212{133v,20}.02	ø	:/^[nach {alle}]	³m=m³i=Œ³n=n³e=e³
+`krank-hŠit @f	ùkrank-hŠit	#f	^AS	~krank-hŠit	\crancheit.	_IIú4úV_ArnM-212{133v,21}.03@	ø	:	³c=k³r=r³a=a³n=n³c=k³=-³h=h³ei=Ši³t=t³
+`unte @konj	ùunte	#konj	^	~unt<e>	\und	_IIú4úV_ArnM-213{133v,21}.01	ø	:	³u=u³n=n³d=t³=e³
+`all @pron	ùall	#pron	^ASf	~alle	\all e	_IIú4úV_ArnM-213{133v,21}.02	ø	:	³a=a³ll=ll³e=e³
+`mŒn @pron_poss	ùmŒn	#pron_poss	^0ASfw	~mŒn	\min	_IIú4úV_ArnM-213{133v,21}.03	ø	:	³m=m³i=Œ³n=n³
+`un-wizzig-hŠit @f	ùun-wizzig-hŠit	#f	^AS	~un-wizzig-hŠit	\unwizigheit.,,	_IIú4úV_ArnM-213{133v,21}.04@	ø	:	³u=u³n=n³=-³w=w³i=i³z=zz³i=i³g=g³=-³h=h³ei=Ši³t=t³
+`dazz @konj	ùdazz	#konj	^	~dazz	\daz	_IIú4úV_ArnM-214{133v,22}.01	ø	:	³d=d³a=a³z=zz³
+`ich @pron	ùich	#pron	^NS	~ich	\ig	_IIú4úV_ArnM-214{133v,22}.02	ø	:	³i=i³g=ch³
+`mŠzen @anv	ùmŠzen	#anv	^1SGK	~mŠze	\mu\oze	_IIú4úV_ArnM-214{133v,22}.03	ø	:	³m=m³u\o=Š³z=z³e=e³
+`schouwen @swv	ùschouwen	#swv i	^-	~schouwen	\$cowen	_IIú4úV_ArnM-214{133v,22}.04@	ø	:	³sc=sch³o=ou³w=w³e=e³n=n³
+`mit @pr„p	ùmit	#pr„p	^	~mit	\bit	_IIú4úV_ArnM-215{133v,22}.01	ø	:	³b=m³i=i³t=t³
+`d‰r @art	ùd‰r	#art	^DP	~d‰n	\d en	_IIú4úV_ArnM-215{133v,22}.02	ø	:	³d=d³e=‰³n=n³
+`mŒn @pron_poss	ùmŒn	#pron_poss	^DP	~mŒnen	\min <en>	_IIú4úV_ArnM-215{133v,22}.03	ø	:	³m=m³i=Œ³n=n³e=e³n=n³
+`ouge @n	ùouge	#n	^DP	~ougen	\ougen!	_IIú4úV_ArnM-215{133v,23}.04@	ø	:	³ou=ou³g=g³e=e³n=n³
+`dŒn @pron_poss	ùdŒn	#pron_poss	^0ASn	~dŒn	\din	_IIú4úV_ArnM-216{133v,23}.01	ø	:	³d=d³i=Œ³n=n³
+`un-ver-loschen @adj_part	ùun-ver-loschen	#adj_part	^0ASn	~un-ver-loschen	\unuerlo$chen 	_IIú4úV_ArnM-216{133v,23}.02	ø	:	³u=u³n=n³=-³u=v³e=e³r=r³=-³l=l³o=o³sch=sch³e=e³n=n³
+`liŠht @n	ùliŠht	#n	^AS	~liŠ<h>t	\liet,,	_IIú4úV_ArnM-216{133v,23}.03	ø	:	³l=l³ie=iŠ³=h³t=t³
+`[!] @[!]	ù[!]	#[!]	^	~[!]	\*[de$*]	_IIú4úV_ArnM-216{133v,23}.04@	ø	:/K[*[de$*]: gestr.]	*³*[de$*]=[!]³
+`d‰r @pron	ùd‰r	#pron	^ASn	~dazz	\d az	_IIú4úV_ArnM-217{133v,23}.01	ø	:	³d=d³a=a³z=zz³
+`ne @partikel	ùne	#partikel	^	~ne	\ne	_IIú4úV_ArnM-217{134r,01}.02	ø	:	³n=n³e=e³
+`wŠr(e)n @swv	ùwŠr(e)n	#swv	^2SGB	~wŠr(e)	\were	_IIú4úV_ArnM-217{134r,01}.03	ø	:	³w=w³e=Š³r=r³e=e³
+`d– @pron	ùd–	#pron	^NS	~d–	\du	_IIú4úV_ArnM-217{134r,01}.04	ø	:	³d=d³u=–³
+`ich @pron	ùich	#pron	^DS	~mir	\mir	_IIú4úV_ArnM-217{134r,01}.05	ø	:	³m=m³i=i³r=r³
+`niht @adv	ùniht	#adv	^	~niŠt	\niet!(.)	_IIú4úV_ArnM-217{134r,01}.06@	ø	:	³n=n³ie=iŠ³t=t³
+`d‰r @pron	ùd‰r	#pron	^NSn	~dazz	\d az	_IIú4úV_ArnM-218{134r,01}.01	ø	:	³d=d³a=a³z=zz³
+`sŒn @anv	ùsŒn	#anv	^3SGI	~is	\i$	_IIú4úV_ArnM-218{134r,01}.02	ø	:	³i=i³s=s³
+`d‰r @art	ùd‰r	#art	^NSm	~d‰r	\d er	_IIú4úV_ArnM-218{134r,01}.03	ø	:	³d=d³e=‰³r=r³
+`ˆwig @adj	ùˆwig	#adj	^NSmw	~ˆwige	\ewig e	_IIú4úV_ArnM-218{134r,01}.04	ø	:	³e=ˆ³w=w³i=i³g=g³e=e³
+`lŒb @mn	ùlŒb	#m	^NS	~lŒb	\lif.,,	_IIú4úV_ArnM-218{134r,02}.05@	ø	:	³l=l³i=Œ³f=b³
+`d‰r @pron	ùd‰r	#pron	^NSn	~dazz	\d az	_IIú4úV_ArnM-219{134r,02}.01	ø	:	³d=d³a=a³z=zz³
+`sŒn @anv	ùsŒn	#anv	^3SGI	~is	\i$,,	_IIú4úV_ArnM-219{134r,02}.02	ø	:	³i=i³s=s³
+`d‰r @pron	ùd‰r	#pron	^ASn+	~dazz	\d az	_IIú4úV_ArnM-219{134r,02}.03	ø	:	³d=d³a=a³z=zz³
+`ich @pron	ùich	#pron	^NS	~ich	\ig	_IIú4úV_ArnM-219{134r,02}.04	ø	:	³i=i³g=ch³
+`arm @adj	ùarm	#adj	^NSn&	~armezz	\arm ez	_IIú4úV_ArnM-219{134r,02}.05	ø	:	³a=a³r=r³m=m³e=e³z=zz³
+`wŒb @n	ùwŒb	#n	^NS	~wŒb	\wif.	_IIú4úV_ArnM-219{134r,02}.06@	ø	:	³w=w³i=Œ³f=b³
+`mit @pr„p	ùmit	#pr„p	^	~mit	\bit	_IIú4úV_ArnM-220{134r,02}.01	ø	:	³b=m³i=i³t=t³
+`dŒn @pron_poss	ùdŒn	#pron_poss	^DSf	~dŒner	\din er	_IIú4úV_ArnM-220{134r,02}.02	ø	:	³d=d³i=Œ³n=n³e=e³r=r³
+`h‰lfe @f	ùh‰lfe	#f	^DS	~h‰lfen	\helfen	_IIú4úV_ArnM-220{134r,03}.03	ø	:	³h=h³e=‰³l=l³f=f³e=e³n=n³
+`suochen @swv	ùsuochen	#swv	^1SGI	~suochen	\$u\ochen(.)	_IIú4úV_ArnM-220{134r,03}.04@	ø	:	³s=s³u\o=uo³ch=ch³e=e³n=n³
+`d‰r @pron	ùd‰r	#pron	^ASn	~dazz	\d az	_IIú4úV_ArnM-221{134r,03}.01	ø	:	³d=d³a=a³z=zz³
+`lƒzen @stv7	ùlƒzen	#stv7	^2SGB	~lƒ	\la	_IIú4úV_ArnM-221{134r,03}.02	ø	:	³l=l³a=ƒ³
+`ich @pron	ùich	#pron	^AS	~mich	\mig,,(	_IIú4úV_ArnM-221{134r,03}.03	ø	:/E[mig: {mig.} Maurer]	³m=m³i=i³g=ch³
+`hˆrre @m	ùhˆrre	#m	^NS	~hˆrre	\herre,,)	_IIú4úV_ArnM-221{134r,03}.04	ø	:	³h=h³e=ˆ³rr=rr³e=e³
+`vinden @stv3a	ùvinden	#stv3a i	^-	~vinden	\uinden.(.)	_IIú4úV_ArnM-221{134r,03}.05@	ø	:	³u=v³i=i³n=n³d=d³e=e³n=n³
+`d‰r @pron	ùd‰r	#pron	^GSn	~d‰s	\*(D*) es	_IIú4úV_ArnM-222{134r,04}.01	ø	:	³d=d³e=‰³s=s³
+`sŒn @anv	ùsŒn	#anv	^3SGK	~sŒ	\$ie	_IIú4úV_ArnM-222{134r,04}.02	ø	:	³s=s³ie=Œ³
+`mŒn @pron_poss	ùmŒn	#pron_poss	^0NSm	~mŒn	\min	_IIú4úV_ArnM-222{134r,04}.03	ø	:	³m=m³i=Œ³n=n³
+`bote @m	ùbote	#m	^NS	~bote	\bode	_IIú4úV_ArnM-222{134r,04}.04	ø	:	³b=b³o=o³d=t³e=e³
+`ze @pr„p	ùze	#pr„p	^	~ze	\ce|	_IIú4úV_ArnM-222{134r,04}.05	ø	:	³c=z³e=e³
+`d– @pron	ùd–	#pron	^DS	~dir	\|dir.	_IIú4úV_ArnM-222{134r,04}.06@	ø	:	³d=d³i=i³r=r³
+`‰r @pron	ù‰r	#pron	^GSm	~dŒnes	\dine$	_IIú4úV_ArnM-223{134r,04}.01	ø	:/#[!]	³d=d³i=Œ³n=n³e=e³s=s³
+`s‰lb @pron	ùs‰lb	#pron	^GSm"%&	~s‰lbes	\$elu e$	_IIú4úV_ArnM-223{134r,04}.02	ø	:	³s=s³e=‰³l=l³u=b³e=e³s=s³
+`muoter @f<(u)>	ùmuoter	#f<(u)>	^NS	~muoter	\mv\oder!(.)	_IIú4úV_ArnM-223{134r,04}.03@	ø	:	³m=m³v\o=uo³d=t³e=e³r=r³
+`“ @interj	ù“	#interj	^	~“	\o,,|	_IIú4úV_ArnM-224{134r,05}.01	ø	:	³o=“³
+`wiŠ @adv_int	ùwiŠ	#adv_int	^	~wiŠ	\|wie	_IIú4úV_ArnM-224{134r,05}.02	ø	:	³w=w³ie=iŠ³
+`s‘lig @adj	ùs‘lig	#adj	^-	~s‘lig	\selig 	_IIú4úV_ArnM-224{134r,05}.03	ø	:	³s=s³e=‘³l=l³i=i³g=g³
+`sŒn @anv	ùsŒn	#anv	^1SGI	~bin	\bin	_IIú4úV_ArnM-224{134r,05}.04	ø	:	³b=b³i=i³n=n³
+`ich @pron	ùich	#pron	^NS	~ich	\ich	_IIú4úV_ArnM-224{134r,05}.05	ø	:	³i=i³ch=ch³
+`danne @adv/konj	ùdanne	#adv	^	~dann<e>	\dan.,,	_IIú4úV_ArnM-224{134r,05}.06@	ø	:	³d=d³a=a³n=nn³=e³
+`obe @adv/konj	ùobe	#konj	^	~ob<e>	\of	_IIú4úV_ArnM-225{134r,05}.01	ø	:	³o=o³f=b³=e³
+`‰r @pron	ù‰r	#pron	^NSf	~siŠ	\$ie	_IIú4úV_ArnM-225{134r,05}.02	ø	:/E[$ie: {sie} Maurer]	³s=s³ie=iŠ³
+`ich @pron	ùich	#pron	^AS	~mich	\mig	_IIú4úV_ArnM-225{134r,05}.03	ø	:	³m=m³i=i³g=ch³
+`wŠllen @anv	ùwŠllen	#anv	^3SGI	~willet	\wil(=)let	_IIú4úV_ArnM-225{134r,05}.04	ø	:/E[wil(=)let: {wil=let} Maurer]	³w=w³i=i³ll=ll³e=e³t=t³
+`vor(e) @adv	ùvor(e)/>+stƒn	#adv	^	~vor(e)	\fore*1	_IIú4úV_ArnM-225{134r,06}.05	ø	:	³f=v³o=o³r=r³e=e³
+`stƒn @anv	ùstƒn/vor(e)>+	#anv i	^-	~stƒn	\$tan.*2(.)	_IIú4úV_ArnM-225{134r,06}.06@	ø	:	³s=s³t=t³a=ƒ³n=n³
+`Maria* @PN	ùMaria	#PN	^NS	~Maria	\<*(M*)>aria,	_IIú4úV_ArnM-226{134r,06}.01	ø	:	*³[!]=[!]³
+`got @m	ùgot	#m	^GS	~gotes	\gode$	_IIú4úV_ArnM-226{134r,06}.02	ø	:	³g=g³o=o³d=t³e=e³s=s³
+`triutinne @f	ùtriutinne	#f	^NS	~triutinn<e>	\druden.,,	_IIú4úV_ArnM-226{134r,06}.03@	ø	:	³d=t³r=r³u=iu³d=t³e=i³n=nn³=e³
+`Maria* @PN	ùMaria	#PN	^NS	~Maria	\maria,	_IIú4úV_ArnM-227{134r,07}.01	ø	:	*³maria=Maria³
+`tr“st @m	ùtr“st	#m	^NS	~tr“st	\tro$t	_IIú4úV_ArnM-227{134r,07}.02	ø	:	³t=t³r=r³o=“³s=s³t=t³
+`d‰r @art	ùd‰r	#art	^GPmfn	~d‰r	\d er	_IIú4úV_ArnM-227{134r,07}.03	ø	:	³d=d³e=‰³r=r³
+`arm @adj	ùarm	#adj	^GPmfnw%	~armen	\arm en!,,	_IIú4úV_ArnM-227{134r,07}.04@	ø	:	³a=a³r=r³m=m³e=e³n=n³
+`Maria* @PN	ùMaria	#PN	^NS	~Maria	\maria,	_IIú4úV_ArnM-228{134r,07}.01	ø	:	*³maria=Maria³
+`[!] @[!]	ùstella*	#f	^NS	~stella	\$tella	_IIú4úV_ArnM-228{134r,07}.02	ø	:	³s=s³t=t³e=e³ll=ll³a=a³
+`[!] @[!]	ùmare*	#n	^GS	~maris	\mari$.,	_IIú4úV_ArnM-228{134r,08}.03@	ø	:	³m=m³a=a³r=r³i=i³s=s³
+`zuo-vluht @f<u>	ùzuo-vluht	#f<u>	^NS	~zuo-vluht	\zu\ofluht	_IIú4úV_ArnM-229{134r,08}.01	ø	:	³z=z³u\o=uo³=-³f=v³l=l³u=u³h=h³t=t³
+`d‰r @art	ùd‰r	#art	^GSm	~d‰s	\d e$	_IIú4úV_ArnM-229{134r,08}.02	ø	:	³d=d³e=‰³s=s³
+`snt‘re @m	ùsnt‘re	#m	^GS	~snt‘res	\$underi$.,	_IIú4úV_ArnM-229{134r,08}.03@	ø	:/E[$underi$: {$underis} Maurer]	³s=s³u=³n=n³d=t³e=‘³r=r³i=e³s=s³
+`pforze @f	ùpforze	#f	^NS	~pforze	\porce	_IIú4úV_ArnM-230{134r,08}.01	ø	:	³p=pf³o=o³r=r³c=z³e=e³
+`d‰r @art	ùd‰r	#art	^GSm	~d‰s	\d e$	_IIú4úV_ArnM-230{134r,08}.02	ø	:	³d=d³e=‰³s=s³
+`himel @m	ùhimel	#m	^GS	~himel(e)s	\himele$.,	_IIú4úV_ArnM-230{134r,09}.03@	ø	:	³h=h³i=i³m=m³e=e³l=l³e=e³s=s³
+`brunne @m	ùbrunne	#m	^NS	~brunne	\burne	_IIú4úV_ArnM-231{134r,09}.01	ø	:	³b=b³ur=ru³n=nn³e=e³
+`d‰r @art	ùd‰r	#art	^GSn	~d‰s	\d e$	_IIú4úV_ArnM-231{134r,09}.02	ø	:	³d=d³e=‰³s=s³
+`paradŒs(e) @mn	ùparadŒs(e)	#n	^GS	~paradŒses	\paradi$e$!,,	_IIú4úV_ArnM-231{134r,09}.03@	ø	:	³p=p³a=a³r=r³a=a³d=d³i=Œ³s=s³e=e³s=s³
+`dannen @adv	ùdannen	#adv	^	~dann<en>	\dan	_IIú4úV_ArnM-232{134r,09}.01	ø	:	³d=d³a=a³n=nn³=en³
+`wir @pron	ùwir	#pron	^DP	~uns	\un$	_IIú4úV_ArnM-232{134r,09}.02	ø	:	³u=u³n=n³s=s³
+`d‰r @art	ùd‰r	#art	^NSf	~diu	\d u	_IIú4úV_ArnM-232{134r,10}.03	ø	:	³d=d³u=iu³
+`ge-nƒde @f	ùge-nƒde	#f	^NS	~ge-nƒde	\genade	_IIú4úV_ArnM-232{134r,10}.04	ø	:	³g=g³e=e³=-³n=n³a=ƒ³d=d³e=e³
+`–z @adv	ù–z/>+ge-vliŠzen	#adv	^	~–z	\u\oz*1	_IIú4úV_ArnM-232{134r,10}.05	ø	:	³u\o=–³z=z³
+`ge-vliŠzen @stv2b	ùge-vliŠzen/–z>+	#stv2b	^3SVI	~ge-vl“z	\<ge>floz*2,,	_IIú4úV_ArnM-232{134r,10}.06@	ø	:	³g=g³e=e³=-³f=v³l=l³o=“³z=z³
+`d‰r @pron	ùd‰r	#pron	^NSf+	~diu	\d u	_IIú4úV_ArnM-233{134r,10}.01	ø	:	³d=d³u=iu³
+`wir @pron	ùwir	#pron	^DP	~uns	\un$	_IIú4úV_ArnM-233{134r,10}.02	ø	:	³u=u³n=n³s=s³
+`Šl-lŠnte @adj	ùŠl-lŠnte	#adj	^DP%&	~Šl-lŠnten	\ellend e n	_IIú4úV_ArnM-233{134r,10}.03	ø	:	³e=Š³l=l³=-³l=l³e=Š³n=n³d=t³e=e³n=n³
+`ent-sliŠzen @stv2b	ùent-sliŠzen	#stv2b	^3SVI	~ent-sl“z	\ent$loz.	_IIú4úV_ArnM-233{134r,11}.04@	ø	:	³e=e³n=n³t=t³=-³s=s³l=l³o=“³z=z³
+`d‰r @art	ùd‰r	#art	^ASn	~dazz	\d az	_IIú4úV_ArnM-234{134r,11}.01	ø	:	³d=d³a=a³z=zz³
+`unser @pron_poss	ùunser	#pron_poss	^ASnw	~unse	\un$ e	_IIú4úV_ArnM-234{134r,11}.02	ø	:	³u=u³n=n³s=s³e=e³
+`r‰ht @adj	ùr‰ht	#adj	^ASnw	~r‰hte	\reht e	_IIú4úV_ArnM-234{134r,11}.03	ø	:	³r=r³e=‰³h=h³t=t³e=e³
+`vater-lant @n	ùvater-lant	#n	^AS	~vater-lant	\uater#lant!(.)	_IIú4úV_ArnM-234{134r,11}.04@	ø	:	³u=v³a=a³t=t³e=e³r=r³=-³l=l³a=a³n=n³t=t³
+`n– @adv/konj	ùn–	#adv	^	~n–	\nu	_IIú4úV_ArnM-235{134r,11}.01	ø	:	³n=n³u=–³
+`g‰ben @stv5	ùg‰ben	#stv5	^2SGB	~gib	\gif	_IIú4úV_ArnM-235{134r,12}.02	ø	:	³g=g³i=i³f=b³
+`wir @pron	ùwir	#pron	^DP	~uns	\un$,,(	_IIú4úV_ArnM-235{134r,12}.03	ø	:/E[un$: {uns} Maurer]	³u=u³n=n³s=s³
+`vrouwe @f	ùvrouwe	#f	^NS	~vrouwe	\frow<e>,,)	_IIú4úV_ArnM-235{134r,12}.04	ø	:	³f=v³r=r³o=ou³w=w³e=e³
+`dŒn @pron_poss	ùdŒn	#pron_poss	^ASf	~dŒne	\din [e]	_IIú4úV_ArnM-235{134r,12}.05	ø	:	³d=d³i=Œ³n=n³[e]=e³
+`hant @f<(u)>	ùhant	#f<(u)>	^AS	~hant	\hant.(.)	_IIú4úV_ArnM-235{134r,12}.06@	ø	:	³h=h³a=a³n=n³t=t³
+`wŒsen @swv	ùwŒsen	#swv	^2SGB	~wŒse	\*(W*)i$e	_IIú4úV_ArnM-236{134r,12}.01	ø	:	³w=w³i=Œ³s=s³e=e³
+`wir @pron	ùwir	#pron	^AP	~uns	\un$	_IIú4úV_ArnM-236{134r,12}.02	ø	:	³u=u³n=n³s=s³
+`–z @adv	ù–z/>+ge-h‰lfen	#adv	^	~–z	\u\oz	_IIú4úV_ArnM-236{134r,13}.03	ø	:	³u\o=–³z=z³
+`ge-h‰lfen @stv3b	ùge-h‰lfen/–z>+	#stv3b i	^-	~ge-h‰lfen	\gehelfen	_IIú4úV_ArnM-236{134r,13}.04@	ø	:	³g=g³e=e³=-³h=h³e=‰³l=l³f=f³e=e³n=n³
+`von @pr„p	ùvon	#pr„p	^	~van	\uan	_IIú4úV_ArnM-237{134r,13}.01	ø	:	³u=v³a=a³n=n³
+`d‰r @art	ùd‰r	#art	^DSf	~d‰r(e)	\d [ere]	_IIú4úV_ArnM-237{134r,13}.02	ø	:	³d=d³[e]=‰³[r]=r³[e]=e³
+`gr“z @adj	ùgr“z	#adj	^DSf!	~gr“zer	\groz er	_IIú4úV_ArnM-237{134r,13}.03	ø	:/^[nach {d[ere]}]	³g=g³r=r³o=“³z=z³e=e³r=r³
+`tiŠfene @f	ùtiŠfene	#f	^DS	~tiŠfenen	\dufenen.,,	_IIú4úV_ArnM-237{134r,13}.04@	ø	:	³d=t³u=iŠ³f=f³e=e³n=n³e=e³n=n³
+`d‰r @pron	ùd‰r	#pron	^NSn	~dazz	\d az	_IIú4úV_ArnM-238{134r,14}.01	ø	:	³d=d³a=a³z=zz³
+`sŒn @anv	ùsŒn	#anv	^3SGI	~is	\i$	_IIú4úV_ArnM-238{134r,14}.02	ø	:	³i=i³s=s³
+`d‰r @art	ùd‰r	#art	^GSm	~d‰s	\d e$	_IIú4úV_ArnM-238{134r,14}.03	ø	:	³d=d³e=‰³s=s³
+`tiuvel @m	ùtiuvel	#m	^GS	~tiuvel(e)s	\duvele$	_IIú4úV_ArnM-238{134r,14}.04	ø	:	³d=t³u=iu³v=v³e=e³l=l³e=e³s=s³
+`ge-walt @mf<u>	ùge-walt	#mf<u>	^NS	~ge-walt	\<g>[e]walt.,,	_IIú4úV_ArnM-238{134r,14}.05@	ø	:	³g=g³[e]=e³=-³w=w³a=a³l=l³t=t³
+`dar(e) @adv/konj	ùdar(e)	#adv	^	~dar<e>	\dar	_IIú4úV_ArnM-239{134r,14}.01	ø	:	³d=d³a=a³r=r³=e³
+`wir @pron	ùwir	#pron	^AP	~uns	\un$	_IIú4úV_ArnM-239{134r,14}.02	ø	:	³u=u³n=n³s=s³
+`in @adv	ùin	#adv	^	~in	\in	_IIú4úV_ArnM-239{134r,14}.03	ø	:	³i=i³n=n³
+`haben @swv-a	ùhaben	#swv-a	^3SGI	~hƒt	\hat	_IIú4úV_ArnM-239{134r,15}.04	ø	:	³h=h³a=ƒ³t=t³
+`vŠllen @swv	ùvŠllen	#swv pV	^-	~ge-valt	\geualt !	_IIú4úV_ArnM-239{134r,15}.05@	ø	:	³g=g³e=e³=-³u=v³a=a³l=l³t=t³
+`Eva @PN	ùEva	#PN	^NS	~Eva	\eua,	_IIú4úV_ArnM-240{134r,15}.01	ø	:	*³e=e³u=v³a=a³
+`unser @pron_poss	ùunser	#pron_poss	^NSfw!	~unse	\un$ e	_IIú4úV_ArnM-240{134r,15}.02	ø	:	³u=u³n=n³s=s³e=e³
+`muoter @f<(u)>	ùmuoter	#f<(u)>	^NS	~muoter	\mu\oder(.)	_IIú4úV_ArnM-240{134r,15}.03@	ø	:	³m=m³u\o=uo³d=t³e=e³r=r³
+`n– @adv/konj	ùn–	#adv	^	~n–	\nu|	_IIú4úV_ArnM-241{134r,15}.01	ø	:	³n=n³u=–³
+`vlˆhen @swv	ùvlˆhen	#swv	^1PG	~vliŠ{ˆhe}<n>	\|flie	_IIú4úV_ArnM-241{134r,15}.02	ø	:/ù[vliŠhen?]	³f=v³l=l³ie=iŠ{ˆhe}³=n³
+`wir @pron	ùwir	#pron	^NP	~wir	\wir	_IIú4úV_ArnM-241{134r,16}.03	ø	:	³w=w³i=i³r=r³
+`all @pron	ùall	#pron	^NPmfn%&	~alle	\all e	_IIú4úV_ArnM-241{134r,16}.04	ø	:	³a=a³ll=ll³e=e³
+`ze @pr„p	ùze	#pr„p	^	~zuo	\zu	_IIú4úV_ArnM-241{134r,16}.05	ø	:	³z=z³u=uo³
+`d– @pron	ùd–	#pron	^DS	~dir	\dir.(.)	_IIú4úV_ArnM-241{134r,16}.06@	ø	:	³d=d³i=i³r=r³
+`wir @pron	ùwir	#pron	^NP	~wir	\*(W*)ir	_IIú4úV_ArnM-242{134r,16}.01	ø	:	³w=w³i=i³r=r³
+`wŠinen @swv	ùwŠinen	#swv	^1PG	~wŠinen	\weinen	_IIú4úV_ArnM-242{134r,16}.02	ø	:	³w=w³ei=Ši³n=n³e=e³n=n³
+`unte @konj	ùunte	#konj	^	~unte	\und[e]	_IIú4úV_ArnM-242{134r,16}.03	ø	:	³u=u³n=n³d=t³[e]=e³
+`siuften @swv	ùsiuften	#swv	^1PG	~siuften	\$uften.	_IIú4úV_ArnM-242{134r,17}.04@	ø	:	³s=s³u=iu³f=f³t=t³e=e³n=n³
+`ze @pr„p	ùze	#pr„p	^	~ze	\ce	_IIú4úV_ArnM-243{134r,17}.01	ø	:	³c=z³e=e³
+`dŒn @pron_poss	ùdŒn	#pron_poss	^DP	~dŒnen	\din en	_IIú4úV_ArnM-243{134r,17}.02	ø	:	³d=d³i=Œ³n=n³e=e³n=n³
+`liŠb @adj	ùliŠb	#adj	^DP!	~liŠben	\lieu en	_IIú4úV_ArnM-243{134r,17}.03	ø	:	³l=l³ie=iŠ³u=b³e=e³n=n³
+`vuoz @m<(u)>	ùvuoz	#m<(u)>	^DP	~vuozen	\uv\ozen!(.)	_IIú4úV_ArnM-243{134r,17}.04@	ø	:	³u=v³v\o=uo³z=z³e=e³n=n³
+`lƒzen @stv7	ùlƒzen	#stv7	^2SGB	~lƒ	\la	_IIú4úV_ArnM-244{134r,17}.01	ø	:	³l=l³a=ƒ³
+`d– @pron	ùd–	#pron	^NS	~d–	\du	_IIú4úV_ArnM-244{134r,17}.02	ø	:	³d=d³u=–³
+`d– @pron	ùd–	#pron	^AS©	~dich	\dich	_IIú4úV_ArnM-244{134r,18}.03	ø	:	³d=d³i=i³ch=ch³
+`er-barmen @swv	ùer-barmen	#swv i	^-	~er-barmen	\irbarmen!,,	_IIú4úV_ArnM-244{134r,18}.04@	ø	:	³i=e³r=r³=-³b=b³a=a³r=r³m=m³e=e³n=n³
+`d‰r @art	ùd‰r	#art	^ASf	~diŠ	\d ie	_IIú4úV_ArnM-245{134r,18}.01	ø	:	³d=d³ie=iŠ³
+`n“t @mf<u>	ùn“t	#f<u>	^AS	~n“t	\not,,	_IIú4úV_ArnM-245{134r,18}.02	ø	:	³n=n³o=“³t=t³
+`d‰r @pron	ùd‰r	#pron	^ASf+	~diŠ	\d ie	_IIú4úV_ArnM-245{134r,18}.03	ø	:	³d=d³ie=iŠ³
+`wir @pron	ùwir	#pron	^NP	~wir	\wir	_IIú4úV_ArnM-245{134r,18}.04	ø	:	³w=w³i=i³r=r³
+`arm @adj	ùarm	#adj	^NPmfnw!%&	~armen	\a[r]<m> en!	_IIú4úV_ArnM-245{134r,18}.05@	ø	:	³a=a³[r]=r³m=m³e=e³n=n³
+`in @pr„p	ùin	#pr„p	^	~in	\in|	_IIú4úV_ArnM-246{134r,19}.01	ø	:	³i=i³n=n³
+`dise @pron	ùdise	#pron	^GPmn	~dirre	\|dirre	_IIú4úV_ArnM-246{134r,19}.02	ø	:	³d=d³i=i³rr=rr³e=e³
+`tal @mn	ùtal	#mn	^GP	~tal(e)	\dale	_IIú4úV_ArnM-246{134r,19}.03	ø	:	³d=t³a=a³l=l³e=e³
+`hŠlde @f	ùhŠlde	#f	^DP	~hŠlden	\helden	_IIú4úV_ArnM-246{134r,19}.04@	ø	:/ù[?]	³h=h³e=Š³l=l³d=d³e=e³n=n³
+`manig @pron	ùmanig	#pron	^ASf	~manige	\maneg e	_IIú4úV_ArnM-247{134r,19}.01	ø	:	³m=m³a=a³n=n³e=i³g=g³e=e³
+`wŒs(e) @mfn	ùwŒs(e)	#f	^AS	~wŒs	\wi$	_IIú4úV_ArnM-247{134r,19}.02	ø	:	³w=w³i=Œ³s=s³
+`ver-dulten @swv	ùver-dulten	#swv	^1PG	~ver-dulten	\<ue>r=dulden.(.)	_IIú4úV_ArnM-247{134r,19}.03@	ø	:	³u=v³e=e³r=r³=-³d=d³u=u³l=l³d=t³e=e³n=n³
+`[!] @[!]	ùstella*	#f	^NS	~stella	\*(S*)tella	_IIú4úV_ArnM-248{134r,20}.01	ø	:	³s=s³t=t³e=e³ll=ll³a=a³
+`[!] @[!]	ùmare*	#n	^GS	~maris	\mari$	_IIú4úV_ArnM-248{134r,20}.02	ø	:	³m=m³a=a³r=r³i=i³s=s³
+`sŒn @anv	ùsŒn	#anv	^2SGI	~bis	\bi$	_IIú4úV_ArnM-248{134r,20}.03	ø	:	³b=b³i=i³s=s³
+`d– @pron	ùd–	#pron	^NS	~d–	\tu	_IIú4úV_ArnM-248{134r,20}.04	ø	:	³t=d³u=–³
+`nŠnnen @swv	ùnŠnnen	#swv pV	^-	~ge-nant	\ge[n]<ant> .	_IIú4úV_ArnM-248{134r,20}.05@	ø	:	³g=g³e=e³=-³[n]=n³a=a³n=n³t=t³
+`nƒh @pr„p	ùnƒh	#pr„p	^	~nƒ<h>	\na|	_IIú4úV_ArnM-249{134r,21}.01	ø	:	³n=n³a=ƒ³=h³
+`d‰r @art	ùd‰r	#art	^DSm	~d‰me	\|d eme	_IIú4úV_ArnM-249{134r,21}.02	ø	:	³d=d³e=‰³m=m³e=e³
+`st‰rn(e) @m	ùst‰rn(e)	#m	^DS	~st‰rren	\$terren,,	_IIú4úV_ArnM-249{134r,21}.03	ø	:	³s=s³t=t³e=‰³rr=rr³e=e³n=n³
+`d‰r @pron	ùd‰r	#pron	^NSm+	~d‰r	\d er	_IIú4úV_ArnM-249{134r,21}.04	ø	:	³d=d³e=‰³r=r³
+`ane @pr„p	ùane	#pr„p	^	~an<e>	\an	_IIú4úV_ArnM-249{134r,21}.05	ø	:	³a=a³n=n³=e³
+`d‰r @art	ùd‰r	#art	^ASn	~dazz	\d az	_IIú4úV_ArnM-249{134r,21}.06	ø	:	³d=d³a=a³z=zz³
+`lant @n	ùlant	#n	^AS	~lant	\lan<t>.	_IIú4úV_ArnM-249{134r,21}.07@	ø	:	³l=l³a=a³n=n³t=t³
+`d‰r @art	ùd‰r	#art	^ASn	~dazz	\<d az>	_IIú4úV_ArnM-250{134r,21}.01	ø	:	³d=d³a=a³z=zz³
+`mŠde @adj	ùmŠde	#adj	^ASnw	~mŠde	\mu\od e 	_IIú4úV_ArnM-250{134r,22}.02	ø	:	³m=m³u\o=Š³d=d³e=e³
+`schiff @n	ùschiff	#n	^AS	~schiff	\$chif	_IIú4úV_ArnM-250{134r,22}.03	ø	:	³sch=sch³i=i³f=ff³
+`ge-lŠiten @swv	ùge-lŠiten	#swv	^3SGI	~ge-lŠitet	\geleidet,,	_IIú4úV_ArnM-250{134r,22}.04@	ø	:	³g=g³e=e³=-³l=l³ei=Ši³d=t³e=e³t=t³
+`dƒr @adv	ùdƒr	#adv	^	~dƒr	\dar	_IIú4úV_ArnM-251{134r,22}.01	ø	:	³d=d³a=ƒ³r=r³
+`‰r @pron	ù‰r	#pron	^NSn	~izz	\iz	_IIú4úV_ArnM-251{134r,22}.02	ø	:	³i=i³z=zz³
+`ze @pr„p	ùze	#pr„p	^	~ze	\ce|	_IIú4úV_ArnM-251{134r,22}.03	ø	:	³c=z³e=e³
+`raste @f	ùraste	#f	^DS	~rasten	\|<ra>[$te]n	_IIú4úV_ArnM-251{134r,22}.04	ø	:	³r=r³a=a³[s]=s³[t]=t³[e]=e³n=n³
+`bŠiten @swv	ùbŠiten	#swv	^3SGI	~bŠitet	\beidet!(.)	_IIú4úV_ArnM-251{134r,23}.05@	ø	:	³b=b³ei=Ši³d=t³e=e³t=t³
+`ge-lŠiten @swv	ùge-lŠiten	#swv	^2SGB	~ge-lŠit<e>	\geled|	_IIú4úV_ArnM-252{134r,23}.01	ø	:	³g=g³e=e³=-³l=l³e=Ši³d=t³=e³
+`wir @pron	ùwir	#pron	^AP	~uns	\|un$	_IIú4úV_ArnM-252{134r,23}.02	ø	:	³u=u³n=n³s=s³
+`ane @pr„p	ùane	#pr„p	^	~an<e>	\an	_IIú4úV_ArnM-252{134r,23}.03	ø	:	³a=a³n=n³=e³
+`Jˆsus* @PN	ùJˆsus	#PN	^AS	~Jˆsum	\(Jesu)m.,	_IIú4úV_ArnM-252{134r,23}.04@	ø	:	*³(Jesu)m=Jˆsum³
+`dŒn @pron_poss	ùdŒn	#pron_poss	^ASm	~dŒnen	\din en	_IIú4úV_ArnM-253{134r,23}.01	ø	:	³d=d³i=Œ³n=n³e=e³n=n³
+`vil(e) @adv	ùvil(e)	#adv	^	~vil<e>	\<uil.>	_IIú4úV_ArnM-253{134r,23}.02	ø	:/K[{134v,01} : fol. 134v nach E. Papp, in: Waag/Schr”der II, S. 253]	³u=v³i=i³l=l³=e³
+`guot @adj	ùguot	#adj	^ASm!	~guoten	\[gu\od en]	_IIú4úV_ArnM-253{134v,01}.03	ø	:	*³[gu\oden]=guoten³
+`sun @m<u>	ùsun	#m<u>	^AS	~sun	\[$un.](.)	_IIú4úV_ArnM-253{134v,01}.04@	ø	:	*³[sun]=sun³
+`d‰r @pron	ùd‰r	#pron	^NSm	~d‰r	\[d er]	_IIú4úV_ArnM-254{134v,01}.01	ø	:	*³[der]=d‰r³
+`sol(e)n @anv	ùsol(e)n	#anv	^3SGI	~sal	\[$al]	_IIú4úV_ArnM-254{134v,01}.02	ø	:	*³[sal]=sal³
+`wir @pron	ùwir	#pron	^DP	~uns	\[un$]	_IIú4úV_ArnM-254{134v,01}.03	ø	:	*³[uns]=uns³
+`all @pron	ùall	#pron	^ASPf	~alle	\[all e]	_IIú4úV_ArnM-254{134v,01}.04	ø	:	*³[alle]=alle³
+`ge-nƒde @f	ùge-nƒde	#f	^ASP	~ge-nƒde	\[genade]	_IIú4úV_ArnM-254{134v,01}.05	ø	:	*³[genade]=ge-nƒde³
+`tuon @anv	ùtuon	#anv i	^-	~tuon	\[duon.],,	_IIú4úV_ArnM-254{134v,02}.06@	ø	:	*³[d]=t³[uo]=uo³[n]=n³
+`in @pr„p	ùin	#pr„p	^	~in	\[in]	_IIú4úV_ArnM-255{134v,02}.01	ø	:	*³[in]=in³
+`‰r @pron	ù‰r	#pron	^DSm	~ime	\[ime]	_IIú4úV_ArnM-255{134v,02}.02	ø	:	*³[ime]=ime³
+`sol(e)n @anv	ùsol(e)n	#anv	^1PG	~sol(e)<n>	\[$ole]	_IIú4úV_ArnM-255{134v,02}.03	ø	:	³[sole]=[solen]³
+`wir @pron	ùwir	#pron	^NP	~wir	\[wir]	_IIú4úV_ArnM-255{134v,02}.04	ø	:	*³[wir]=wir³
+`ge-ruowen @swv	ùge-ruowen	#swv i	^-	~ge-ruo<we>n	\[geru\on.](.)	_IIú4úV_ArnM-255{134v,02}.05@	ø	:	³[geru\on]=[ge-ruowen]³
+`d‰r @pron	ùd‰r	#pron	^NSm	~d‰r	\[d er]	_IIú4úV_ArnM-256{134v,02}.01	ø	:	*³[der]=d‰r³
+`sol(e)n @anv	ùsol(e)n	#anv	^3SGI	~sal	\[[sal]]	_IIú4úV_ArnM-256{134v,02}.02	ø	:	*³[sal]=sal³
+`wir @pron	ùwir	#pron	^AP	~uns	\[un$]	_IIú4úV_ArnM-256{134v,02}.03	ø	:	*³[uns]=uns³
+`er-lŠdigen @swv	ùer-lŠdigen	#swv i	^-	~er-lŠdigen	\[erledigen]	_IIú4úV_ArnM-256{134v,03}.04@	ø	:	*³[erledigen]=er-lŠdigen³
+`von @pr„p	ùvon	#pr„p	^	~van	\[uan]	_IIú4úV_ArnM-257{134v,03}.01	ø	:	*³[uan]=van³
+`all @pron	ùall	#pron	^DP	~allen	\[all en]	_IIú4úV_ArnM-257{134v,03}.02	ø	:	*³[allen]=allen³
+`unser @pron_poss	ùunser	#pron_poss	^DP	~unsen	\[un$ en]	_IIú4úV_ArnM-257{134v,03}.03	ø	:	*³[unsen]=unsen³
+`n“t @mf<u>	ùn“t	#f<u>	^DP	~noŠten	\[noden!],	_IIú4úV_ArnM-257{134v,03}.04@	ø	:	*³[n]=n³[o]=oŠ³[d]=t³[e]=e³[n]=n³
+`–z @pr„p	ù–z	#pr„p	^	~–z	\[uz]	_IIú4úV_ArnM-258{134v,04}.01	ø	:	*³[uz]=–z³
+`all @pron	ùall	#pron	^DP	~allen	\[all en]	_IIú4úV_ArnM-258{134v,04}.02	ø	:	*³[allen]=allen³
+`tiŠf @adj	ùtiŠf	#adj	^DP!	~tiŠfen	\[dief en]	_IIú4úV_ArnM-258{134v,04}.03	ø	:	*³[diefen]=tiŠfen³
+`snte @f	ùsnte	#f	^DP	~snten	\[$unden.](:)	_IIú4úV_ArnM-258{134v,04}.04@	ø	:	*³[sunden]=snten³
+`d‰r @pron	ùd‰r	#pron	^NSn	~dazz	\[d az]	_IIú4úV_ArnM-259{134v,04}.01	ø	:	*³[daz]=dazz³
+`sŒn @anv	ùsŒn	#anv	^3PGI	~sint	\[$int]	_IIú4úV_ArnM-259{134v,04}.02	ø	:	*³[sint]=sint³
+`d‰r @art	ùd‰r	#art	^GSn	~d‰s	\[d e$]	_IIú4úV_ArnM-259{134v,04}.03	ø	:	*³[des]=d‰s³
+`mŠr(e) @n	ùmŠr(e)	#n	^GS	~mŠr(e)s	\[mere$]	_IIú4úV_ArnM-259{134v,05}.04	ø	:	*³[meres]=mŠr(e)s³
+`nde @f	ùnde	#f	^NP	~nden	\[unden.],	_IIú4úV_ArnM-259{134v,05}.05@	ø	:	*³[u]=³[n]=n³[d]=d³[e]=e³[n]=n³
+`dƒr @adv	ùdƒr	#adv	^	~dƒ	\[da]	_IIú4úV_ArnM-260{134v,05}.01	ø	:	*³[da]=dƒ³
+`wir @pron	ùwir	#pron	^NP	~wir	\[wir]	_IIú4úV_ArnM-260{134v,05}.02	ø	:	*³[wir]=wir³
+`lŠider @adv	ùlŠider	#adv	^	~lŠider	\[leider]	_IIú4úV_ArnM-260{134v,05}.03	ø	:	*³[leider]=lŠider³
+`inne @adv	ùinne	#adv	^	~inne	\[inne]	_IIú4úV_ArnM-260{134v,05}.04	ø	:	*³[inne]=inne³
+`sŒn @anv	ùsŒn	#anv	^1PG	~sŒn	\[$in.](.)	_IIú4úV_ArnM-260{134v,05}.05@	ø	:	*³[sin]=sŒn³
+`n– @adv/konj	ùn–	#adv	^	~n–	\[nu]	_IIú4úV_ArnM-261{134v,06}.01	ø	:	*³[nu]=n–³
+`h‰lfen @stv3b	ùh‰lfen	#stv3b	^2SGB	~hilf	\[hilf]	_IIú4úV_ArnM-261{134v,06}.02	ø	:	*³[hilf]=hilf³
+`wir @pron	ùwir	#pron	^DP	~uns	\[vn$],,	_IIú4úV_ArnM-261{134v,06}.03	ø	:	*³[vns]=uns³
+`hŠilig @adj	ùhŠilig	#adj	^0NSn"	~hŠilig	\[heilig] 	_IIú4úV_ArnM-261{134v,06}.04	ø	:	*³[heilig]=hŠilig³
+`magedŒn @n	ùmagedŒn	#n	^NS	~magedŒn	\[megedin.](!)	_IIú4úV_ArnM-261{134v,06}.05@	ø	:	*³[megedin]=magedŒn³
+`h‰lfen @stv3b	ùh‰lfen	#stv3b	^2SGB	~hilf	\[*(H*)ilf]	_IIú4úV_ArnM-262{134v,06}.01	ø	:	*³[hilf]=hilf³
+`dŒn @pron_poss	ùdŒn	#pron_poss	^DP	~dŒnen	\[din en]	_IIú4úV_ArnM-262{134v,07}.02	ø	:	*³[dinen]=dŒnen³
+`arm @adj	ùarm	#adj	^DP!	~armen	\[arm en]	_IIú4úV_ArnM-262{134v,07}.03	ø	:	*³[armen]=armen³
+`liut @mn	ùliut	#mn	^DP	~liuten	\[luden.],,	_IIú4úV_ArnM-262{134v,07}.04@	ø	:	*³[l]=l³[u]=iu³[d]=t³[e]=e³[n]=n³
+`d‰r @pron	ùd‰r	#pron	^NPmn+	~diŠ	\[d ie]	_IIú4úV_ArnM-263{134v,07}.01	ø	:	*³[d]=d³[ie]=iŠ³
+`d– @pron	ùd–	#pron	^AS	~dich	\[dig]	_IIú4úV_ArnM-263{134v,07}.02	ø	:	*³[dig]=dich³
+`von @pr„p	ùvon	#pr„p	^	~van	\[uan]	_IIú4úV_ArnM-263{134v,07}.03	ø	:	*³[uan]=van³
+`all @pron	ùall	#pron	^DP	~allen	\[al](=)[l en]	_IIú4úV_ArnM-263{134v,07}.04	ø	:	*³[allen]=allen³
+`lant @n	ùlant	#n	^DP	~lanten	\[landen]	_IIú4úV_ArnM-263{134v,08}.05@	ø	:	*³[landen]=lanten³
+`wŒten(e) @adv	ùwŒten(e)	#adv	^	~wŒtene	\[widene]	_IIú4úV_ArnM-264{134v,08}.01	ø	:	*³[widene]=wŒtene³
+`ane @adv	ùane/>+ruofen	#adv	^	~ane	\[ane]*1	_IIú4úV_ArnM-264{134v,08}.02	ø	:	*³[ane]=ane³
+`ruofen @stv7	ùruofen/ane>+	#stv7	^3PGI	~ruofent	\[ru\ofent]*2	_IIú4úV_ArnM-264{134v,08}.03@	ø	:	*³[ru\ofent]=ruofent³
+`unte @konj	ùunte	#konj	^	~unte	\[unde]	_IIú4úV_ArnM-265{134v,08}.01	ø	:	*³[unde]=unte³
+`d‰r @pron	ùd‰r	#pron	^GSn	~d‰s	\[d e$]	_IIú4úV_ArnM-265{134v,09}.02	ø	:	*³[des]=d‰s³
+`ane @pr„p	ùane	#pr„p	^	~an<e>	\[an]	_IIú4úV_ArnM-265{134v,09}.03	ø	:	³[an]=[ane]³
+`d– @pron	ùd–	#pron	^DS	~dir	\[dir]	_IIú4úV_ArnM-265{134v,09}.04	ø	:	*³[dir]=dir³
+`ge-suochen @swv	ùge-suochen	#swv	^3PGI	~ge-suochent	\[ge$u\ochent.](!)	_IIú4úV_ArnM-265{134v,09}.05@	ø	:	*³[gesu\ochent]=ge-suochent³
+`kˆren @swv	ùkˆren	#swv	^2SGB	~kˆre	\[kere]	_IIú4úV_ArnM-266{134v,09}.01	ø	:	*³[kere]=kˆre³
+`d‰r @art	ùd‰r	#art	^ASn	~dazz	\[d az]|	_IIú4úV_ArnM-266{134v,09}.02	ø	:	*³[daz]=dazz³
+`dŒn @pron_poss	ùdŒn	#pron_poss	^0ASnw	~dŒn	\|[din]	_IIú4úV_ArnM-266{134v,09}.03	ø	:	*³[din]=dŒn³
+`ouge @n	ùouge	#n	^AS	~ouge	\[ouge]	_IIú4úV_ArnM-266{134v,10}.04@	ø	:	*³[ouge]=ouge³
+`ze @pr„p	ùze	#pr„p	^	~ze	\[ce]	_IIú4úV_ArnM-267{134v,10}.01	ø	:	*³[ce]=ze³
+`dŒn @pron_poss	ùdŒn	#pron_poss	^DP	~dŒnen	\[dien en]	_IIú4úV_ArnM-267{134v,10}.02	ø	:/ù[!]	*³[d]=d³[ie]=Œ³[n]=n³[e]=e³[n]=n³
+`diŠrne @f	ùdiŠrne	#f	^DP	~diŠrnen	\[diernen.],,(	_IIú4úV_ArnM-267{134v,10}.03	ø	:	*³[d]=d³[ie]=iŠ³[r]=r³[n]=n³[e]=e³[n]=n³
+`vrouwe @f	ùvrouwe	#f	^NS	~vrouwe	\[frowe],,)	_IIú4úV_ArnM-267{134v,10}.04@	ø	:	*³[frowe]=vrouwe³
+`hŒwen @swv	ùhŒwen	#swv pV	^DP!%	~ge-hŒ<we>ten	\[gehi](=)[d en]	_IIú4úV_ArnM-268{134v,10}.01	ø	:	³[gehiden]=[ge-hŒweten]³
+`unte @konj	ùunte	#konj	^	~unte	\[unde]	_IIú4úV_ArnM-268{134v,11}.02	ø	:	*³[unde]=unte³
+`maged @f<u>	ùmaged	#f<u>	^DP	~mŠgeden	\[megeden.]	_IIú4úV_ArnM-268{134v,11}.03@	ø	:	*³[megeden]=mŠgeden³
+`unte @konj	ùunte	#konj	^	~unt<e>	\[und]	_IIú4úV_ArnM-269{134v,11}.01	ø	:	³[und]=[unte]³
+`all @pron	ùall	#pron	^DP	~allen	\[all en]	_IIú4úV_ArnM-269{134v,11}.02	ø	:	*³[allen]=allen³
+`guot @adj	ùguot	#adj	^DP!	~guoten	\[gu\od en]	_IIú4úV_ArnM-269{134v,11}.03	ø	:	*³[gu\oden]=guoten³
+`witewe @f	ùwitewe	#f	^DP	~witewen	\[widewen],,	_IIú4úV_ArnM-269{134v,12}.04@	ø	:	*³[w]=w³[i]=i³[d]=t³[e]=e³[w]=w³[e]=e³[n]=n³
+`d‰r @pron	ùd‰r	#pron	^NPf+	~diŠ	\[d ie]	_IIú4úV_ArnM-270{134v,12}.01	ø	:	*³[d]=d³[ie]=iŠ³
+`sich @pron	ùsich	#pron	^A	~sich	\[$ich]	_IIú4úV_ArnM-270{134v,12}.02	ø	:	*³[s]=s³[i]=i³[ch]=ch³
+`ze @pr„p	ùze	#pr„p	^	~ze	\[ce]|	_IIú4úV_ArnM-270{134v,12}.03	ø	:	*³[ce]=ze³
+`d– @pron	ùd–	#pron	^DS	~dir	\|[dir]	_IIú4úV_ArnM-270{134v,12}.04	ø	:	*³[dir]=dir³
+`kˆren @swv	ùkˆren	#swv	^3PGI	~kˆrent	\[kerent!],,	_IIú4úV_ArnM-270{134v,12}.05@	ø	:	*³[k]=k³[e]=ˆ³[r]=r³[e]=e³[n]=n³[t]=t³
+`d‰r @pron	ùd‰r	#pron	^NPf+	~diŠ	\[d ie]	_IIú4úV_ArnM-271{134v,12}.01	ø	:	*³[d]=d³[ie]=iŠ³
+`dŒn @pron_poss	ùdŒn	#pron_poss	^ASm	~dŒnen	\[din en]	_IIú4úV_ArnM-271{134v,13}.02	ø	:	*³[dinen]=dŒnen³
+`name @m	ùname	#m	^AS	~namen	\[namen]	_IIú4úV_ArnM-271{134v,13}.03	ø	:	*³[namen]=namen³
+`ˆren @swv	ùˆren	#swv	^3PGI	~ˆrent	\[erent.],,	_IIú4úV_ArnM-271{134v,13}.04@	ø	:	*³[e]=ˆ³[r]=r³[e]=e³[n]=n³[t]=t³
+`d‰r @pron	ùd‰r	#pron	^NPf+	~diŠ	\[d ie]	_IIú4úV_ArnM-272{134v,13}.01	ø	:	*³[d]=d³[ie]=iŠ³
+`d– @pron	ùd–	#pron	^DS	~dir	\[dir]	_IIú4úV_ArnM-272{134v,13}.02	ø	:	*³[dir]=dir³
+`mit @pr„p	ùmit	#pr„p	^	~mit	\[bit]	_IIú4úV_ArnM-272{134v,13}.03	ø	:	*³[bit]=mit³
+`vorht(e) @f	ùvorht(e)	#f	^DP	~vorhten	\[uorh](=)[ten]	_IIú4úV_ArnM-272{134v,13}.04	ø	:	*³[uorhten]=vorhten³
+`diŠnen @swv	ùdiŠnen	#swv	^3PGI	~diŠnent	\[dienent],,	_IIú4úV_ArnM-272{134v,14}.05@	ø	:	*³[dienent]=diŠnent³
+`d‰r @pron	ùd‰r	#pron	^NPf+	~diŠ	\[d ie]	_IIú4úV_ArnM-273{134v,14}.01	ø	:	*³[d]=d³[ie]=iŠ³
+`d– @pron	ùd–	#pron	^AS	~dich	\[dig]	_IIú4úV_ArnM-273{134v,14}.02	ø	:	*³[dig]=dich³
+`mit @pr„p	ùmit	#pr„p	^	~mit	\[bit]	_IIú4úV_ArnM-273{134v,14}.03	ø	:	*³[bit]=mit³
+`h‰rze @n	ùh‰rze	#n	^DS	~h‰rzen	\[hercen]	_IIú4úV_ArnM-273{134v,14}.04	ø	:	*³[hercen]=h‰rzen³
+`minnen @swv	ùminnen	#swv	^3PGI	~minnent	\[min](=)[nent.](.)	_IIú4úV_ArnM-273{134v,14}.05@	ø	:	*³[minnent]=minnent³
+`n– @adv/konj	ùn–	#adv	^	~n–	\[*(N*)u]	_IIú4úV_ArnM-274{134v,15}.01	ø	:	*³[nu]=n–³
+`mŠzen @anv	ùmŠzen	#anv	^3SGK	~mŠze	\[mu\oze]	_IIú4úV_ArnM-274{134v,15}.02	ø	:	*³[mu\oze]=mŠze³
+`dŒn @pron_poss	ùdŒn	#pron_poss	^NSfw!	~dŒne	\[din e]	_IIú4úV_ArnM-274{134v,15}.03	ø	:	*³[dine]=dŒne³
+`miltig-hŠit @f	ùmiltig-hŠit	#f	^NS	~miltig-<h>Šit	\[mildicheit]	_IIú4úV_ArnM-274{134v,15}.04@	ø	:	³[mildicheit]=[miltig-hŠit]³
+`be-dŠnken @swv-a	ùbe-dŠnken	#swv-a i	^-	~be-dŠnken	\[be](=)[denken]	_IIú4úV_ArnM-275{134v,15}.01	ø	:	*³[bedenken]=be-dŠnken³
+`unser @pron_poss	ùunser	#pron_poss	^ASf	~unse	\[un$ e]	_IIú4úV_ArnM-275{134v,16}.02	ø	:	*³[unse]=unse³
+`broŠdig-hŠit @f	ùbroŠdig-hŠit	#f	^AS	~broŠdig-<h>Šit	\[brodicheit.](.)	_IIú4úV_ArnM-275{134v,16}.03@	ø	:	³[brodicheit]=[broŠdig-hŠit]³
+`all @pron	ùall	#pron	^0NSf	~all	\[al]	_IIú4úV_ArnM-276{134v,16}.01	ø	:	*³[al]=all³
+`unser @pron_poss	ùunser	#pron_poss	^NSfw!	~unse	\[un$ e]	_IIú4úV_ArnM-276{134v,16}.02	ø	:	*³[unse]=unse³
+`n“t @mf<u>	ùn“t	#f<u>	^NS	~n“t	\[not],,	_IIú4úV_ArnM-276{134v,16}.03	ø	:	*³[not]=n“t³
+`d‰r @pron	ùd‰r	#pron	^NSf	~diu	\[d u]	_IIú4úV_ArnM-276{134v,17}.04	ø	:	*³[du]=diu³
+`sŒn @anv	ùsŒn	#anv	^3SGI	~is	\[i$]	_IIú4úV_ArnM-276{134v,17}.05	ø	:	*³[is]=is³
+`d– @pron	ùd–	#pron	^DS	~dir	\[dir]	_IIú4úV_ArnM-276{134v,17}.06	ø	:	*³[dir]=dir³
+`kund @adj	ùkund	#adj	^-	~kund	\[kunt] ,,	_IIú4úV_ArnM-276{134v,17}.07@	ø	:	*³[kunt]=kund³
+`dƒr @adv	ùdƒr	#adv	^	~dƒ	\[da]|	_IIú4úV_ArnM-277{134v,17}.01	ø	:	*³[da]=dƒ³
+`mit(e) @adv	ùmit(e)	#adv	^	~mite	\|[mide]	_IIú4úV_ArnM-277{134v,17}.02	ø	:	*³[mide]=mite³
+`wir @pron	ùwir	#pron	^NP	~wir	\[wir]	_IIú4úV_ArnM-277{134v,17}.03	ø	:	*³[wir]=wir³
+`arm @adj	ùarm	#adj	^NPmfnw!%&	~armen	\[arm en.]	_IIú4úV_ArnM-277{134v,17}.04	ø	:	*³[armen]=armen³
+`manig @pron	ùmanig	#pron	^ASf	~manige	\[maneg e]	_IIú4úV_ArnM-277{134v,18}.05	ø	:	*³[manege]=manige³
+`stunt(e) @f	ùstunt(e)	#f	^AS	~stunt	\[$tunt]	_IIú4úV_ArnM-277{134v,18}.06@	ø	:	*³[stunt]=stunt³
+`all @pron	ùall	#pron	^NPmfnø&	~alle	\[all e]	_IIú4úV_ArnM-278{134v,18}.01	ø	:	*³[alle]=alle³
+`be-grŒfen @stv1a	ùbe-grŒfen	#stv1a pV	^-	~be-griffen	\[begriffen] 	_IIú4úV_ArnM-278{134v,18}.02	ø	:	*³[begriffen]=be-griffen³
+`sŒn @anv	ùsŒn	#anv	^1PG	~sŒn	\[$in.](.)	_IIú4úV_ArnM-278{134v,18}.03@	ø	:	*³[sin]=sŒn³
+`n– @adv/konj	ùn–	#adv	^	~n–	\[nu]	_IIú4úV_ArnM-279{134v,18}.01	ø	:	*³[nu]=n–³
+`h‰lfen @stv3b	ùh‰lfen	#stv3b	^2SGB	~hilf	\[hilf]	_IIú4úV_ArnM-279{134v,18}.02	ø	:	*³[hilf]=hilf³
+`wir @pron	ùwir	#pron	^DP	~uns	\[un$],,	_IIú4úV_ArnM-279{134v,19}.03	ø	:	*³[uns]=uns³
+`hŠilig @adj	ùhŠilig	#adj	^0NSn"	~hŠilig	\[heilig] 	_IIú4úV_ArnM-279{134v,19}.04	ø	:	*³[heilig]=hŠilig³
+`magedŒn @n	ùmagedŒn	#n	^NS	~magedŒn	\[megedin.](!)	_IIú4úV_ArnM-279{134v,19}.05@	ø	:	*³[megedin]=magedŒn³
+`ich @pron	ùich	#pron	^NS	~ich	\[*(I*)ch]	_IIú4úV_ArnM-280{134v,19}.01	ø	:	*³[i]=i³[ch]=ch³
+`be-v‰lhen @stv3b	ùbe-v‰lhen	#stv3b	^1SGI	~be-vil<h>en	\[beuelen]	_IIú4úV_ArnM-280{134v,19}.02	ø	:	³[beuelen]=[be-vilhen]³
+`dŒn @pron_poss	ùdŒn	#pron_poss	^DP	~dŒnen	\[din en]	_IIú4úV_ArnM-280{134v,20}.03	ø	:	*³[dinen]=dŒnen³
+`hulde @f	ùhulde	#f	^DP	~hulden	\[hulden]	_IIú4úV_ArnM-280{134v,20}.04@	ø	:	*³[hulden]=hulden³
+`d‰r @art	ùd‰r	#art	^APm	~diŠ	\[d ie]	_IIú4úV_ArnM-281{134v,20}.01	ø	:	*³[d]=d³[ie]=iŠ³
+`mŒn @pron_poss	ùmŒn	#pron_poss	^APm!	~mŒne	\[min e]	_IIú4úV_ArnM-281{134v,20}.02	ø	:	*³[mine]=mŒne³
+`sunter @adv/konj	ùsunter	#adv	^	~sunter	\[$under]	_IIú4úV_ArnM-281{134v,20}.03	ø	:	*³[sunder]=sunter³
+`hold @adj	ùhold	#adj	^APmw%	~holden	\[hol](=)[d en],,	_IIú4úV_ArnM-281{134v,20}.04@	ø	:	*³[holden]=holden³
+`d‰r @pron	ùd‰r	#pron	^NPm+	~diŠ	\[d ie]	_IIú4úV_ArnM-282{134v,21}.01	ø	:	*³[d]=d³[ie]=iŠ³
+`ich @pron	ùich	#pron	^DS	~mir	\[mir]	_IIú4úV_ArnM-282{134v,21}.02	ø	:	*³[mir]=mir³
+`sŒn @anv	ùsŒn	#anv	^3PGI	~sint	\[$int]	_IIú4úV_ArnM-282{134v,21}.03	ø	:	*³[sint]=sint³
+`all-s“ @adv/konj	ùall-s“	#adv	^	~all-se	\[al$e]	_IIú4úV_ArnM-282{134v,21}.04	ø	:	*³[alse]=all-se³
+`liŠb @adj	ùliŠb	#adj	^-	~liŠb	\[lief .]	_IIú4úV_ArnM-282{134v,21}.05@	ø	:	*³[lief]=liŠb³
+`all-s“ @adv/konj	ùall-s“	#konj	^	~all-se	\[al$e]	_IIú4úV_ArnM-283{134v,21}.01	ø	:	*³[alse]=all-se³
+`ich @pron	ùich	#pron	^GS	~mŒn	\[min]	_IIú4úV_ArnM-283{134v,21}.02	ø	:	*³[min]=mŒn³
+`s‰lb @pron	ùs‰lb	#pron	^GSm%&	~s‰lbes	\[$elu e$]	_IIú4úV_ArnM-283{134v,22}.03	ø	:	*³[selues]=s‰lbes³
+`lŒb @mn	ùlŒb	#m	^NS	~lŒb	\[lif],,	_IIú4úV_ArnM-283{134v,22}.04@	ø	:	*³[lif]=lŒb³
+`dazz @konj	ùdazz	#konj	^	~dazz	\[daz]	_IIú4úV_ArnM-284{134v,22}.01	ø	:	*³[daz]=dazz³
+`d– @pron	ùd–	#pron	^NS	~d–	\[du]	_IIú4úV_ArnM-284{134v,22}.02	ø	:	*³[du]=d–³
+`unser @pron_poss	ùunser	#pron_poss	^ASm	~unsen	\[un$ en]	_IIú4úV_ArnM-284{134v,22}.03	ø	:	*³[unsen]=unsen³
+`hˆrre @m	ùhˆrre	#m	^AS	~hˆrren	\[herren.]	_IIú4úV_ArnM-284{134v,22}.04@	ø	:/E[herren: Papp; {heren} Maurer]	*³[herren]=hˆrren³
+`ge-w‰rden @swv	ùge-w‰rden	#swv	^2SG	~ge-w‰rdes	\[ge](=)[werde$]	_IIú4úV_ArnM-285{134v,22}.01	ø	:	*³[gewerdes]=ge-w‰rdes³
+`d‰r @pron	ùd‰r	#pron	^GSn	~d‰s	\[d e$]	_IIú4úV_ArnM-285{134v,23}.02	ø	:	*³[des]=d‰s³
+`ge-willen @swv	ùge-willen	#swv i	^-	~ge-willen	\[gewillen.],,	_IIú4úV_ArnM-285{134v,23}.03@	ø	:	*³[g]=g³[e]=e³=-³[w]=w³[i]=i³[ll]=ll³[e]=e³[n]=n³
+`dazz @konj	ùdazz	#konj	^	~dazz	\[daz]	_IIú4úV_ArnM-286{134v,23}.01	ø	:	*³[daz]=dazz³
+`‰r @pron	ù‰r	#pron	^NSm	~‰r	\[er]	_IIú4úV_ArnM-286{134v,23}.02	ø	:	*³[er]=‰r³
+`‰r @pron	ù‰r	#pron	^APm	~siŠ	\[$ie]	_IIú4úV_ArnM-286{134v,23}.03	ø	:	*³[s]=s³[ie]=iŠ³
+`be-hŠten @swv	ùbe-hŠten	#swv	^3SGK	~be-hŠte	\[behu\o](=)[de]	_IIú4úV_ArnM-286{134v,23}.04	ø	:	*³[behu\ode]=be-hŠte³
+`naht @f<(u)>	ùnaht	#f<(u)>	^AS	~naht	\[naht]	_IIú4úV_ArnM-286{135r,01}.05	ø	:	*³[naht]=naht³
+`unte @konj	ùunte	#konj	^	~unte	\[unde]	_IIú4úV_ArnM-286{135r,01}.06	ø	:	*³[unde]=unte³
+`tag @m	ùtag	#m	^AS	~tag	\[dach]	_IIú4úV_ArnM-286{135r,01}.07@	ø	:	*³[d]=t³[a]=a³[ch]=g³
+`von @pr„p	ùvon	#pr„p	^	~van	\[uan]	_IIú4úV_ArnM-287{135r,01}.01	ø	:	*³[uan]=van³
+`all @pron	ùall	#pron	^GPf	~aller	\[all er]	_IIú4úV_ArnM-287{135r,01}.02	ø	:	*³[aller]=aller³
+`slahte @f	ùslahte	#f	^GP	~slahten	\[$lahten]	_IIú4úV_ArnM-287{135r,01}.03	ø	:	*³[slahten]=slahten³
+`bel @n	ùbel	#n	^DS	~bel(e)	\[ubele],,	_IIú4úV_ArnM-287{135r,02}.04	ø	:	*³[ubele]=bel(e)³
+`d‰r @pron	ùd‰r	#pron	^NSn+	~dazz	\[d az]	_IIú4úV_ArnM-287{135r,02}.05	ø	:	*³[daz]=dazz³
+`‰r @pron	ù‰r	#pron	^DP	~in	\[in]	_IIú4úV_ArnM-287{135r,02}.06	ø	:	*³[in]=in³
+`ge-w‰rren @stv3b	ùge-w‰rren	#stv3b i	^-	~ge-w‰rren	\[gewerren]	_IIú4úV_ArnM-287{135r,02}.07	ø	:	*³[gewerren]=ge-w‰rren³
+`mgen @anv	ùmgen	#anv	^3SGI	~mag	\[mach.],,	_IIú4úV_ArnM-287{135r,02}.08@	ø	:	*³[m]=m³[a]=a³[ch]=g³
+`dazz @konj	ùdazz	#konj	^	~dazz	\[daz]	_IIú4úV_ArnM-288{135r,02}.01	ø	:	*³[daz]=dazz³
+`‰r @pron	ù‰r	#pron	^NSm	~‰r	\[er]	_IIú4úV_ArnM-288{135r,02}.02	ø	:	*³[er]=‰r³
+`‰r @pron	ù‰r	#pron	^DP	~in	\[in]	_IIú4úV_ArnM-288{135r,03}.03	ø	:	*³[in]=in³
+`g‰ben @stv5	ùg‰ben	#stv5 i	^-	~g‰ben	\[geuen]	_IIú4úV_ArnM-288{135r,03}.04	ø	:	*³[geuen]=g‰ben³
+`wŠllen @anv	ùwŠllen	#anv	^3SGK	~wille	\[wille]	_IIú4úV_ArnM-288{135r,03}.05@	ø	:	*³[wille]=wille³
+`d‰r @art	ùd‰r	#art	^ASf	~diŠ	\[d ie]	_IIú4úV_ArnM-289{135r,03}.01	ø	:	*³[d]=d³[ie]=iŠ³
+`sŒn @pron_poss	ùsŒn	#pron_poss	^ASf!	~sŒne	\[$in e]	_IIú4úV_ArnM-289{135r,03}.02	ø	:	*³[sine]=sŒne³
+`liŠb @adj	ùliŠb	#adj	^ASfw	~liŠben	\[lieu en]	_IIú4úV_ArnM-289{135r,03}.03	ø	:	*³[lieuen]=liŠben³
+`hulde @f	ùhulde	#f	^AS	~hulde	\[hulde]!	_IIú4úV_ArnM-289{135r,03}.04@	ø	:	*³[hulde]=hulde³
+`unte @konj	ùunte	#konj	^	~unte	\unde	_IIú4úV_ArnM-290{135r,04}.01	ø	:	³u=u³n=n³d=t³e=e³
+`ze @pr„p	ùze	#pr„p	^	~ze	\ce|	_IIú4úV_ArnM-290{135r,04}.02	ø	:	³c=z³e=e³
+`lŠzzeste @adv sup	ùlŠzzeste	#adv sup	^	~lŠzzes<t>	\|lezze$	_IIú4úV_ArnM-290{135r,04}.03	ø	:	³l=l³e=Š³zz=zz³e=e³s=s³=t³
+`wir @pron	ùwir	#pron	^AP	~uns	\un$	_IIú4úV_ArnM-290{135r,04}.04	ø	:	³u=u³n=n³s=s³
+`ge-samenen @swv	ùge-samenen	#swv	^3SGK	~ge-samene	\ge$amene	_IIú4úV_ArnM-290{135r,04}.05@	ø	:	³g=g³e=e³=-³s=s³a=a³m=m³e=e³n=n³e=e³
+`in @pr„p	ùin	#pr„p	^	~in	\[in]	_IIú4úV_ArnM-291{135r,04}.01	ø	:	*³[in]=in³
+`d‰r @art	ùd‰r	#art	^DSmn	~d‰me	\d eme	_IIú4úV_ArnM-291{135r,04}.02	ø	:	³d=d³e=‰³m=m³e=e³
+`ˆwig @adj	ùˆwig	#adj	^DSmn!	~ˆwigeme	\ewig eme	_IIú4úV_ArnM-291{135r,05}.03	ø	:/^[nach {deme}]	³e=ˆ³w=w³i=i³g=g³e=e³m=m³e=e³
+`l‰ben @mn	ùl‰ben	#mn	^DS	~l‰bene	\leuene.(.)	_IIú4úV_ArnM-291{135r,05}.04@	ø	:	³l=l³e=‰³u=b³e=e³n=n³e=e³
+`Maria* @PN	ùMaria	#PN	^NS	~Maria	\*(M*)aria,	_IIú4úV_ArnM-292{135r,05}.01	ø	:	*³*(M*)aria=Maria³
+`milte @adj	ùmilte	#adj	^NSfw!"	~milte	\mild e 	_IIú4úV_ArnM-292{135r,05}.02	ø	:	³m=m³i=i³l=l³d=t³e=e³
+`kni(n)ginne @f	ùkni(n)ginne	#f	^NS	~kni(n)ginn<e>	\ku\o(=)ningin.,,	_IIú4úV_ArnM-292{135r,05}.03@	ø	:	³k=k³u\o=³n=n³i=i³n=n³g=g³i=i³n=nn³=e³
+`n– @adv/konj	ùn–	#adv	^	~n–	\nu	_IIú4úV_ArnM-293{135r,06}.01	ø	:	³n=n³u=–³
+`mŠzen @anv	ùmŠzen	#anv	^2SGK	~mŠzes	\mu\oze$	_IIú4úV_ArnM-293{135r,06}.02	ø	:	³m=m³u\o=Š³z=z³e=e³s=s³
+`d– @pron	ùd–	#pron	^NS	~d–	\tu	_IIú4úV_ArnM-293{135r,06}.03	ø	:	³t=d³u=–³
+`loben @swv	ùloben	#swv pV	^-	~ge-lobet	\gelouet 	_IIú4úV_ArnM-293{135r,06}.04	ø	:	³g=g³e=e³=-³l=l³o=o³u=b³e=e³t=t³
+`sŒn @anv	ùsŒn	#anv i	^-	~sŒn	\$in!	_IIú4úV_ArnM-293{135r,06}.05@	ø	:	³s=s³i=Œ³n=n³
+`d‰r @art	ùd‰r	#art	^GSf	~d‰r	\d er	_IIú4úV_ArnM-294{135r,06}.01	ø	:	³d=d³e=‰³r=r³
+`dŒn @pron_poss	ùdŒn	#pron_poss	^GSf!	~dŒner	\din er	_IIú4úV_ArnM-294{135r,07}.02	ø	:	³d=d³i=Œ³n=n³e=e³r=r³
+`“d-mŠte @f	ù“d-mŠte	#f	^GS	~“d-mŠte	\otmu\ote.	_IIú4úV_ArnM-294{135r,07}.03@	ø	:	³o=“³t=d³=-³m=m³u\o=Š³t=t³e=e³
+`unte @konj	ùunte	#konj	^	~unt<e>	\und	_IIú4úV_ArnM-295{135r,07}.01	ø	:	³u=u³n=n³d=t³=e³
+`all @pron	ùall	#pron	^GSf	~aller	\all er	_IIú4úV_ArnM-295{135r,07}.02	ø	:	³a=a³ll=ll³e=e³r=r³
+`dŒn @pron_poss	ùdŒn	#pron_poss	^GSf!	~dŒner	\din er	_IIú4úV_ArnM-295{135r,07}.03	ø	:/^[nach {aller}]	³d=d³i=Œ³n=n³e=e³r=r³
+`gŠte @f	ùgŠte	#f	^GS	~gŠte	\gu\od<e>!(!)	_IIú4úV_ArnM-295{135r,07}.04@	ø	:	³g=g³u\o=Š³d=t³e=e³
+`dƒr @adv	ùdƒr	#adv	^	~dƒr	\dar	_IIú4úV_ArnM-296{135r,08}.01	ø	:	³d=d³a=ƒ³r=r³
+`umbe @adv	ùumbe	#adv	^	~umbe	\umbe	_IIú4úV_ArnM-296{135r,08}.02	ø	:	³u=u³m=m³b=b³e=e³
+`d– @pron	ùd–	#pron	^AS	~dich	\dig	_IIú4úV_ArnM-296{135r,08}.03	ø	:	³d=d³i=i³g=ch³
+`Krist @PN	ùKrist	#PN	^NS	~Krist	\crist	_IIú4úV_ArnM-296{135r,08}.04	ø	:	*³c=k³r=r³i=i³s=s³t=t³
+`ge-n‰men @stv4	ùge-n‰men	#stv4	^3SVI	~ge-nam	\genam.	_IIú4úV_ArnM-296{135r,08}.05@	ø	:	³g=g³e=e³=-³n=n³a=a³m=m³
+`ze @pr„p	ùze	#pr„p	^	~ze	\ce	_IIú4úV_ArnM-297{135r,08}.01	ø	:	³c=z³e=e³
+`muoter @f<(u)>	ùmuoter	#f<(u)>	^DS	~muoter	\mu\od<e>r,,	_IIú4úV_ArnM-297{135r,08}.02	ø	:	³m=m³u\o=uo³d=t³e=e³r=r³
+`all-s“ @adv/konj	ùall-s“	#konj	^	~all-s	\al$	_IIú4úV_ArnM-297{135r,09}.03	ø	:	³a=a³l=ll³=-³s=s³
+`‰r @pron	ù‰r	#pron	^NSn	~izz	\iz	_IIú4úV_ArnM-297{135r,09}.04	ø	:	³i=i³z=zz³
+`wol(e) @adv/konj	ùwol(e)	#adv	^	~wol(e)	\wale	_IIú4úV_ArnM-297{135r,09}.05	ø	:	³w=w³a=o³l=l³e=e³
+`ge-z‰men @stv4	ùge-z‰men	#stv4	^3SVI	~ge-zam	\gezam!,,	_IIú4úV_ArnM-297{135r,09}.06@	ø	:	³g=g³e=e³=-³z=z³a=a³m=m³
+`dazz @konj	ùdazz	#konj	^	~dazz	\daz	_IIú4úV_ArnM-298{135r,09}.01	ø	:	³d=d³a=a³z=zz³
+`d‰r @art	ùd‰r	#art	^ASm	~d‰n	\d en	_IIú4úV_ArnM-298{135r,09}.02	ø	:	³d=d³e=‰³n=n³
+`aller-bŠzzest @adj sup	ùaller-bŠzzest	#adj sup	^ASm!	~aller-bŠzzisten	\aller#bez(=)ze$t e$	_IIú4úV_ArnM-298{135r,09}.03	ø	:/^[in {daz den aller#bez(=)ze$te$ man}]	³a=a³ll=ll³e=e³r=r³=-³b=b³e=Š³zz=zz³e=i³s=s³t=t³e=e³s=n³
+`mann @m	ùmann	#m	^AS	~mann	\man.,,(	_IIú4úV_ArnM-298{135r,10}.04@	ø	:	³m=m³a=a³n=nn³
+`d‰r @pron	ùd‰r	#pron	^NSm+	~d‰r	\d er	_IIú4úV_ArnM-299{135r,10}.01	ø	:	³d=d³e=‰³r=r³
+`iŠ @adv	ùiŠ	#adv	^	~iŠ	\ie	_IIú4úV_ArnM-299{135r,10}.02	ø	:	³ie=iŠ³
+`in @pr„p	ùin	#pr„p	^	~in	\in|	_IIú4úV_ArnM-299{135r,10}.03	ø	:	³i=i³n=n³
+`dise @pron	ùdise	#pron	^ASf	~dise	\|du$ e	_IIú4úV_ArnM-299{135r,10}.04	ø	:	³d=d³u=i³s=s³e=e³
+`w‰r(e)lt @f	ùw‰r(e)lt	#f	^AS	~w‰r<e>lt	\werlt	_IIú4úV_ArnM-299{135r,10}.05	ø	:	³w=w³e=‰³r=r³=e³l=l³t=t³
+`komen @stv4	ùkomen	#stv4	^3SVI	~quam	\quam!,,)	_IIú4úV_ArnM-299{135r,10}.06@	ø	:	³qu=qu³a=a³m=m³
+`d‰r @art	ùd‰r	#art	^NSn	~dazz	\d az	_IIú4úV_ArnM-300{135r,11}.01	ø	:	³d=d³a=a³z=zz³
+`bŠ(zzi)st @adj sup	ùbŠ(zzi)st	#adj sup	^NSnw	~bŠzziste	\bezze$t e	_IIú4úV_ArnM-300{135r,11}.02	ø	:	³b=b³e=Š³zz=zz³e=i³s=s³t=t³e=e³
+`wŒb @n	ùwŒb	#n	^NS	~wŒb	\wif	_IIú4úV_ArnM-300{135r,11}.03	ø	:	³w=w³i=Œ³f=b³
+`ge-b‰r(e)n @stv4	ùge-b‰r(e)n	#stv4	^3SVK	~ge-b‘re	\gebere,,	_IIú4úV_ArnM-300{135r,11}.04@	ø	:	³g=g³e=e³=-³b=b³e=‘³r=r³e=e³
+`d‰r @pron	ùd‰r	#pron	^NSf+	~diu	\d u	_IIú4úV_ArnM-301{135r,11}.01	ø	:	³d=d³u=iu³
+`in @pr„p	ùin	#pr„p	^	~in	\in	_IIú4úV_ArnM-301{135r,11}.02	ø	:	³i=i³n=n³
+`wŒb @n	ùwŒb	#n	^GS	~wŒbes	\wiue$	_IIú4úV_ArnM-301{135r,11}.03	ø	:	³w=w³i=Œ³u=b³e=e³s=s³
+`knne @n	ùknne	#n	^DS	~knne	\kunne	_IIú4úV_ArnM-301{135r,12}.04	ø	:	³k=k³u=³nn=nn³e=e³
+`w‰sen @stv5	ùw‰sen	#stv5	^3SVK	~w‘re	\were.(.)	_IIú4úV_ArnM-301{135r,12}.05@	ø	:	³w=w³e=‘³r=r³e=e³
+`n– @adv/konj	ùn–	#adv	^	~n–	\*(N*)u	_IIú4úV_ArnM-302{135r,12}.01	ø	:	³n=n³u=–³
+`mŠzen @anv	ùmŠzen	#anv	^2SGK	~mŠzes<t>	\mu\o<z>e$	_IIú4úV_ArnM-302{135r,12}.02	ø	:	³m=m³u\o=Š³z=z³e=e³s=s³=t³
+`d– @pron	ùd–	#pron	^NS	~d–	\tu	_IIú4úV_ArnM-302{135r,12}.03	ø	:	³t=d³u=–³
+`loben @swv	ùloben	#swv pV	^-	~ge-lobet	\gelouet 	_IIú4úV_ArnM-302{135r,12}.04	ø	:	³g=g³e=e³=-³l=l³o=o³u=b³e=e³t=t³
+`sŒn @anv	ùsŒn	#anv i	^-	~sŒn	\$in,,	_IIú4úV_ArnM-302{135r,13}.05@	ø	:	³s=s³i=Œ³n=n³
+`Maria* @PN	ùMaria	#PN	^NS	~Maria	\maria,	_IIú4úV_ArnM-303{135r,13}.01	ø	:	*³maria=Maria³
+`unser @pron_poss	ùunser	#pron_poss	^NSfw!"	~unse	\un$ e	_IIú4úV_ArnM-303{135r,13}.02	ø	:	³u=u³n=n³s=s³e=e³
+`vogetinne @f	ùvogetinne	#f	^NS	~vogetŒn	\uogedin.,	_IIú4úV_ArnM-303{135r,13}.03@	ø	:	³u=v³o=o³g=g³e=e³d=t³i=Œ³n=n³
+`tr“st @m	ùtr“st	#m	^NS	~tr“st	\tro$t	_IIú4úV_ArnM-304{135r,13}.01	ø	:	³t=t³r=r³o=“³s=s³t=t³
+`d‰r @art	ùd‰r	#art	^GSf	~d‰r	\d er	_IIú4úV_ArnM-304{135r,13}.02	ø	:	³d=d³e=‰³r=r³
+`kristen-hŠit @f	ùkristen-hŠit	#f	^GS	~kristen-hŠite	\cri$tenheide.,	_IIú4úV_ArnM-304{135r,14}.03@	ø	:/E[cri$tenheide: {cristenheide} Maurer]	³c=k³r=r³i=i³s=s³t=t³e=e³n=n³=-³h=h³ei=Ši³d=t³e=e³
+`schilt @m	ùschilt	#m	^NS	~schilt	\$chilt	_IIú4úV_ArnM-305{135r,14}.01	ø	:	³sch=sch³i=i³l=l³t=t³
+`d‰r @art	ùd‰r	#art	^GSf	~d‰r	\d er	_IIú4úV_ArnM-305{135r,14}.02	ø	:	³d=d³e=‰³r=r³
+`unser @pron_poss	ùunser	#pron_poss	^GSf!	~unser	\un$ er	_IIú4úV_ArnM-305{135r,14}.03	ø	:	³u=u³n=n³s=s³e=e³r=r³
+`broŠdig-hŠit @f	ùbroŠdig-hŠit	#f	^GS	~broŠdig-<h>Šite	\bro[d]e(=)cheide!(!)	_IIú4úV_ArnM-305{135r,14}.04@	ø	:	³b=b³r=r³o=oŠ³[d]=d³e=i³ch=g³=-³=h³ei=Ši³d=t³e=e³
+`Maria* @PN	ùMaria	#PN	^NS	~Maria	\maria,,	_IIú4úV_ArnM-306{135r,15}.01	ø	:	*³maria=Maria³
+`[!] @[!]	ùgratia*	#f	^	~gratia	\gr(ati)a	_IIú4úV_ArnM-306{135r,15}.02	ø	:	³g=g³r=r³a=a³t=t³i=i³a=a³
+`[!] @[!]	ùplenus*	#adj	^	~plenƒ	\plena.,	_IIú4úV_ArnM-306{135r,15}.03@	ø	:	³p=p³l=l³e=e³n=n³a=ƒ³
+`d– @pron	ùd–	#pron	^NS	~d–	\du	_IIú4úV_ArnM-307{135r,15}.01	ø	:	³d=d³u=–³
+`sŒn @anv	ùsŒn	#anv	^2SGI	~bis	\bi$	_IIú4úV_ArnM-307{135r,15}.02	ø	:	³b=b³i=i³s=s³
+`voll @adj	ùvoll	#adj	^-	~voll	\uol 	_IIú4úV_ArnM-307{135r,15}.03	ø	:	³u=v³o=o³l=ll³
+`all @pron	ùall	#pron	^GSPf	~aller	\<all er>	_IIú4úV_ArnM-307{135r,16}.04	ø	:	³a=a³ll=ll³e=e³r=r³
+`ge-nƒde @f	ùge-nƒde	#f	^GSP	~g<e>-nƒden	\gn<a>den!,	_IIú4úV_ArnM-307{135r,16}.05@	ø	:	³g=g³=e³=-³n=n³a=ƒ³d=d³e=e³n=n³
+`d‰r @art	ùd‰r	#art	^GSm	~d‰s	\d e$	_IIú4úV_ArnM-308{135r,16}.01	ø	:	³d=d³e=‰³s=s³
+`hŠilig @adj	ùhŠilig	#adj	^GSmw	~hŠiligen	\heilig en	_IIú4úV_ArnM-308{135r,16}.02	ø	:	³h=h³ei=Ši³l=l³i=i³g=g³e=e³n=n³
+`gŠist @m	ùgŠist	#m	^GS	~gŠistes	\gei$te<$>	_IIú4úV_ArnM-308{135r,16}.03	ø	:	³g=g³ei=Ši³s=s³t=t³e=e³s=s³
+`er-kiŠsen @stv2b	ùer-kiŠsen	#stv2b pV	^NSn	~er-kor<e>nezz	\<er>(=)<corn ez>	_IIú4úV_ArnM-308{135r,16}.04	ø	:	³e=e³r=r³=-³c=k³o=o³r=r³=e³n=n³e=e³z=zz³
+`vazz @n	ùvazz	#n	^NS	~vazz	\uaz.,,	_IIú4úV_ArnM-308{135r,17}.05@	ø	:	³u=v³a=a³z=zz³
+`d‰r @pron	ùd‰r	#pron	^ASn+	~dazz	\d az	_IIú4úV_ArnM-309{135r,17}.01	ø	:	³d=d³a=a³z=zz³
+`‰r @pron	ù‰r	#pron	^NSm	~‰r	\er	_IIú4úV_ArnM-309{135r,17}.02	ø	:	³e=‰³r=r³
+`ze @pr„p	ùze	#pr„p	^	~ze	\ce|	_IIú4úV_ArnM-309{135r,17}.03	ø	:	³c=z³e=e³
+`dise @pron	ùdise	#pron	^DP	~disen	\|di$ en	_IIú4úV_ArnM-309{135r,17}.04	ø	:	³d=d³i=i³s=s³e=e³n=n³
+`ˆre @f	ùˆre	#f	^DP	~ˆren	\eren	_IIú4úV_ArnM-309{135r,17}.05	ø	:	³e=ˆ³r=r³e=e³n=n³
+`sunter-lŒche @adv	ùsunter-lŒche	#adv	^	~sunter-lŒche	\$<un>(=)de<rli>che	_IIú4úV_ArnM-309{135r,17}.06	ø	:	³s=s³u=u³n=n³d=t³e=e³r=r³=-³l=l³i=Œ³ch=ch³e=e³
+`er-l‰sen @stv5	ùer-l‰sen	#stv5	^3SVI	~er-las	\erla$!	_IIú4úV_ArnM-309{135r,18}.07@	ø	:	³e=e³r=r³=-³l=l³a=a³s=s³
+`–z @adv	ù–z	#adv	^	~–z	\uz	_IIú4úV_ArnM-310{135r,18}.01	ø	:	³u=–³z=z³
+`von @pr„p	ùvon	#pr„p	^	~van	\uan	_IIú4úV_ArnM-310{135r,18}.02	ø	:	³u=v³a=a³n=n³
+`all @pron	ùall	#pron	^DP	~allen	\all en	_IIú4úV_ArnM-310{135r,18}.03	ø	:	³a=a³ll=ll³e=e³n=n³
+`wŒb @n	ùwŒb	#n	^DP	~wŒben	\wifen.,,	_IIú4úV_ArnM-310{135r,18}.04@	ø	:	³w=w³i=Œ³f=b³e=e³n=n³
+`d‰r @pron	ùd‰r	#pron	^NPn+	~diŠ	\d ie	_IIú4úV_ArnM-311{135r,19}.01	ø	:	³d=d³ie=iŠ³
+`dƒr @adv	ùdƒr	#adv	^	~dƒr	\der	_IIú4úV_ArnM-311{135r,19}.02	ø	:	³d=d³e=ƒ³r=r³
+`iŠ @adv	ùiŠ	#adv	^	~iŠ	\ie	_IIú4úV_ArnM-311{135r,19}.03	ø	:	³ie=iŠ³
+`b‰r(e)n @stv4	ùb‰r(e)n	#stv4 pV	^-	~ge-bor(e)n	\geboren 	_IIú4úV_ArnM-311{135r,19}.04	ø	:	³g=g³e=e³=-³b=b³o=o³r=r³e=e³n=n³
+`w‰rden @stv3b	ùw‰rden	#stv3b	^3PV	~wurden	\[w]urden.(.)	_IIú4úV_ArnM-311{135r,19}.05@	ø	:	³[w]=w³u=u³r=r³d=d³e=e³n=n³
+`milte @adj	ùmilte	#adj	^NSfw!"	~milte	\*(M*)<ild e> 	_IIú4úV_ArnM-312{135r,19}.01	ø	:	³m=m³i=i³l=l³d=t³e=e³
+`Maria* @PN	ùMaria	#PN	^NS	~Maria	\maria.,	_IIú4úV_ArnM-312{135r,20}.02@	ø	:	*³maria=Maria³
+`ge-n‘dig @adj	ùge-n‘dig	#adj	^NSfw!"	~ge-n‘dige	\genedig e	_IIú4úV_ArnM-313{135r,20}.01	ø	:	³g=g³e=e³=-³n=n³e=‘³d=d³i=i³g=g³e=e³
+`Maria* @PN	ùMaria	#PN	^NS	~Maria	\maria.,	_IIú4úV_ArnM-313{135r,20}.02	ø	:	*³maria=Maria³
+`sŠze @adj	ùsŠze	#adj	^NSfw!"	~sŠze	\su\oz e 	_IIú4úV_ArnM-313{135r,20}.03	ø	:	³s=s³u\o=Š³z=z³e=e³
+`Maria* @PN	ùMaria	#PN	^NS	~Maria	\mar<ia>,,	_IIú4úV_ArnM-313{135r,20}.04@	ø	:	*³[!]=[!]³
+`dŒn @pron_poss	ùdŒn	#pron_poss	^ASm	~dŒnen	\din en	_IIú4úV_ArnM-314{135r,21}.01	ø	:	³d=d³i=Œ³n=n³e=e³n=n³
+`lob @mn	ùlob	#m	^AS	~lob	\lof	_IIú4úV_ArnM-314{135r,21}.02	ø	:	³l=l³o=o³f=b³
+`mŠzen @anv	ùmŠzen	#anv	^3PG	~mŠzen	\mu\ozen	_IIú4úV_ArnM-314{135r,21}.03	ø	:	³m=m³u\o=Š³z=z³e=e³n=n³
+`singen @stv3a	ùsingen	#stv3a i	^-	~singen	\$ingen.	_IIú4úV_ArnM-314{135r,21}.04@	ø	:	³s=s³i=i³n=n³g=g³e=e³n=n³
+`all @pron	ùall	#pron	^GPf	~aller	\all <e>r|	_IIú4úV_ArnM-315{135r,21}.01	ø	:	³a=a³ll=ll³e=e³r=r³
+`slahte @f	ùslahte	#f	^GP	~slahte	\|$l<ah>(=)<te>	_IIú4úV_ArnM-315{135r,21}.02	ø	:	³s=s³l=l³a=a³h=h³t=t³e=e³
+`zunge @f	ùzunge	#f	^NP	~zungen	\<z>ungen!	_IIú4úV_ArnM-315{135r,22}.03@	ø	:	³z=z³u=u³n=n³g=g³e=e³n=n³
+`unte @konj	ùunte	#konj	^	~unt<e>	\und	_IIú4úV_ArnM-316{135r,22}.01	ø	:	³u=u³n=n³d=t³=e³
+`all @pron	ùall	#pron	^NSfw!	~alle	\all e	_IIú4úV_ArnM-316{135r,22}.02	ø	:	³a=a³ll=ll³e=e³
+`d‰r @pron	ùd‰r	#pron	^NSf	~diu	\d <u>	_IIú4úV_ArnM-316{135r,22}.03	ø	:	³d=d³u=iu³
+`ge-schŠffede @fn	ùge-schŠffede	#f	^NS	~ge-schŠffede	\ge$c<heffede.>,,	_IIú4úV_ArnM-316{135r,22}.04@	ø	:	³g=g³e=e³=-³sch=sch³e=Š³ff=ff³e=e³d=d³e=e³
+`d‰r @pron	ùd‰r	#pron	^NSf+	~diu	\d u	_IIú4úV_ArnM-317{135r,23}.01	ø	:	³d=d³u=iu³
+`dƒr @adv	ùdƒr	#adv	^	~dƒr	\der	_IIú4úV_ArnM-317{135r,23}.02	ø	:	³d=d³e=ƒ³r=r³
+`sŒn @anv	ùsŒn	#anv	^3SGI	~is	\<i$>	_IIú4úV_ArnM-317{135r,23}.03	ø	:	³i=i³s=s³
+`in @pr„p	ùin	#pr„p	^	~in	\<in>|	_IIú4úV_ArnM-317{135r,23}.04	ø	:	³i=i³n=n³
+`‰rde @f	ù‰rde	#f	^DS	~‰rden	\|erden	_IIú4úV_ArnM-317{135r,23}.05	ø	:	³e=‰³r=r³d=d³e=e³n=n³
+`oder @konj	ùoder	#konj	^	~ob<e>	\of	_IIú4úV_ArnM-317{135r,23}.06	ø	:	³o=o³f=b³=e³
+`in @pr„p	ùin	#pr„p	^	~in	\<in>|	_IIú4úV_ArnM-317{135r,23}.07	ø	:	³i=i³n=n³
+`himel @m	ùhimel	#m	^DS	~himel(e)	\|<himele>.(.)	_IIú4úV_ArnM-317{135r,23}.08@	ø	:	³h=h³i=i³m=m³e=e³l=l³e=e³
+`dŒn @pron_poss	ùdŒn	#pron_poss	^0NSm	~dŒn	\<din>	_IIú4úV_ArnM-318{135r,23}.01	ø	:/K[{135v,01} : fol. 135v nach der Lesung von E. Papp, in: Waag/Schr”der II, S. 254]	³d=d³i=Œ³n=n³
+`lob @mn	ùlob	#m	^NS	~lob	\[lof],,	_IIú4úV_ArnM-318{135v,01}.02	ø	:	*³[lof]=lob³
+`d‰r @pron	ùd‰r	#pron	^NSm	~d‰r	\[d er]	_IIú4úV_ArnM-318{135v,01}.03	ø	:	*³[der]=d‰r³
+`sŒn @anv	ùsŒn	#anv	^3SGI	~is	\[i$]	_IIú4úV_ArnM-318{135v,01}.04	ø	:	*³[is]=is³
+`all-s“ @adv/konj	ùall-s“	#adv	^	~all-se	\[al$e]	_IIú4úV_ArnM-318{135v,01}.05	ø	:	*³[alse]=all-se³
+`sŠze @adj	ùsŠze	#adj	^-	~sŠze	\[$u\oz e .],,	_IIú4úV_ArnM-318{135v,01}.06@	ø	:	*³[s]=s³[u\o]=Š³[z]=z³[e]=e³
+`d‰r @pron	ùd‰r	#pron	^NSm	~d‰r	\[d er]	_IIú4úV_ArnM-319{135v,01}.01	ø	:	*³[der]=d‰r³
+`ge-vr”uwen @swv	ùge-vr”uwen	#swv	^3SGI	~ge-vr”uwet	\[gefrowet]	_IIú4úV_ArnM-319{135v,01}.02	ø	:	*³[gefrowet]=ge-vr”uwet³
+`all @pron	ùall	#pron	^0ASn	~all	\[al]	_IIú4úV_ArnM-319{135v,01}.03	ø	:	*³[al]=all³
+`mŒn @pron_poss	ùmŒn	#pron_poss	^0ASn	~mŒn	\[min]	_IIú4úV_ArnM-319{135v,01}.04	ø	:	*³[min]=mŒn³
+`h‰rze @n	ùh‰rze	#n	^AS	~h‰rze	\[herce](.)	_IIú4úV_ArnM-319{135v,02}.05@	ø	:	*³[herce]=h‰rze³
+`‰r @pron	ù‰r	#pron	^NSm	~hˆ	\[he]	_IIú4úV_ArnM-320{135v,02}.01	ø	:	*³[he]=hˆ³
+`ge-troŠsten @swv	ùge-troŠsten	#swv	^3SGI	~ge-troŠstet	\[getro$tet]	_IIú4úV_ArnM-320{135v,02}.02	ø	:	*³[getrostet]=ge-troŠstet³
+`ich @pron	ùich	#pron	^AS	~mich	\[mig],,	_IIú4úV_ArnM-320{135v,02}.03	ø	:	*³[mig]=mich³
+`‰r @pron	ù‰r	#pron	^NSm	~hˆ	\[he]	_IIú4úV_ArnM-320{135v,02}.04	ø	:	*³[he]=hˆ³
+`ge-stŠrken @swv	ùge-stŠrken	#swv	^3SGI	~ge-stŠrket	\[ge$terket]	_IIú4úV_ArnM-320{135v,02}.05	ø	:	*³[gesterket]=ge-stŠrket³
+`ich @pron	ùich	#pron	^AS	~mich	\[mich.],,	_IIú4úV_ArnM-320{135v,03}.06@	ø	:	*³[m]=m³[i]=i³[ch]=ch³
+`dŒn @pron_poss	ùdŒn	#pron_poss	^0NSm	~dŒn	\[din]	_IIú4úV_ArnM-321{135v,03}.01	ø	:	*³[din]=dŒn³
+`lob @mn	ùlob	#m	^NS	~lob	\[lof],,	_IIú4úV_ArnM-321{135v,03}.02	ø	:	*³[lof]=lob³
+`d‰r @pron	ùd‰r	#pron	^NSm	~d‰r	\[d er]	_IIú4úV_ArnM-321{135v,03}.03	ø	:	*³[der]=d‰r³
+`sŒn @anv	ùsŒn	#anv	^3SGI	~is	\[i$]	_IIú4úV_ArnM-321{135v,03}.04	ø	:	*³[is]=is³
+`ˆwig-lich @adj	ùˆwig-lich	#adj	^-	~ˆwig-lich	\[eweclih .],	_IIú4úV_ArnM-321{135v,03}.05@	ø	:	*³[e]=ˆ³[w]=w³[e]=i³[c]=g³=-³[l]=l³[i]=i³[h]=ch³
+`[!] @[!]	ù[!]	#[!]	^	~[!]	\[...]	_IIú4úV_ArnM-322{135v,03}.01	ø	:	*³[...]=[!]³
+`ge-lŒch @adj	ùge-lŒch	#adj	^-	~ge-lŒch	\[gelich] 	_IIú4úV_ArnM-322{135v,03}.02	ø	:	*³[g]=g³[e]=e³=-³[l]=l³[i]=Œ³[ch]=ch³
+`d‰r @art	ùd‰r	#art	^DSm	~d‰m	\[d em]	_IIú4úV_ArnM-322{135v,04}.03	ø	:	*³[dem]=d‰m³
+`brunne @m	ùbrunne	#m	^DS	~brunnen	\[brunnen],,(	_IIú4úV_ArnM-322{135v,04}.04	ø	:	*³[brunnen]=brunnen³
+`d‰r @pron	ùd‰r	#pron	^NSm+	~d‰r	\[d er]	_IIú4úV_ArnM-322{135v,04}.05	ø	:	*³[der]=d‰r³
+`iŠmer @adv	ùiŠmer	#adv	^	~iŠmer	\[iemer]	_IIú4úV_ArnM-322{135v,04}.06	ø	:	*³[iemer]=iŠmer³
+`vliŠzen @stv2b	ùvliŠzen	#stv2b	^3SGI	~vliuzet	\[fluzet],,)	_IIú4úV_ArnM-322{135v,04}.07@	ø	:	*³[fluzet]=vliuzet³
+`ge-lŒch @adj	ùge-lŒch	#adj	^-	~ge-lŒch	\[gelich] 	_IIú4úV_ArnM-323{135v,04}.01	ø	:	*³[g]=g³[e]=e³=-³[l]=l³[i]=Œ³[ch]=ch³
+`d‰r @art	ùd‰r	#art	^DSn	~d‰me	\[d eme]	_IIú4úV_ArnM-323{135v,05}.02	ø	:	*³[deme]=d‰me³
+`kr–t @n	ùkr–t	#n	^DS	~kr–te	\[krude],,	_IIú4úV_ArnM-323{135v,05}.03	ø	:	*³[krude]=kr–te³
+`d‰r @pron	ùd‰r	#pron	^NSn+	~dazz	\[d az]	_IIú4úV_ArnM-323{135v,05}.04	ø	:	*³[daz]=dazz³
+`iŠmer @adv	ùiŠmer	#adv	^	~iŠmer	\[iemer]	_IIú4úV_ArnM-323{135v,05}.05	ø	:	*³[iemer]=iŠmer³
+`gruonen @swv	ùgruonen	#swv	^3SGI	~gruonet	\[gru\onet.](.)	_IIú4úV_ArnM-323{135v,05}.06@	ø	:	*³[gru\onet]=gruonet³
+`[!] @[!]	ùbenedicere*	#v pV	^-	~benedictus	\[*(B*)e(=)nedictu$]	_IIú4úV_ArnM-324{135v,05}.01	ø	:	*³[benedictus]=benedictus³
+`[!] @[!]	ùfructus*	#m	^NS	~fructus	\[fructu$]	_IIú4úV_ArnM-324{135v,06}.02	ø	:	*³[fructus]=fructus³
+`[!] @[!]	ùventer*	#m	^GS	~ventris	\[uentri$]	_IIú4úV_ArnM-324{135v,06}.03	ø	:	*³[uentris]=ventris³
+`[!] @[!]	ùtuus*	#pron_poss	^GSm	~tuŒ	\[tui.],	_IIú4úV_ArnM-324{135v,06}.04@	ø	:	*³[t]=t³[u]=u³[i]=Œ³
+`loben @swv	ùloben	#swv pV	^-	~ge-lobet	\[gelouet] 	_IIú4úV_ArnM-325{135v,06}.01	ø	:/E[ge<lo>uet: Papp; {gelo<v>et} Maurer]	*³[gelouet]=ge-lobet³
+`unser @pron_poss	ùunser	#pron_poss	^NSmw!	~unse	\[un$ e]	_IIú4úV_ArnM-325{135v,07}.02	ø	:	*³[unse]=unse³
+`hˆrre @m	ùhˆrre	#m	^NS	~hˆrre	\[here]	_IIú4úV_ArnM-325{135v,07}.03	ø	:	*³[here]=hˆrre³
+`sŒn @anv	ùsŒn	#anv	^3SGK	~sŒ	\[$i.](.)	_IIú4úV_ArnM-325{135v,07}.04@	ø	:	*³[si]=sŒ³

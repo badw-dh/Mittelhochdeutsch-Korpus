@@ -1,0 +1,1259 @@
++H
+1) Allgemeine Informationen
+ID	M082
+Strukturschlssel
+Texttitel	Vatikanische Gebete
+Textkrzel
+a) ReM	VatG
+b) MWB	VatGeb
+c) MiGraKo-intern	III-4-P_VatG
+Textbereich	Religion
+Textsorte, spezifisch	Gebet
+Textart	P
+Prim„re Referenz	Handschrift
+Sekund„re Referenz	Edition
+2) šberlieferungstr„ger
+Aufbewahrungsort	Rom (Vatikanstadt), Bibl. Apostolica Vaticana
+Signatur	Cod. Vat. lat. 4763
+Handschriftencensus	http://www.handschriftencensus.de/1414
+3) Niederschrift
+šberlieferungstyp	Handschrift
+Blattangabe	Bl. 107r-128v
+Ausschnitt
+Sprachstufe	mhd
+nieder-, mittel-, oberdeutsch	mitteldeutsch
+sprachlicher Groáraum	westmitteldeutsch
+Sprachlandschaft	rheinfr„nkisch
+Lokalisierung
+Zeit (Jahrhundert, Jahrhunderth„lfte)	13,1
+Zeit (genauere Datierung)	13,2V
+Besonderheiten
+4) Text/ šbersetzungsvorlage
+Datierung_Text	vielleicht noch 12,E
+Lokalisierung_Text	Bistum Mainz?
+Autor
+Sprache des Autors
+šbersetzungsvorlage
+Edition	Friedrich Wilhelm (Hg.), Denkm„ler deutscher Prosa des 11. und 12. Jahrhunderts,  Mnchen 1914/16, Nr. 28,  S. 69-73
+5) Korpus, Transkription, Annotation
+Korpuszugeh”rigkeit	MiGraKo
+Besonderheiten: Transkription
+Besonderheiten: Annotation
+6) Bearbeiter
+Bearbeiter: Digitalisierung	Projektgruppe Mitteldeutsch (K”ln)
+Bearbeiter: Kollationierung	Wiebke Wolf, Thomas Klein (Bonn)
+Bearbeiter: Pr„editierung	Claudia Kl„s (Bonn)
+Bearbeiter: Annotierung	Thomas Klein (K”ln)
+Bearbeiter: Korrektur	Thomas Klein (K”ln)
+05/16/16 16:45:55: Lemmabestand mit KRP-AEND (nderungsliste D:\MG\FLEX\PRON\NUM\SEHS\HS_HS.TXT) korrigiert!
+05/16/16 16:52:46: Lemmabestand mit KRP-AEND (nderungsliste D:\MG\FLEX\PRON\NUM\SEHS\HS_HS2.TXT) korrigiert!
+12/14/17 15:46:43: Lemmabestand mit KRP-AEND (nderungsliste D:\MG\LAUT\V\FEHL_NEU.TXT) korrigiert!
+07/31/18 16:14:43: Lemmabestand mit KRP-AEND (nderungsliste D:\TEMP\EN-DT.TXT) korrigiert!
+08/31/18 11:47:09: Lemmabestand mit KRP-AEND (nderungsliste D:\PP\KORR\KOR_LST\BRIEF.TXT) korrigiert!
+09/04/18 19:53:46: Lemmabestand mit KRP-AEND (nderungsliste D:\PP\KORR\KOR_LST\KRP-AEND.NUL) korrigiert!
+02/09/20 21:32:14: Lemmabestand mit KRP-AEND (nderungsliste D:\PP\ABGLEICH\KORR_LST.TXT) korrigiert!
+02/09/20 22:24:32: Lemmabestand mit KRP-AEND (nderungsliste D:\PP\ABGLEICH\ER-KRZL.TXT) korrigiert!
+04/22/20 18:43:25: Lemmabestand mit KRP-AEND (nderungsliste D:\PP\MUELLER\P_KORR-S.TXT) korrigiert!
+@H
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~deus	\DEVS	_IIIú4úP_VatG-107r,08{003}.01	ø	:	*³devs=deus³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~qui	\qui	_IIIú4úP_VatG-107r,08{003}.02	ø	:	*³qui=qui³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~de	\de	_IIIú4úP_VatG-107r,08{003}.03	ø	:	*³de=de³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~beatae	\beate	_IIIú4úP_VatG-107r,08{003}.04@	ø	:	*³beate=beatae³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~Mariae	\marie	_IIIú4úP_VatG-107r,09{003}.01	ø	:	*³marie=Mariae³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~virginis	\uirgini$	_IIIú4úP_VatG-107r,09{003}.02	ø	:	*³uirginis=virginis³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~utero	\utero	_IIIú4úP_VatG-107r,09{003}.03	ø	:	*³utero=utero³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~verbum	\uer(=)bum	_IIIú4úP_VatG-107r,09{003}.04@	ø	:	*³uerbum=verbum³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~tuum	\tuum	_IIIú4úP_VatG-107r,10{004}.01	ø	:	*³tuum=tuum³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~angelo	\angelo	_IIIú4úP_VatG-107r,10{004}.02	ø	:	*³angelo=angelo³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~annuntiante	\annun(=)ciante	_IIIú4úP_VatG-107r,10{004}.03@	ø	:	*³annunciante=annuntiante³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~carnem	\carnem	_IIIú4úP_VatG-107r,11{004}.01	ø	:	*³carnem=carnem³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~suscipere	\$u$cipere	_IIIú4úP_VatG-107r,11{004}.02	ø	:	*³suscipere=suscipere³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~voluisti	\uolui$ti.	_IIIú4úP_VatG-107r,11{004}.03	ø	:	*³uoluisti=voluisti³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~praesta	\pre$ta	_IIIú4úP_VatG-107r,11{004}.04@	ø	:	*³presta=praesta³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~supplicibus	\$upplicibu$	_IIIú4úP_VatG-107r,12{005}.01	ø	:	*³supplicibus=supplicibus³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~tuis	\tui$.	_IIIú4úP_VatG-107r,12{005}.02	ø	:	*³tuis=tuis³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~ut	\ut	_IIIú4úP_VatG-107r,12{005}.03	ø	:	*³ut=ut³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~qui	\qui	_IIIú4úP_VatG-107r,12{005}.04	ø	:	*³qui=qui³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~vere	\uere	_IIIú4úP_VatG-107r,12{005}.05	ø	:	*³uere=vere³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~eam	\eam	_IIIú4úP_VatG-107r,12{005}.06	ø	:	*³eam=eam³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~dei	\dei	_IIIú4úP_VatG-107r,12{005}.07@	ø	:	*³dei=dei³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~genitricem	\genitricem	_IIIú4úP_VatG-107r,13{005}.01	ø	:	*³genitricem=genitricem³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~credimus	\credimu$;	_IIIú4úP_VatG-107r,13{005}.02	ø	:	*³credimus=credimus³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~eius	\eiu$	_IIIú4úP_VatG-107r,13{006}.03	ø	:	*³eius=eius³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~apud	\apud	_IIIú4úP_VatG-107r,13{006}.04	ø	:	*³apud=apud³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~te	\te	_IIIú4úP_VatG-107r,13{006}.05@	ø	:	*³te=te³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~intercessionibus	\interce$$ionibu$	_IIIú4úP_VatG-107r,14{006}.01	ø	:	*³intercessionibus=intercessionibus³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~adiuvemur	\adiuuemur.	_IIIú4úP_VatG-107r,14{006}.02	ø	:	*³adiuuemur=adiuvemur³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~per	\Per	_IIIú4úP_VatG-107r,14{006}.03	ø	:	*³per=per³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~e.	\e.	_IIIú4úP_VatG-107r,14{006}.04	ø	:	*³e=e.³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~d.	\d.	_IIIú4úP_VatG-107r,14{006}.05@	ø	:	*³d=d.³
+`dise @pron	ùdise	#pron	^ASn	~dizz	\*(D*)iz	_IIIú4úP_VatG-107r,15{007}.01	ø	:	³d=d³i=i³z=zz³
+`hŠilig @adj	ùhŠilig	#adj	^ASnw	~hŠilige	\heilig e	_IIIú4úP_VatG-107r,15{007}.02	ø	:	³h=h³ei=Ši³l=l³i=i³g=g³e=e³
+`v‰rs @mn	ùv‰rs	#n	^AS	~v‰rs	\uers.	_IIIú4úP_VatG-107r,15{007}.03	ø	:	³u=v³e=‰³r=r³s=s³
+`unte @konj	ùunte	#konj	^	~unte	\unde	_IIIú4úP_VatG-107r,15{007}.04	ø	:	³u=u³n=n³d=t³e=e³
+`dise @pron	ùdise	#pron	^ASn	~dizz	\diz	_IIIú4úP_VatG-107r,15{007}.05@	ø	:	³d=d³i=i³z=zz³
+`hŠilig @adj	ùhŠilig	#adj	^ASnw	~hŠilige	\heilig e	_IIIú4úP_VatG-107r,16{007}.01	ø	:	³h=h³ei=Ši³l=l³i=i³g=g³e=e³
+`lob @mn	ùlob	#n	^AS	~lob	\lob	_IIIú4úP_VatG-107r,16{007}.02	ø	:	³l=l³o=o³b=b³
+`spr‰chen @stv4	ùspr‰chen	#stv4	^1SGI	~sprichen	\$prechen	_IIIú4úP_VatG-107r,16{007}.03	ø	:	³s=s³p=p³r=r³e=i³ch=ch³e=e³n=n³
+`ich @pron	ùich	#pron	^NS	~ich	\ich	_IIIú4úP_VatG-107r,16{007}.04	ø	:	³i=i³ch=ch³
+`d– @pron	ùd–	#pron	^DS	~dir	\dir,,(	_IIIú4úP_VatG-107r,16{008}.05@	ø	:	³d=d³i=i³r=r³
+`hˆrre @m	ùhˆrre	#m	^NS	~hˆrr‚	\herro,,)	_IIIú4úP_VatG-107v,01{008}.01	ø	:	³h=h³e=ˆ³rr=rr³o=‚³
+`ze @pr„p	ùze	#pr„p	^	~ze	\ze|	_IIIú4úP_VatG-107v,01{008}.02	ø	:	³z=z³e=e³
+`lob @mn	ùlob	#mn	^DS	~lobe	\|lobe	_IIIú4úP_VatG-107v,01{008}.03	ø	:	³l=l³o=o³b=b³e=e³
+`unte @konj	ùunte	#konj	^	~unte	\unde	_IIIú4úP_VatG-107v,01{008}.04	ø	:	³u=u³n=n³d=t³e=e³
+`ze @pr„p	ùze	#pr„p	^	~z<e>	\z|	_IIIú4úP_VatG-107v,01{008}.05	ø	:	³z=z³=e³
+`ˆre @f	ùˆre	#f	^DP	~ˆren	\|eren.	_IIIú4úP_VatG-107v,01{008}.06	ø	:	³e=ˆ³r=r³e=e³n=n³
+`dŒn @pron_poss	ùdŒn	#pron_poss	^DSf	~dŒner	\din er	_IIIú4úP_VatG-107v,01{008}.07	ø	:	³d=d³i=Œ³n=n³e=e³r=r³
+`hŠilig @adj	ùhŠilig	#adj	^DSfw	~hŠiligen	\hei(=)lig en	_IIIú4úP_VatG-107v,01{008}.08@	ø	:	³h=h³ei=Ši³l=l³i=i³g=g³e=e³n=n³
+`gote-hŠit @f	ùgote-hŠit	#f	^DS	~got<e>-hŠite	\gotheide.	_IIIú4úP_VatG-107v,02{008}.01	ø	:	³g=g³o=o³t=t³=e³=-³h=h³ei=Ši³d=t³e=e³
+`unte @konj	ùunte	#konj	^	~unte	\unde	_IIIú4úP_VatG-107v,02{009}.02	ø	:	³u=u³n=n³d=t³e=e³
+`dŒn @pron_poss	ùdŒn	#pron_poss	^DSf	~dŒner	\din er	_IIIú4úP_VatG-107v,02{009}.03	ø	:	³d=d³i=Œ³n=n³e=e³r=r³
+`hŠilig @adj	ùhŠilig	#adj	^DSfw	~hŠiligen	\heili(=)g en	_IIIú4úP_VatG-107v,02{009}.04@	ø	:	³h=h³ei=Ši³l=l³i=i³g=g³e=e³n=n³
+`drŒ-valtig-hŠit @f	ùdrŒ-valtig-hŠit	#f	^DS	~drŒ-valtig-<h>Šite	\dr¡ueldicheide.	_IIIú4úP_VatG-107v,03{009}.01	ø	:	³d=d³r=r³i=Œ³=-³u=v³e=a³l=l³d=t³i=i³ch=g³=-³=h³ei=Ši³d=t³e=e³
+`unte @konj	ùunte	#konj	^	~unte	\unde	_IIIú4úP_VatG-107v,03{009}.02	ø	:	³u=u³n=n³d=t³e=e³
+`d‰r @art	ùd‰r	#art	^DSn	~d‰me	\d eme	_IIIú4úP_VatG-107v,03{009}.03@	ø	:	³d=d³e=‰³m=m³e=e³
+`hŠilig @adj	ùhŠilig	#adj	^DSnw	~hŠiligen	\heilig en	_IIIú4úP_VatG-107v,04{009}.01	ø	:	³h=h³ei=Ši³l=l³i=i³g=g³e=e³n=n³
+`kriuze @n	ùkriuze	#n	^DS	~kriuze	\cruce.	_IIIú4úP_VatG-107v,04{010}.02	ø	:	³c=k³r=r³u=iu³c=z³e=e³
+`unte @konj	ùunte	#konj	^	~unte	\unde	_IIIú4úP_VatG-107v,04{010}.03	ø	:	³u=u³n=n³d=t³e=e³
+`d– @pron	ùd–	#pron	^DS	~dir	\dir,,(	_IIIú4úP_VatG-107v,04{010}.04	ø	:	³d=d³i=i³r=r³
+`vrouwe @f	ùvrouwe	#f	^NS	~vrouw‚	\frowa	_IIIú4úP_VatG-107v,04{010}.05	ø	:	³f=v³r=r³o=ou³w=w³a=‚³
+`[!] @[!]	ùsanctus*	#[!]	^	~sancta	\$ca\-	_IIIú4úP_VatG-107v,04{010}.06@	ø	:	*³sca\-=sancta³
+`Maria* @PN	ùMaria	#PN	^NS	~Maria	\maria,,)	_IIIú4úP_VatG-107v,05{010}.01	ø	:	*³maria=Maria³
+`in @pr„p	ùin	#pr„p	^	~in	\in	_IIIú4úP_VatG-107v,05{010}.02	ø	:	³i=i³n=n³
+`d‰r @art	ùd‰r	#art	^ASn	~dazz	\d az	_IIIú4úP_VatG-107v,05{010}.03	ø	:	³d=d³a=a³z=zz³
+`s‰lb @pron	ùs‰lb	#pron	^ASnw	~s‰lbe	\$elb e	_IIIú4úP_VatG-107v,05{010}.04	ø	:	³s=s³e=‰³l=l³b=b³e=e³
+`ge-dinge @mfn	ùge-dinge	#n	^AS	~ge-dinge	\gedinge.	_IIIú4úP_VatG-107v,05{010}.05	ø	:	³g=g³e=e³=-³d=d³i=i³n=n³g=g³e=e³
+`unte @konj	ùunte	#konj	^	~unte	\unde	_IIIú4úP_VatG-107v,05{011}.06@	ø	:	³u=u³n=n³d=t³e=e³
+`in @pr„p	ùin	#pr„p	^	~in	\in	_IIIú4úP_VatG-107v,06{011}.01	ø	:	³i=i³n=n³
+`d‰r @art	ùd‰r	#art	^ASf	~di	\d i	_IIIú4úP_VatG-107v,06{011}.02	ø	:	³d=d³i=i³
+`s‰lb @pron	ùs‰lb	#pron	^ASf!	~s‰lbe	\$elb e	_IIIú4úP_VatG-107v,06{011}.03	ø	:	³s=s³e=‰³l=l³b=b³e=e³
+`ˆre @f	ùˆre	#f	^AS	~ˆr‚	\era(.)	_IIIú4úP_VatG-107v,06{011}.04	ø	:	³e=ˆ³r=r³a=‚³
+`s“ @adv/konj	ùs“	#konj	^	~s“	\$o	_IIIú4úP_VatG-107v,06{011}.05	ø	:	³s=s³o=“³
+`d– @pron	ùd–	#pron	^AS	~dich	\dich	_IIIú4úP_VatG-107v,06{011}.06	ø	:	³d=d³i=i³ch=ch³
+`d‰r @art	ùd‰r	#art	^NSm	~d‰r	\d er	_IIIú4úP_VatG-107v,06{011}.07	ø	:	³d=d³e=‰³r=r³
+`Šngel @m	ùŠngel	#m	^NS	~Šngel	\engel	_IIIú4úP_VatG-107v,06{011}.08	ø	:	³e=Š³n=n³g=g³e=e³l=l³
+`grŠzen @swv	ùgrŠzen	#swv	^3SV	~gruozt‚	\gru\oz(=)da,,	_IIIú4úP_VatG-107v,06{011}.09@	ø	:	³g=g³r=r³u\o=uo³z=z³d=t³a=‚³
+`d“ @adv/konj	ùd“	#konj	^	~d“	\do	_IIIú4úP_VatG-107v,07{011}.01	ø	:	³d=d³o=“³
+`d– @pron	ùd–	#pron	^NS	~d–	\du	_IIIú4úP_VatG-107v,07{011}.02	ø	:	³d=d³u=–³
+`‰r @pron	ù‰r	#pron	^ASm	~in	\in	_IIIú4úP_VatG-107v,07{012}.03	ø	:	³i=i³n=n³
+`ent-vƒhen @stv7	ùent-vƒhen	#stv7	^2SVI	~en<t>-viŠnge	\impinge.,,	_IIIú4úP_VatG-107v,07{012}.04	ø	:	³i=e³m=n³=t³=-³p=v³i=iŠ³n=n³g=g³e=e³
+`s“ @adv/konj	ùs“	#adv	^	~s“	\$o	_IIIú4úP_VatG-107v,07{012}.05	ø	:	³s=s³o=“³
+`grŠzen @swv	ùgrŠzen	#swv	^1SGI	~grŠzen	\gru\ozen	_IIIú4úP_VatG-107v,07{012}.06@	ø	:	³g=g³r=r³u\o=Š³z=z³e=e³n=n³
+`ich @pron	ùich	#pron	^NS	~ich	\ich	_IIIú4úP_VatG-107v,08{012}.01	ø	:	³i=i³ch=ch³
+`d– @pron	ùd–	#pron	^AS	~dich	\dich.	_IIIú4úP_VatG-107v,08{012}.02	ø	:	³d=d³i=i³ch=ch³
+`unte @konj	ùunte	#konj	^	~unte	\unde	_IIIú4úP_VatG-107v,08{012}.03	ø	:	³u=u³n=n³d=t³e=e³
+`loben @swv	ùloben	#swv	^1SGI	~loben	\loben	_IIIú4úP_VatG-107v,08{012}.04	ø	:	³l=l³o=o³b=b³e=e³n=n³
+`d– @pron	ùd–	#pron	^AS	~dich	\dich.	_IIIú4úP_VatG-107v,08{012}.05	ø	:	³d=d³i=i³ch=ch³
+`unte @konj	ùunte	#konj	^	~unte	\unde	_IIIú4úP_VatG-107v,08{012}.06@	ø	:	³u=u³n=n³d=t³e=e³
+`minnen @swv	ùminnen	#swv	^1SGI	~minnen	\minnen	_IIIú4úP_VatG-107v,09{013}.01	ø	:	³m=m³i=i³nn=nn³e=e³n=n³
+`d– @pron	ùd–	#pron	^AS	~dich	\dich.,,	_IIIú4úP_VatG-107v,09{013}.02	ø	:	³d=d³i=i³ch=ch³
+`ge-n‘dig @adj	ùge-n‘dig	#adj	^NSfw!"	~g<e>-n‘dige	\gnedig e	_IIIú4úP_VatG-107v,09{013}.03	ø	:	³g=g³=e³=-³n=n³e=‘³d=d³i=i³g=g³e=e³
+`vrouwe @f	ùvrouwe	#f	^NS	~vrouw‚	\frowa,,	_IIIú4úP_VatG-107v,09{013}.04	ø	:	³f=v³r=r³o=ou³w=w³a=‚³
+`dazz @konj	ùdazz	#konj	^	~dazz	\daz	_IIIú4úP_VatG-107v,09{013}.05@	ø	:	³d=d³a=a³z=zz³
+`d– @pron	ùd–	#pron	^NS	~d–	\du	_IIIú4úP_VatG-107v,10{013}.01	ø	:	³d=d³u=–³
+`d– @pron	ùd–	#pron	^AS©	~dich	\dich	_IIIú4úP_VatG-107v,10{013}.02	ø	:	³d=d³i=i³ch=ch³
+`ge-wirdigen @swv	ùge-wirdigen	#swv i	^-	~ge-wirdigen	\gewirdigen	_IIIú4úP_VatG-107v,10{013}.03	ø	:	³g=g³e=e³=-³w=w³i=i³r=r³d=d³i=i³g=g³e=e³n=n³
+`wŠllen @anv	ùwŠllen	#anv	^2SGK	~wollest	\wolle$t	_IIIú4úP_VatG-107v,10{014}.04	ø	:	³w=w³o=o³ll=ll³e=e³s=s³t=t³
+`dŒn @pron_poss	ùdŒn	#pron_poss	^ASm	~dŒnen	\din en	_IIIú4úP_VatG-107v,10{014}.05@	ø	:	³d=d³i=Œ³n=n³e=e³n=n³
+`hŠilig @adj	ùhŠilig	#adj	^ASm!	~hŠiligen	\heilig en	_IIIú4úP_VatG-107v,11{014}.01	ø	:	³h=h³ei=Ši³l=l³i=i³g=g³e=e³n=n³
+`sun @m<u>	ùsun	#m<u>	^AS	~sun	\$un	_IIIú4úP_VatG-107v,11{014}.02	ø	:	³s=s³u=u³n=n³
+`ze @pr„p	ùze	#pr„p	^	~ze	\ze|	_IIIú4úP_VatG-107v,11{014}.03	ø	:	³z=z³e=e³
+`biten @stv5b	ùbiten	#stv5b i	^DS	~bitenne	\|bidene	_IIIú4úP_VatG-107v,11{014}.04	ø	:	³b=b³i=i³d=t³e=e³n=nn³e=e³
+`ber @pr„p	ùber	#pr„p	^	~ber	\uber	_IIIú4úP_VatG-107v,11{014}.05	ø	:	³u=³b=b³e=e³r=r³
+`ich @pron	ùich	#pron	^AS	~mich	\mich	_IIIú4úP_VatG-107v,11{014}.06@	ø	:	³m=m³i=i³ch=ch³
+`sntig @adj	ùsntig	#adj	^ASm&	~sntigen	\$undig en	_IIIú4úP_VatG-107v,12{014}.01	ø	:	³s=s³u=³n=n³d=t³i=i³g=g³e=e³n=n³
+`mŠn(ni)sche @mn	ùmŠn(ni)sche	#m	^AS	~mŠnn<i>schen	\men$chen.,,	_IIIú4úP_VatG-107v,12{015}.02	ø	:	³m=m³e=Š³n=nn³=i³sch=sch³e=e³n=n³
+`d‰r @pron	ùd‰r	#pron	^GSn+	~d‰s	\d es	_IIIú4úP_VatG-107v,12{015}.03	ø	:	³d=d³e=‰³s=s³
+`d– @pron	ùd–	#pron	^NS	~d–	\du	_IIIú4úP_VatG-107v,12{015}.04	ø	:	³d=d³u=–³
+`ich @pron	ùich	#pron	^AS	~mich	\mich	_IIIú4úP_VatG-107v,12{015}.05@	ø	:	³m=m³i=i³ch=ch³
+`n“t-drftig @adj	ùn“t-drftig	#adj	^-	~n“t-drftig	\notdurftic 	_IIIú4úP_VatG-107v,13{015}.01	ø	:	³n=n³o=“³t=t³=-³d=d³u=³r=r³f=f³t=t³i=i³c=g³
+`wizzen @anv	ùwizzen	#anv	^2SGK	~wizzes	\wizzes	_IIIú4úP_VatG-107v,13{015}.02	ø	:	³w=w³i=i³zz=zz³e=e³s=s³
+`ze @pr„p	ùze	#pr„p	^	~zuo	\zu	_IIIú4úP_VatG-107v,13{015}.03	ø	:	³z=z³u=uo³
+`sˆle @f	ùsˆle	#f	^DS	~sˆlen	\$elen	_IIIú4úP_VatG-107v,13{015}.04	ø	:	³s=s³e=ˆ³l=l³e=e³n=n³
+`unte @konj	ùunte	#konj	^	~unte	\unde	_IIIú4úP_VatG-107v,13{015}.05@	ø	:	³u=u³n=n³d=t³e=e³
+`ze @pr„p	ùze	#pr„p	^	~zuo	\zu	_IIIú4úP_VatG-107v,14{016}.01	ø	:	³z=z³u=uo³
+`lŒb @mn	ùlŒb	#m	^DS	~lŒbe	\libe.(.)	_IIIú4úP_VatG-107v,14{016}.02	ø	:	³l=l³i=Œ³b=b³e=e³
+`[!] @[!]	ùƒmˆn*	#interj	^	~ƒmˆn	\AmeN.(.)	_IIIú4úP_VatG-107v,14{016}.03@	ø	:	³a=ƒ³m=m³e=ˆ³n=n³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~oratio	\Oratio	_IIIú4úP_VatG-109r,15{017}.01@	ø	:	*³oratio=oratio³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~deus	\DEVS	_IIIú4úP_VatG-109r,16{018}.01	ø	:	*³devs=deus³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~qui	\qui	_IIIú4úP_VatG-109r,16{018}.02	ø	:	*³qui=qui³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~salutis	\$alutis	_IIIú4úP_VatG-109r,16{018}.03@	ø	:	*³salutis=salutis³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~aeterne	\eterne	_IIIú4úP_VatG-109r,17{018}.01	ø	:	*³eterne=aeterne³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~beatae	\beate	_IIIú4úP_VatG-109r,17{018}.02	ø	:	*³beate=beatae³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~Mariae	\marie	_IIIú4úP_VatG-109r,17{018}.03	ø	:	*³marie=Mariae³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~virginitate	\uirgini(=)tate	_IIIú4úP_VatG-109r,17{018}.04@	ø	:	*³uirginitate=virginitate³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~fecunda	\fecunda	_IIIú4úP_VatG-109v,01{019}.01	ø	:	*³fecunda=fecunda³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~humano	\humano	_IIIú4úP_VatG-109v,01{019}.02	ø	:	*³humano=humano³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~generi	\generi	_IIIú4úP_VatG-109v,01{019}.03	ø	:	*³generi=generi³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~praemia	\pre(=)mia	_IIIú4úP_VatG-109v,01{019}.04@	ø	:	*³premia=praemia³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~praestitisti	\pre$titi$ti.	_IIIú4úP_VatG-109v,02{019}.01	ø	:	*³prestitisti=praestitisti³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~tribue	\tribue	_IIIú4úP_VatG-109v,02{019}.02	ø	:	*³tribue=tribue³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~quaesumus	\que$umus.	_IIIú4úP_VatG-109v,02{019}.03	ø	:	*³quesumus=quaesumus³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~ut	\ut	_IIIú4úP_VatG-109v,02{020}.04	ø	:	*³ut=ut³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~ipsam	\ip$am	_IIIú4úP_VatG-109v,02{020}.05	ø	:	*³ipsam=ipsam³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~pro	\pro	_IIIú4úP_VatG-109v,02{020}.06@	ø	:	*³pro=pro³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~nobis	\nobi$	_IIIú4úP_VatG-109v,03{020}.01	ø	:	*³nobis=nobis³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~intercedere	\intercedere	_IIIú4úP_VatG-109v,03{020}.02	ø	:	*³intercedere=intercedere³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~sentiamus	\$entiamu$;	_IIIú4úP_VatG-109v,03{020}.03	ø	:	*³sentiamus=sentiamus³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~per	\per	_IIIú4úP_VatG-109v,03{020}.04	ø	:	*³per=per³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~quam	\quam	_IIIú4úP_VatG-109v,03{020}.05@	ø	:	*³quam=quam³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~meruimus	\meruimu$	_IIIú4úP_VatG-109v,04{021}.01	ø	:	*³meruimus=meruimus³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~auctorem	\auctorem	_IIIú4úP_VatG-109v,04{021}.02	ø	:	*³auctorem=auctorem³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~vitae	\uite	_IIIú4úP_VatG-109v,04{021}.03	ø	:	*³uite=vitae³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~suscipere.	\$u$cipere.	_IIIú4úP_VatG-109v,04{021}.04@	ø	:	*³suscipere=suscipere.³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~dominum	\Dominum	_IIIú4úP_VatG-109v,05{021}.01	ø	:	*³dominum=dominum³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~nostrum.	\no$trum.	_IIIú4úP_VatG-109v,05{021}.02@	ø	:	*³nostrum=nostrum.³
+`dise @pron	ùdise	#pron	^ASn	~dizz	\*{D*}iz	_IIIú4úP_VatG-109v,06{022}.01	ø	:	³d=d³i=i³z=zz³
+`hŠilig @adj	ùhŠilig	#adj	^ASnw	~hŠilige	\heilig e	_IIIú4úP_VatG-109v,06{022}.02	ø	:	³h=h³ei=Ši³l=l³i=i³g=g³e=e³
+`ge-b‰t @n	ùge-b‰t	#n	^AS	~ge-b‰t	\gebet	_IIIú4úP_VatG-109v,06{022}.03	ø	:	³g=g³e=e³=-³b=b³e=‰³t=t³
+`unte @konj	ùunte	#konj	^	~unte	\unde	_IIIú4úP_VatG-109v,06{022}.04	ø	:	³u=u³n=n³d=t³e=e³
+`dise @pron	ùdise	#pron	^ASn	~dizz	\diz	_IIIú4úP_VatG-109v,06{022}.05@	ø	:	³d=d³i=i³z=zz³
+`hŠilig @adj	ùhŠilig	#adj	^ASnw	~hŠilige	\heilig e	_IIIú4úP_VatG-109v,07{022}.01	ø	:	³h=h³ei=Ši³l=l³i=i³g=g³e=e³
+`lob @mn	ùlob	#n	^AS	~lob	\lob	_IIIú4úP_VatG-109v,07{022}.02	ø	:	³l=l³o=o³b=b³
+`spr‰chen @stv4	ùspr‰chen	#stv4	^1SGI	~sprichen	\$prechen	_IIIú4úP_VatG-109v,07{022}.03	ø	:	³s=s³p=p³r=r³e=i³ch=ch³e=e³n=n³
+`ich @pron	ùich	#pron	^NS	~ich	\ich	_IIIú4úP_VatG-109v,07{022}.04@	ø	:	³i=i³ch=ch³
+`d– @pron	ùd–	#pron	^DS	~dir	\dir,,(	_IIIú4úP_VatG-109v,08{023}.01	ø	:	³d=d³i=i³r=r³
+`hˆrre @m	ùhˆrre	#m	^NS	~hˆrre	\herre,,)	_IIIú4úP_VatG-109v,08{023}.02	ø	:	³h=h³e=ˆ³rr=rr³e=e³
+`ze @pr„p	ùze	#pr„p	^	~ze	\ze|	_IIIú4úP_VatG-109v,08{023}.03	ø	:	³z=z³e=e³
+`lob @mn	ùlob	#mn	^DS	~lobe	\|lobe	_IIIú4úP_VatG-109v,08{023}.04	ø	:	³l=l³o=o³b=b³e=e³
+`unte @konj	ùunte	#konj	^	~unte	\unde	_IIIú4úP_VatG-109v,08{023}.05	ø	:	³u=u³n=n³d=t³e=e³
+`ze @pr„p	ùze	#pr„p	^	~z<e>	\z|	_IIIú4úP_VatG-109v,08{023}.06	ø	:	³z=z³=e³
+`ˆre @f	ùˆre	#f	^DP	~ˆren	\|e(=)ren.	_IIIú4úP_VatG-109v,08{023}.07@	ø	:	³e=ˆ³r=r³e=e³n=n³
+`dŒn @pron_poss	ùdŒn	#pron_poss	^DSf	~dŒner	\din er	_IIIú4úP_VatG-109v,09{023}.01	ø	:	³d=d³i=Œ³n=n³e=e³r=r³
+`hŠilig @adj	ùhŠilig	#adj	^DSfw	~hŠiligen	\heilig en	_IIIú4úP_VatG-109v,09{023}.02	ø	:	³h=h³ei=Ši³l=l³i=i³g=g³e=e³n=n³
+`gote-hŠit @f	ùgote-hŠit	#f	^DS	~got<e>-hŠite	\gotheide.	_IIIú4úP_VatG-109v,09{023}.03	ø	:	³g=g³o=o³t=t³=e³=-³h=h³ei=Ši³d=t³e=e³
+`unte @konj	ùunte	#konj	^	~unte	\un(=)de	_IIIú4úP_VatG-109v,09{024}.04@	ø	:	³u=u³n=n³d=t³e=e³
+`dŒn @pron_poss	ùdŒn	#pron_poss	^DSf	~dŒner	\din er	_IIIú4úP_VatG-109v,10{024}.01	ø	:	³d=d³i=Œ³n=n³e=e³r=r³
+`hŠilig @adj	ùhŠilig	#adj	^DSfw	~hŠiligen	\heilig en	_IIIú4úP_VatG-109v,10{024}.02	ø	:	³h=h³ei=Ši³l=l³i=i³g=g³e=e³n=n³
+`drŒ-valtig-hŠit @f	ùdrŒ-valtig-hŠit	#f	^DS	~drŒ-valtig-<h>Šite	\driueldicheide.	_IIIú4úP_VatG-109v,10{024}.03@	ø	:	³d=d³r=r³i=Œ³=-³u=v³e=a³l=l³d=t³i=i³ch=g³=-³=h³ei=Ši³d=t³e=e³
+`unte @konj	ùunte	#konj	^	~unte	\unde	_IIIú4úP_VatG-109v,11{024}.01	ø	:	³u=u³n=n³d=t³e=e³
+`d‰r @art	ùd‰r	#art	^DSn	~d‰me	\d eme	_IIIú4úP_VatG-109v,11{024}.02	ø	:	³d=d³e=‰³m=m³e=e³
+`hŠilig @adj	ùhŠilig	#adj	^DSnw	~hŠiligen	\heilig en	_IIIú4úP_VatG-109v,11{024}.03	ø	:	³h=h³ei=Ši³l=l³i=i³g=g³e=e³n=n³
+`kriuze @n	ùkriuze	#n	^DS	~kriuze	\cruce.	_IIIú4úP_VatG-109v,11{025}.04	ø	:	³c=k³r=r³u=iu³c=z³e=e³
+`unte @konj	ùunte	#konj	^	~unte	\unde	_IIIú4úP_VatG-109v,11{025}.05@	ø	:	³u=u³n=n³d=t³e=e³
+`d– @pron	ùd–	#pron	^DS	~dir	\dir,,(	_IIIú4úP_VatG-109v,12{025}.01	ø	:	³d=d³i=i³r=r³
+`vrouwe @f	ùvrouwe	#f	^NS	~vrouw‚	\frowa	_IIIú4úP_VatG-109v,12{025}.02	ø	:	³f=v³r=r³o=ou³w=w³a=‚³
+`[!] @[!]	ùsanctus*	#adj	^NSf	~sancta	\$ca\-	_IIIú4úP_VatG-109v,12{025}.03	ø	:	*³sca\-=sancta³
+`Maria* @PN	ùMaria	#PN	^NS	~Maria	\maria,,)	_IIIú4úP_VatG-109v,12{025}.04	ø	:	*³maria=Maria³
+`in @pr„p	ùin	#pr„p	^	~in	\in	_IIIú4úP_VatG-109v,12{025}.05	ø	:	³i=i³n=n³
+`d‰r @art	ùd‰r	#art	^ASn	~dazz	\d az	_IIIú4úP_VatG-109v,12{025}.06	ø	:	³d=d³a=a³z=zz³
+`s‰lb @pron	ùs‰lb	#pron	^ASnw	~s‰lbe	\$elb e	_IIIú4úP_VatG-109v,12{025}.07@	ø	:	³s=s³e=‰³l=l³b=b³e=e³
+`ge-dinge @mfn	ùge-dinge	#n	^AS	~ge-dinge	\gedinge	_IIIú4úP_VatG-109v,13{025}.01	ø	:	³g=g³e=e³=-³d=d³i=i³n=n³g=g³e=e³
+`unte @konj	ùunte	#konj	^	~unte	\unde	_IIIú4úP_VatG-109v,13{026}.02	ø	:	³u=u³n=n³d=t³e=e³
+`in @pr„p	ùin	#pr„p	^	~in	\in	_IIIú4úP_VatG-109v,13{026}.03	ø	:	³i=i³n=n³
+`d‰r @art	ùd‰r	#art	^ASf	~di	\d i	_IIIú4úP_VatG-109v,13{026}.04	ø	:	³d=d³i=i³
+`s‰lb @pron	ùs‰lb	#pron	^ASf!	~s‰lbe	\$elb e	_IIIú4úP_VatG-109v,13{026}.05	ø	:	³s=s³e=‰³l=l³b=b³e=e³
+`ˆre @f	ùˆre	#f	^AS	~ˆr‚	\era(.)	_IIIú4úP_VatG-109v,13{026}.06	ø	:	³e=ˆ³r=r³a=‚³
+`s“ @adv/konj	ùs“	#konj	^	~s“	\$o	_IIIú4úP_VatG-109v,13{026}.07@	ø	:	³s=s³o=“³
+`d– @pron	ùd–	#pron	^AS	~dich	\dich	_IIIú4úP_VatG-109v,14{026}.01	ø	:	³d=d³i=i³ch=ch³
+`d‰r @art	ùd‰r	#art	^NSm	~d‰r	\d er	_IIIú4úP_VatG-109v,14{026}.02	ø	:	³d=d³e=‰³r=r³
+`Šngel @m	ùŠngel	#m	^NS	~Šngel	\engel	_IIIú4úP_VatG-109v,14{026}.03	ø	:	³e=Š³n=n³g=g³e=e³l=l³
+`grŠzen @swv	ùgrŠzen	#swv	^3SV	~gruozt‚	\gruzda,,	_IIIú4úP_VatG-109v,14{026}.04	ø	:	³g=g³r=r³u=uo³z=z³d=t³a=‚³
+`d“ @adv/konj	ùd“	#konj	^	~d“	\do	_IIIú4úP_VatG-109v,14{026}.05	ø	:	³d=d³o=“³
+`‰r @pron	ù‰r	#pron	^NSm	~‰r	\er	_IIIú4úP_VatG-109v,14{026}.06	ø	:	³e=‰³r=r³
+`d– @pron	ùd–	#pron	^DS	~dir	\dir	_IIIú4úP_VatG-109v,14{027}.07@	ø	:	³d=d³i=i³r=r³
+`unser @pron_poss	ùunser	#pron_poss	^ASm	~unser(e)n	\un$er en	_IIIú4úP_VatG-109v,15{027}.01	ø	:	³u=u³n=n³s=s³e=e³r=r³e=e³n=n³
+`hˆrre @m	ùhˆrre	#m	^AS	~hˆrren	\herren	_IIIú4úP_VatG-109v,15{027}.02	ø	:	³h=h³e=ˆ³rr=rr³e=e³n=n³
+`knden @swv	ùknden	#swv	^3SV	~kuntt‚	\kundda,,	_IIIú4úP_VatG-109v,15{027}.03	ø	:	³k=k³u=u³n=n³dd=tt³a=‚³
+`d“ @adv/konj	ùd“	#konj	^	~d“	\do	_IIIú4úP_VatG-109v,15{027}.04	ø	:	³d=d³o=“³
+`d– @pron	ùd–	#pron	^NS	~d–	\du	_IIIú4úP_VatG-109v,15{027}.05	ø	:	³d=d³u=–³
+`‰r @pron	ù‰r	#pron	^ASm	~in	\in	_IIIú4úP_VatG-109v,15{027}.06@	ø	:	³i=i³n=n³
+`ent-vƒhen @stv7	ùent-vƒhen	#stv7	^2SVI	~en<t>-viŠnge	\impinge.,,	_IIIú4úP_VatG-109v,16{027}.01	ø	:	³i=e³m=n³=t³=-³p=v³i=iŠ³n=n³g=g³e=e³
+`s“ @adv/konj	ùs“	#adv	^	~s“	\$o	_IIIú4úP_VatG-109v,16{027}.02	ø	:	³s=s³o=“³
+`grŠzen @swv	ùgrŠzen	#swv	^1SGI	~grŠzen	\gruzen	_IIIú4úP_VatG-109v,16{027}.03	ø	:	³g=g³r=r³u=Š³z=z³e=e³n=n³
+`ich @pron	ùich	#pron	^NS	~ich	\ich	_IIIú4úP_VatG-109v,16{028}.04	ø	:	³i=i³ch=ch³
+`d– @pron	ùd–	#pron	^AS	~dich	\dich	_IIIú4úP_VatG-109v,16{028}.05	ø	:	³d=d³i=i³ch=ch³
+`unte @konj	ùunte	#konj	^	~unte	\unde	_IIIú4úP_VatG-109v,16{028}.06@	ø	:	³u=u³n=n³d=t³e=e³
+`biten @stv5b	ùbiten	#stv5b	^1SGI	~biten	\biden	_IIIú4úP_VatG-110r,01{028}.01	ø	:	³b=b³i=i³d=t³e=e³n=n³
+`d– @pron	ùd–	#pron	^AS	~dich	\dich	_IIIú4úP_VatG-110r,01{028}.02	ø	:	³d=d³i=i³ch=ch³
+`durh @pr„p	ùdurh	#pr„p	^	~durh	\durc	_IIIú4úP_VatG-110r,01{028}.03	ø	:	³d=d³u=u³r=r³c=h³
+`dŒn @pron_poss	ùdŒn	#pron_poss	^ASm	~dŒnen	\din en	_IIIú4úP_VatG-110r,01{028}.04	ø	:	³d=d³i=Œ³n=n³e=e³n=n³
+`hŠilig @adj	ùhŠilig	#adj	^ASm!	~hŠiligen	\heilig en	_IIIú4úP_VatG-110r,01{028}.05	ø	:	³h=h³ei=Ši³l=l³i=i³g=g³e=e³n=n³
+`sun @m<u>	ùsun	#m<u>	^AS	~sun	\$un.,,	_IIIú4úP_VatG-110r,01{028}.06@	ø	:	³s=s³u=u³n=n³
+`d‰r @pron	ùd‰r	#pron	^ASm+	~d‰n	\d en	_IIIú4úP_VatG-110r,02{028}.01	ø	:	³d=d³e=‰³n=n³
+`d– @pron	ùd–	#pron	^NS	~d–	\du	_IIIú4úP_VatG-110r,02{029}.02	ø	:	³d=d³u=–³
+`tragen @stv6	ùtragen	#stv6	^2SVI	~trŠge	\dru\oge	_IIIú4úP_VatG-110r,02{029}.03	ø	:	³d=t³r=r³u\o=Š³g=g³e=e³
+`unte @konj	ùunte	#konj	^	~unte	\unde	_IIIú4úP_VatG-110r,02{029}.04	ø	:	³u=u³n=n³d=t³e=e³
+`ge-b‰r(e)n @stv4	ùge-b‰r(e)n	#stv4	^2SVI	~ge-b‘re	\gebere.,,	_IIIú4úP_VatG-110r,02{029}.05	ø	:	³g=g³e=e³=-³b=b³e=‘³r=r³e=e³
+`d‰r @pron	ùd‰r	#pron	^NSm+	~d‰r	\d er	_IIIú4úP_VatG-110r,02{029}.06	ø	:	³d=d³e=‰³r=r³
+`d– @pron	ùd–	#pron	^AS	~dich	\dich	_IIIú4úP_VatG-110r,02{029}.07@	ø	:	³d=d³i=i³ch=ch³
+`er-wŠl(e)n @swv	ùer-wŠl(e)n	#swv	^3SV	~er-wŠl<e>t‚	\irwelda	_IIIú4úP_VatG-110r,03{029}.01	ø	:	³i=e³r=r³=-³w=w³e=Š³l=l³=e³d=t³a=‚³
+`ze @pr„p	ùze	#pr„p	^	~zuo	\zu	_IIIú4úP_VatG-110r,03{029}.02	ø	:	³z=z³u=uo³
+`Šin @art	ùŠin	#art	^DSf	~Šiner	\ein er	_IIIú4úP_VatG-110r,03{029}.03	ø	:	³ei=Ši³n=n³e=e³r=r³
+`hŠilig @adj	ùhŠilig	#adj	^DSfw	~hŠiligen	\heilig en	_IIIú4úP_VatG-110r,03{030}.04	ø	:	³h=h³ei=Ši³l=l³i=i³g=g³e=e³n=n³
+`muoter @f<(u)>	ùmuoter	#f<(u)>	^DS	~muoter	\mu\oder.	_IIIú4úP_VatG-110r,03{030}.05@	ø	:	³m=m³u\o=uo³d=t³e=e³r=r³
+`unte @konj	ùunte	#konj	^	~unte	\unde	_IIIú4úP_VatG-110r,04{030}.01	ø	:	³u=u³n=n³d=t³e=e³
+`ze @pr„p	ùze	#pr„p	^	~zuo	\zu	_IIIú4úP_VatG-110r,04{030}.02	ø	:	³z=z³u=uo³
+`Šin @art	ùŠin	#art	^DSf	~Šiner	\ein er	_IIIú4úP_VatG-110r,04{030}.03	ø	:/K[einer: {e¡ner} W]	³ei=Ši³n=n³e=e³r=r³
+`hŠilig @adj	ùhŠilig	#adj	^DSfw	~hŠiligen	\heilig en	_IIIú4úP_VatG-110r,04{030}.04	ø	:	³h=h³ei=Ši³l=l³i=i³g=g³e=e³n=n³
+`kni(n)ginne @f	ùkni(n)ginne	#f	^DS	~kni(n)gŒn	\kun¡ngen.	_IIIú4úP_VatG-110r,04{030}.05@	ø	:/K[kun¡ngen: {kun¡ngin} W]	³k=k³u=³n=n³i=i³n=n³g=g³e=Œ³n=n³
+`ber @pr„p	ùber	#pr„p	^	~ber	\u\ober	_IIIú4úP_VatG-110r,05{030}.01	ø	:	³u\o=³b=b³e=e³r=r³
+`himel @m	ùhimel	#m	^AS	~himel	\himel	_IIIú4úP_VatG-110r,05{031}.02	ø	:	³h=h³i=i³m=m³e=e³l=l³
+`unte @konj	ùunte	#konj	^	~unte	\unde	_IIIú4úP_VatG-110r,05{031}.03	ø	:	³u=u³n=n³d=t³e=e³
+`ber @pr„p	ùber	#pr„p	^	~ber	\uber	_IIIú4úP_VatG-110r,05{031}.04	ø	:	³u=³b=b³e=e³r=r³
+`‰rde @f	ù‰rde	#f	^AS	~‰rden	\erden.,,	_IIIú4úP_VatG-110r,05{031}.05	ø	:	³e=‰³r=r³d=d³e=e³n=n³
+`dazz @konj	ùdazz	#konj	^	~dazz	\daz	_IIIú4úP_VatG-110r,05{031}.06@	ø	:	³d=d³a=a³z=zz³
+`d– @pron	ùd–	#pron	^NS	~d–	\du	_IIIú4úP_VatG-110r,06{031}.01	ø	:	³d=d³u=–³
+`‰r @pron	ù‰r	#pron	^ASm	~in	\in	_IIIú4úP_VatG-110r,06{031}.02	ø	:	³i=i³n=n³
+`biten @stv5b	ùbiten	#stv5b i	^-	~biten	\bidden	_IIIú4úP_VatG-110r,06{031}.03	ø	:	³b=b³i=i³dd=t³e=e³n=n³
+`wŠllen @anv	ùwŠllen	#anv	^2SGK	~wollest	\wolle$t.,,	_IIIú4úP_VatG-110r,06{031}.04	ø	:	³w=w³o=o³ll=ll³e=e³s=s³t=t³
+`dazz @konj	ùdazz	#konj	^	~dazz	\daz	_IIIú4úP_VatG-110r,06{031}.05	ø	:	³d=d³a=a³z=zz³
+`‰r @pron	ù‰r	#pron	^NSm	~‰r	\er	_IIIú4úP_VatG-110r,06{032}.06	ø	:	³e=‰³r=r³
+`ich @pron	ùich	#pron	^DS	~mir	\mir	_IIIú4úP_VatG-110r,06{032}.07@	ø	:	³m=m³i=i³r=r³
+`g‰ben @stv5	ùg‰ben	#stv5 i	^-	~g‰ben	\geben	_IIIú4úP_VatG-110r,07{032}.01	ø	:	³g=g³e=‰³b=b³e=e³n=n³
+`wŠllen @anv	ùwŠllen	#anv	^3SGK	~wolle	\wolle	_IIIú4úP_VatG-110r,07{032}.02	ø	:	³w=w³o=o³ll=ll³e=e³
+`r‰ht @adj	ùr‰ht	#adj	^ASm	~r‰hten	\reht en	_IIIú4úP_VatG-110r,07{032}.03	ø	:	³r=r³e=‰³h=h³t=t³e=e³n=n³
+`sinn @m	ùsinn	#m	^AS	~sinn	\$in	_IIIú4úP_VatG-110r,07{032}.04	ø	:	³s=s³i=i³n=nn³
+`unte @konj	ùunte	#konj	^	~unte	\unde	_IIIú4úP_VatG-110r,07{032}.05	ø	:	³u=u³n=n³d=t³e=e³
+`r‰ht @adj	ùr‰ht	#adj	^ASm	~r‰hten	\reh(=)th en	_IIIú4úP_VatG-110r,07{032}.06@	ø	:	³r=r³e=‰³h=h³th=t³e=e³n=n³
+`ge-dank @m<(u)>	ùge-dank	#m<(u)>	^AS	~ge-dank	\gedanc.	_IIIú4úP_VatG-110r,08{032}.01	ø	:	³g=g³e=e³=-³d=d³a=a³n=n³c=k³
+`unte @konj	ùunte	#konj	^	~unte	\unde	_IIIú4úP_VatG-110r,08{032}.02	ø	:	³u=u³n=n³d=t³e=e³
+`r‰ht @adj	ùr‰ht	#adj	^0ASmn	~r‰ht	\reth 	_IIIú4úP_VatG-110r,08{033}.03	ø	:	³r=r³e=‰³th=ht³
+`Šnte @mn	ùŠnte	#mn	^AS	~Šnte	\ende.	_IIIú4úP_VatG-110r,08{033}.04	ø	:	³e=Š³n=n³d=t³e=e³
+`unte @konj	ùunte	#konj	^	~unte	\un(=)de	_IIIú4úP_VatG-110r,08{033}.05@	ø	:	³u=u³n=n³d=t³e=e³
+`d‰r @art	ùd‰r	#art	^ASm	~d‰n	\d en	_IIIú4úP_VatG-110r,09{033}.01	ø	:	³d=d³e=‰³n=n³
+`ˆwig @adj	ùˆwig	#adj	^ASm!	~ˆwigen	\ewig en	_IIIú4úP_VatG-110r,09{033}.02	ø	:	³e=ˆ³w=w³i=i³g=g³e=e³n=n³
+`lŒb @mn	ùlŒb	#m	^AS	~lŒb	\lib	_IIIú4úP_VatG-110r,09{033}.03	ø	:	³l=l³i=Œ³b=b³
+`mit @pr„p	ùmit	#pr„p	^	~mit	\mit	_IIIú4úP_VatG-110r,09{033}.04	ø	:	³m=m³i=i³t=t³
+`vr”u(we)de @f	ùvr”u(we)de	#f	^DP	~vr”u(we)den	\froweden	_IIIú4úP_VatG-110r,09{033}.05@	ø	:	³f=v³r=r³o=”u³w=w³e=e³d=d³e=e³n=n³
+`g‰ben @stv5	ùg‰ben	#stv5 i	^-	~g‰ben	\geben.(.)	_IIIú4úP_VatG-110r,10{033}.01	ø	:	³g=g³e=‰³b=b³e=e³n=n³
+`[!] @[!]	ùƒmˆn*	#interj	^	~ƒmˆn	\AmeN.(.)	_IIIú4úP_VatG-110r,10{034}.02@	ø	:	³a=ƒ³m=m³e=ˆ³n=n³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~oratio	\OR\-(.)	_IIIú4úP_VatG-111v,01{035}.01	ø	:/K[šberschrift am Ende der Zeile.]	*³or\-=oratio³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~concede	\CONCEDE	_IIIú4úP_VatG-111v,01{036}.02	ø	:	*³concede=concede³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~misericors	\mi$ericors	_IIIú4úP_VatG-111v,01{036}.03@	ø	:	*³misericors=misericors³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~deus	\deu$	_IIIú4úP_VatG-111v,02{036}.01	ø	:	*³deus=deus³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~fragilitati	\fragilitati	_IIIú4úP_VatG-111v,02{036}.02	ø	:	*³fragilitati=fragilitati³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~nostrae	\no$tre	_IIIú4úP_VatG-111v,02{036}.03	ø	:	*³nostre=nostrae³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~praesidium	\pre$idium;	_IIIú4úP_VatG-111v,02{036}.04@	ø	:	*³presidium=praesidium³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~ut	\ut	_IIIú4úP_VatG-111v,03{037}.01	ø	:	*³ut=ut³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~qui	\qui	_IIIú4úP_VatG-111v,03{037}.02	ø	:	*³qui=qui³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~sanctae	\$ce\-	_IIIú4úP_VatG-111v,03{037}.03	ø	:	*³sce\-=sanctae³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~dei	\dei	_IIIú4úP_VatG-111v,03{037}.04	ø	:	*³dei=dei³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~genitricis	\genitrici$	_IIIú4úP_VatG-111v,03{037}.05	ø	:	*³genitricis=genitricis³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~et	\et	_IIIú4úP_VatG-111v,03{037}.06@	ø	:	*³et=et³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~virginis	\uirgini$	_IIIú4úP_VatG-111v,04{037}.01	ø	:	*³uirginis=virginis³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~Mariae	\marie	_IIIú4úP_VatG-111v,04{037}.02	ø	:	*³marie=Mariae³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~memoriam	\memoriam	_IIIú4úP_VatG-111v,04{037}.03	ø	:	*³memoriam=memoriam³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~agimus	\agimu$;	_IIIú4úP_VatG-111v,04{038}.04@	ø	:	*³agimus=agimus³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~intercessionis	\interce$$ioni$	_IIIú4úP_VatG-111v,05{038}.01	ø	:	*³intercessionis=intercessionis³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~eius	\eiu$	_IIIú4úP_VatG-111v,05{038}.02	ø	:	*³eius=eius³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~auxilio	\auxilio.	_IIIú4úP_VatG-111v,05{038}.03	ø	:	*³auxilio=auxilio³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~a	\a	_IIIú4úP_VatG-111v,05{038}.04	ø	:	*³a=a³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~nostris	\no$tris	_IIIú4úP_VatG-111v,05{038}.05@	ø	:	*³nostris=nostris³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~iniquitatibus	\iniquitatibu$	_IIIú4úP_VatG-111v,06{038}.01	ø	:	*³iniquitatibus=iniquitatibus³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~resurgamus	\re$urgamu$.	_IIIú4úP_VatG-111v,06{039}.02	ø	:	*³resurgamus=resurgamus³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~per	\Per.	_IIIú4úP_VatG-111v,06{039}.03@	ø	:	*³per=per³
+`dise @pron	ùdise	#pron	^ASn	~dizz	\*{D*}iz	_IIIú4úP_VatG-111v,07{040}.01	ø	:	³d=d³i=i³z=zz³
+`vil(e) @adv	ùvil(e)	#adv	^	~vil<e>	\u¡l	_IIIú4úP_VatG-111v,07{040}.02	ø	:	³u=v³i=i³l=l³=e³
+`hŠilig @adj	ùhŠilig	#adj	^ASnw	~hŠilige	\heilig e	_IIIú4úP_VatG-111v,07{040}.03	ø	:	³h=h³ei=Ši³l=l³i=i³g=g³e=e³
+`v‰rs @mn	ùv‰rs	#n	^AS	~v‰rs	\uers.	_IIIú4úP_VatG-111v,07{040}.04	ø	:	³u=v³e=‰³r=r³s=s³
+`unte @konj	ùunte	#konj	^	~unte	\unde	_IIIú4úP_VatG-111v,07{040}.05	ø	:	³u=u³n=n³d=t³e=e³
+`dise @pron	ùdise	#pron	^ASn	~dizz	\diz	_IIIú4úP_VatG-111v,07{040}.06@	ø	:	³d=d³i=i³z=zz³
+`vil(e) @adv	ùvil(e)	#adv	^	~vil<e>	\uil	_IIIú4úP_VatG-111v,08{040}.01	ø	:/K[uil: {u¡l} W]	³u=v³i=i³l=l³=e³
+`hŠilig @adj	ùhŠilig	#adj	^ASnw	~hŠilige	\heilig e	_IIIú4úP_VatG-111v,08{040}.02	ø	:	³h=h³ei=Ši³l=l³i=i³g=g³e=e³
+`lob @mn	ùlob	#n	^AS	~lob	\lob	_IIIú4úP_VatG-111v,08{040}.03	ø	:	³l=l³o=o³b=b³
+`spr‰chen @stv4	ùspr‰chen	#stv4	^1SGI	~sprichen	\$prechen	_IIIú4úP_VatG-111v,08{040}.04	ø	:	³s=s³p=p³r=r³e=i³ch=ch³e=e³n=n³
+`ich @pron	ùich	#pron	^NS	~ich	\ich	_IIIú4úP_VatG-111v,08{041}.05@	ø	:	³i=i³ch=ch³
+`d– @pron	ùd–	#pron	^DS	~dir	\dir,,(	_IIIú4úP_VatG-111v,09{041}.01	ø	:	³d=d³i=i³r=r³
+`hˆrre @m	ùhˆrre	#m	^NS	~hˆrr‚	\herro,,)	_IIIú4úP_VatG-111v,09{041}.02	ø	:	³h=h³e=ˆ³rr=rr³o=‚³
+`ze @pr„p	ùze	#pr„p	^	~ze	\ze|	_IIIú4úP_VatG-111v,09{041}.03	ø	:	³z=z³e=e³
+`lob @mn	ùlob	#mn	^DS	~lobe	\|lobe	_IIIú4úP_VatG-111v,09{041}.04	ø	:	³l=l³o=o³b=b³e=e³
+`unte @konj	ùunte	#konj	^	~unte	\unde	_IIIú4úP_VatG-111v,09{041}.05	ø	:	³u=u³n=n³d=t³e=e³
+`ze @pr„p	ùze	#pr„p	^	~z<e>	\z|	_IIIú4úP_VatG-111v,09{041}.06	ø	:	³z=z³=e³
+`ˆre @f	ùˆre	#f	^DP	~ˆren	\|e(=)ren	_IIIú4úP_VatG-111v,09{041}.07@	ø	:	³e=ˆ³r=r³e=e³n=n³
+`dŒn @pron_poss	ùdŒn	#pron_poss	^DSf	~dŒner	\din er	_IIIú4úP_VatG-111v,10{041}.01	ø	:	³d=d³i=Œ³n=n³e=e³r=r³
+`hŠilig @adj	ùhŠilig	#adj	^DSfw	~hŠiligen	\heilig en	_IIIú4úP_VatG-111v,10{041}.02	ø	:	³h=h³ei=Ši³l=l³i=i³g=g³e=e³n=n³
+`gote-hŠit @f	ùgote-hŠit	#f	^DS	~got<e>-hŠite	\gotheide.	_IIIú4úP_VatG-111v,10{041}.03	ø	:	³g=g³o=o³t=t³=e³=-³h=h³ei=Ši³d=t³e=e³
+`unte @konj	ùunte	#konj	^	~unte	\unde	_IIIú4úP_VatG-111v,10{042}.04@	ø	:	³u=u³n=n³d=t³e=e³
+`dŒn @pron_poss	ùdŒn	#pron_poss	^DSf	~dŒner	\din er	_IIIú4úP_VatG-111v,11{042}.01	ø	:	³d=d³i=Œ³n=n³e=e³r=r³
+`hŠilig @adj	ùhŠilig	#adj	^DSfw	~hŠiligen	\heilig en	_IIIú4úP_VatG-111v,11{042}.02	ø	:	³h=h³ei=Ši³l=l³i=i³g=g³e=e³n=n³
+`drŒ-valtig-hŠit @f	ùdrŒ-valtig-hŠit	#f	^DS	~drŒ-valtig-<h>Šite	\driueldickeide.	_IIIú4úP_VatG-111v,11{042}.03	ø	:	³d=d³r=r³i=Œ³=-³u=v³e=a³l=l³d=t³i=i³ck=g³=-³=h³ei=Ši³d=t³e=e³
+`unte @konj	ùunte	#konj	^	~unte	\un(=)de	_IIIú4úP_VatG-111v,11{042}.04@	ø	:	³u=u³n=n³d=t³e=e³
+`d‰r @art	ùd‰r	#art	^DSn	~d‰m	\d em	_IIIú4úP_VatG-111v,12{042}.01	ø	:	³d=d³e=‰³m=m³
+`hŠilig @adj	ùhŠilig	#adj	^DSnw	~hŠiligen	\heilig en	_IIIú4úP_VatG-111v,12{042}.02	ø	:	³h=h³ei=Ši³l=l³i=i³g=g³e=e³n=n³
+`kriuze @n	ùkriuze	#n	^DS	~kriuze	\cruce.	_IIIú4úP_VatG-111v,12{043}.03	ø	:	³c=k³r=r³u=iu³c=z³e=e³
+`unte @konj	ùunte	#konj	^	~unte	\unde	_IIIú4úP_VatG-111v,12{043}.04	ø	:	³u=u³n=n³d=t³e=e³
+`d– @pron	ùd–	#pron	^DS	~dir	\dir,,(	_IIIú4úP_VatG-111v,12{043}.05@	ø	:	³d=d³i=i³r=r³
+`vrouwe @f	ùvrouwe	#f	^NS	~vrouw‚	\frowa	_IIIú4úP_VatG-111v,13{043}.01	ø	:	³f=v³r=r³o=ou³w=w³a=‚³
+`[!] @[!]	ùsanctus*	#adj	^NSf	~sancta	\$ca\-	_IIIú4úP_VatG-111v,13{043}.02	ø	:	*³sca\-=sancta³
+`Maria* @PN	ùMaria	#PN	^NS	~Maria	\maria,,)	_IIIú4úP_VatG-111v,13{043}.03	ø	:	*³maria=Maria³
+`in @pr„p	ùin	#pr„p	^	~in	\in	_IIIú4úP_VatG-111v,13{043}.04	ø	:	³i=i³n=n³
+`d‰r @art	ùd‰r	#art	^ASn	~dazz	\d az	_IIIú4úP_VatG-111v,13{043}.05	ø	:	³d=d³a=a³z=zz³
+`ge-dinge @mfn	ùge-dinge	#n	^AS	~ge-dinge	\gedinge	_IIIú4úP_VatG-111v,13{043}.06@	ø	:	³g=g³e=e³=-³d=d³i=i³n=n³g=g³e=e³
+`unte @konj	ùunte	#konj	^	~unte	\unde	_IIIú4úP_VatG-111v,14{043}.01	ø	:	³u=u³n=n³d=t³e=e³
+`in @pr„p	ùin	#pr„p	^	~in	\in	_IIIú4úP_VatG-111v,14{044}.02	ø	:	³i=i³n=n³
+`d‰r @art	ùd‰r	#art	^ASf	~di	\d i	_IIIú4úP_VatG-111v,14{044}.03	ø	:	³d=d³i=i³
+`ˆre @f	ùˆre	#f	^AS	~ˆr‚	\era,,	_IIIú4úP_VatG-111v,14{044}.04	ø	:	³e=ˆ³r=r³a=‚³
+`s“ @adv/konj	ùs“	#konj	^	~s“	\$o	_IIIú4úP_VatG-111v,14{044}.05	ø	:	³s=s³o=“³
+`d– @pron	ùd–	#pron	^NS	~d–	\du	_IIIú4úP_VatG-111v,14{044}.06	ø	:	³d=d³u=–³
+`ver-schŠiden @stv7	ùver-schŠiden	#stv7	^2SVI	~ver-schiŠde	\uir$chide.	_IIIú4úP_VatG-111v,14{044}.07@	ø	:	³u=v³i=e³r=r³=-³sch=sch³i=iŠ³d=d³e=e³
+`unte @konj	ùunte	#konj	^	~unte	\unde	_IIIú4úP_VatG-111v,15{044}.01	ø	:	³u=u³n=n³d=t³e=e³
+`ze @pr„p	ùze	#pr„p	^	~zuo	\zu	_IIIú4úP_VatG-111v,15{044}.02	ø	:	³z=z³u=uo³
+`himel @m	ùhimel	#m	^DS	~himel(e)	\himele	_IIIú4úP_VatG-111v,15{044}.03	ø	:	³h=h³i=i³m=m³e=e³l=l³e=e³
+`var(e)n @stv6	ùvar(e)n	#stv6	^2SVI	~vŠre	\fu\ore.,,	_IIIú4úP_VatG-111v,15{044}.04	ø	:	³f=v³u\o=Š³r=r³e=e³
+`unte @konj	ùunte	#konj	^	~unte	\unde	_IIIú4úP_VatG-111v,15{044}.05	ø	:	³u=u³n=n³d=t³e=e³
+`biten @stv5b	ùbiten	#stv5b	^1SGI	~biten	\biden	_IIIú4úP_VatG-111v,15{045}.06@	ø	:	³b=b³i=i³d=t³e=e³n=n³
+`d– @pron	ùd–	#pron	^AS	~dich	\dich,,(	_IIIú4úP_VatG-111v,16{045}.01	ø	:	³d=d³i=i³ch=ch³
+`vrouwe @f	ùvrouwe	#f	^NS	~vrouw‚	\frowa,,)	_IIIú4úP_VatG-111v,16{045}.02	ø	:	³f=v³r=r³o=ou³w=w³a=‚³
+`durh @pr„p	ùdurh	#pr„p	^	~durh	\durch	_IIIú4úP_VatG-111v,16{045}.03	ø	:	³d=d³u=u³r=r³ch=h³
+`all @pron	ùall	#pron	^GP	~aller	\all er	_IIIú4úP_VatG-111v,16{045}.04	ø	:	³a=a³ll=ll³e=e³r=r³
+`d‰r @art	ùd‰r	#art	^GP	~d‰r	\d er	_IIIú4úP_VatG-111v,16{045}.05	ø	:	³d=d³e=‰³r=r³
+`Šngel @m	ùŠngel	#m	^GP	~Šngel<e>	\engel	_IIIú4úP_VatG-111v,16{045}.06@	ø	:	³e=Š³n=n³g=g³e=e³l=l³=e³
+`wille @m	ùwille	#m	^AS	~willen	\willen.,,(	_IIIú4úP_VatG-112r,01{045}.01	ø	:	³w=w³i=i³ll=ll³e=e³n=n³
+`d‰r @pron	ùd‰r	#pron	^NPm+	~di	\d i	_IIIú4úP_VatG-112r,01{045}.02	ø	:	³d=d³i=i³
+`mit @pr„p	ùmit	#pr„p	^	~mit	\mit	_IIIú4úP_VatG-112r,01{045}.03	ø	:	³m=m³i=i³t=t³
+`d– @pron	ùd–	#pron	^DS	~dir	\dir	_IIIú4úP_VatG-112r,01{045}.04	ø	:	³d=d³i=i³r=r³
+`ze @pr„p	ùze	#pr„p	^	~zuo	\zu	_IIIú4úP_VatG-112r,01{046}.05	ø	:	³z=z³u=uo³
+`himel @m	ùhimel	#m	^DS	~himel(e)	\himele	_IIIú4úP_VatG-112r,01{046}.06	ø	:	³h=h³i=i³m=m³e=e³l=l³e=e³
+`var(e)n @stv6	ùvar(e)n	#stv6	^3PV	~vuoren	\fu\oren.,,)	_IIIú4úP_VatG-112r,01{046}.07@	ø	:	³f=v³u\o=uo³r=r³e=e³n=n³
+`unte @konj	ùunte	#konj	^	~unte	\unde	_IIIú4úP_VatG-112r,02{046}.01	ø	:	³u=u³n=n³d=t³e=e³
+`durh @pr„p	ùdurh	#pr„p	^	~durh	\durch	_IIIú4úP_VatG-112r,02{046}.02	ø	:	³d=d³u=u³r=r³ch=h³
+`all @pron	ùall	#pron	^GP	~aller	\all er	_IIIú4úP_VatG-112r,02{046}.03	ø	:	³a=a³ll=ll³e=e³r=r³
+`d‰r @art	ùd‰r	#art	^GP	~d‰r	\d er	_IIIú4úP_VatG-112r,02{046}.04	ø	:	³d=d³e=‰³r=r³
+`hŠilig @adj	ùhŠilig	#adj	^GPw%	~hŠiligen	\heilig en	_IIIú4úP_VatG-112r,02{046}.05	ø	:	³h=h³ei=Ši³l=l³i=i³g=g³e=e³n=n³
+`wille @m	ùwille	#m	^AS	~willen	\wil(=)len,,	_IIIú4úP_VatG-112r,02{046}.06@	ø	:	³w=w³i=i³ll=ll³e=e³n=n³
+`d‰r @pron	ùd‰r	#pron	^NPmfn+	~di	\d i	_IIIú4úP_VatG-112r,03{046}.01	ø	:	³d=d³i=i³
+`d– @pron	ùd–	#pron	^AS	~dich	\dich	_IIIú4úP_VatG-112r,03{047}.02	ø	:	³d=d³i=i³ch=ch³
+`in @pr„p	ùin	#pr„p	^	~in	\in	_IIIú4úP_VatG-112r,03{047}.03	ø	:	³i=i³n=n³
+`himel-rŒche @n	ùhimel-rŒche	#n	^DS	~himel-rŒche	\himelriche	_IIIú4úP_VatG-112r,03{047}.04	ø	:	³h=h³i=i³m=m³e=e³l=l³=-³r=r³i=Œ³ch=ch³e=e³
+`ent-vƒhen @stv7	ùent-vƒhen	#stv7	^3PV	~en<t>-viŠngen	\impingen.,,	_IIIú4úP_VatG-112r,03{047}.05@	ø	:	³i=e³m=n³=t³=-³p=v³i=iŠ³n=n³g=g³e=e³n=n³
+`dazz @konj	ùdazz	#konj	^	~dazz	\daz	_IIIú4úP_VatG-112r,04{047}.01	ø	:	³d=d³a=a³z=zz³
+`d– @pron	ùd–	#pron	^NS	~d–	\du	_IIIú4úP_VatG-112r,04{047}.02	ø	:	³d=d³u=–³
+`ich @pron	ùich	#pron	^DS	~mir	\mir	_IIIú4úP_VatG-112r,04{047}.03	ø	:	³m=m³i=i³r=r³
+`h‰lfen @stv3b	ùh‰lfen	#stv3b i	^-	~h‰lfen	\helfen	_IIIú4úP_VatG-112r,04{047}.04	ø	:	³h=h³e=‰³l=l³f=f³e=e³n=n³
+`wŠllen @anv	ùwŠllen	#anv	^2SGK	~wollest	\wolles.,,	_IIIú4úP_VatG-112r,04{047}.05	ø	:	³w=w³o=o³ll=ll³e=e³s=s³=t³
+`dazz @konj	ùdazz	#konj	^	~dazz	\daz	_IIIú4úP_VatG-112r,04{048}.06	ø	:	³d=d³a=a³z=zz³
+`ich @pron	ùich	#pron	^DS	~mir	\mir	_IIIú4úP_VatG-112r,04{048}.07@	ø	:	³m=m³i=i³r=r³
+`mŒn @pron_poss	ùmŒn	#pron_poss	^0NSmn	~mŒn	\min	_IIIú4úP_VatG-112r,05{048}.01	ø	:	³m=m³i=Œ³n=n³
+`Šnte @mn	ùŠnte	#mn	^NS	~Šnte	\ende	_IIIú4úP_VatG-112r,05{048}.02	ø	:	³e=Š³n=n³d=t³e=e³
+`r‰ht @adj	ùr‰ht	#adj	^-	~r‰ht	\reht 	_IIIú4úP_VatG-112r,05{048}.03	ø	:	³r=r³e=‰³h=h³t=t³
+`unte @konj	ùunte	#konj	^	~unte	\unde	_IIIú4úP_VatG-112r,05{048}.04	ø	:	³u=u³n=n³d=t³e=e³
+`guot @adj	ùguot	#adj	^-	~guot	\gu\ot 	_IIIú4úP_VatG-112r,05{048}.05	ø	:	³g=g³u\o=uo³t=t³
+`w‰rden @stv3b	ùw‰rden	#stv3b	^3SGK	~w‰rde	\werde.	_IIIú4úP_VatG-112r,05{048}.06@	ø	:	³w=w³e=‰³r=r³d=d³e=e³
+`ane @pr„p	ùane	#pr„p	^	~an<e>	\an	_IIIú4úP_VatG-112r,06{048}.01	ø	:	³a=a³n=n³=e³
+`mŒn @pron_poss	ùmŒn	#pron_poss	^DSmn	~mŒnem	\min em	_IIIú4úP_VatG-112r,06{048}.02	ø	:/K[minem: {m¡nem} W]	³m=m³i=Œ³n=n³e=e³m=m³
+`Šnte @mn	ùŠnte	#mn	^DS	~Šnte	\ende	_IIIú4úP_VatG-112r,06{048}.03	ø	:	³e=Š³n=n³d=t³e=e³
+`mit @pr„p	ùmit	#pr„p	^	~mit	\mit	_IIIú4úP_VatG-112r,06{049}.04	ø	:	³m=m³i=i³t=t³
+`got @m	ùgot	#m	^GS	~gotes	\godes	_IIIú4úP_VatG-112r,06{049}.05	ø	:	³g=g³o=o³d=t³e=e³s=s³
+`lŒcham(e) @mn	ùlŒcham(e)	#m	^DS	~lŒchamen	\lichamen.	_IIIú4úP_VatG-112r,06{049}.06@	ø	:	³l=l³i=Œ³ch=ch³a=a³m=m³e=e³n=n³
+`unte @konj	ùunte	#konj	^	~unte	\unde	_IIIú4úP_VatG-112r,07{049}.01	ø	:	³u=u³n=n³d=t³e=e³
+`sŒn @pron_poss	ùsŒn	#pron_poss	^DSn	~sŒnem‚	\$in emo	_IIIú4úP_VatG-112r,07{049}.02	ø	:	³s=s³i=Œ³n=n³e=e³m=m³o=‚³
+`hŠilig @adj	ùhŠilig	#adj	^DSnw	~hŠiligen	\heilig en	_IIIú4úP_VatG-112r,07{049}.03	ø	:	³h=h³ei=Ši³l=l³i=i³g=g³e=e³n=n³
+`bluot @n	ùbluot	#n	^DS	~bluote	\blu\ode.	_IIIú4úP_VatG-112r,07{049}.04	ø	:	³b=b³l=l³u\o=uo³d=t³e=e³
+`unte @konj	ùunte	#konj	^	~unte	\unde	_IIIú4úP_VatG-112r,07{049}.05@	ø	:	³u=u³n=n³d=t³e=e³
+`mit @pr„p	ùmit	#pr„p	^	~mit	\mit	_IIIú4úP_VatG-112r,08{050}.01	ø	:	³m=m³i=i³t=t³
+`d‰r @art	ùd‰r	#art	^DSn	~d‰m‚	\d emo	_IIIú4úP_VatG-112r,08{050}.02	ø	:	³d=d³e=‰³m=m³o=‚³
+`hŠilig @adj	ùhŠilig	#adj	^DSnw	~hŠiligen	\heilig en	_IIIú4úP_VatG-112r,08{050}.03	ø	:	³h=h³ei=Ši³l=l³i=i³g=g³e=e³n=n³
+`”l(e) @n	ù”l(e)	#n	^DS	~olŠie	\oleie.(.)	_IIIú4úP_VatG-112r,08{050}.04	ø	:	³o=o³l=l³ei=Ši³e=e³
+`vrouwe @f	ùvrouwe	#f	^NS	~vrouw‚	\frowa,,	_IIIú4úP_VatG-112r,08{050}.05	ø	:	³f=v³r=r³o=ou³w=w³a=‚³
+`ich @pron	ùich	#pron	^NS	~ich	\ich	_IIIú4úP_VatG-112r,08{050}.06@	ø	:	³i=i³ch=ch³
+`be-v‰lhen @stv3b	ùbe-v‰lhen	#stv3b	^1SGI	~be-vilhen	\beuelhen	_IIIú4úP_VatG-112r,09{050}.01	ø	:	³b=b³e=e³=-³u=v³e=i³l=l³h=h³e=e³n=n³
+`d– @pron	ùd–	#pron	^DS	~dir	\dir	_IIIú4úP_VatG-112r,09{050}.02	ø	:	³d=d³i=i³r=r³
+`mŒn @pron_poss	ùmŒn	#pron_poss	^ASf	~mŒne	\min e	_IIIú4úP_VatG-112r,09{050}.03	ø	:	³m=m³i=Œ³n=n³e=e³
+`sˆle @f	ùsˆle	#f	^AS	~sˆl‚	\$ela	_IIIú4úP_VatG-112r,09{051}.04	ø	:	³s=s³e=ˆ³l=l³a=‚³
+`in @pr„p	ùin	#pr„p	^	~in	\in	_IIIú4úP_VatG-112r,09{051}.05	ø	:	³i=i³n=n³
+`dŒn @pron_poss	ùdŒn	#pron_poss	^ASf	~dŒne	\din e	_IIIú4úP_VatG-112r,09{051}.06	ø	:	³d=d³i=Œ³n=n³e=e³
+`ge-walt @mf<u>	ùge-walt	#f<u>	^AS	~ge-walt	\ge(=)walt.	_IIIú4úP_VatG-112r,09{051}.07@	ø	:	³g=g³e=e³=-³w=w³a=a³l=l³t=t³
+`unte @konj	ùunte	#konj	^	~unte	\unde	_IIIú4úP_VatG-112r,10{051}.01	ø	:	³u=u³n=n³d=t³e=e³
+`mŒn @pron_poss	ùmŒn	#pron_poss	^ASf	~mŒne	\mi\-n e	_IIIú4úP_VatG-112r,10{051}.02	ø	:	³m=m³i=Œ³\-n=n³e=e³
+`sˆle @f	ùsˆle	#f	^AS	~sˆl‚	\$ela	_IIIú4úP_VatG-112r,10{051}.03	ø	:	³s=s³e=ˆ³l=l³a=‚³
+`in @pr„p	ùin	#pr„p	^	~in	\in	_IIIú4úP_VatG-112r,10{051}.04	ø	:	³i=i³n=n³
+`dŒn @pron_poss	ùdŒn	#pron_poss	^ASf	~dŒne	\din e	_IIIú4úP_VatG-112r,10{051}.05	ø	:	³d=d³i=Œ³n=n³e=e³
+`ge-nƒde @f	ùge-nƒde	#f	^AS	~g<e>-nƒd‚	\gna(=)da.	_IIIú4úP_VatG-112r,10{051}.06@	ø	:	³g=g³=e³=-³n=n³a=ƒ³d=d³a=‚³
+`unte @konj	ùunte	#konj	^	~unte	\unde	_IIIú4úP_VatG-112r,11{051}.01	ø	:	³u=u³n=n³d=t³e=e³
+`in @pr„p	ùin	#pr„p	^	~in	\in	_IIIú4úP_VatG-112r,11{052}.02	ø	:	³i=i³n=n³
+`d‰r @art	ùd‰r	#art	^ASf	~di	\d i	_IIIú4úP_VatG-112r,11{052}.03	ø	:	³d=d³i=i³
+`s‰lb @pron	ùs‰lb	#pron	^ASf!	~s‰lbe	\$elb e	_IIIú4úP_VatG-112r,11{052}.04	ø	:	³s=s³e=‰³l=l³b=b³e=e³
+`triuwe @f	ùtriuwe	#f	^AS	~triuw‚	\driwa.(.)	_IIIú4úP_VatG-112r,11{052}.05	ø	:	³d=t³r=r³iw=iuw³a=‚³
+`s“ @adv/konj	ùs“	#konj	^	~s“	\$o	_IIIú4úP_VatG-112r,11{052}.06	ø	:	³s=s³o=“³
+`d– @pron	ùd–	#pron	^AS	~dich	\dich	_IIIú4úP_VatG-112r,11{052}.07@	ø	:	³d=d³i=i³ch=ch³
+`unser @pron_poss	ùunser	#pron_poss	^0NSm	~unser	\un$er	_IIIú4úP_VatG-112r,12{052}.01	ø	:	³u=u³n=n³s=s³e=e³r=r³
+`hˆrre @m	ùhˆrre	#m	^NS	~hˆrr‚	\herro	_IIIú4úP_VatG-112r,12{052}.02	ø	:	³h=h³e=ˆ³rr=rr³o=‚³
+`sancte @adj	ùsancte	#adj	^0	~sancte	\$c e\- 	_IIIú4úP_VatG-112r,12{052}.03	ø	:	³s=s³ce\-=ancte³
+`Johann @PN	ùJohann	#PN	^DS	~Johanne	\iohanne	_IIIú4úP_VatG-112r,12{052}.04	ø	:	*³i=j³o=o³h=h³a=a³nn=nn³e=e³
+`be-v‰lhen @stv3b	ùbe-v‰lhen	#stv3b	^3SVI	~be-valh	\beualch.,,	_IIIú4úP_VatG-112r,12{052}.05@	ø	:	³b=b³e=e³=-³u=v³a=a³l=l³ch=h³
+`s“ @adv/konj	ùs“	#adv	^	~s“	\$o	_IIIú4úP_VatG-112r,13{053}.01	ø	:	³s=s³o=“³
+`be-v‰lhen @stv3b	ùbe-v‰lhen	#stv3b	^1SGI	~be-vilhen	\beuelhen	_IIIú4úP_VatG-112r,13{053}.02	ø	:	³b=b³e=e³=-³u=v³e=i³l=l³h=h³e=e³n=n³
+`ich @pron	ùich	#pron	^NS	~ich	\ich	_IIIú4úP_VatG-112r,13{053}.03	ø	:	³i=i³ch=ch³
+`d– @pron	ùd–	#pron	^DS	~dir	\dir	_IIIú4úP_VatG-112r,13{053}.04	ø	:	³d=d³i=i³r=r³
+`mŒn @pron_poss	ùmŒn	#pron_poss	^ASf	~mŒne	\min e	_IIIú4úP_VatG-112r,13{053}.05	ø	:	³m=m³i=Œ³n=n³e=e³
+`sˆle @f	ùsˆle	#f	^AS	~sˆl‚	\$ela.	_IIIú4úP_VatG-112r,13{053}.06	ø	:	³s=s³e=ˆ³l=l³a=‚³
+`unte @konj	ùunte	#konj	^	~unte	\un(=)de	_IIIú4úP_VatG-112r,13{053}.07@	ø	:	³u=u³n=n³d=t³e=e³
+`mŒn @pron_poss	ùmŒn	#pron_poss	^GSm	~mŒnes	\min es	_IIIú4úP_VatG-112r,14{053}.01	ø	:	³m=m³i=Œ³n=n³e=e³s=s³
+`vater @m<(u)>	ùvater	#m<(u)>	^GS	~vater	\uader	_IIIú4úP_VatG-112r,14{053}.02	ø	:	³u=v³a=a³d=t³e=e³r=r³
+`sˆle @f	ùsˆle	#f	^AS	~sˆl‚	\$ela.	_IIIú4úP_VatG-112r,14{054}.03	ø	:	³s=s³e=ˆ³l=l³a=‚³
+`unte @konj	ùunte	#konj	^	~unte	\unde	_IIIú4úP_VatG-112r,14{054}.04	ø	:	³u=u³n=n³d=t³e=e³
+`mŒn @pron_poss	ùmŒn	#pron_poss	^GSf	~mŒner	\min er	_IIIú4úP_VatG-112r,14{054}.05@	ø	:	³m=m³i=Œ³n=n³e=e³r=r³
+`muoter @f<(u)>	ùmuoter	#f<(u)>	^GS	~muoter	\muder	_IIIú4úP_VatG-112r,15{054}.01	ø	:	³m=m³u=uo³d=t³e=e³r=r³
+`sˆle @f	ùsˆle	#f	^AS	~sˆl‚	\$ela.	_IIIú4úP_VatG-112r,15{054}.02	ø	:	³s=s³e=ˆ³l=l³a=‚³
+`unte @konj	ùunte	#konj	^	~unte	\unde	_IIIú4úP_VatG-112r,15{054}.03	ø	:	³u=u³n=n³d=t³e=e³
+`all @pron	ùall	#pron	^APf	~alle	\all e	_IIIú4úP_VatG-112r,15{054}.04	ø	:	³a=a³ll=ll³e=e³
+`ge-loubig @adj	ùge-loubig	#adj	^APw	~ge-loubigen	\geloubig en	_IIIú4úP_VatG-112r,15{054}.05@	ø	:/^[nach {alle}]	³g=g³e=e³=-³l=l³ou=ou³b=b³i=i³g=g³e=e³n=n³
+`sˆle @f	ùsˆle	#f	^AP	~sˆlen	\$elen.(.)	_IIIú4úP_VatG-112r,16{054}.01	ø	:	³s=s³e=ˆ³l=l³e=e³n=n³
+`[!] @[!]	ùƒmˆn*	#interj	^	~ƒmˆn	\AMeN.	_IIIú4úP_VatG-112r,16{055}.02	ø	:	³a=ƒ³m=m³e=ˆ³n=n³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~de	\De	_IIIú4úP_VatG-112r,16{056}.03	ø	:	*³de=de³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~sancta	\$ca\-	_IIIú4úP_VatG-112r,16{056}.04	ø	:	*³sca\-=sancta³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~Maria.	\maria(.)	_IIIú4úP_VatG-112r,16{056}.05@	ø	:	*³maria=Maria.³
+`[!] @[!]	ùdomina*	#f	^NS	~domina	\*{D*}Na\-	_IIIú4úP_VatG-112v,01{057}.01	ø	:	*³dna\-=domina³
+`[!] @[!]	ùsanctus*	#adj	^NSf	~sancta	\$ca\-	_IIIú4úP_VatG-112v,01{057}.02	ø	:	*³sca\-=sancta³
+`Maria* @PN	ùMaria	#PN	^NS	~Maria	\maria,,	_IIIú4úP_VatG-112v,01{057}.03	ø	:	*³maria=Maria³
+`ich @pron	ùich	#pron	^NS	~ich	\ich	_IIIú4úP_VatG-112v,01{057}.04	ø	:	³i=i³ch=ch³
+`sntig @adj	ùsntig	#adj	^NSfw!%&	~sntig‚	\$undi(=)g a	_IIIú4úP_VatG-112v,01{057}.05@	ø	:	³s=s³u=³n=n³d=t³i=i³g=g³a=‚³
+`vliŠhen @stv2b	ùvliŠhen	#stv2b	^1SGI	~vliuhen	\flihen	_IIIú4úP_VatG-112v,02{057}.01	ø	:/^[!]	³f=v³l=l³i=iu³h=h³e=e³n=n³
+`unter @pr„p	ùunter	#pr„p	^	~unter	\under	_IIIú4úP_VatG-112v,02{057}.02	ø	:	³u=u³n=n³d=t³e=e³r=r³
+`dŒn @pron_poss	ùdŒn	#pron_poss	^ASf	~dŒne	\din e	_IIIú4úP_VatG-112v,02{057}.03	ø	:	³d=d³i=Œ³n=n³e=e³
+`h‰lfe @f	ùh‰lfe	#f	^AS	~h‰lf‚	\hel(=)fa.	_IIIú4úP_VatG-112v,02{057}.04@	ø	:	³h=h³e=‰³l=l³f=f³a=‚³
+`unte @konj	ùunte	#konj	^	~unte	\unde	_IIIú4úP_VatG-112v,03{058}.01	ø	:	³u=u³n=n³d=t³e=e³
+`be-v‰lhen @stv3b	ùbe-v‰lhen	#stv3b	^1SGI	~be-vilhen	\beuelhen	_IIIú4úP_VatG-112v,03{058}.02	ø	:	³b=b³e=e³=-³u=v³e=i³l=l³h=h³e=e³n=n³
+`ich @pron	ùich	#pron	^AS©	~mich	\mich	_IIIú4úP_VatG-112v,03{058}.03@	ø	:	³m=m³i=i³ch=ch³
+`in @pr„p	ùin	#pr„p	^	~in	\in	_IIIú4úP_VatG-112v,04{058}.01	ø	:	³i=i³n=n³
+`dŒn @pron_poss	ùdŒn	#pron_poss	^ASf	~dŒne	\din e	_IIIú4úP_VatG-112v,04{058}.02	ø	:	³d=d³i=Œ³n=n³e=e³
+`ge-nƒde @f	ùge-nƒde	#f	^AS	~g<e>-nƒd‚	\gnada.	_IIIú4úP_VatG-112v,04{058}.03	ø	:	³g=g³=e³=-³n=n³a=ƒ³d=d³a=‚³
+`unte @konj	ùunte	#konj	^	~unte	\unde	_IIIú4úP_VatG-112v,04{058}.04	ø	:	³u=u³n=n³d=t³e=e³
+`unter @pr„p	ùunter	#pr„p	^	~unter	\under	_IIIú4úP_VatG-112v,04{058}.05	ø	:	³u=u³n=n³d=t³e=e³r=r³
+`dŒn @pron_poss	ùdŒn	#pron_poss	^ASf	~dŒne	\di(=)n e	_IIIú4úP_VatG-112v,04{058}.06@	ø	:	³d=d³i=Œ³n=n³e=e³
+`maged-hŠit @f	ùmaged-hŠit	#f	^AS	~maged-hŠit	\magetheit.	_IIIú4úP_VatG-112v,05{059}.01	ø	:	³m=m³a=a³g=g³e=e³t=d³=-³h=h³ei=Ši³t=t³
+`mŒn @pron_poss	ùmŒn	#pron_poss	^ASm	~mŒnen	\min en	_IIIú4úP_VatG-112v,05{059}.02	ø	:	³m=m³i=Œ³n=n³e=e³n=n³
+`lŒb @mn	ùlŒb	#m	^AS	~lŒb	\lib.	_IIIú4úP_VatG-112v,05{059}.03	ø	:	³l=l³i=Œ³b=b³
+`unte @konj	ùunte	#konj	^	~unte	\unde	_IIIú4úP_VatG-112v,05{059}.04@	ø	:	³u=u³n=n³d=t³e=e³
+`mŒn @pron_poss	ùmŒn	#pron_poss	^ASf	~mŒne	\min e	_IIIú4úP_VatG-112v,06{059}.01	ø	:	³m=m³i=Œ³n=n³e=e³
+`sˆle @f	ùsˆle	#f	^AS	~sˆl‚	\$ela.	_IIIú4úP_VatG-112v,06{059}.02	ø	:	³s=s³e=ˆ³l=l³a=‚³
+`unte @konj	ùunte	#konj	^	~unte	\unde	_IIIú4úP_VatG-112v,06{059}.03	ø	:	³u=u³n=n³d=t³e=e³
+`mŒn @pron_poss	ùmŒn	#pron_poss	^APn	~mŒne	\min e	_IIIú4úP_VatG-112v,06{059}.04	ø	:	³m=m³i=Œ³n=n³e=e³
+`wort @n	ùwort	#n	^AP	~wort	\wort.	_IIIú4úP_VatG-112v,06{059}.05	ø	:	³w=w³o=o³r=r³t=t³
+`unte @konj	ùunte	#konj	^	~unte	\un(=)de	_IIIú4úP_VatG-112v,06{060}.06@	ø	:	³u=u³n=n³d=t³e=e³
+`mŒn @pron_poss	ùmŒn	#pron_poss	^APm	~mŒne	\min e	_IIIú4úP_VatG-112v,07{060}.01	ø	:/K[min: {m¡n} W]	³m=m³i=Œ³n=n³e=e³
+`ge-dank @m<(u)>	ùge-dank	#m<(u)>	^AP	~ge-dŠnke	\gedenke.	_IIIú4úP_VatG-112v,07{060}.02	ø	:	³g=g³e=e³=-³d=d³e=Š³n=n³k=k³e=e³
+`unte @konj	ùunte	#konj	^	~unte	\unde	_IIIú4úP_VatG-112v,07{060}.03	ø	:	³u=u³n=n³d=t³e=e³
+`mŒn @pron_poss	ùmŒn	#pron_poss	^APn	~mŒne	\min e	_IIIú4úP_VatG-112v,07{060}.04@	ø	:	³m=m³i=Œ³n=n³e=e³
+`w‰rk @n	ùw‰rk	#n	^AP	~w‰rk	\werc.	_IIIú4úP_VatG-112v,08{060}.01	ø	:	³w=w³e=‰³r=r³c=k³
+`unte @konj	ùunte	#konj	^	~unte	\unde	_IIIú4úP_VatG-112v,08{060}.02	ø	:	³u=u³n=n³d=t³e=e³
+`mŒn @pron_poss	ùmŒn	#pron_poss	^0ASmn	~mŒn	\min	_IIIú4úP_VatG-112v,08{060}.03	ø	:	³m=m³i=Œ³n=n³
+`l‰ben @mn	ùl‰ben	#mn	^AS	~l‰ben	\leben.	_IIIú4úP_VatG-112v,08{060}.04	ø	:	³l=l³e=‰³b=b³e=e³n=n³
+`unte @konj	ùunte	#konj	^	~unte	\unde	_IIIú4úP_VatG-112v,08{061}.05	ø	:	³u=u³n=n³d=t³e=e³
+`mŒn @pron_poss	ùmŒn	#pron_poss	^ASm	~mŒnen	\mi(=)n en	_IIIú4úP_VatG-112v,08{061}.06@	ø	:	³m=m³i=Œ³n=n³e=e³n=n³
+`t“d @m<(u)>	ùt“d	#m<(u)>	^AS	~t“d	\dot.	_IIIú4úP_VatG-112v,09{061}.01	ø	:	³d=t³o=“³t=d³
+`unte @konj	ùunte	#konj	^	~unte	\unde	_IIIú4úP_VatG-112v,09{061}.02	ø	:	³u=u³n=n³d=t³e=e³
+`all @pron	ùall	#pron	^ASf	~alle	\all e	_IIIú4úP_VatG-112v,09{061}.03	ø	:	³a=a³ll=ll³e=e³
+`mŒn @pron_poss	ùmŒn	#pron_poss	^ASf!	~mŒne	\min e	_IIIú4úP_VatG-112v,09{061}.04	ø	:/^[nach {alle}]	³m=m³i=Œ³n=n³e=e³
+`n“t @mf<u>	ùn“t	#f<u>	^AS	~n“t	\not.	_IIIú4úP_VatG-112v,09{061}.05	ø	:	³n=n³o=“³t=t³
+`unte @konj	ùunte	#konj	^	~unte	\un(=)de	_IIIú4úP_VatG-112v,09{061}.06@	ø	:	³u=u³n=n³d=t³e=e³
+`all @pron	ùall	#pron	^ASf	~alle	\all e	_IIIú4úP_VatG-112v,10{061}.01	ø	:	³a=a³ll=ll³e=e³
+`mŒn @pron_poss	ùmŒn	#pron_poss	^0ASmfw	~mŒn	\min	_IIIú4úP_VatG-112v,10{061}.02	ø	:	³m=m³i=Œ³n=n³
+`angest @mf<(u)>	ùangest	#mf<(u)>	^AS	~angest	\ange$t.,,	_IIIú4úP_VatG-112v,10{062}.03	ø	:	³a=a³n=n³g=g³e=e³s=s³t=t³
+`d‰r @pron	ùd‰r	#pron	^NPmf+	~di	\d i	_IIIú4úP_VatG-112v,10{062}.04	ø	:	³d=d³i=i³
+`ane @pr„p	ùane	#pr„p	^	~an<e>	\an	_IIIú4úP_VatG-112v,10{062}.05	ø	:	³a=a³n=n³=e³
+`mŒn @pron_poss	ùmŒn	#pron_poss	^ASf	~mŒne	\min e	_IIIú4úP_VatG-112v,10{062}.06@	ø	:	³m=m³i=Œ³n=n³e=e³
+`sˆle @f	ùsˆle	#f	^AS	~sˆl‚	\$ela.	_IIIú4úP_VatG-112v,11{062}.01	ø	:	³s=s³e=ˆ³l=l³a=‚³
+`oder @konj	ùoder	#konj	^	~oder	\oder	_IIIú4úP_VatG-112v,11{062}.02	ø	:	³o=o³d=d³e=e³r=r³
+`ane @pr„p	ùane	#pr„p	^	~an<e>	\an	_IIIú4úP_VatG-112v,11{062}.03	ø	:	³a=a³n=n³=e³
+`mŒn @pron_poss	ùmŒn	#pron_poss	^ASm	~mŒnen	\min en	_IIIú4úP_VatG-112v,11{062}.04	ø	:	³m=m³i=Œ³n=n³e=e³n=n³
+`lŒb @mn	ùlŒb	#m	^AS	~lŒb	\lib	_IIIú4úP_VatG-112v,11{062}.05	ø	:/K[di: {die} W]	³l=l³i=Œ³b=b³
+`tr‰ffen @stv4	ùtr‰ffen	#stv4	^3PG	~tr‰ffen	\dreffen.,,	_IIIú4úP_VatG-112v,11{062}.06@	ø	:/K[minna: {m¡nna} W]	³d=t³r=r³e=‰³ff=ff³e=e³n=n³
+`unte @konj	ùunte	#konj	^	~unte	\unde	_IIIú4úP_VatG-112v,12{063}.01	ø	:	³u=u³n=n³d=t³e=e³
+`biten @stv5b	ùbiten	#stv5b	^1SGI	~biten	\biden	_IIIú4úP_VatG-112v,12{063}.02	ø	:	³b=b³i=i³d=t³e=e³n=n³
+`d– @pron	ùd–	#pron	^AS	~dich	\dich	_IIIú4úP_VatG-112v,12{063}.03	ø	:	³d=d³i=i³ch=ch³
+`durh @pr„p	ùdurh	#pr„p	^	~durh	\durch	_IIIú4úP_VatG-112v,12{063}.04	ø	:	³d=d³u=u³r=r³ch=h³
+`d‰r @art	ùd‰r	#art	^ASf	~diŠ	\d i	_IIIú4úP_VatG-112v,12{063}.05	ø	:	³d=d³i=iŠ³
+`minne @f	ùminne	#f	^AS	~minn‚	\minna	_IIIú4úP_VatG-112v,12{063}.06@	ø	:	³m=m³i=i³nn=nn³a=‚³
+`dŒn @pron_poss	ùdŒn	#pron_poss	^GSm	~dŒnes	\din es	_IIIú4úP_VatG-112v,13{063}.01	ø	:	³d=d³i=Œ³n=n³e=e³s=s³
+`sun @m<u>	ùsun	#m<u>	^GS	~sunes	\$unes,	_IIIú4úP_VatG-112v,13{063}.02	ø	:	³s=s³u=u³n=n³e=e³s=s³
+`d‰r @art	ùd‰r	#art	^GSm	~d‰s	\d e$	_IIIú4úP_VatG-112v,13{063}.03	ø	:	³d=d³e=‰³s=s³
+`all-mŠhtig @adj	ùall-mŠhtig	#adj	^GSmw	~all-mŠhtigen	\almehtig en	_IIIú4úP_VatG-112v,13{063}.04	ø	:	³a=a³l=ll³=-³m=m³e=Š³h=h³t=t³i=i³g=g³e=e³n=n³
+`got @m	ùgot	#m	^GS	~gotes	\godes.,)	_IIIú4úP_VatG-112v,13{064}.05@	ø	:	³g=g³o=o³d=t³e=e³s=s³
+`unte @konj	ùunte	#konj	^	~unte	\unde	_IIIú4úP_VatG-112v,14{064}.01	ø	:	³u=u³n=n³d=t³e=e³
+`durh @pr„p	ùdurh	#pr„p	^	~durh	\durch	_IIIú4úP_VatG-112v,14{064}.02	ø	:	³d=d³u=u³r=r³ch=h³
+`d‰r @art	ùd‰r	#art	^ASf	~di	\d i	_IIIú4úP_VatG-112v,14{064}.03	ø	:	³d=d³i=i³
+`ˆre @f	ùˆre	#f	^AS	~ˆr‚	\era	_IIIú4úP_VatG-112v,14{064}.04	ø	:	³e=ˆ³r=r³a=‚³
+`dŒn @pron_poss	ùdŒn	#pron_poss	^GSf	~dŒner	\din er	_IIIú4úP_VatG-112v,14{064}.05	ø	:	³d=d³i=Œ³n=n³e=e³r=r³
+`maged-hŠit @f	ùmaged-hŠit	#f	^GS	~maged-hŠite	\magit=heide.,,	_IIIú4úP_VatG-112v,14{064}.06@	ø	:	³m=m³a=a³g=g³i=e³t=d³=-³h=h³ei=Ši³d=t³e=e³
+`dazz @konj	ùdazz	#konj	^	~dazz	\daz	_IIIú4úP_VatG-112v,15{064}.01	ø	:	³d=d³a=a³z=zz³
+`d– @pron	ùd–	#pron	^NS	~d–	\du	_IIIú4úP_VatG-112v,15{065}.02	ø	:	³d=d³u=–³
+`ver-trŒben @stv1a	ùver-trŒben	#stv1a	^2SG	~ver-trŒbes	\uerdribes	_IIIú4úP_VatG-112v,15{065}.03	ø	:	³u=v³e=e³r=r³=-³d=t³r=r³i=Œ³b=b³e=e³s=s³
+`von @pr„p	ùvon	#pr„p	^	~von	\uon	_IIIú4úP_VatG-112v,15{065}.04	ø	:	³u=v³o=o³n=n³
+`ich @pron	ùich	#pron	^DS	~mir	\mir	_IIIú4úP_VatG-112v,15{065}.05@	ø	:	³m=m³i=i³r=r³
+`all @pron	ùall	#pron	^ASn%	~all‚zz	\all az,,(	_IIIú4úP_VatG-112v,16{065}.01	ø	:	³a=a³ll=ll³a=‚³z=zz³
+`d‰r @pron	ùd‰r	#pron	^NSn+	~dazz	\d az	_IIIú4úP_VatG-112v,16{065}.02	ø	:	³d=d³a=a³z=zz³
+`dŒn @pron_poss	ùdŒn	#pron_poss	^DSm	~dŒneme	\din eme	_IIIú4úP_VatG-112v,16{065}.03	ø	:	³d=d³i=Œ³n=n³e=e³m=m³e=e³
+`sun @m<u>	ùsun	#m<u>	^DS	~sune	\$une	_IIIú4úP_VatG-112v,16{065}.04	ø	:	³s=s³u=u³n=n³e=e³
+`ane @pr„p	ùane	#pr„p	^	~an<e>	\an	_IIIú4úP_VatG-112v,16{065}.05	ø	:/ù[vgl. under-diŠnstig]	³a=a³n=n³=e³
+`ich @pron	ùich	#pron	^DS	~mir	\mir	_IIIú4úP_VatG-112v,16{065}.06	ø	:	³m=m³i=i³r=r³
+`misse-lŒchen @swv	ùmisse-lŒchen	#swv	^3SGK	~misse-lŒche	\mi$(=)$eliche.,,)	_IIIú4úP_VatG-112v,16{065}.07@	ø	:	³m=m³i=i³ss=ss³e=e³=-³l=l³i=Œ³ch=ch³e=e³
+`unte @konj	ùunte	#konj	^	~unte	\unde	_IIIú4úP_VatG-113r,01{066}.01	ø	:	³u=u³n=n³d=t³e=e³
+`machen @swv	ùmachen	#swv	^2SG	~maches	\maches	_IIIú4úP_VatG-113r,01{066}.02	ø	:	³m=m³a=a³ch=ch³e=e³s=s³
+`ich @pron	ùich	#pron	^AS	~mich	\mich	_IIIú4úP_VatG-113r,01{066}.03	ø	:	³m=m³i=i³ch=ch³
+`unter-diŠnig @adj	ùunter-diŠnig	#adj	^-	~unter-diŠnig	\under(=)dinich 	_IIIú4úP_VatG-113r,01{066}.04@	ø	:	³u=u³n=n³d=t³e=e³r=r³=-³d=d³i=iŠ³n=n³i=i³ch=g³
+`unte @konj	ùunte	#konj	^	~unte	\unde	_IIIú4úP_VatG-113r,02{066}.01	ø	:	³u=u³n=n³d=t³e=e³
+`ge-h“r-sam @adj	ùge-h“r-sam	#adj	^-	~ge-h“r-sam	\gehor$am .	_IIIú4úP_VatG-113r,02{066}.02	ø	:	³g=g³e=e³=-³h=h³o=“³r=r³=-³s=s³a=a³m=m³
+`dŒn @pron_poss	ùdŒn	#pron_poss	^DSm	~dŒneme	\din eme	_IIIú4úP_VatG-113r,02{067}.03@	ø	:	³d=d³i=Œ³n=n³e=e³m=m³e=e³
+`sun @m<u>	ùsun	#m<u>	^DS	~sune	\$une.	_IIIú4úP_VatG-113r,03{067}.01	ø	:	³s=s³u=u³n=n³e=e³
+`unte @konj	ùunte	#konj	^	~unte	\unde	_IIIú4úP_VatG-113r,03{067}.02	ø	:	³u=u³n=n³d=t³e=e³
+`in @pr„p	ùin	#pr„p	^	~in	\in	_IIIú4úP_VatG-113r,03{067}.03	ø	:	³i=i³n=n³
+`mŒn @pron_poss	ùmŒn	#pron_poss	^DSf	~mŒner	\min er	_IIIú4úP_VatG-113r,03{067}.04	ø	:	³m=m³i=Œ³n=n³e=e³r=r³
+`hin(e)-vart @f<u>	ùhin(e)-vart	#f<u>	^DS	~hin(e)-vŠrte	\hineuerte	_IIIú4úP_VatG-113r,03{067}.05	ø	:	³h=h³i=i³n=n³e=e³=-³u=v³e=Š³r=r³t=t³e=e³
+`dŒn @pron_poss	ùdŒn	#pron_poss	^ASm	~dŒnen	\di(=)n en	_IIIú4úP_VatG-113r,03{067}.06@	ø	:	³d=d³i=Œ³n=n³e=e³n=n³
+`tr“st @m	ùtr“st	#m	^AS	~tr“st	\dro$t	_IIIú4úP_VatG-113r,04{067}.01	ø	:	³d=t³r=r³o=“³s=s³t=t³
+`unte @konj	ùunte	#konj	^	~unte	\unde	_IIIú4úP_VatG-113r,04{067}.02	ø	:	³u=u³n=n³d=t³e=e³
+`dŒn @pron_poss	ùdŒn	#pron_poss	^ASf	~dŒne	\din e	_IIIú4úP_VatG-113r,04{068}.03	ø	:	³d=d³i=Œ³n=n³e=e³
+`h‰lfe @f	ùh‰lfe	#f	^AS	~h‰lf‚	\helfa	_IIIú4úP_VatG-113r,04{068}.04	ø	:	³h=h³e=‰³l=l³f=f³a=‚³
+`off(en)en @swv	ùoff(en)en	#swv	^2SG	~offenes	\offenes,,	_IIIú4úP_VatG-113r,04{068}.05@	ø	:	³o=o³ff=ff³e=e³n=n³e=e³s=s³
+`dazz @konj	ùdazz	#konj	^	~dazz	\daz	_IIIú4úP_VatG-113r,05{068}.01	ø	:	³d=d³a=a³z=zz³
+`d– @pron	ùd–	#pron	^NS	~d–	\du	_IIIú4úP_VatG-113r,05{068}.02	ø	:	³d=d³u=–³
+`danne @adv/konj	ùdanne	#adv	^	~danne	\danne	_IIIú4úP_VatG-113r,05{068}.03	ø	:	³d=d³a=a³nn=nn³e=e³
+`mŒn @pron_poss	ùmŒn	#pron_poss	^ASf	~mŒne	\min e	_IIIú4úP_VatG-113r,05{068}.04	ø	:	³m=m³i=Œ³n=n³e=e³
+`sˆle @f	ùsˆle	#f	^AS	~sˆl‚	\$ela	_IIIú4úP_VatG-113r,05{068}.05	ø	:/K[$une: {$unne} W]	³s=s³e=ˆ³l=l³a=‚³
+`ent-vƒhen @stv7	ùent-vƒhen	#stv7	^2SG	~en<t>-vƒhes	\impha(=)he$.	_IIIú4úP_VatG-113r,05{068}.06@	ø	:	³i=e³m=n³=t³=-³ph=v³a=ƒ³h=h³e=e³s=s³
+`unte @konj	ùunte	#konj	^	~unte	\unde	_IIIú4úP_VatG-113r,06{069}.01	ø	:	³u=u³n=n³d=t³e=e³
+`‰r @pron	ù‰r	#pron	^ASf	~si	\$i	_IIIú4úP_VatG-113r,06{069}.02	ø	:	³s=s³i=i³
+`danne @adv/konj	ùdanne	#adv	^	~danne	\danne	_IIIú4úP_VatG-113r,06{069}.03	ø	:	³d=d³a=a³nn=nn³e=e³
+`dŒn @pron_poss	ùdŒn	#pron_poss	^DSm	~dŒneme	\din eme	_IIIú4úP_VatG-113r,06{069}.04	ø	:	³d=d³i=Œ³n=n³e=e³m=m³e=e³
+`sun @m<u>	ùsun	#m<u>	^DS	~sune	\$une	_IIIú4úP_VatG-113r,06{069}.05@	ø	:	³s=s³u=u³n=n³e=e³
+`ant-wrten @swv	ùant-wrten	#swv	^2SG	~ant-wrtes	\antwrdes.	_IIIú4úP_VatG-113r,07{069}.01	ø	:	³a=a³n=n³t=t³=-³w=w³r=r³d=t³e=e³s=s³
+`ze @pr„p	ùze	#pr„p	^	~zuo	\zu	_IIIú4úP_VatG-113r,07{069}.02	ø	:	³z=z³u=uo³
+`d‰r @art	ùd‰r	#art	^DSf	~d‰r	\d er	_IIIú4úP_VatG-113r,07{069}.03	ø	:	³d=d³e=‰³r=r³
+`ˆwig @adj	ùˆwig	#adj	^DSfw	~ˆwigen	\ewig en	_IIIú4úP_VatG-113r,07{069}.04	ø	:	³e=ˆ³w=w³i=i³g=g³e=e³n=n³
+`ge-nƒde @f	ùge-nƒde	#f	^DS	~g<e>-nƒden	\gnaden	_IIIú4úP_VatG-113r,07{070}.05@	ø	:	³g=g³=e³=-³n=n³a=ƒ³d=d³e=e³n=n³
+`unte @konj	ùunte	#konj	^	~unte	\unde	_IIIú4úP_VatG-113r,08{070}.01	ø	:	³u=u³n=n³d=t³e=e³
+`ze @pr„p	ùze	#pr„p	^	~zuo	\zu	_IIIú4úP_VatG-113r,08{070}.02	ø	:	³z=z³u=uo³
+`d‰r @art	ùd‰r	#art	^DSm	~d‰m	\d em	_IIIú4úP_VatG-113r,08{070}.03	ø	:	³d=d³e=‰³m=m³
+`ˆwig @adj	ùˆwig	#adj	^DSmw	~ˆwigen	\ewig en	_IIIú4úP_VatG-113r,08{070}.04	ø	:	³e=ˆ³w=w³i=i³g=g³e=e³n=n³
+`lŒb @mn	ùlŒb	#m	^DS	~lŒbe	\libe.(.)	_IIIú4úP_VatG-113r,08{070}.05	ø	:	³l=l³i=Œ³b=b³e=e³
+`[!] @[!]	ùƒmˆn*	#interj	^	~ƒmˆn	\AmeN.(.)	_IIIú4úP_VatG-113r,08{070}.06@	ø	:	³a=ƒ³m=m³e=ˆ³n=n³
+`stƒn @anv	ùstƒn	#anv	^2SGB	~stant	\*(S*)tant	_IIIú4úP_VatG-124v,15{072}.01	ø	:	³s=s³t=t³a=a³n=n³t=t³
+`vr(e) @pr„p	ùvr(e)	#pr„p	^	~vr<e>	\uor	_IIIú4úP_VatG-124v,15{072}.02	ø	:	³u=v³o=³r=r³=e³
+`d‰r @art	ùd‰r	#art	^ASn	~dazz	\d az	_IIIú4úP_VatG-124v,15{072}.03	ø	:	³d=d³a=a³z=zz³
+`kriuze @n	ùkriuze	#n	^AS	~kriuze	\cruce,,	_IIIú4úP_VatG-124v,15{072}.04@	ø	:/K[$p%%ich: {$prich} W]	³c=k³r=r³u=iu³c=z³e=e³
+`unte @konj	ùunte	#konj	^	~unte	\unde	_IIIú4úP_VatG-124v,16{072}.01	ø	:	³u=u³n=n³d=t³e=e³
+`s‰hen @stv5	ùs‰hen/ane<.+	#stv5	^2SGB	~sih	\$ich*2	_IIIú4úP_VatG-124v,16{072}.02	ø	:	³s=s³i=i³ch=h³
+`‰r @pron	ù‰r	#pron	^ASn	~izz	\iz	_IIIú4úP_VatG-124v,16{072}.03	ø	:	³i=i³z=zz³
+`ane @adv	ùane/<.+s‰hen	#adv	^	~ane	\ane.*1,,	_IIIú4úP_VatG-124v,16{072}.04	ø	:	³a=a³n=n³e=e³
+`unte @konj	ùunte	#konj	^	~unte	\unde	_IIIú4úP_VatG-124v,16{072}.05	ø	:	³u=u³n=n³d=t³e=e³
+`spr‰chen @stv4	ùspr‰chen	#stv4	^2SGB	~sprich	\$p%%ich	_IIIú4úP_VatG-124v,16{072}.06@	ø	:	³s=s³p=p³%%=r³i=i³ch=ch³
+`dise @pron	ùdise	#pron	^ASn	~dizz	\diz	_IIIú4úP_VatG-125r,01{073}.01	ø	:	³d=d³i=i³z=zz³
+`ge-b‰t @n	ùge-b‰t	#n	^AS	~ge-b‰t	\gebet	_IIIú4úP_VatG-125r,01{073}.02	ø	:	³g=g³e=e³=-³b=b³e=‰³t=t³
+`mit @pr„p	ùmit	#pr„p	^	~mit	\mit	_IIIú4úP_VatG-125r,01{073}.03	ø	:	³m=m³i=i³t=t³
+`innig-lich @adj	ùinnig-lich	#adj	^DSn	~innig-lŒcheme	\inneclich eme	_IIIú4úP_VatG-125r,01{073}.04	ø	:	³i=i³nn=nn³e=i³c=g³=-³l=l³i=Œ³ch=ch³e=e³m=m³e=e³
+`h‰rze @n	ùh‰rze	#n	^DS	~h‰rzen	\hercen(:)	_IIIú4úP_VatG-125r,01{073}.05@	ø	:	³h=h³e=‰³r=r³c=z³e=e³n=n³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~domine	\DOMINe	_IIIú4úP_VatG-125r,02{074}.01	ø	:	*³domine=domine³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~Jesu	\Jesu	_IIIú4úP_VatG-125r,02{074}.02	ø	:	*³jesu=Jesu³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~Christe	\Christe	_IIIú4úP_VatG-125r,02{074}.03@	ø	:	*³christe=Christe³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~precor	\precor	_IIIú4úP_VatG-125r,03{074}.01	ø	:	*³precor=precor³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~te	\te	_IIIú4úP_VatG-125r,03{074}.02	ø	:	*³te=te³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~per	\per	_IIIú4úP_VatG-125r,03{074}.03	ø	:	*³per=per³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~illas	\illas	_IIIú4úP_VatG-125r,03{074}.04	ø	:	*³illas=illas³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~lacrimas	\lacrimas	_IIIú4úP_VatG-125r,03{074}.05@	ø	:	*³lacrimas=lacrimas³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~quibus	\quibu$	_IIIú4úP_VatG-125r,04{074}.01	ø	:	*³quibus=quibus³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~tu	\tu	_IIIú4úP_VatG-125r,04{075}.02	ø	:	*³tu=tu³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~plorasti	\plora$ti	_IIIú4úP_VatG-125r,04{075}.03	ø	:	*³plorasti=plorasti³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~quando	\quando	_IIIú4úP_VatG-125r,04{075}.04@	ø	:	*³quando=quando³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~Lazarum	\lazarum	_IIIú4úP_VatG-125r,05{075}.01	ø	:	*³lazarum=Lazarum³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~resuscitasti	\re$u$cita$ti.	_IIIú4úP_VatG-125r,05{075}.02	ø	:	*³resuscitasti=resuscitasti³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~per	\per	_IIIú4úP_VatG-125r,05{075}.03	ø	:	*³per=per³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~illas	\illas	_IIIú4úP_VatG-125r,05{075}.04	ø	:	*³illas=illas³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~lacrimas	\lacri(=)ma$	_IIIú4úP_VatG-125r,05{075}.05@	ø	:	*³lacrimas=lacrimas³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~libera	\libera	_IIIú4úP_VatG-125r,06{076}.01	ø	:	*³libera=libera³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~me	\me.	_IIIú4úP_VatG-125r,06{076}.02	ø	:	*³me=me³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~et	\et	_IIIú4úP_VatG-125r,06{076}.03	ø	:	*³et=et³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~exaudi	\exaudi	_IIIú4úP_VatG-125r,06{076}.04	ø	:	*³exaudi=exaudi³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~me	\me.(.)	_IIIú4úP_VatG-125r,06{076}.05	ø	:	*³me=me³
+`unte @konj	ùunte	#konj	^	~unte	\Vn(=)de	_IIIú4úP_VatG-125r,06{076}.06@	ø	:	³v=u³n=n³d=t³e=e³
+`spr‰chen @stv4	ùspr‰chen	#stv4	^2SGB	~sprich	\$prich.(:)	_IIIú4úP_VatG-125r,07{076}.01	ø	:	*³$prich=[!!]³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~pater	\Pater	_IIIú4úP_VatG-125r,07{076}.02	ø	:	*³pater=pater³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~noster	\no$teR.(.)	_IIIú4úP_VatG-125r,07{076}.03	ø	:	*³noster=noster³
+`n– @adv/konj	ùn–	#adv	^	~n–	\Nu	_IIIú4úP_VatG-125r,07{077}.04	ø	:	³n=n³u=–³
+`dŠnen @swv	ùdŠnen	#swv	^2SGB	~dŠne	\dene	_IIIú4úP_VatG-125r,07{077}.05	ø	:	³d=d³e=Š³n=n³e=e³
+`dŒn @pron_poss	ùdŒn	#pron_poss	^APf	~dŒne	\din e	_IIIú4úP_VatG-125r,07{077}.06@	ø	:	³d=d³i=Œ³n=n³e=e³
+`hant @f<(u)>	ùhant	#f<(u)>	^AP	~hŠnte	\henne,,	_IIIú4úP_VatG-125r,08{077}.01	ø	:	³h=h³e=Š³nn=nt³e=e³
+`unte @konj	ùunte	#konj	^	~unte	\unde	_IIIú4úP_VatG-125r,08{077}.02	ø	:	³u=u³n=n³d=t³e=e³
+`spr‰chen @stv4	ùspr‰chen	#stv4	^2SGB	~sprich	\$prich	_IIIú4úP_VatG-125r,08{077}.03	ø	:	³s=s³p=p³r=r³i=i³ch=ch³
+`ze @pr„p	ùze	#pr„p	^	~zuo	\zu	_IIIú4úP_VatG-125r,08{077}.04	ø	:	³z=z³u=uo³
+`d‰r @art	ùd‰r	#art	^DSn	~d‰m	\d em	_IIIú4úP_VatG-125r,08{077}.05	ø	:	³d=d³e=‰³m=m³
+`hŠilig @adj	ùhŠilig	#adj	^DSnw	~hŠiligen	\heili(=)g en	_IIIú4úP_VatG-125r,08{077}.06@	ø	:	³h=h³ei=Ši³l=l³i=i³g=g³e=e³n=n³
+`kriuze @n	ùkriuze	#n	^DS	~kriuze	\cruce.(:)	_IIIú4úP_VatG-125r,09{077}.01	ø	:	³c=k³r=r³u=iu³c=z³e=e³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~domine	\Domine	_IIIú4úP_VatG-125r,09{078}.02	ø	:	*³domine=domine³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~quid	\quid	_IIIú4úP_VatG-125r,09{078}.03	ø	:	*³quid=quid³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~multiplicati	\multi(=)plicati	_IIIú4úP_VatG-125r,09{078}.04@	ø	:	*³multiplicati=multiplicati³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~sunt	\$unt.	_IIIú4úP_VatG-125r,10{078}.01	ø	:	*³sunt=sunt³
+`n– @adv/konj	ùn–	#adv	^	~n–	\Nu	_IIIú4úP_VatG-125r,10{079}.02	ø	:	³n=n³u=–³
+`s‰hen @stv5	ùs‰hen/ane<.+	#stv5	^2SGB	~sih	\$ich*2	_IIIú4úP_VatG-125r,10{079}.03	ø	:	³s=s³i=i³ch=h³
+`d‰r @art	ùd‰r	#art	^ASn	~dazz	\d az	_IIIú4úP_VatG-125r,10{079}.04	ø	:	³d=d³a=a³z=zz³
+`ant-litze @n	ùant-litze	#n	^AS	~ant-litze	\antlizze	_IIIú4úP_VatG-125r,10{079}.05@	ø	:	³a=a³n=n³t=t³=-³l=l³i=i³zz=tz³e=e³
+`unser @pron_poss	ùunser	#pron_poss	^GSm	~unser(e)s	\un$er es	_IIIú4úP_VatG-125r,11{079}.01	ø	:	³u=u³n=n³s=s³e=e³r=r³e=e³s=s³
+`hˆrre @m	ùhˆrre	#m	^GS	~hˆrren	\herren	_IIIú4úP_VatG-125r,11{079}.02	ø	:	³h=h³e=ˆ³rr=rr³e=e³n=n³
+`ane @adv	ùane/<.+s‰hen	#adv	^	~ane	\ane*1,,	_IIIú4úP_VatG-125r,11{079}.03	ø	:	³a=a³n=n³e=e³
+`unte @konj	ùunte	#konj	^	~unte	\unde	_IIIú4úP_VatG-125r,11{079}.04	ø	:	³u=u³n=n³d=t³e=e³
+`spr‰chen @stv4	ùspr‰chen	#stv4	^2SGB	~sprich	\$prich.	_IIIú4úP_VatG-125r,11{079}.05@	ø	:	³s=s³p=p³r=r³i=i³ch=ch³
+`mit @pr„p	ùmit	#pr„p	^	~mit	\mit	_IIIú4úP_VatG-125r,12{080}.01	ø	:	³m=m³i=i³t=t³
+`all @pron	ùall	#pron	^DSn	~alleme	\all eme	_IIIú4úP_VatG-125r,12{080}.02	ø	:	³a=a³ll=ll³e=e³m=m³e=e³
+`h‰rze @n	ùh‰rze	#n	^DS	~h‰rzen	\herzen.(:)	_IIIú4úP_VatG-125r,12{080}.03	ø	:	³h=h³e=‰³r=r³z=z³e=e³n=n³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~caput	\Caput	_IIIú4úP_VatG-125r,12{081}.04	ø	:	*³caput=caput³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~misericordiae	\mi=$ericordie	_IIIú4úP_VatG-125r,12{081}.05@	ø	:	*³misericordie=misericordiae³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~eius	\eius	_IIIú4úP_VatG-125r,13{081}.01	ø	:	*³eius=eius³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~qui	\qui	_IIIú4úP_VatG-125r,13{081}.02	ø	:	*³qui=qui³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~propter	\propter	_IIIú4úP_VatG-125r,13{081}.03	ø	:	*³propter=propter³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~nos	\nos	_IIIú4úP_VatG-125r,13{081}.04	ø	:	*³nos=nos³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~descendisti	\de$cen(=)di$ti	_IIIú4úP_VatG-125r,13{081}.05@	ø	:	*³descendisti=descendisti³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~in	\in	_IIIú4úP_VatG-125r,14{082}.01	ø	:	*³in=in³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~uterum	\uterum	_IIIú4úP_VatG-125r,14{082}.02	ø	:	*³uterum=uterum³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~virginis	\uirgini$.	_IIIú4úP_VatG-125r,14{082}.03	ø	:	*³uirginis=virginis³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~adductus	\adduc=tu$	_IIIú4úP_VatG-125r,14{082}.04@	ø	:	*³adductus=adductus³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~ligno	\ligno.	_IIIú4úP_VatG-125r,15{082}.01	ø	:	*³ligno=ligno³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~perfixus	\perfixus	_IIIú4úP_VatG-125r,15{082}.02	ø	:	*³perfixus=perfixus³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~clauis	\claui$.	_IIIú4úP_VatG-125r,15{082}.03	ø	:	*³clauis=clauis³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~vestimentis	\ue$timen=ti$	_IIIú4úP_VatG-125r,15{083}.04@	ø	:	*³uestimentis=vestimentis³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~sorte	\$orte	_IIIú4úP_VatG-125r,16{083}.01	ø	:	*³sorte=sorte³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~divisis	\diui$i$.	_IIIú4úP_VatG-125r,16{083}.02	ø	:	*³diuisis=divisis³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~liber	\liber	_IIIú4úP_VatG-125r,16{083}.03	ø	:	*³liber=liber³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~resurrexisti	\re$urrexi$ti	_IIIú4úP_VatG-125r,16{083}.04	ø	:	*³resurrexisti=resurrexisti³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~a	\a	_IIIú4úP_VatG-125r,16{083}.05@	ø	:	*³a=a³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~mortuis	\mortui$.	_IIIú4úP_VatG-125v,01{083}.01	ø	:	*³mortuis=mortuis³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~precor	\precor	_IIIú4úP_VatG-125v,01{084}.02	ø	:	*³precor=precor³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~te	\te	_IIIú4úP_VatG-125v,01{084}.03	ø	:	*³te=te³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~ut	\ut	_IIIú4úP_VatG-125v,01{084}.04	ø	:	*³ut=ut³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~huius	\huiu$	_IIIú4úP_VatG-125v,01{084}.05	ø	:	*³huius=huius³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~commertii	\commert¡¡	_IIIú4úP_VatG-125v,01{084}.06@	ø	:	*³commert¡¡=commertii³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~non	\non	_IIIú4úP_VatG-125v,02{084}.01	ø	:	*³non=non³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~immemor	\immemor	_IIIú4úP_VatG-125v,02{084}.02	ø	:	*³immemor=immemor³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~sis	\$i$.	_IIIú4úP_VatG-125v,02{084}.03	ø	:	*³sis=sis³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~populi	\populi	_IIIú4úP_VatG-125v,02{084}.04	ø	:	*³populi=populi³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~ab	\ab	_IIIú4úP_VatG-125v,02{085}.05	ø	:	*³ab=ab³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~ore	\ore	_IIIú4úP_VatG-125v,02{085}.06	ø	:	*³ore=ore³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~leonis	\leoni$	_IIIú4úP_VatG-125v,02{085}.07@	ø	:	*³leonis=leonis³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~ereptor	\ereptor.	_IIIú4úP_VatG-125v,03{085}.01	ø	:	*³ereptor=ereptor³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~qui	\qui	_IIIú4úP_VatG-125v,03{085}.02	ø	:	*³qui=qui³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~fuisti	\fui$ti	_IIIú4úP_VatG-125v,03{085}.03	ø	:	*³fuisti=fuisti³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~quondam	\quondam	_IIIú4úP_VatG-125v,03{085}.04	ø	:	*³quondam=quondam³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~patribus	\patri(=)bu$	_IIIú4úP_VatG-125v,03{085}.05@	ø	:	*³patribus=patribus³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~in	\in	_IIIú4úP_VatG-125v,04{085}.01	ø	:	*³in=in³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~te	\te	_IIIú4úP_VatG-125v,04{085}.02	ø	:	*³te=te³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~sperantibus	\$perantibu$	_IIIú4úP_VatG-125v,04{086}.03	ø	:	*³sperantibus=sperantibus³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~liberator	\liberator.	_IIIú4úP_VatG-125v,04{086}.04	ø	:	*³liberator=liberator³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~libera	\libera	_IIIú4úP_VatG-125v,04{086}.05@	ø	:	*³libera=libera³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~me	\me	_IIIú4úP_VatG-125v,05{086}.01	ø	:	*³me=me³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~ab	\ab	_IIIú4úP_VatG-125v,05{086}.02	ø	:	*³ab=ab³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~imminentibus	\imminentibu$	_IIIú4úP_VatG-125v,05{086}.03	ø	:	*³imminentibus=imminentibus³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~tribulationibus	\tribulationibu$	_IIIú4úP_VatG-125v,05{086}.04@	ø	:	*³tribulationibus=tribulationibus³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~mitissime	\miti$$ime	_IIIú4úP_VatG-125v,06{087}.01	ø	:	*³mitissime=mitissime³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~deus	\deu$.	_IIIú4úP_VatG-125v,06{087}.02	ø	:	*³deus=deus³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~qui	\qui	_IIIú4úP_VatG-125v,06{087}.03	ø	:	*³qui=qui³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~posuisti	\po$ui$ti	_IIIú4úP_VatG-125v,06{087}.04	ø	:	*³posuisti=posuisti³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~animam	\ani(=)mam	_IIIú4úP_VatG-125v,06{087}.05@	ø	:	*³animam=animam³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~tuam	\tuam	_IIIú4úP_VatG-125v,07{087}.01	ø	:	*³tuam=tuam³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~pro	\pro	_IIIú4úP_VatG-125v,07{087}.02	ø	:	*³pro=pro³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~ovibus	\ouibu$	_IIIú4úP_VatG-125v,07{088}.03	ø	:	*³ouibus=ovibus³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~tuis	\tui$.	_IIIú4úP_VatG-125v,07{088}.04	ø	:	*³tuis=tuis³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~pater	\Pater	_IIIú4úP_VatG-125v,07{088}.05@	ø	:	*³pater=pater³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~noster	\no$ter.	_IIIú4úP_VatG-125v,08{088}.01	ø	:	*³noster=noster³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~domine	\DN\-e	_IIIú4úP_VatG-125v,08{088}.02	ø	:	*³dn\-e=domine³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~quid	\quid	_IIIú4úP_VatG-125v,08{088}.03	ø	:	*³quid=quid³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~multiplicati	\multiplicati	_IIIú4úP_VatG-125v,08{088}.04	ø	:	*³multiplicati=multiplicati³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~sunt	\$unt.	_IIIú4úP_VatG-125v,08{088}.05@	ø	:	*³sunt=sunt³
+`n– @adv/konj	ùn–	#adv	^	~n–	\Nu	_IIIú4úP_VatG-125v,09{089}.01	ø	:	³n=n³u=–³
+`spr‰chen @stv4	ùspr‰chen	#stv4	^2SGB	~sprich	\$prich	_IIIú4úP_VatG-125v,09{089}.02	ø	:	³s=s³p=p³r=r³i=i³ch=ch³
+`dise @pron	ùdise	#pron	^ASn%	~dizz	\diz	_IIIú4úP_VatG-125v,09{089}.03	ø	:	³d=d³i=i³z=zz³
+`mit @pr„p	ùmit	#pr„p	^	~mit	\mit	_IIIú4úP_VatG-125v,09{089}.04	ø	:	³m=m³i=i³t=t³
+`innig-lich @adj	ùinnig-lich	#adj	^DSn	~innig-lŒcheme	\inneclich eme	_IIIú4úP_VatG-125v,09{089}.05@	ø	:	³i=i³nn=nn³e=i³c=g³=-³l=l³i=Œ³ch=ch³e=e³m=m³e=e³
+`h‰rze @n	ùh‰rze	#n	^DS	~h‰rzen	\herzen	_IIIú4úP_VatG-125v,10{089}.01	ø	:	³h=h³e=‰³r=r³z=z³e=e³n=n³
+`ze @pr„p	ùze	#pr„p	^	~zuo	\zu	_IIIú4úP_VatG-125v,10{089}.02	ø	:	³z=z³u=uo³
+`d‰r @art	ùd‰r	#art	^DP	~d‰n	\d en	_IIIú4úP_VatG-125v,10{089}.03	ø	:	³d=d³e=‰³n=n³
+`brust @f<(u)>	ùbrust	#f<(u)>	^DP	~brusten	\bru$ten.(:)	_IIIú4úP_VatG-125v,10{089}.04	ø	:	³b=b³r=r³u=u³s=s³t=t³e=e³n=n³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~domine	\DN\-e	_IIIú4úP_VatG-125v,10{090}.05	ø	:	*³dn\-e=domine³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~Jesu	\ih'v	_IIIú4úP_VatG-125v,10{090}.06@	ø	:	*³ih'v=Jesu³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~Christe	\xp\-e,,	_IIIú4úP_VatG-125v,11{090}.01	ø	:	*³xp\-e=Christe³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~cuius	\cuiu$	_IIIú4úP_VatG-125v,11{090}.02	ø	:	*³cuius=cuius³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~supra	\$upra	_IIIú4úP_VatG-125v,11{090}.03	ø	:	*³supra=supra³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~pectus	\pectu$	_IIIú4úP_VatG-125v,11{090}.04	ø	:	*³pectus=pectus³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~beatus	\beatu$	_IIIú4úP_VatG-125v,11{090}.05	ø	:	*³beatus=beatus³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~Johannes	\io(=)hannes	_IIIú4úP_VatG-125v,11{090}.06@	ø	:	*³iohannes=Johannes³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~recubuit	\recubuit	_IIIú4úP_VatG-125v,12{091}.01	ø	:	*³recubuit=recubuit³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~in	\in	_IIIú4úP_VatG-125v,12{091}.02	ø	:	*³in=in³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~cena	\cena.	_IIIú4úP_VatG-125v,12{091}.03	ø	:	*³cena=cena³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~et	\et	_IIIú4úP_VatG-125v,12{091}.04	ø	:	*³et=et³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~inde	\inde	_IIIú4úP_VatG-125v,12{091}.05@	ø	:	*³inde=inde³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~potavit	\potauit	_IIIú4úP_VatG-125v,13{091}.01	ø	:	*³potauit=potavit³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~spiritum	\$pm\-	_IIIú4úP_VatG-125v,13{091}.02	ø	:	*³spm\-=spiritum³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~sapientiae	\$apientie	_IIIú4úP_VatG-125v,13{091}.03	ø	:	*³sapientie=sapientiae³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~et	\et	_IIIú4úP_VatG-125v,13{091}.04	ø	:	*³et=et³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~scientiae	\$cientie.(.)	_IIIú4úP_VatG-125v,13{092}.05@	ø	:	*³scientie=scientiae³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~per	\p\_	_IIIú4úP_VatG-125v,14{092}.01	ø	:	*³p\_=per³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~hoc	\hoc	_IIIú4úP_VatG-125v,14{092}.02	ø	:	*³hoc=hoc³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~sanctum	\$cm\-	_IIIú4úP_VatG-125v,14{092}.03	ø	:	*³scm\-=sanctum³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~pectus	\pectus	_IIIú4úP_VatG-125v,14{092}.04	ø	:	*³pectus=pectus³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~tuum	\tuu\-	_IIIú4úP_VatG-125v,14{092}.05	ø	:	*³tuu\-=tuum³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~libera	\libera	_IIIú4úP_VatG-125v,14{092}.06	ø	:	*³libera=libera³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~me	\me	_IIIú4úP_VatG-125v,14{092}.07@	ø	:	*³me=me³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~et	\et	_IIIú4úP_VatG-125v,15{092}.01	ø	:	*³et=et³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~exaudi	\exaudi	_IIIú4úP_VatG-125v,15{092}.02	ø	:	*³exaudi=exaudi³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~me	\me.(!)	_IIIú4úP_VatG-125v,15{093}.03	ø	:	*³me=me³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~pater	\Pat\-	_IIIú4úP_VatG-125v,15{093}.04	ø	:	*³pat\-=pater³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~noster	\nR\-.(.)	_IIIú4úP_VatG-125v,15{093}.05	ø	:	*³nr\-=noster³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~domine	\DN\-e,,	_IIIú4úP_VatG-125v,15{093}.06@	ø	:	*³dn\-e=domine³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~quid	\quid	_IIIú4úP_VatG-125v,15{093}.01	ø	:	*³quid=quid³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~multiplicati	\multipl\-.(.)	_IIIú4úP_VatG-125v,15{093}.02	ø	:	*³multipl\-=multiplicati³
+`n– @adv/konj	ùn–	#adv	^	~n–	\*(N*)u	_IIIú4úP_VatG-125v,16{094}.03	ø	:	³n=n³u=–³
+`spr‰chen @stv4	ùspr‰chen	#stv4	^2SGB	~sprich	\$prich	_IIIú4úP_VatG-125v,16{094}.04	ø	:	³s=s³p=p³r=r³i=i³ch=ch³
+`dise @pron	ùdise	#pron	^ASn%	~dizz	\diz	_IIIú4úP_VatG-125v,16{094}.05@	ø	:	³d=d³i=i³z=zz³
+`mit @pr„p	ùmit	#pr„p	^	~mit	\mit	_IIIú4úP_VatG-126r,01{094}.01	ø	:	³m=m³i=i³t=t³
+`innig-lich @adj	ùinnig-lich	#adj	^DSn	~innig-lŒcheme	\inneclich eme	_IIIú4úP_VatG-126r,01{094}.02	ø	:	³i=i³nn=nn³e=i³c=g³=-³l=l³i=Œ³ch=ch³e=e³m=m³e=e³
+`h‰rze @n	ùh‰rze	#n	^DS	~h‰rzen	\herzen	_IIIú4úP_VatG-126r,01{094}.03	ø	:	³h=h³e=‰³r=r³z=z³e=e³n=n³
+`ze @pr„p	ùze	#pr„p	^	~zuo	\zu	_IIIú4úP_VatG-126r,01{094}.04	ø	:	³z=z³u=uo³
+`d‰r @art	ùd‰r	#art	^DSf	~d‰r	\d er	_IIIú4úP_VatG-126r,01{094}.05@	ø	:	³d=d³e=‰³r=r³
+`z‰sw @adj	ùz‰sw	#adj	^DSfw%	~z‰swen	\ce$ew en.(:)	_IIIú4úP_VatG-126r,02{094}.01	ø	:	³c=z³e=‰³s=s³e=³w=w³e=e³n=n³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~domine	\Domine	_IIIú4úP_VatG-126r,02{095}.02	ø	:	*³domine=domine³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~Jesu	\ih\-u	_IIIú4úP_VatG-126r,02{095}.03	ø	:	*³ih\-u=Jesu³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~Christe	\xp\-e,,	_IIIú4úP_VatG-126r,02{095}.04	ø	:	*³xp\-e=Christe³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~per	\p\_|	_IIIú4úP_VatG-126r,02{095}.05	ø	:	*³p\_=per³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~sanctam	\|$c\-am	_IIIú4úP_VatG-126r,02{095}.06@	ø	:	*³sc\-am=sanctam³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~dexteram	\dexteram	_IIIú4úP_VatG-126r,03{095}.01	ø	:	*³dexteram=dexteram³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~tuam	\tuam,,	_IIIú4úP_VatG-126r,03{095}.02	ø	:	*³tuam=tuam³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~ubi	\ubi	_IIIú4úP_VatG-126r,03{095}.03	ø	:	*³ubi=ubi³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~in	\in	_IIIú4úP_VatG-126r,03{095}.04	ø	:	*³in=in³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~futuro	\futuro	_IIIú4úP_VatG-126r,03{096}.05	ø	:	*³futuro=futuro³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~congregati	\con=gregati	_IIIú4úP_VatG-126r,03{096}.06@	ø	:	*³congregati=congregati³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~erunt	\erunt	_IIIú4úP_VatG-126r,04{096}.01	ø	:	*³erunt=erunt³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~sancti	\$c\-i	_IIIú4úP_VatG-126r,04{096}.02	ø	:	*³sc\-i=sancti³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~et	\et	_IIIú4úP_VatG-126r,04{096}.03	ø	:	*³et=et³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~electi	\electi.,,	_IIIú4úP_VatG-126r,04{096}.04	ø	:	*³electi=electi³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~quando	\quando	_IIIú4úP_VatG-126r,04{096}.05@	ø	:	*³quando=quando³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~audiunt	\audiunt	_IIIú4úP_VatG-126r,05{096}.01	ø	:	*³audiunt=audiunt³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~vocem	\uoce\-	_IIIú4úP_VatG-126r,05{097}.02	ø	:	*³uoce\-=vocem³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~tuam	\tuam	_IIIú4úP_VatG-126r,05{097}.03	ø	:	*³tuam=tuam³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~dicentem	\dicente\-.(:)	_IIIú4úP_VatG-126r,05{097}.04	ø	:	*³dicente\-=dicentem³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~venite	\Veni=te	_IIIú4úP_VatG-126r,05{097}.05@	ø	:	*³venite=venite³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~benedicti	\benedicti	_IIIú4úP_VatG-126r,06{097}.01	ø	:	*³benedicti=benedicti³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~patris	\patri$	_IIIú4úP_VatG-126r,06{097}.02	ø	:	*³patris=patris³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~mei	\mei	_IIIú4úP_VatG-126r,06{097}.03	ø	:	*³mei=mei³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~percipite	\p\_cipite	_IIIú4úP_VatG-126r,06{097}.04	ø	:	*³p\_cipite=percipite³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~regnum	\reg=num,,	_IIIú4úP_VatG-126r,06{098}.05@	ø	:	*³regnum=regnum³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~quod	\quod	_IIIú4úP_VatG-126r,07{098}.01	ø	:	*³quod=quod³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~vobis	\uob'	_IIIú4úP_VatG-126r,07{098}.02	ø	:	*³uob'=vobis³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~paratum	\paratum	_IIIú4úP_VatG-126r,07{098}.03	ø	:	*³paratum=paratum³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~est	\e\-	_IIIú4úP_VatG-126r,07{098}.04	ø	:	*³e\-=est³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~ab	\ab	_IIIú4úP_VatG-126r,07{098}.05	ø	:	*³ab=ab³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~origine	\ori=gine	_IIIú4úP_VatG-126r,07{098}.06@	ø	:	*³origine=origine³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~mundi	\mundi.,,	_IIIú4úP_VatG-126r,08{098}.01	ø	:	*³mundi=mundi³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~libera	\libera	_IIIú4úP_VatG-126r,08{099}.02	ø	:	*³libera=libera³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~me	\me	_IIIú4úP_VatG-126r,08{099}.03	ø	:	*³me=me³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~et	\et	_IIIú4úP_VatG-126r,08{099}.04	ø	:	*³et=et³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~exaudi	\exau=di	_IIIú4úP_VatG-126r,08{099}.05@	ø	:	*³exaudi=exaudi³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~me	\me.(.)	_IIIú4úP_VatG-126r,09{099}.01	ø	:	*³me=me³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~pater	\Pat\-	_IIIú4úP_VatG-126r,09{099}.02	ø	:	*³pat\-=pater³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~noster	\nr\-.(.)	_IIIú4úP_VatG-126r,09{099}.03	ø	:	*³nr\-=noster³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~domine	\Dn\-e,,	_IIIú4úP_VatG-126r,09{099}.04	ø	:	*³dn\-e=domine³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~quid	\quid	_IIIú4úP_VatG-126r,09{099}.05@	ø	:	*³quid=quid³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~multiplicati	\mult\-.(.)	_IIIú4úP_VatG-126r,10{099}.01	ø	:	*³mult\-=multiplicati³
+`n– @adv/konj	ùn–	#adv	^	~n–	\Nu	_IIIú4úP_VatG-126r,10{101}.01	ø	:	³n=n³u=–³
+`spr‰chen @stv4	ùspr‰chen	#stv4	^2SGB	~sprich	\$prich	_IIIú4úP_VatG-126r,10{101}.02	ø	:	³s=s³p=p³r=r³i=i³ch=ch³
+`mit @pr„p	ùmit	#pr„p	^	~mit	\mit	_IIIú4úP_VatG-126r,10{101}.03	ø	:	³m=m³i=i³t=t³
+`innig-lich @adj	ùinnig-lich	#adj	^DSn	~innig-lŒcheme	\innecli=ch eme	_IIIú4úP_VatG-126r,10{101}.04@	ø	:	³i=i³nn=nn³e=i³c=g³=-³l=l³i=Œ³ch=ch³e=e³m=m³e=e³
+`h‰rze @n	ùh‰rze	#n	^DS	~h‰rzen	\herzen	_IIIú4úP_VatG-126r,11{101}.01	ø	:	³h=h³e=‰³r=r³z=z³e=e³n=n³
+`ze @pr„p	ùze	#pr„p	^	~zuo	\zu	_IIIú4úP_VatG-126r,11{101}.02	ø	:	³z=z³u=uo³
+`d‰r @art	ùd‰r	#art	^DSf	~d‰r	\d er	_IIIú4úP_VatG-126r,11{101}.03	ø	:	³d=d³e=‰³r=r³
+`winster(e) @f	ùwinster(e)	#f	^DS	~winster(e)n	\win$teren.(:)	_IIIú4úP_VatG-126r,11{101}.04@	ø	:	³w=w³i=i³n=n³s=s³t=t³e=e³r=r³e=e³n=n³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~domine	\Dn\-e	_IIIú4úP_VatG-126r,12{102}.01	ø	:	*³dn\-e=domine³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~Jesu	\ih'u	_IIIú4úP_VatG-126r,12{102}.02	ø	:	*³ih'u=Jesu³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~Christe	\xp\-e,,	_IIIú4úP_VatG-126r,12{102}.03	ø	:	*³xp\-e=Christe³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~precor	\precor	_IIIú4úP_VatG-126r,12{102}.04	ø	:	*³precor=precor³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~te	\te	_IIIú4úP_VatG-126r,12{102}.05	ø	:	*³te=te³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~per	\p\_	_IIIú4úP_VatG-126r,12{102}.06	ø	:	*³p\_=per³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~sanctam	\$ca\-m	_IIIú4úP_VatG-126r,12{102}.07@	ø	:	*³sca\-m=sanctam³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~sinistram	\$ini$tram	_IIIú4úP_VatG-126r,13{102}.01	ø	:	*³sinistram=sinistram³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~tuam	\tuam.	_IIIú4úP_VatG-126r,13{102}.02	ø	:	*³tuam=tuam³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~et	\et	_IIIú4úP_VatG-126r,13{103}.03	ø	:	*³et=et³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~sanctam	\$ca\-m	_IIIú4úP_VatG-126r,13{103}.04	ø	:	*³sca\-m=sanctam³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~dexteram	\dextera\-	_IIIú4úP_VatG-126r,13{103}.05@	ø	:	*³dextera\-=dexteram³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~tuam	\tuam.,,	_IIIú4úP_VatG-126r,14{103}.01	ø	:	*³tuam=tuam³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~unde	\unde	_IIIú4úP_VatG-126r,14{103}.02	ø	:	*³unde=unde³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~plena	\plena	_IIIú4úP_VatG-126r,14{103}.03	ø	:	*³plena=plena³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~est	\e\-	_IIIú4úP_VatG-126r,14{103}.04	ø	:	*³e\-=est³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~omnis	\omni$	_IIIú4úP_VatG-126r,14{103}.05	ø	:	*³omnis=omnis³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~terra	\terra.,,	_IIIú4úP_VatG-126r,14{103}.06@	ø	:	*³terra=terra³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~libera	\libera	_IIIú4úP_VatG-126r,15{103}.01	ø	:	*³libera=libera³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~me	\me	_IIIú4úP_VatG-126r,15{104}.02	ø	:	*³me=me³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~et	\et	_IIIú4úP_VatG-126r,15{104}.03	ø	:	*³et=et³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~exaudi	\exaudi	_IIIú4úP_VatG-126r,15{104}.04	ø	:	*³exaudi=exaudi³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~me	\me.(!)	_IIIú4úP_VatG-126r,15{104}.05	ø	:	*³me=me³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~pater	\Pater	_IIIú4úP_VatG-126r,15{104}.06@	ø	:	*³pater=pater³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~noster	\n\-r.(.)	_IIIú4úP_VatG-126r,16{104}.01	ø	:	*³n\-r=noster³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~domine	\DN\-e,,	_IIIú4úP_VatG-126r,16{104}.02	ø	:	*³dn\-e=domine³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~quid	\quid	_IIIú4úP_VatG-126r,16{104}.03	ø	:	*³quid=quid³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~multiplicati	\mult\-,(.)	_IIIú4úP_VatG-126r,16{104}.04	ø	:	*³mult\-=multiplicati³
+`n– @adv/konj	ùn–	#adv	^	~n–	\Nu	_IIIú4úP_VatG-126r,16{105}.05	ø	:	³n=n³u=–³
+`s‰hen @stv5	ùs‰hen/ane<.+	#stv5	^2SGB	~sih	\$ich*2	_IIIú4úP_VatG-126r,16{105}.06@	ø	:	³s=s³i=i³ch=h³
+`d‰r @art	ùd‰r	#art	^APm	~di	\d i	_IIIú4úP_VatG-126v,01{105}.01	ø	:	³d=d³i=i³
+`vuoz @m<(u)>	ùvuoz	#m<(u)>	^AP	~vuoze	\fuze	_IIIú4úP_VatG-126v,01{105}.02	ø	:	³f=v³u=uo³z=z³e=e³
+`ane @adv	ùane/<.+s‰hen	#adv	^	~ane	\ane*1,,	_IIIú4úP_VatG-126v,01{105}.03	ø	:	³a=a³n=n³e=e³
+`unte @konj	ùunte	#konj	^	~unte	\unde	_IIIú4úP_VatG-126v,01{105}.04	ø	:	³u=u³n=n³d=t³e=e³
+`spr‰chen @stv4	ùspr‰chen	#stv4	^2SGB	~sprich	\$prich.(:)	_IIIú4úP_VatG-126v,01{105}.05	ø	:	³s=s³p=p³r=r³i=i³ch=ch³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~domine	\Dn\-e	_IIIú4úP_VatG-126v,01{106}.06@	ø	:	*³dn\-e=domine³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~Jesu	\ih\-u	_IIIú4úP_VatG-126v,02{106}.01	ø	:	*³ih\-u=Jesu³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~Christe	\xp\-e,,	_IIIú4úP_VatG-126v,02{106}.02	ø	:	*³xp\-e=Christe³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~eloy	\eloy.	_IIIú4úP_VatG-126v,02{106}.03	ø	:	*³eloy=eloy³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~per	\p\_	_IIIú4úP_VatG-126v,02{106}.04	ø	:	*³p\_=per³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~tria	\tria	_IIIú4úP_VatG-126v,02{106}.05	ø	:	*³tria=tria³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~nomina	\nomina	_IIIú4úP_VatG-126v,02{106}.06	ø	:	*³nomina=nomina³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~quae	\que	_IIIú4úP_VatG-126v,02{106}.07@	ø	:	*³que=quae³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~habuisti	\habui$ti	_IIIú4úP_VatG-126v,03{106}.01	ø	:	*³habuisti=habuisti³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~antequam	\ante#quam	_IIIú4úP_VatG-126v,03{107}.02	ø	:	*³antequam=antequam³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~natus	\natu$	_IIIú4úP_VatG-126v,03{107}.03	ø	:	*³natus=natus³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~fuisses	\fui$=$es.	_IIIú4úP_VatG-126v,03{107}.04@	ø	:	*³fuisses=fuisses³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~Pantacher	\Pantacher.	_IIIú4úP_VatG-126v,04{107}.01	ø	:	*³pantacher=Pantacher³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~Eloy	\Eloy.	_IIIú4úP_VatG-126v,04{107}.02	ø	:	*³eloy=Eloy³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~admirabilis	\admirabilis.	_IIIú4úP_VatG-126v,04{107}.03@	ø	:	*³admirabilis=admirabilis³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~libera	\libera	_IIIú4úP_VatG-126v,05{108}.01	ø	:	*³libera=libera³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~me	\me	_IIIú4úP_VatG-126v,05{108}.02	ø	:	*³me=me³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~de	\de	_IIIú4úP_VatG-126v,05{108}.03	ø	:	*³de=de³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~imminenti	\imminenti	_IIIú4úP_VatG-126v,05{108}.04	ø	:	*³imminenti=imminenti³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~tribulatione	\tribulati=one.	_IIIú4úP_VatG-126v,05{108}.05@	ø	:	*³tribulatione=tribulatione³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~et	\et	_IIIú4úP_VatG-126v,06{108}.01	ø	:	*³et=et³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~de	\de	_IIIú4úP_VatG-126v,06{108}.02	ø	:	*³de=de³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~omnibus	\omnib;	_IIIú4úP_VatG-126v,06{108}.03	ø	:	*³omnib=omnibus³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~hominibus	\hominib;	_IIIú4úP_VatG-126v,06{109}.04	ø	:	*³hominib=hominibus³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~pro	\p\/	_IIIú4úP_VatG-126v,06{109}.05	ø	:	*³p\=pro³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~quibus	\q\ib;	_IIIú4úP_VatG-126v,06{109}.06@	ø	:	*³q\ib=quibus³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~te	\te	_IIIú4úP_VatG-126v,07{109}.01	ø	:	*³te=te³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~peto	\peto	_IIIú4úP_VatG-126v,07{109}.02	ø	:	*³peto=peto³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~de	\de	_IIIú4úP_VatG-126v,07{109}.03	ø	:	*³de=de³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~cordibus	\cordib;	_IIIú4úP_VatG-126v,07{109}.04	ø	:	*³cordib=cordibus³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~eorum	\eo4.	_IIIú4úP_VatG-126v,07{109}.05	ø	:	*³eo4=eorum³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~non	\n\-	_IIIú4úP_VatG-126v,07{109}.06	ø	:	*³n\-=non³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~de	\de	_IIIú4úP_VatG-126v,07{109}.07	ø	:	*³de=de³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~animabus	\anima=bu$	_IIIú4úP_VatG-126v,07{110}.08@	ø	:	*³animabus=animabus³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~eorum	\eo4.(.)	_IIIú4úP_VatG-126v,08{110}.01	ø	:	*³eo4=eorum³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~pater	\Pat\-	_IIIú4úP_VatG-126v,08{110}.02	ø	:	*³pat\-=pater³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~noster	\n\-r.(.)	_IIIú4úP_VatG-126v,08{110}.03	ø	:	*³n\-r=noster³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~deus	\Deu$	_IIIú4úP_VatG-126v,08{110}.04	ø	:	*³deus=deus³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~in	\in	_IIIú4úP_VatG-126v,08{110}.05	ø	:	*³in=in³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~adiutorium	\adiu=toriu\-	_IIIú4úP_VatG-126v,08{110}.06@	ø	:	*³adiutoriu\-=adiutorium³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~meum	\meu\-.(.)	_IIIú4úP_VatG-126v,09{110}.01	ø	:	*³meu\-=meum³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~domine	\Domine	_IIIú4úP_VatG-126v,09{111}.02	ø	:	*³domine=domine³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~Jesu	\ih'u	_IIIú4úP_VatG-126v,09{111}.03	ø	:	*³ih'u=Jesu³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~Christe	\xp\-e,,	_IIIú4úP_VatG-126v,09{111}.04	ø	:	*³xp\-e=Christe³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~precor	\p\-(=)cor	_IIIú4úP_VatG-126v,09{111}.05@	ø	:	*³p\-cor=precor³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~te	\te	_IIIú4úP_VatG-126v,10{111}.01	ø	:	*³te=te³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~per	\p\_	_IIIú4úP_VatG-126v,10{111}.02	ø	:	*³p\_=per³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~sanctos	\$c\-os	_IIIú4úP_VatG-126v,10{111}.03	ø	:	*³sc\-os=sanctos³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~pedes	\pedes	_IIIú4úP_VatG-126v,10{111}.04	ø	:	*³pedes=pedes³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~tuos	\tuos.,,	_IIIú4úP_VatG-126v,10{111}.05	ø	:	*³tuos=tuos³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~quibus	\quib;	_IIIú4úP_VatG-126v,10{112}.06	ø	:	*³quib=quibus³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~supra	\$up\a	_IIIú4úP_VatG-126v,10{112}.07@	ø	:	*³sup\a=supra³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~mare	\mare	_IIIú4úP_VatG-126v,11{112}.01	ø	:	*³mare=mare³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~ambulasti	\ambula$ti.	_IIIú4úP_VatG-126v,11{112}.02	ø	:	*³ambulasti=ambulasti³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~et	\et	_IIIú4úP_VatG-126v,11{112}.03	ø	:	*³et=et³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~caput	\caput	_IIIú4úP_VatG-126v,11{112}.04	ø	:	*³caput=caput³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~serpentis	\$erpentis	_IIIú4úP_VatG-126v,11{112}.05@	ø	:	*³serpentis=serpentis³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~antiqui	\antiqui	_IIIú4úP_VatG-126v,12{112}.01	ø	:	*³antiqui=antiqui³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~conculcasti	\›culca$ti	_IIIú4úP_VatG-126v,12{113}.02	ø	:	*³›culcasti=conculcasti³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~ante	\ante	_IIIú4úP_VatG-126v,12{113}.03	ø	:	*³ante=ante³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~ostium	\o$tium	_IIIú4úP_VatG-126v,12{113}.04	ø	:	*³ostium=ostium³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~paradisi	\pa=radi$i.,,	_IIIú4úP_VatG-126v,12{113}.05@	ø	:	*³paradisi=paradisi³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~exaudi	\exaudi	_IIIú4úP_VatG-126v,13{113}.01	ø	:	*³exaudi=exaudi³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~me	\me.(.)	_IIIú4úP_VatG-126v,13{113}.02	ø	:	*³me=me³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~primellus	\primellu$.	_IIIú4úP_VatG-126v,13{113}.03	ø	:	*³primellus=primellus³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~primelli	\p\i=melli.(.)	_IIIú4úP_VatG-126v,13{114}.04@	ø	:	*³p\imelli=primelli³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~Christe	\xp\-e,,	_IIIú4úP_VatG-126v,14{114}.01	ø	:	*³xp\-e=Christe³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~in	\in	_IIIú4úP_VatG-126v,14{114}.02	ø	:	*³in=in³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~ista	\i$ta	_IIIú4úP_VatG-126v,14{114}.03	ø	:	*³ista=ista³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~tribulatione	\t\ibulatione	_IIIú4úP_VatG-126v,14{114}.04	ø	:	*³t\ibulatione=tribulatione³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~cor	\cor	_IIIú4úP_VatG-126v,14{114}.05@	ø	:	*³cor=cor³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~meum	\meu\-	_IIIú4úP_VatG-126v,15{114}.01	ø	:	*³meu\-=meum³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~laetifica	\letifica.	_IIIú4úP_VatG-126v,15{114}.02	ø	:	*³letifica=laetifica³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~de	\de	_IIIú4úP_VatG-126v,15{114}.03	ø	:	*³de=de³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~illa	\illa	_IIIú4úP_VatG-126v,15{115}.04	ø	:	*³illa=illa³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~re	\re.	_IIIú4úP_VatG-126v,15{115}.05	ø	:	*³re=re³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~N.	\N.	_IIIú4úP_VatG-126v,15{115}.06	ø	:	*³n=N.³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~pro	\p\/	_IIIú4úP_VatG-126v,15{115}.07	ø	:	*³p\=pro³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~qua	\qua	_IIIú4úP_VatG-126v,15{115}.08@	ø	:	*³qua=qua³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~oro	\oro	_IIIú4úP_VatG-126v,16{115}.01	ø	:	*³oro=oro³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~ad	\ad	_IIIú4úP_VatG-126v,16{115}.02	ø	:	*³ad=ad³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~te	\te.	_IIIú4úP_VatG-126v,16{115}.03	ø	:	*³te=te³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~deus	\Deus	_IIIú4úP_VatG-126v,16{116}.04	ø	:	*³deus=deus³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~meus	\meus	_IIIú4úP_VatG-126v,16{116}.05	ø	:	*³meus=meus³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~liberator	\liberator	_IIIú4úP_VatG-126v,16{116}.06@	ø	:	*³liberator=liberator³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~et	\et	_IIIú4úP_VatG-127r,01{116}.01	ø	:	*³et=et³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~defensor	\defen$or	_IIIú4úP_VatG-127r,01{116}.02	ø	:	*³defensor=defensor³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~de	\de	_IIIú4úP_VatG-127r,01{116}.03	ø	:	*³de=de³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~omni	\omni	_IIIú4úP_VatG-127r,01{116}.04	ø	:	*³omni=omni³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~angustia	\angu$tia.	_IIIú4úP_VatG-127r,01{116}.05	ø	:	*³angustia=angustia³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~et	\et	_IIIú4úP_VatG-127r,01{117}.06@	ø	:	*³et=et³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~de	\de	_IIIú4úP_VatG-127r,02{117}.01	ø	:	*³de=de³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~omnibus	\omnib;	_IIIú4úP_VatG-127r,02{117}.02	ø	:	*³omnib=omnibus³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~insidiis	\in$id¡¡$	_IIIú4úP_VatG-127r,02{117}.03	ø	:	*³insid¡¡s=insidiis³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~malis	\mali$.	_IIIú4úP_VatG-127r,02{117}.04	ø	:	*³malis=malis³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~et	\et	_IIIú4úP_VatG-127r,02{117}.05	ø	:	*³et=et³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~de	\de	_IIIú4úP_VatG-127r,02{117}.06	ø	:	*³de=de³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~omnibus	\om=nib;	_IIIú4úP_VatG-127r,02{117}.07@	ø	:	*³omnib=omnibus³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~inimicis	\inimici$	_IIIú4úP_VatG-127r,03{117}.01	ø	:	*³inimicis=inimicis³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~meis	\mei$.	_IIIú4úP_VatG-127r,03{117}.02	ø	:	*³meis=meis³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~oyose	\oyo$e	_IIIú4úP_VatG-127r,03{118}.03	ø	:	*³oyose=oyose³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~domine	\dn\-e,,	_IIIú4úP_VatG-127r,03{118}.04	ø	:	*³dn\-e=domine³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~quia	\quia	_IIIú4úP_VatG-127r,03{118}.05@	ø	:	*³quia=quia³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~nomen	\nomen	_IIIú4úP_VatG-127r,04{118}.01	ø	:	*³nomen=nomen³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~tuum	\tuu\-	_IIIú4úP_VatG-127r,04{118}.02	ø	:	*³tuu\-=tuum³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~ineffabile	\ineffabile.	_IIIú4úP_VatG-127r,04{118}.03	ø	:	*³ineffabile=ineffabile³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~On	\on.	_IIIú4úP_VatG-127r,04{118}.04	ø	:	*³on=On³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~Ione	\ione.	_IIIú4úP_VatG-127r,04{118}.05	ø	:	*³ione=Ione³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~Ot	\ot.	_IIIú4úP_VatG-127r,04{118}.06@	ø	:	*³ot=Ot³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~Zel	\zel.	_IIIú4úP_VatG-127r,05{119}.01	ø	:	*³zel=Zel³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~Melchion	\melchion.	_IIIú4úP_VatG-127r,05{119}.02	ø	:	*³melchion=Melchion³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~Adonay	\adonay.	_IIIú4úP_VatG-127r,05{119}.03	ø	:	*³adonay=Adonay³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~Ioth	\ioth.	_IIIú4úP_VatG-127r,05{119}.04	ø	:	*³ioth=Ioth³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~Eyan	\eyan.(.)	_IIIú4úP_VatG-127r,05{119}.05@	ø	:	*³eyan=Eyan³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~exaudi	\exaudi	_IIIú4úP_VatG-127r,06{119}.01	ø	:	*³exaudi=exaudi³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~exaudi	\exaudi	_IIIú4úP_VatG-127r,06{119}.02	ø	:	*³exaudi=exaudi³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~et	\et	_IIIú4úP_VatG-127r,06{119}.03	ø	:	*³et=et³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~libera	\libera	_IIIú4úP_VatG-127r,06{120}.04	ø	:	*³libera=libera³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~me	\me	_IIIú4úP_VatG-127r,06{120}.05	ø	:	*³me=me³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~de	\de	_IIIú4úP_VatG-127r,06{120}.06	ø	:	*³de=de³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~omnibus	\om\-i(=)bu$	_IIIú4úP_VatG-127r,06{120}.07@	ø	:	*³om\-ibus=omnibus³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~malis	\mali$.	_IIIú4úP_VatG-127r,07{120}.01	ø	:	*³malis=malis³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~et	\et	_IIIú4úP_VatG-127r,07{120}.02	ø	:	*³et=et³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~esto	\e$to	_IIIú4úP_VatG-127r,07{120}.03	ø	:	*³esto=esto³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~mihi	\m\i	_IIIú4úP_VatG-127r,07{120}.04	ø	:	*³m\i=mihi³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~defensor	\defen$or	_IIIú4úP_VatG-127r,07{120}.05	ø	:	*³defensor=defensor³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~per	\p\_	_IIIú4úP_VatG-127r,07{120}.06	ø	:	*³p\_=per³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~nomina	\no=mina.	_IIIú4úP_VatG-127r,07{121}.07@	ø	:	*³nomina=nomina³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~ista	\i$ta.	_IIIú4úP_VatG-127r,08{121}.01	ø	:	*³ista=ista³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~et	\et	_IIIú4úP_VatG-127r,08{121}.02	ø	:	*³et=et³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~per	\p\_	_IIIú4úP_VatG-127r,08{121}.03	ø	:	*³p\-=per³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~intercessionem	\int\-ce$$ionem	_IIIú4úP_VatG-127r,08{121}.04	ø	:	*³int\-cessionem=intercessionem³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~omnium	\omni=um	_IIIú4úP_VatG-127r,08{121}.05@	ø	:	*³omnium=omnium³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~sanctorum	\$co\-4.	_IIIú4úP_VatG-127r,09{121}.01	ø	:	*³sco\-4=sanctorum³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~et	\et	_IIIú4úP_VatG-127r,09{121}.02	ø	:	*³et=et³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~sanctarum	\$ca\-4	_IIIú4úP_VatG-127r,09{122}.03	ø	:	*³sca\-4=sanctarum³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~virginum	\uirginu\-	_IIIú4úP_VatG-127r,09{122}.04	ø	:	*³uirginu\-=virginum³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~sis	\$i$	_IIIú4úP_VatG-127r,09{122}.05	ø	:	*³sis=sis³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~mihi	\m\i	_IIIú4úP_VatG-127r,09{122}.06	ø	:	*³m\i=mihi³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~liberator	\libera=tor	_IIIú4úP_VatG-127r,09{122}.07@	ø	:	*³liberator=liberator³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~de	\de	_IIIú4úP_VatG-127r,10{122}.01	ø	:	*³de=de³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~omnibus	\omnib;	_IIIú4úP_VatG-127r,10{122}.02	ø	:	*³omnib=omnibus³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~insidiis	\in$id¡¡$	_IIIú4úP_VatG-127r,10{122}.03	ø	:	*³insid¡¡s=insidiis³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~omnium	\omniu\-	_IIIú4úP_VatG-127r,10{123}.04	ø	:	*³omniu\-=omnium³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~inimicorum	\ini=mico4	_IIIú4úP_VatG-127r,10{123}.05@	ø	:	*³inimico4=inimicorum³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~visibilium	\ui$ibilium	_IIIú4úP_VatG-127r,11{123}.01	ø	:	*³uisibilium=visibilium³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~et	\et	_IIIú4úP_VatG-127r,11{123}.02	ø	:	*³et=et³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~invisibilium	\inui$ibiliu\-.(.)	_IIIú4úP_VatG-127r,11{123}.03@	ø	:	*³inuisibiliu\-=invisibilium³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~pater	\Pat\-	_IIIú4úP_VatG-127r,12{123}.01	ø	:	*³pat\-=pater³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~noster	\nR\-.(.)	_IIIú4úP_VatG-127r,12{123}.02	ø	:	*³nr\-=noster³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~domine	\Domine,,	_IIIú4úP_VatG-127r,12{124}.03	ø	:	*³domine=domine³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~quid	\quid	_IIIú4úP_VatG-127r,12{124}.04	ø	:	*³quid=quid³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~multiplicati	\mult\-.(.)	_IIIú4úP_VatG-127r,12{124}.05@	ø	:	*³mult\-=multiplicati³
+`unte @konj	ùunte	#konj	^	~unte	\Vnde	_IIIú4úP_VatG-127r,13{125}.01	ø	:	³v=u³n=n³d=t³e=e³
+`l‰sen @stv5	ùl‰sen	#stv5	^2SGB	~lis	\li$	_IIIú4úP_VatG-127r,13{125}.02	ø	:	³l=l³i=i³s=s³
+`danne @adv/konj	ùdanne	#adv	^	~danne	\danne	_IIIú4úP_VatG-127r,13{125}.03	ø	:	³d=d³a=a³nn=nn³e=e³
+`v‰sper(e) @f	ùv‰sper(e)	#f	^AS	~v‰sper(‚)	\ue$p\_a	_IIIú4úP_VatG-127r,13{125}.04	ø	:	³u=v³e=‰³s=s³p=p³e=e³r=r³a=‚³
+`von @pr„p	ùvon	#pr„p	^	~von	\uon	_IIIú4úP_VatG-127r,13{125}.05	ø	:	³u=v³o=o³n=n³
+`d‰r @art	ùd‰r	#art	^DP	~d‰n	\d en	_IIIú4úP_VatG-127r,13{125}.06@	ø	:	³d=d³e=‰³n=n³
+`t“t @adj	ùt“t	#adj	^DP%	~t“ten	\dod en.	_IIIú4úP_VatG-127r,14{125}.01	ø	:	³d=t³o=“³d=t³e=e³n=n³
+`[!] @[!]	ùplacere*	#[!]	^	~placebo	\"Placebo.	_IIIú4úP_VatG-127r,14{125}.02	ø	:	³p=p³l=l³a=a³c=c³e=e³b=b³o=o³
+`[!] @[!]	ùdiligere*	#[!]	^	~dilexi	\Dilexi.(.)"	_IIIú4úP_VatG-127r,14{126}.03	ø	:	³d=d³i=i³l=l³e=e³x=x³i=i³
+`unte @konj	ùunte	#konj	^	~unte	\un=de	_IIIú4úP_VatG-127r,14{126}.04@	ø	:	³u=u³n=n³d=t³e=e³
+`d‰r @art	ùd‰r	#art	^APmfn	~di	\d i	_IIIú4úP_VatG-127r,15{126}.01	ø	:	³d=d³i=i³
+`ander @pron	ùander	#pron	^APw%	~ander(e)n	\ander en,,	_IIIú4úP_VatG-127r,15{126}.02	ø	:	³a=a³n=n³d=d³e=e³r=r³e=e³n=n³
+`d‰r @pron	ùd‰r	#pron	^NPmfn+	~di	\d i	_IIIú4úP_VatG-127r,15{126}.03	ø	:	³d=d³i=i³
+`dƒr @adv	ùdƒr/+zuo	#adv	^	~dƒr	\dar	_IIIú4úP_VatG-127r,15{126}.04	ø	:	³d=d³a=ƒ³r=r³
+`zuo @adv	ùzuo/dƒr+	#adv	^	~zuo	\zu	_IIIú4úP_VatG-127r,15{126}.05	ø	:	³z=z³u=uo³
+`hoŠren @swv	ùhoŠren	#swv	^3PGI	~hoŠrent	\horent.(.)	_IIIú4úP_VatG-127r,15{126}.06@	ø	:	³h=h³o=oŠ³r=r³e=e³n=n³t=t³
+`dise @pron	ùdise	#pron	^ASn	~dizz	\Diz	_IIIú4úP_VatG-127r,16{127}.01	ø	:	³d=d³i=i³z=zz³
+`ge-b‰t @n	ùge-b‰t	#n	^AS	~ge-b‰t	\gebet	_IIIú4úP_VatG-127r,16{127}.02	ø	:	³g=g³e=e³=-³b=b³e=‰³t=t³
+`sol(e)n @anv	ùsol(e)n	#anv	^2SGI	~salt	\$alt	_IIIú4úP_VatG-127r,16{127}.03	ø	:	³s=s³a=a³l=l³t=t³
+`d– @pron	ùd–	#pron	^NS	~d–	\du	_IIIú4úP_VatG-127r,16{127}.04	ø	:	³d=d³u=–³
+`niun @num	ùniun	#num	^0APm	~niun	\noun	_IIIú4úP_VatG-127r,16{127}.05	ø	:	³n=n³ou=iu³n=n³
+`tag @m	ùtag	#m	^AP	~tage	\dage	_IIIú4úP_VatG-127r,16{127}.06	ø	:	³d=t³a=a³g=g³e=e³
+`l‰sen @stv5	ùl‰sen	#stv5 i	^-	~l‰sen	\le=$en.,,	_IIIú4úP_VatG-127r,16{127}.07@	ø	:	³l=l³e=‰³s=s³e=e³n=n³
+`vr(e) @pr„p	ùvr(e)	#pr„p	^	~vr<e>	\uor	_IIIú4úP_VatG-127v,01{127}.01	ø	:	³u=v³o=³r=r³=e³
+`sw‰r @pron	ùsw‰r	#pron	^ASn	~swazz	\$w az	_IIIú4úP_VatG-127v,01{127}.02	ø	:	³s=s³w=w³a=a³z=zz³
+`angest @mf<(u)>	ùangest	#mf<(u)>	^GP	~Šngeste	\enge$te	_IIIú4úP_VatG-127v,01{127}.03	ø	:	³e=Š³n=n³g=g³e=e³s=s³t=t³e=e³
+`d– @pron	ùd–	#pron	^NS	~d–	\du	_IIIú4úP_VatG-127v,01{128}.04	ø	:	³d=d³u=–³
+`haben @swv-a	ùhaben	#swv-a	^2SG	~habest	\habe$t.,,	_IIIú4úP_VatG-127v,01{128}.05@	ø	:	³h=h³a=a³b=b³e=e³s=s³t=t³
+`unte @konj	ùunte	#konj	^	~unte	\unde	_IIIú4úP_VatG-127v,02{128}.01	ø	:	³u=u³n=n³d=t³e=e³
+`swanne @konj	ùswanne	#konj	^	~swanne	\$wanne	_IIIú4úP_VatG-127v,02{128}.02	ø	:	³s=s³w=w³a=a³nn=nn³e=e³
+`d– @pron	ùd–	#pron	^NS	~d–	\du	_IIIú4úP_VatG-127v,02{128}.03	ø	:	³d=d³u=–³
+`dise @pron	ùdise	#pron	^ASn	~dizz	\diz	_IIIú4úP_VatG-127v,02{128}.04	ø	:	³d=d³i=i³z=zz³
+`ge-b‰t @n	ùge-b‰t	#n	^AS	~ge-b‰t	\gebet	_IIIú4úP_VatG-127v,02{128}.05	ø	:	³g=g³e=e³=-³b=b³e=‰³t=t³
+`ge-tuon @anv	ùge-tuon	#anv	^2SG	~ge-tuost	\gedu$t,,	_IIIú4úP_VatG-127v,02{128}.06@	ø	:	³g=g³e=e³=-³d=t³u=uo³s=s³t=t³
+`s“ @adv/konj	ùs“	#adv	^	~s“	\$o	_IIIú4úP_VatG-127v,03{128}.01	ø	:	³s=s³o=“³
+`komen @stv4	ùkomen	#stv4	^3SGI	~kumet	\cumet	_IIIú4úP_VatG-127v,03{128}.02	ø	:	³c=k³u=u³m=m³e=e³t=t³
+`d– @pron	ùd–	#pron	^DS	~dir	\dir	_IIIú4úP_VatG-127v,03{129}.03	ø	:	³d=d³i=i³r=r³
+`vr”u(we)de @f	ùvr”u(we)de	#f	^NS	~vr”u(we)d‚	\froweda.(.)	_IIIú4úP_VatG-127v,03{129}.04@	ø	:	³f=v³r=r³o=”u³w=w³e=e³d=d³a=‚³
+`s“ @adv/konj	ùs“	#konj	^	~s“	\*{S*}o	_IIIú4úP_VatG-127v,04{130}.01	ø	:	³s=s³o=“³
+`d– @pron	ùd–	#pron	^NS	~d–	\du	_IIIú4úP_VatG-127v,04{130}.02	ø	:	³d=d³u=–³
+`Šin @art	ùŠin	#art	^ASf	~Šine	\ein e	_IIIú4úP_VatG-127v,04{130}.03	ø	:	³ei=Ši³n=n³e=e³
+`sache @f	ùsache	#f	^AS	~sach‚	\$acha	_IIIú4úP_VatG-127v,04{130}.04	ø	:	³s=s³a=a³ch=ch³a=‚³
+`umbe @pr„p	ùumbe	#pr„p	^	~umbe	\umbe	_IIIú4úP_VatG-127v,04{130}.05	ø	:	³u=u³m=m³b=b³e=e³
+`got @m	ùgot	#m	^AS	~got	\got	_IIIú4úP_VatG-127v,04{130}.06@	ø	:	³g=g³o=o³t=t³
+`w‰rben @stv3b	ùw‰rben	#stv3b i	^-	~w‰rben	\werben	_IIIú4úP_VatG-127v,05{130}.01	ø	:	³w=w³e=‰³r=r³b=b³e=e³n=n³
+`wŠllen @anv	ùwŠllen	#anv	^2SGK	~wolles	\wolles.,,	_IIIú4úP_VatG-127v,05{130}.02	ø	:	³w=w³o=o³ll=ll³e=e³s=s³
+`s“ @adv/konj	ùs“	#adv	^	~s“	\$o	_IIIú4úP_VatG-127v,05{130}.03	ø	:	³s=s³o=“³
+`m‰zzen @stv5	ùm‰zzen	#stv5	^2SGB	~mizz	\miz	_IIIú4úP_VatG-127v,05{130}.04	ø	:	³m=m³i=i³z=zz³
+`Šin @art	ùŠin	#art	^0ASn	~Šin	\e¡n	_IIIú4úP_VatG-127v,05{131}.05@	ø	:	³ei=Ši³n=n³
+`liŠht @n	ùliŠht	#n	^AS	~liŠht	\liht	_IIIú4úP_VatG-127v,06{131}.01	ø	:	³l=l³i=iŠ³h=h³t=t³
+`Šin @art	ùŠin	#art	^GSf	~Šiner	\ein er	_IIIú4úP_VatG-127v,06{131}.02	ø	:	³ei=Ši³n=n³e=e³r=r³
+`d–m-Šlle @f	ùd–m-Šlle	#f	^GS	~d–m-Šllen	\dum#elen	_IIIú4úP_VatG-127v,06{131}.03	ø	:	³d=d³u=–³m=m³=-³e=Š³l=ll³e=e³n=n³
+`lang @adj	ùlang	#adj	^-	~lang	\lanc .,,	_IIIú4úP_VatG-127v,06{131}.04@	ø	:	³l=l³a=a³n=n³c=g³
+`unte @konj	ùunte	#konj	^	~unte	\unde	_IIIú4úP_VatG-127v,07{131}.01	ø	:	³u=u³n=n³d=t³e=e³
+`ent-brinnen @stv3a	ùent-brinnen	#stv3a	^2SGB	~en<t>-brin	\inbirn	_IIIú4úP_VatG-127v,07{131}.02	ø	:/ù[trans.! oder en-brŠnnen?]	³i=e³n=n³=t³=-³b=b³ir=ri³n=n³
+`‰r @pron	ù‰r	#pron	^ASn	~izz	\iz	_IIIú4úP_VatG-127v,07{131}.03	ø	:	³i=i³z=zz³
+`ane @pr„p	ùane	#pr„p	^	~an<e>	\an	_IIIú4úP_VatG-127v,07{131}.04	ø	:	³a=a³n=n³=e³
+`d‰r @art	ùd‰r	#art	^DSm	~d‰me	\d eme	_IIIú4úP_VatG-127v,07{131}.05	ø	:	³d=d³e=‰³m=m³e=e³
+`sunne(n)-tag @m	ùsunne(n)-tag	#m	^DS	~sunn<e><n>-tage	\$unda(=)ge	_IIIú4úP_VatG-127v,07{132}.06@	ø	:	³s=s³u=u³n=nn³=e³=n³=-³d=t³a=a³g=g³e=e³
+`unser @pron_poss	ùunser	#pron_poss	^GSm	~unser(e)s	\un$er es	_IIIú4úP_VatG-127v,08{132}.01	ø	:	³u=u³n=n³s=s³e=e³r=r³e=e³s=s³
+`hˆrre @m	ùhˆrre	#m	^GS	~hˆrren	\herren	_IIIú4úP_VatG-127v,08{132}.02	ø	:	³h=h³e=ˆ³rr=rr³e=e³n=n³
+`z‰sw @adj	ùz‰sw	#adj	^GSfw!%	~z‰swen	\ze$ew en.(.)	_IIIú4úP_VatG-127v,08{132}.03	ø	:	³z=z³e=‰³s=s³e=³w=w³e=e³n=n³
+`unte @konj	ùunte	#konj	^	~unte	\unde	_IIIú4úP_VatG-127v,08{132}.04@	ø	:	³u=u³n=n³d=t³e=e³
+`spr‰chen @stv4	ùspr‰chen	#stv4	^2SGB	~sprich	\$prich	_IIIú4úP_VatG-127v,09{132}.01	ø	:	³s=s³p=p³r=r³i=i³ch=ch³
+`d‰r @art	ùd‰r	#art	^DSf	~d‰r	\d er	_IIIú4úP_VatG-127v,09{132}.02	ø	:	³d=d³e=‰³r=r³
+`hŠilig @adj	ùhŠilig	#adj	^DSfw	~hŠiligen	\heilig en	_IIIú4úP_VatG-127v,09{132}.03	ø	:	³h=h³ei=Ši³l=l³i=i³g=g³e=e³n=n³
+`gote-hŠit @f	ùgote-hŠit	#f	^DS	~got<e>-hŠite	\gotheide.,	_IIIú4úP_VatG-127v,09{133}.04	ø	:	³g=g³o=o³t=t³=e³=-³h=h³ei=Ši³d=t³e=e³
+`d‰r @art	ùd‰r	#art	^DSf	~d‰r	\d er	_IIIú4úP_VatG-127v,09{133}.05@	ø	:	³d=d³e=‰³r=r³
+`hŠilig @adj	ùhŠilig	#adj	^DSfw	~hŠiligen	\heilig en	_IIIú4úP_VatG-127v,10{133}.01	ø	:	³h=h³ei=Ši³l=l³i=i³g=g³e=e³n=n³
+`drŒ-valt(e) @f	ùdrŒ-valt(e)	#f	^DS	~drŒ-valte	\dr¡ualde.,	_IIIú4úP_VatG-127v,10{133}.02	ø	:	³d=d³r=r³i=Œ³=-³u=v³a=a³l=l³d=t³e=e³
+`d‰r @art	ùd‰r	#art	^DSf	~d‰r	\d er	_IIIú4úP_VatG-127v,10{133}.03	ø	:	³d=d³e=‰³r=r³
+`hŠilig @adj	ùhŠilig	#adj	^DSfw	~hŠiligen	\heilig en	_IIIú4úP_VatG-127v,10{133}.04	ø	:	³h=h³ei=Ši³l=l³i=i³g=g³e=e³n=n³
+`–f-er-stantunge @f	ù–f-er-stantunge	#f	^DS	~–f-er-stantungen	\uf(=)er$tandungen.	_IIIú4úP_VatG-127v,10{133}.05@	ø	:	³u=–³f=f³=-³e=e³r=r³=-³s=s³t=t³a=a³n=n³d=t³u=u³n=n³g=g³e=e³n=n³
+`in @pr„p	ùin	#pr„p	^	~in	\in	_IIIú4úP_VatG-127v,11{134}.01	ø	:	³i=i³n=n³
+`d‰r @art	ùd‰r	#art	^DSf	~d‰r	\d er	_IIIú4úP_VatG-127v,11{134}.02	ø	:	³d=d³e=‰³r=r³
+`ge-walt @mf<u>	ùge-walt	#f<u>	^DS	~ge-walt	\gewalt,,(	_IIIú4úP_VatG-127v,11{134}.03	ø	:	³g=g³e=e³=-³w=w³a=a³l=l³t=t³
+`d‰r @pron	ùd‰r	#pron	^ASf+	~diŠ	\d ie	_IIIú4úP_VatG-127v,11{134}.04@	ø	:	³d=d³ie=iŠ³
+`got @m	ùgot	#m	^NS	~got	\got	_IIIú4úP_VatG-127v,12{134}.01	ø	:	³g=g³o=o³t=t³
+`haben @swv-a	ùhaben	#swv-a	^3SGI	~hƒt	\hat	_IIIú4úP_VatG-127v,12{134}.02	ø	:	³h=h³a=ƒ³t=t³
+`in @pr„p	ùin	#pr„p	^	~in	\in	_IIIú4úP_VatG-127v,12{134}.03	ø	:	³i=i³n=n³
+`himel @m	ùhimel	#m	^DS	~himel(e)	\himele	_IIIú4úP_VatG-127v,12{134}.04	ø	:	³h=h³i=i³m=m³e=e³l=l³e=e³
+`unte @konj	ùunte	#konj	^	~unte	\unde	_IIIú4úP_VatG-127v,12{134}.05	ø	:	³u=u³n=n³d=t³e=e³
+`in @pr„p	ùin	#pr„p	^	~in	\in	_IIIú4úP_VatG-127v,12{134}.06	ø	:	³i=i³n=n³
+`‰rde @f	ù‰rde	#f	^DS	~‰rden	\erden.,,)	_IIIú4úP_VatG-127v,12{135}.07@	ø	:	³e=‰³r=r³d=d³e=e³n=n³
+`–fe @pr„p	ù–fe	#pr„p	^	~–fe	\uffe	_IIIú4úP_VatG-127v,13{135}.01	ø	:	³u=–³ff=f³e=e³
+`dŒn @pron_poss	ùdŒn	#pron_poss	^DP	~dŒnen	\din en	_IIIú4úP_VatG-127v,13{135}.02	ø	:	³d=d³i=Œ³n=n³e=e³n=n³
+`kniŠw @n	ùkniŠw	#n	^DP	~kniŠ<we>n	\kn¡n	_IIIú4úP_VatG-127v,13{135}.03	ø	:	³k=k³n=n³i=iŠ³=we³n=n³
+`stƒn @anv	ùstƒn	#anv pG	^-	~stˆnte	\$tend e .(:)	_IIIú4úP_VatG-127v,13{135}.04	ø	:	³s=s³t=t³e=ˆ³n=n³d=t³e=e³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~laudate	\"Laudate	_IIIú4úP_VatG-127v,13{136}.05@	ø	:	*³laudate=laudate³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~pueri	\pueri	_IIIú4úP_VatG-127v,14{136}.01	ø	:	*³pueri=pueri³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~dominum	\d'.(!)	_IIIú4úP_VatG-127v,14{136}.02	ø	:	*³d'=dominum³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~te	\Te	_IIIú4úP_VatG-127v,14{136}.03	ø	:	*³te=te³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~deum	\deu\-	_IIIú4úP_VatG-127v,14{136}.04	ø	:	*³deu\-=deum³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~laudamus	\laudam%9.(.)	_IIIú4úP_VatG-127v,14{136}.05	ø	:	*³laudam9=laudamus³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~o	\O	_IIIú4úP_VatG-127v,14{136}.06	ø	:	*³o=o³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~lux	\lux	_IIIú4úP_VatG-127v,14{136}.07@	ø	:	*³lux=lux³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~sempiterna	\$empit\-na.,	_IIIú4úP_VatG-127v,15{136}.01	ø	:	*³sempit\-na=sempiterna³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~o	\o	_IIIú4úP_VatG-127v,15{137}.02	ø	:	*³o=o³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~salus	\$alu$	_IIIú4úP_VatG-127v,15{137}.03	ø	:	*³salus=salus³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~aeterna	\et\-na.,	_IIIú4úP_VatG-127v,15{137}.04	ø	:	*³et\-na=aeterna³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~Christe	\xp\-e	_IIIú4úP_VatG-127v,15{137}.05	ø	:	*³xp\-e=Christe³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~rex	\rex	_IIIú4úP_VatG-127v,15{137}.06	ø	:	*³rex=rex³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~supernus	\$u=p\_nus.	_IIIú4úP_VatG-127v,15{137}.07@	ø	:	*³sup\_nus=supernus³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~quem	\que\-	_IIIú4úP_VatG-127v,16{137}.01	ø	:	*³que\-=quem³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~timet	\timet	_IIIú4úP_VatG-127v,16{137}.02	ø	:	*³timet=timet³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~avernus	\auernus.	_IIIú4úP_VatG-127v,16{138}.03	ø	:	*³auernus=avernus³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~vocatus	\uocat%9	_IIIú4úP_VatG-127v,16{138}.04@	ø	:	*³uocat9=vocatus³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~Elyon	\elyon.	_IIIú4úP_VatG-128r,01{138}.01	ø	:	*³elyon=Elyon³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~rex	\rex	_IIIú4úP_VatG-128r,01{138}.02	ø	:	*³rex=rex³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~celestis	\cele$ti$	_IIIú4úP_VatG-128r,01{138}.03	ø	:	*³celestis=celestis³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~in	\in	_IIIú4úP_VatG-128r,01{138}.04	ø	:	*³in=in³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~Syon	\$yon.	_IIIú4úP_VatG-128r,01{138}.05	ø	:	*³syon=Syon³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~qui	\qui	_IIIú4úP_VatG-128r,01{138}.06	ø	:	*³qui=qui³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~imperas	\im=pera$	_IIIú4úP_VatG-128r,01{138}.07@	ø	:	*³imperas=imperas³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~in	\in	_IIIú4úP_VatG-128r,02{139}.01	ø	:	*³in=in³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~superis	\$up\_i$	_IIIú4úP_VatG-128r,02{139}.02	ø	:	*³sup\_is=superis³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~castris	\ca$tri$.	_IIIú4úP_VatG-128r,02{139}.03	ø	:	*³castris=castris³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~cui	\cui	_IIIú4úP_VatG-128r,02{139}.04	ø	:	*³cui=cui³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~est	\e\-	_IIIú4úP_VatG-128r,02{139}.05	ø	:	*³e\-=est³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~potestas	\pote$ta$	_IIIú4úP_VatG-128r,02{139}.06@	ø	:	*³potestas=potestas³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~sollersque	\$ollersq;	_IIIú4úP_VatG-128r,03{139}.01	ø	:	*³sollersq=sollersque³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~maiestas	\maie$tas.	_IIIú4úP_VatG-128r,03{139}.02	ø	:	*³maiestas=maiestas³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~universa	\uniuer$a	_IIIú4úP_VatG-128r,03{140}.03	ø	:	*³uniuersa=universa³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~nosse	\no$$e	_IIIú4úP_VatG-128r,03{140}.04@	ø	:	*³nosse=nosse³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~sub	\$ub	_IIIú4úP_VatG-128r,04{140}.01	ø	:	*³sub=sub³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~innumero	\innumero	_IIIú4úP_VatG-128r,04{140}.02	ø	:	*³innumero=innumero³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~posse	\po$$e.	_IIIú4úP_VatG-128r,04{140}.03	ø	:	*³posse=posse³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~stellas	\$tella$	_IIIú4úP_VatG-128r,04{140}.04	ø	:	*³stellas=stellas³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~nominatim	\nomi=natim.	_IIIú4úP_VatG-128r,04{140}.05@	ø	:	*³nominatim=nominatim³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~ymbresque	\ymbresq;	_IIIú4úP_VatG-128r,05{141}.01	ø	:	*³ymbresq=ymbresque³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~gutratim	\gutrati\-.	_IIIú4úP_VatG-128r,05{141}.02	ø	:	*³gutrati\-=gutratim³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~tu	\tu	_IIIú4úP_VatG-128r,05{141}.03	ø	:	*³tu=tu³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~solidas	\$oli=da$	_IIIú4úP_VatG-128r,05{141}.04@	ø	:	*³solidas=solidas³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~mentes	\mentes	_IIIú4úP_VatG-128r,06{141}.01	ø	:	*³mentes=mentes³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~te	\te	_IIIú4úP_VatG-128r,06{141}.02	ø	:	*³te=te³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~in	\in	_IIIú4úP_VatG-128r,06{141}.03	ø	:	*³in=in³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~se	\$e	_IIIú4úP_VatG-128r,06{141}.04	ø	:	*³se=se³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~habentes	\habentes.	_IIIú4úP_VatG-128r,06{141}.05	ø	:	*³habentes=habentes³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~pater	\"Pater	_IIIú4úP_VatG-128r,06{142}.06@	ø	:	*³pater=pater³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~noster	\no$ter."	_IIIú4úP_VatG-128r,07{142}.01	ø	:	*³noster=noster³
+`kniŠwen @swv	ùkniŠwen	#swv pG	^-	~kniŠ<we>nte	\knind e .(:)	_IIIú4úP_VatG-128r,07{142}.02	ø	:	³k=k³n=n³i=iŠ³=we³n=n³d=t³e=e³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~laudate	\"Laudate	_IIIú4úP_VatG-128r,07{142}.03	ø	:	*³laudate=laudate³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~dominum	\dn\-m.	_IIIú4úP_VatG-128r,07{142}.04	ø	:	*³dn\-m=dominum³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~omnes	\o.	_IIIú4úP_VatG-128r,07{142}.05	ø	:	*³o=omnes³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~gentes	\g."	_IIIú4úP_VatG-128r,07{142}.06@	ø	:	*³g=gentes³
+`stƒn @anv	ùstƒn	#anv pG	^-	~stˆnte	\$tend e .(:)	_IIIú4úP_VatG-128r,08{142}.01	ø	:	³s=s³t=t³e=ˆ³n=n³d=t³e=e³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~te	\"Te	_IIIú4úP_VatG-128r,08{143}.02	ø	:	*³te=te³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~dominum	\dm\-.	_IIIú4úP_VatG-128r,08{143}.03	ø	:	*³dm\-=dominum³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~laudamus	\l'.	_IIIú4úP_VatG-128r,08{143}.04	ø	:	*³l'=laudamus³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~o	\O	_IIIú4úP_VatG-128r,08{143}.05	ø	:	*³o=o³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~lux	\lux	_IIIú4úP_VatG-128r,08{143}.06	ø	:	*³lux=lux³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~sempiterna	\$empiterna.	_IIIú4úP_VatG-128r,08{143}.07@	ø	:	*³sempiterna=sempiterna³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~pater	\Pater	_IIIú4úP_VatG-128r,09{143}.01	ø	:	*³pater=pater³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~noster	\no$ter."	_IIIú4úP_VatG-128r,09{143}.02	ø	:	*³noster=noster³
+`kniŠwen @swv	ùkniŠwen	#swv pG	^-	~kniŠ<we>nte	\knind e .(:)	_IIIú4úP_VatG-128r,09{143}.03	ø	:	³k=k³n=n³i=iŠ³=we³n=n³d=t³e=e³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~laudate	\"Laudate	_IIIú4úP_VatG-128r,09{144}.04	ø	:	*³laudate=laudate³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~nomen	\nomen"	_IIIú4úP_VatG-128r,09{144}.05@	ø	:	*³nomen=nomen³
+`stƒn @anv	ùstƒn	#anv pG	^-	~stˆnte	\$tend e .(:)	_IIIú4úP_VatG-128r,10{144}.01	ø	:	³s=s³t=t³e=ˆ³n=n³d=t³e=e³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~te	\"Te	_IIIú4úP_VatG-128r,10{144}.02	ø	:	*³te=te³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~dominum	\d'm\-.	_IIIú4úP_VatG-128r,10{144}.03	ø	:	*³d'm\-=dominum³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~laudamus	\l'.	_IIIú4úP_VatG-128r,10{144}.04	ø	:	*³l'=laudamus³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~o	\O	_IIIú4úP_VatG-128r,10{144}.05	ø	:	*³o=o³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~lux	\lux	_IIIú4úP_VatG-128r,10{144}.06	ø	:	*³lux=lux³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~sempiterna	\$empiterna	_IIIú4úP_VatG-128r,10{144}.07@	ø	:	*³sempiterna=sempiterna³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~pater	\Pater	_IIIú4úP_VatG-128r,11{145}.01	ø	:	*³pater=pater³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~noster	\no$teR."	_IIIú4úP_VatG-128r,11{145}.02	ø	:	*³noster=noster³
+`kniŠwen @swv	ùkniŠwen	#swv pG	^-	~kniŠ<we>nte	\knind e .(:)	_IIIú4úP_VatG-128r,11{145}.03	ø	:	³k=k³n=n³i=iŠ³=we³n=n³d=t³e=e³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~laudamus	\"Laudamus	_IIIú4úP_VatG-128r,11{145}.04	ø	:	*³laudamus=laudamus³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~dominum	\d.	_IIIú4úP_VatG-128r,11{145}.05	ø	:	*³d=dominum³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~meum	\m."	_IIIú4úP_VatG-128r,11{145}.06@	ø	:/ù[?]	*³m=meum³
+`stƒn @anv	ùstƒn	#anv pG	^-	~stˆnte	\$tend e .(:)	_IIIú4úP_VatG-128r,12{145}.01	ø	:	³s=s³t=t³e=ˆ³n=n³d=t³e=e³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~te	\"Te	_IIIú4úP_VatG-128r,12{145}.02	ø	:	*³te=te³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~dominum	\d'm.	_IIIú4úP_VatG-128r,12{145}.03	ø	:	*³d'm=dominum³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~laudamus	\l'.	_IIIú4úP_VatG-128r,12{146}.04	ø	:	*³l'=laudamus³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~pater	\Pater	_IIIú4úP_VatG-128r,12{146}.05	ø	:	*³pater=pater³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~noster	\no$ter.	_IIIú4úP_VatG-128r,12{146}.06	ø	:	*³noster=noster³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~o	\O	_IIIú4úP_VatG-128r,12{146}.07	ø	:	*³o=o³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~lux	\lux	_IIIú4úP_VatG-128r,12{146}.08@	ø	:	*³lux=lux³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~sempiterna	\$empiterna."	_IIIú4úP_VatG-128r,13{146}.01	ø	:	*³sempiterna=sempiterna³
+`kniŠwen @swv	ùkniŠwen	#swv pG	^-	~kniŠ<we>nte	\knind e .(:)	_IIIú4úP_VatG-128r,13{146}.02	ø	:	³k=k³n=n³i=iŠ³=we³n=n³d=t³e=e³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~laudate	\"Laudate.	_IIIú4úP_VatG-128r,13{146}.03	ø	:	*³laudate=laudate³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~dominum	\d.	_IIIú4úP_VatG-128r,13{146}.04	ø	:	*³d=dominum³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~q.	\q.	_IIIú4úP_VatG-128r,13{147}.05	ø	:	*³q=q.³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~b.	\b."	_IIIú4úP_VatG-128r,13{147}.06@	ø	:	*³b=b.³
+`stƒn @anv	ùstƒn	#anv pG	^-	~stˆnte	\$tend e .(:)	_IIIú4úP_VatG-128r,14{147}.01	ø	:	³s=s³t=t³e=ˆ³n=n³d=t³e=e³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~te	\"Te	_IIIú4úP_VatG-128r,14{147}.02	ø	:	*³te=te³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~dominum	\d'm.	_IIIú4úP_VatG-128r,14{147}.03	ø	:	*³d'm=dominum³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~laudamus	\l'.	_IIIú4úP_VatG-128r,14{147}.04	ø	:	*³l'=laudamus³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~o	\O	_IIIú4úP_VatG-128r,14{147}.05	ø	:	*³o=o³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~lux	\lux	_IIIú4úP_VatG-128r,14{147}.06	ø	:	*³lux=lux³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~sempiterna	\$.	_IIIú4úP_VatG-128r,14{147}.07	ø	:	*³s=sempiterna³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~pater	\Pater	_IIIú4úP_VatG-128r,14{147}.08@	ø	:	*³pater=pater³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~noster	\no$teR."	_IIIú4úP_VatG-128r,15{147}.01	ø	:	*³noster=noster³
+`kniŠwen @swv	ùkniŠwen	#swv pG	^-	~kniŠ<we>nte	\knind e .(:)	_IIIú4úP_VatG-128r,15{147}.02	ø	:	³k=k³n=n³i=iŠ³=we³n=n³d=t³e=e³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~lauda	\"Lauda	_IIIú4úP_VatG-128r,15{148}.03	ø	:	*³lauda=lauda³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~Jerusalem 	\iheru$alem."	_IIIú4úP_VatG-128r,15{148}.04	ø	:	*³iherusalem=Jerusalem ³
+`stƒn @anv	ùstƒn	#anv pG	^-	~stˆnte	\$ten=d e .(:)	_IIIú4úP_VatG-128r,15{148}.05@	ø	:	³s=s³t=t³e=ˆ³n=n³d=t³e=e³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~te	\"Te	_IIIú4úP_VatG-128r,16{148}.01	ø	:	*³te=te³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~dominum	\d'm	_IIIú4úP_VatG-128r,16{148}.02	ø	:	*³d'm=dominum³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~laudamus	\l'.	_IIIú4úP_VatG-128r,16{148}.03	ø	:	*³l'=laudamus³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~o	\O	_IIIú4úP_VatG-128r,16{148}.04	ø	:	*³o=o³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~lux	\lux	_IIIú4úP_VatG-128r,16{148}.05	ø	:	*³lux=lux³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~sempiterna	\$.	_IIIú4úP_VatG-128r,16{148}.06	ø	:	*³s=sempiterna³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~pater	\Pater	_IIIú4úP_VatG-128r,16{148}.07	ø	:	*³pater=pater³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~noster	\no$ter."	_IIIú4úP_VatG-128r,16{149}.08	ø	:	*³noster=noster³
+`kniŠwen @swv	ùkniŠwen	#swv pG	^-	~kniŠ<we>nte	\kn¡n=d e .(:)	_IIIú4úP_VatG-128r,16{149}.09@	ø	:	³k=k³n=n³i=iŠ³=we³n=n³d=t³e=e³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~laudate	\"Laudate	_IIIú4úP_VatG-128v,01{149}.01	ø	:	*³laudate=laudate³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~dominum	\dn\-m	_IIIú4úP_VatG-128v,01{149}.02	ø	:	*³dn\-m=dominum³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~de	\de	_IIIú4úP_VatG-128v,01{149}.03	ø	:	*³de=de³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~caelis	\celi$!"	_IIIú4úP_VatG-128v,01{149}.04	ø	:	*³celis=caelis³
+`stƒn @anv	ùstƒn	#anv pG	^-	~stˆnte	\$tend e .(:)	_IIIú4úP_VatG-128v,01{149}.05@	ø	:	³s=s³t=t³e=ˆ³n=n³d=t³e=e³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~te	\Te	_IIIú4úP_VatG-128v,02{149}.01	ø	:	*³te=te³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~dominum	\dm\-n	_IIIú4úP_VatG-128v,02{149}.02	ø	:	*³dm\-n=dominum³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~laudamus	\l'.	_IIIú4úP_VatG-128v,02{149}.03	ø	:	*³l'=laudamus³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~o	\O	_IIIú4úP_VatG-128v,02{149}.04	ø	:	*³o=o³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~lux	\lux	_IIIú4úP_VatG-128v,02{149}.05	ø	:	*³lux=lux³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~sempiterna	\$.	_IIIú4úP_VatG-128v,02{149}.06	ø	:	*³s=sempiterna³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~pater	\Pat\-	_IIIú4úP_VatG-128v,02{149}.07	ø	:	*³pat\-=pater³
+`[!!] @[!!]	ù[!!]*	#[!!]	^	~noster	\nR\-.(.)	_IIIú4úP_VatG-128v,02{149}.08@	ø	:	*³nr\-=noster³

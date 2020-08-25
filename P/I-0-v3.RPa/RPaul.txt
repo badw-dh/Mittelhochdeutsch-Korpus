@@ -1,0 +1,779 @@
++H
+1) Allgemeine Informationen
+ID	M152
+Strukturschlssel
+Texttitel	Rheinauer Paulus
+Textkrzel
+a) ReM	RPaul
+b) MWB	Paulus
+c) MiGraKo-intern	I-0-V_RPaul
+Textbereich	Religion, Poesie
+Textsorte, spezifisch	Bibeldichtung, Sndenklage
+Textart	V
+Prim„re Referenz	Edition
+Sekund„re Referenz	Handschrift
+2) šberlieferungstr„ger
+Aufbewahrungsort	Zrich, Zentralbibl.
+Signatur	Cod. Rh. 77
+Handschriftencensus	http://www.handschriftencensus.de/4029
+3) Niederschrift
+šberlieferungstyp	Handschrift
+Blattangabe	Bl. 1r, 53v
+Ausschnitt
+Sprachstufe	mhd
+nieder-, mittel-, oberdeutsch	oberdeutsch
+sprachlicher Groáraum	westoberdeutsch
+Sprachlandschaft	alemannisch
+Lokalisierung
+Zeit (Jahrhundert, Jahrhunderth„lfte)	12,1
+Zeit (genauere Datierung)	12,1D
+Besonderheiten
+4) Text/ šbersetzungsvorlage
+Datierung_Text	um 1100
+Lokalisierung_Text
+Autor
+Sprache des Autors
+šbersetzungsvorlage
+Edition	Carl Kraus (Hg.), Deutsche Gedichte des zw”lften Jahrhunderts, Halle 1894, Nr. 2, S. 7-12
+5) Korpus, Transkription, Annotation
+Korpuszugeh”rigkeit	MiGraKo
+Besonderheiten: Transkription
+Besonderheiten: Annotation
+6) Bearbeiter
+Bearbeiter: Digitalisierung	Elfriede D”ring (Bonn)
+Bearbeiter: Kollationierung	Anke Neunzig, Tobias A. Kemper, Kathrin Chlench (Bonn)
+Bearbeiter: Pr„editierung	Anke Neunzig, Tobias A. Kemper (Bonn)
+Bearbeiter: Annotierung	Anke Neunzig (Bonn)
+Bearbeiter: Korrektur	Marika Fuáer, Tobias A. Kemper (Bonn)
+05/16/16 16:45:55: Lemmabestand mit KRP-AEND (nderungsliste D:\MG\FLEX\PRON\NUM\SEHS\HS_HS.TXT) korrigiert!
+05/16/16 16:52:45: Lemmabestand mit KRP-AEND (nderungsliste D:\MG\FLEX\PRON\NUM\SEHS\HS_HS2.TXT) korrigiert!
+12/14/17 15:46:40: Lemmabestand mit KRP-AEND (nderungsliste D:\MG\LAUT\V\FEHL_NEU.TXT) korrigiert!
+07/31/18 16:14:41: Lemmabestand mit KRP-AEND (nderungsliste D:\TEMP\EN-DT.TXT) korrigiert!
+08/31/18 11:47:07: Lemmabestand mit KRP-AEND (nderungsliste D:\PP\KORR\KOR_LST\BRIEF.TXT) korrigiert!
+09/04/18 19:53:42: Lemmabestand mit KRP-AEND (nderungsliste D:\PP\KORR\KOR_LST\KRP-AEND.NUL) korrigiert!
+02/09/20 21:32:43: Lemmabestand mit KRP-AEND (nderungsliste D:\PP\ABGLEICH\KORR_LST.TXT) korrigiert!
+02/09/20 22:24:36: Lemmabestand mit KRP-AEND (nderungsliste D:\PP\ABGLEICH\ER-KRZL.TXT) korrigiert!
+04/22/20 18:43:21: Lemmabestand mit KRP-AEND (nderungsliste D:\PP\MUELLER\P_KORR-S.TXT) korrigiert!
+@H
+`ich @pron	ùich	#pron	^NS	~ich	\"[[Ich]]	_Iú0úV_RPaul-001{01r,01}.01	ø	:	*³[[ich]]=[ich]³
+`biten @stv5b	ùbiten	#stv5b	^1SG	~bit<e>	\[[bit]]	_Iú0úV_RPaul-001{01r,01}.02	ø	:	³[bit]=[bite]³
+`d– @pron	ùd–	#pron	^AS	~dich	\[[dich]],	_Iú0úV_RPaul-001{01r,01}.03	ø	:	*³[[dich]]=[dich]³
+`hˆrre @m	ùhˆrre	#m	^NS	~hˆrre	\[[herre]],)	_Iú0úV_RPaul-001{01r,01}.04	ø	:	*³[[herre]]=[hˆrre]³
+`Šine @adv	ùŠine	#adv	^	~Šine	\[[eine]]	_Iú0úV_RPaul-001{01r,01}.05@	ø	:	*³[[eine]]=[Šine]³
+`durh @pr„p	ùdurh	#pr„p	^	~dur<h>	\[[dur]]	_Iú0úV_RPaul-002{01r,01}.01	ø	:	³[dur]=[durh]³
+`d‰r @art	ùd‰r	#art	^APm	~diŠ	\[[d ie]]	_Iú0úV_RPaul-002{01r,01}.02	ø	:	*³[[die]]=[diŠ]³
+`l‰bentig @adj	ùl‰bentig	#adj	^APmw	~l‰bentigen	\[[lebentig en]]	_Iú0úV_RPaul-002{01r,01}.03	ø	:	*³[[lebentigen]]=[l‰bentigen]³
+`stŠin @m	ùstŠin	#m	^AP	~stŠine	\$teine,,	_Iú0úV_RPaul-002{01r,01}.04@	ø	:	³s=s³t=t³ei=Ši³n=n³e=e³
+`dazz @konj	ùdazz	#konj	^	~dazz	\daz	_Iú0úV_RPaul-003{01r,01}.01	ø	:	³d=d³a=a³z=zz³
+`ich @pron	ùich	#pron	^NS	~ich	\ich	_Iú0úV_RPaul-003{01r,01}.02	ø	:	³i=i³ch=ch³
+`niht @adv	ùniht	#adv	^	~niut	\niut	_Iú0úV_RPaul-003{01r,01}.03	ø	:	³n=n³iu=iu³t=t³
+`be-sitzen @stv5b	ùbe-sitzen	#stv5b	^1SG	~be-sitze	\be$ize	_Iú0úV_RPaul-003{01r,01}.04@	ø	:	³b=b³e=e³=-³s=s³i=i³z=tz³e=e³
+`d‰r @art	ùd‰r	#art	^ASf	~diŠ	\d Œe	_Iú0úV_RPaul-004{01r,01}.01	ø	:	³d=d³Œe=iŠ³
+`vrŠis-lich @adj	ùvrŠis-lich	#adj	^ASfw	~verŠis-lŒchen	\uerei$lich in	_Iú0úV_RPaul-004{01r,01}.02	ø	:	³u=v³e=e³r=r³ei=Ši³s=s³=-³l=l³i=Œ³ch=ch³i=e³n=n³
+`hitze @f	ùhitze	#f	^AS	~<h>itze	\izze,,	_Iú0úV_RPaul-004{01r,01}.03@	ø	:	³=h³i=i³zz=tz³e=e³
+`d‰r @pron	ùd‰r	#pron	^ASf+	~di	\d i	_Iú0úV_RPaul-005{01r,01}.01	ø	:	³d=d³i=i³
+`d‰r @art	ùd‰r	#art	^NPm	~diŠ	\d ie	_Iú0úV_RPaul-005{01r,01}.02	ø	:	³d=d³ie=iŠ³
+`hŠlle-kn‰ht @m	ùhŠlle-kn‰ht	#m	^NP	~hŠlle-kn‰hte	\helle<chn>[ecthe]	_Iú0úV_RPaul-005{01r,01}.03	ø	:	³h=h³e=Š³ll=ll³e=e³=-³ch=k³n=n³[e]=‰³[cth]=ht³[e]=e³
+`haben @swv-a	ùhaben	#swv-a	^3PG	~haben	\[h]abin(.)	_Iú0úV_RPaul-005{01r,01}.04@	ø	:	³[h]=h³a=a³b=b³i=e³n=n³
+`d‰r @pron	ùd‰r	#pron	^GSn	~d‰s	\d e$	_Iú0úV_RPaul-006{01r,02}.01	ø	:	³d=d³e=‰³s=s³
+`biten @stv5b	ùbiten	#stv5b	^1SG	~bit<e>	\bitt|	_Iú0úV_RPaul-006{01r,02}.02	ø	:	³b=b³i=i³tt=t³=e³
+`ich @pron	ùich	#pron	^NS	~ich	\|ich	_Iú0úV_RPaul-006{01r,02}.03	ø	:	³i=i³ch=ch³
+`d– @pron	ùd–	#pron	^AS	~dich	\tich	_Iú0úV_RPaul-006{01r,02}.04	ø	:	³t=d³i=i³ch=ch³
+`durh @pr„p	ùdurh	#pr„p	^	~dur<h>	\dur	_Iú0úV_RPaul-006{01r,02}.05	ø	:	³d=d³u=u³r=r³=h³
+`d‰r @art	ùd‰r	#art	^APm	~diŠ	\d ie	_Iú0úV_RPaul-006{01r,02}.06	ø	:	³d=d³ie=iŠ³
+`drŒ @num	ùdrŒ	#num	^APm	~drŒe	\drie	_Iú0úV_RPaul-006{01r,02}.07	ø	:	³d=d³r=r³i=Œ³e=e³
+`knabe @m	ùknabe	#m	^AP	~knaben	\ch%nabin,,	_Iú0úV_RPaul-006{01r,02}.08@	ø	:	³ch=k³n=n³a=a³b=b³i=e³n=n³
+`d‰r @pron	ùd‰r	#pron	^APm+	~diŠ	\d ie	_Iú0úV_RPaul-007{01r,02}.01	ø	:	³d=d³ie=iŠ³
+`d– @pron	ùd–	#pron	^NS	~d–	\du	_Iú0úV_RPaul-007{01r,02}.02	ø	:	³d=d³u=–³
+`be-schirmen @swv	ùbe-schirmen	#swv	^2SV	~be-schir<me>t‚s	\be$hirdo$,,(	_Iú0úV_RPaul-007{01r,02}.03	ø	:	³b=b³e=e³=-³sh=sch³i=i³r=r³=me³d=t³o=‚³s=s³
+`[!] @[!]	ùdominus*	#[!]	^	~domine	\dn\-e,,)	_Iú0úV_RPaul-007{01r,02}.04@	ø	:	*³dn\-e=domine³
+`in @pr„p	ùin	#pr„p	^	~in	\in|	_Iú0úV_RPaul-008{01r,02}.01	ø	:	³i=i³n=n³
+`d‰r @art	ùd‰r	#art	^DSm	~d‰me	\|d eme	_Iú0úV_RPaul-008{01r,02}.02	ø	:	³d=d³e=‰³m=m³e=e³
+`glŠjen @swv	ùglŠjen	#swv pG	^DSmw	~glŠjenten	\<gl>ug<ind i n>	_Iú0úV_RPaul-008{01r,02}.03	ø	:	³g=g³l=l³u=Š³g=j³i=e³n=n³d=t³i=e³n=n³
+`oven @m	ùoven	#m	^DS	~ovene	\houine,,	_Iú0úV_RPaul-008{01r,03}.04@	ø	:	³h=³o=o³u=v³i=e³n=n³e=e³
+`Ananias* @PN	ùAnanias	#PN	^AS	~Ananias	\anania$,	_Iú0úV_RPaul-009{01r,03}.01	ø	:	*³a=a³n=n³a=a³n=n³i=i³a=a³s=s³
+`[!] @[!]	ùAsarias	#PN	^AS	~Asarias	\a$aria$,,(	_Iú0úV_RPaul-009{01r,03}.02@	ø	:	*³a=a³s=s³a=a³r=r³i=i³a=a³s=s³
+`j“ @interj	ùj“	#interj	^	~j“	\io	_Iú0úV_RPaul-010{01r,03}.01	ø	:	³i=j³o=“³
+`sagen @swv-a	ùsagen	#swv-a	^3SGI	~saget	\$agit	_Iú0úV_RPaul-010{01r,03}.02	ø	:	³s=s³a=a³g=g³i=e³t=t³
+`wir @pron	ùwir	#pron	^DP	~uns	\un$	_Iú0úV_RPaul-010{01r,03}.03	ø	:	³u=u³n=n³s=s³
+`d‰r @art	ùd‰r	#art	^NSn	~dazz	\d az	_Iú0úV_RPaul-010{01r,03}.04	ø	:	³d=d³a=a³z=zz³
+`buoch @n	ùbuoch	#n	^NS	~buoch	\b–ch	_Iú0úV_RPaul-010{01r,03}.05	ø	:	³b=b³–=uo³ch=ch³
+`d‰r @pron	ùd‰r	#pron	^ASn	~dazz	\d az,,)	_Iú0úV_RPaul-010{01r,03}.06@	ø	:	³d=d³a=a³z=zz³
+`dise @pron	ùdise	#pron	^0NSm	~dis<e>	\diz	_Iú0úV_RPaul-011{01r,03}.01	ø	:	³d=d³i=i³z=s³=e³
+`dritt @num	ùdritt	#num	^NSmw%	~dritte	\tritt e,,	_Iú0úV_RPaul-011{01r,03}.02	ø	:	³t=d³r=r³i=i³tt=tt³e=e³
+`d‰r @pron	ùd‰r	#pron	^NSn	~dazz	\d az	_Iú0úV_RPaul-011{01r,03}.03	ø	:	³d=d³a=a³z=zz³
+`w‰sen @stv5	ùw‰sen	#stv5	^3SVI	~was	\waz	_Iú0úV_RPaul-011{01r,03}.04	ø	:	³w=w³a=a³z=s³
+`Misahel @PN	ùMisahel	#PN	^NS	~Misahel	\<mi$>[ahe]<l>(.)	_Iú0úV_RPaul-011{01r,03}.05@	ø	:	*³m=m³i=i³s=s³[a]=a³[h]=h³[e]=e³l=l³
+`‰r @pron	ù‰r	#pron	^DP	~in	\in	_Iú0úV_RPaul-012{01r,04}.01	ø	:	³i=i³n=n³
+`tuon @anv	ùtuon	#anv	^3SV	~t‰t	\tet	_Iú0úV_RPaul-012{01r,04}.02	ø	:	³t=t³e=‰³t=t³
+`d‰r @art	ùd‰r	#art	^NSn	~dazz	\d az	_Iú0úV_RPaul-012{01r,04}.03	ø	:	³d=d³a=a³z=zz³
+`viur @n	ùviur	#n	^NS	~viur	\uur	_Iú0úV_RPaul-012{01r,04}.04	ø	:	³u=v³u=iu³r=r³
+`niht @adv	ùniht	#adv	^	~niuwet	\niu\vit	_Iú0úV_RPaul-012{01r,04}.05	ø	:	³n=n³iu\vi=iu³t=t³
+`wˆ @n	ùwˆ	#n	^AS	~wˆ	\we(.)	_Iú0úV_RPaul-012{01r,04}.06@	ø	:	³w=w³e=ˆ³
+`‰r @pron	ù‰r	#pron	^NSn	~‰zz	\ez	_Iú0úV_RPaul-013{01r,04}.01	ø	:	³e=‰³z=zz³
+`ne @partikel	ùne	#partikel	^	~en	\in|	_Iú0úV_RPaul-013{01r,04}.02	ø	:	³i=e³n=n³
+`mgen @anv	ùmgen	#anv	^3SV	~mahte	\|mathe	_Iú0úV_RPaul-013{01r,04}.03	ø	:	³m=m³a=a³th=ht³e=e³
+`‰r @pron	ù‰r	#pron	^APm	~siŠ	\$ie	_Iú0úV_RPaul-013{01r,04}.04	ø	:	³s=s³ie=iŠ³
+`niht @adv	ùniht	#adv	^	~niuht	\nivth	_Iú0úV_RPaul-013{01r,04}.05	ø	:	³n=n³iv=iu³th=ht³
+`ge-brŠnnen @swv	ùge-brŠnnen	#swv i	^-	~ge-brŠnnen	\gebrennin,,	_Iú0úV_RPaul-013{01r,04}.06@	ø	:	³g=g³e=e³=-³b=b³r=r³e=Š³nn=nn³i=e³n=n³
+`d– @pron	ùd–	#pron	^NS	~d–	\du	_Iú0úV_RPaul-014{01r,04}.01	ø	:	³d=d³u=–³
+`sŒn @anv	ùsŒn	#anv	^2SVI	~w‘re	\war<e>	_Iú0úV_RPaul-014{01r,04}.02	ø	:/^[!]	³w=w³a=‘³r=r³e=e³
+`same(n)t @pr„p	ùsame(n)t	#pr„p	^	~sam<e>t	\$and|	_Iú0úV_RPaul-014{01r,04}.03	ø	:	³s=s³a=a³n=m³=e³d=t³
+`‰r @pron	ù‰r	#pron	^DP	~in	\|in	_Iú0úV_RPaul-014{01r,04}.04	ø	:	³i=i³n=n³
+`dƒr @adv	ùdƒr/+inne	#adv	^	~d<ƒ>r	\dr|	_Iú0úV_RPaul-014{01r,05}.05	ø	:	³d=d³=ƒ³r=r³
+`inne @adv	ùinne/dƒr+	#adv	^	~inne	\|inne(.)	_Iú0úV_RPaul-014{01r,05}.06@	ø	:	³i=i³nn=nn³e=e³
+`d“ @adv/konj	ùd“	#adv	^	~d“	\do|	_Iú0úV_RPaul-015{01r,05}.01	ø	:	³d=d³o=“³
+`be-schirmen @swv	ùbe-schirmen	#swv	^2SV	~be-schirm<e>t‚s	\|be$hirndo$	_Iú0úV_RPaul-015{01r,05}.02	ø	:	³b=b³e=e³=-³sh=sch³i=i³r=r³n=m³=e³d=t³o=‚³s=s³
+`d– @pron	ùd–	#pron	^NS	~d–	\tu	_Iú0úV_RPaul-015{01r,05}.03	ø	:	³t=d³u=–³
+`dŒn @pron_poss	ùdŒn	#pron_poss	^APm	~dŒne	\din e	_Iú0úV_RPaul-015{01r,05}.04	ø	:	³d=d³i=Œ³n=n³e=e³
+`d‰gen @m	ùd‰gen	#m	^AP	~d<‰g>ene	\dine	_Iú0úV_RPaul-015{01r,05}.05@	ø	:/E[tu dine dine: {tudiedegine} Maurer]	³d=d³=‰g³i=e³n=n³e=e³
+`mit @pr„p	ùmit	#pr„p	^	~mit	\mit	_Iú0úV_RPaul-016{01r,05}.01	ø	:	³m=m³i=i³t=t³
+`d– @pron	ùd–	#pron	^GS	~dŒnes	\dini$	_Iú0úV_RPaul-016{01r,05}.02	ø	:	³d=d³i=Œ³n=n³i=e³s=s³
+`s‰lb @pron	ùs‰lb	#pron	^GSm%&	~s‰lbes	\$elb e$	_Iú0úV_RPaul-016{01r,05}.03	ø	:	³s=s³e=‰³l=l³b=b³e=e³s=s³
+`s‰gen @m	ùs‰gen	#m	^DS	~s‰gene	\$egine,,	_Iú0úV_RPaul-016{01r,05}.04@	ø	:	³s=s³e=‰³g=g³i=e³n=n³e=e³
+`d‰r @pron	ùd‰r	#pron	^NPm+	~diŠ	\d ie	_Iú0úV_RPaul-017{01r,05}.01	ø	:	³d=d³ie=iŠ³
+`dƒr @adv	ùdƒr	#adv	^	~dƒ	\da	_Iú0úV_RPaul-017{01r,05}.02	ø	:	³d=d³a=ƒ³
+`h‰lfen @stv3b	ùh‰lfen	#stv3b	^3PV	~hulfen	\hulfin	_Iú0úV_RPaul-017{01r,05}.03	ø	:	³h=h³u=u³l=l³f=f³i=e³n=n³
+`v‰hten @stv4	ùv‰hten	#stv4 i	^-	~v‰hten	\uehtin	_Iú0úV_RPaul-017{01r,06}.04@	ø	:	³u=v³e=‰³h=h³t=t³i=e³n=n³
+`wider @pr„p	ùwider	#pr„p	^	~wider	\widir	_Iú0úV_RPaul-018{01r,06}.01	ø	:	³w=w³i=i³d=d³i=e³r=r³
+`d‰r @art	ùd‰r	#art	^DSn	~d‰m	\d em|	_Iú0úV_RPaul-018{01r,06}.02	ø	:	³d=d³e=‰³m=m³
+`un-r‰ht @n	ùun-r‰ht	#n	^DS	~un-r‰hte	\|unrethe(.)	_Iú0úV_RPaul-018{01r,06}.03@	ø	:	³u=u³n=n³=-³r=r³e=‰³th=ht³e=e³
+`d‰r @art	ùd‰r	#art	^NSn	~dazz	\d az	_Iú0úV_RPaul-019{01r,06}.01	ø	:	³d=d³a=a³z=zz³
+`viur @n	ùviur	#n	^NS	~viur	\uwr	_Iú0úV_RPaul-019{01r,06}.02	ø	:	³u=v³w=iu³r=r³
+`‰r @pron	ù‰r	#pron	^APm	~siŠ	\$ie	_Iú0úV_RPaul-019{01r,06}.03	ø	:	³s=s³ie=iŠ³
+`niht @adv	ùniht	#adv	^	~niuht	\niuth	_Iú0úV_RPaul-019{01r,06}.04	ø	:	³n=n³iu=iu³th=ht³
+`ne @partikel	ùne	#partikel	^	~en	\in|	_Iú0úV_RPaul-019{01r,06}.05	ø	:	³i=e³n=n³
+`mŠjen @swv	ùmŠjen	#swv	^3SV	~muote	\|mute,,	_Iú0úV_RPaul-019{01r,06}.06@	ø	:	³m=m³u=uo³t=t³e=e³
+`swiŠ @konj	ùswiŠ	#konj	^	~swiŠ	\$u\vi	_Iú0úV_RPaul-020{01r,06}.01	ø	:	³s=s³u\v=w³i=iŠ³
+`harte @adv	ùharte	#adv	^	~harte	\harte	_Iú0úV_RPaul-020{01r,06}.02	ø	:	³h=h³a=a³r=r³t=t³e=e³
+`d‰r @art	ùd‰r	#art	^NSm	~d‰r	\d er	_Iú0úV_RPaul-020{01r,06}.03	ø	:	³d=d³e=‰³r=r³
+`oven @m	ùoven	#m	^NS	~oven	\oui<n>	_Iú0úV_RPaul-020{01r,07}.04	ø	:	³o=o³u=v³i=e³n=n³
+`glŠjen @swv	ùglŠjen	#swv	^3SV	~gluote	\<g>lote,,	_Iú0úV_RPaul-020{01r,07}.05@	ø	:	³g=g³l=l³o=uo³t=t³e=e³
+`unz(e) @adv/konj	ùunz(e)	#konj	^	~unze	\unze	_Iú0úV_RPaul-021{01r,07}.01	ø	:	³u=u³n=n³z=z³e=e³
+`d– @pron	ùd–	#pron	^NS	~d–	\du	_Iú0úV_RPaul-021{01r,07}.02	ø	:	³d=d³u=–³
+`mit @pr„p	ùmit	#pr„p	^	~mit	\mit	_Iú0úV_RPaul-021{01r,07}.03	ø	:	³m=m³i=i³t=t³
+`dŒn @pron_poss	ùdŒn	#pron_poss	^DSm	~dŒneme	\tin ime	_Iú0úV_RPaul-021{01r,07}.04	ø	:	³t=d³i=Œ³n=n³i=e³m=m³e=e³
+`tr“st @m	ùtr“st	#m	^DS	~tr“ste	\troi$te	_Iú0úV_RPaul-021{01r,07}.05@	ø	:	³t=t³r=r³oi=“³s=s³t=t³e=e³
+`‰r @pron	ù‰r	#pron	^APm	~siŠ	\$ie	_Iú0úV_RPaul-022{01r,07}.01	ø	:	³s=s³ie=iŠ³
+`dƒr @adv	ùdƒr/+–z	#adv	^	~dƒr	\der|	_Iú0úV_RPaul-022{01r,07}.02	ø	:	³d=d³e=ƒ³r=r³
+`–z @adv	ù–z/dƒr+	#adv	^	~–z	\|uz	_Iú0úV_RPaul-022{01r,07}.03	ø	:	³u=–³z=z³
+`loŠsen @swv	ùloŠsen	#swv	^2SV	~l“st‚s	\lo$to$(.)	_Iú0úV_RPaul-022{01r,07}.04@	ø	:	³l=l³o=“³s=s³t=t³o=‚³s=s³
+`n– @adv/konj	ùn–	#adv	^	~n–	\nu	_Iú0úV_RPaul-023{01r,07}.01	ø	:	³n=n³u=–³
+`biten @stv5b	ùbiten	#stv5b	^1SG	~bit<e>	\bit	_Iú0úV_RPaul-023{01r,07}.02	ø	:	³b=b³i=i³t=t³=e³
+`ich @pron	ùich	#pron	^NS	~ich	\hich	_Iú0úV_RPaul-023{01r,07}.03	ø	:	³h=³i=i³ch=ch³
+`d‰r @art	ùd‰r	#art	^APm	~diŠ	\d ie	_Iú0úV_RPaul-023{01r,07}.04	ø	:/K[die: dZ]	³d=d³ie=iŠ³
+`knabe @m	ùknabe	#m	^AP	~knaben	\chnabin	_Iú0úV_RPaul-023{01r,07}.05	ø	:	³ch=k³n=n³a=a³b=b³i=e³n=n³
+`drŒ @num	ùdrŒ	#num	^APmø	~drŒe	\drie,,	_Iú0úV_RPaul-023{01r,08}.06@	ø	:	³d=d³r=r³i=Œ³e=e³
+`dazz @konj	ùdazz	#konj	^	~dazz	\daz	_Iú0úV_RPaul-024{01r,08}.01	ø	:	³d=d³a=a³z=zz³
+`‰r @pron	ù‰r	#pron	^NPm	~si	\$i	_Iú0úV_RPaul-024{01r,08}.02	ø	:	³s=s³i=i³
+`ich @pron	ùich	#pron	^DS	~mir	\mir	_Iú0úV_RPaul-024{01r,08}.03	ø	:	³m=m³i=i³r=r³
+`h‰lfen @stv3b	ùh‰lfen	#stv3b pG	^-	~h‰lfente	\helui\-d e 	_Iú0úV_RPaul-024{01r,08}.04	ø	:	³h=h³e=‰³l=l³u=f³i=e³\-=n³d=t³e=e³
+`sŒn @anv	ùsŒn	#anv	^3PGK	~sŒn	\$ien,,	_Iú0úV_RPaul-024{01r,08}.05@	ø	:	³s=s³ie=Œ³n=n³
+`dazz @konj	ùdazz	#konj	^	~dazz	\daz	_Iú0úV_RPaul-025{01r,08}.01	ø	:	³d=d³a=a³z=zz³
+`d– @pron	ùd–	#pron	^NS	~d–	\du	_Iú0úV_RPaul-025{01r,08}.02	ø	:	³d=d³u=–³
+`ich @pron	ùich	#pron	^AS	~mich	\mich	_Iú0úV_RPaul-025{01r,08}.03	ø	:/K[mich: {c} < {h}]	³m=m³i=i³ch=ch³
+`er-loŠsen @swv	ùer-loŠsen	#swv	^2SG	~er-loŠsest	\ir#lo$#e<$>t,,(	_Iú0úV_RPaul-025{01r,08}.04	ø	:	³i=e³r=r³=-³l=l³o=oŠ³s=s³e=e³s=s³t=t³
+`dŒn @pron_poss	ùdŒn	#pron_poss	^ASm	~dŒnen	\din en	_Iú0úV_RPaul-025{01r,08}.05	ø	:	³d=d³i=Œ³n=n³e=e³n=n³
+`schalk @m<(u)>	ùschalk	#m<(u)>	^AS	~schalk	\$halch,,)	_Iú0úV_RPaul-025{01r,08}.06@	ø	:	³sh=sch³a=a³l=l³ch=k³
+`mit @pr„p	ùmit	#pr„p	^	~mit	\mit	_Iú0úV_RPaul-026{01r,08}.01	ø	:	³m=m³i=i³t=t³
+`d‰r @art	ùd‰r	#art	^DSf	~d‰r	\d er	_Iú0úV_RPaul-026{01r,08}.02	ø	:	³d=d³e=‰³r=r³
+`dŒn @pron_poss	ùdŒn	#pron_poss	^DSf!	~dŒner	\din er	_Iú0úV_RPaul-026{01r,08}.03	ø	:	³d=d³i=Œ³n=n³e=e³r=r³
+`ge-walt @mf<u>	ùge-walt	#f<u>	^DS	~ge-walt	\gi#u\va<lth>(.)	_Iú0úV_RPaul-026{01r,09}.04@	ø	:	³g=g³i=e³=-³u\v=w³a=a³l=l³th=t³
+`mit @pr„p	ùmit	#pr„p	^	~mit	\mit	_Iú0úV_RPaul-027{01r,09}.01	ø	:	³m=m³i=i³t=t³
+`d‰r @art	ùd‰r	#art	^DSm	~d‰me	\d emi	_Iú0úV_RPaul-027{01r,09}.02	ø	:	³d=d³e=‰³m=m³i=e³
+`s‰lb @pron	ùs‰lb	#pron	^DSmw	~s‰lben	\$elb in	_Iú0úV_RPaul-027{01r,09}.03	ø	:	³s=s³e=‰³l=l³b=b³i=e³n=n³
+`tr“st @m	ùtr“st	#m	^DS	~tr“ste	\troi$te,,	_Iú0úV_RPaul-027{01r,09}.04@	ø	:	³t=t³r=r³oi=“³s=s³t=t³e=e³
+`s“ @adv/konj	ùs“	#konj	^	~s“	\$o	_Iú0úV_RPaul-028{01r,09}.01	ø	:	³s=s³o=“³
+`d– @pron	ùd–	#pron	^NS	~d–	\du	_Iú0úV_RPaul-028{01r,09}.02	ø	:	³d=d³u=–³
+`‰r @pron	ù‰r	#pron	^APm	~siŠ	\$ie	_Iú0úV_RPaul-028{01r,09}.03	ø	:	³s=s³ie=iŠ³
+`dƒr @adv	ùdƒr/+–z	#adv	^	~d<ƒ>r	\d%r|	_Iú0úV_RPaul-028{01r,09}.04	ø	:	³d=d³=ƒ³r=r³
+`–z @adv	ù–z/dƒr+	#adv	^	~–z	\|uz	_Iú0úV_RPaul-028{01r,09}.05	ø	:	³u=–³z=z³
+`loŠsen @swv	ùloŠsen	#swv	^2SV	~l“stes	\lo$te$,,	_Iú0úV_RPaul-028{01r,09}.06@	ø	:	³l=l³o=“³s=s³t=t³e=e³s=s³
+`s“ @adv/konj	ùs“	#adv	^	~s“	\$o	_Iú0úV_RPaul-029{01r,09}.01	ø	:	³s=s³o=“³
+`loŠsen @swv	ùloŠsen	#swv	^2SGB	~loŠse	\lo$e	_Iú0úV_RPaul-029{01r,09}.02	ø	:	³l=l³o=oŠ³s=s³e=e³
+`ouch @adv/konj	ùouch	#adv	^	~ouch	\ouch	_Iú0úV_RPaul-029{01r,09}.03	ø	:	³ou=ou³ch=ch³
+`mŒn @pron_poss	ùmŒn	#pron_poss	^ASf	~mŒne	\min e	_Iú0úV_RPaul-029{01r,09}.04	ø	:	³m=m³i=Œ³n=n³e=e³
+`sˆle @f	ùsˆle	#f	^AS	~sˆle	\$ele,,	_Iú0úV_RPaul-029{01r,09}.05@	ø	:	³s=s³e=ˆ³l=l³e=e³
+`ge-n‘dig-lich @adj	ùge-n‘dig-lich	#adj	^0NSm"	~ge-n‘dig-lich	\genadichlich 	_Iú0úV_RPaul-030{01r,09}.01	ø	:	³g=g³e=e³=-³n=n³a=‘³d=d³i=i³ch=g³=-³l=l³i=i³ch=ch³
+`hˆrre @m	ùhˆrre	#m	^NS	~hˆrre	\herre,,	_Iú0úV_RPaul-030{01r,10}.02@	ø	:	³h=h³e=ˆ³rr=rr³e=e³
+`dazz @konj	ùdazz	#konj	^	~dazz	\daz	_Iú0úV_RPaul-031{01r,10}.01	ø	:	³d=d³a=a³z=zz³
+`‰r @pron	ù‰r	#pron	^NSf	~siu	\$iu	_Iú0úV_RPaul-031{01r,10}.02	ø	:	³s=s³iu=iu³
+`niht @adv	ùniht	#adv	^	~niuht	\niuth	_Iú0úV_RPaul-031{01r,10}.03	ø	:	³n=n³iu=iu³th=ht³
+`brinnen @stv3a	ùbrinnen	#stv3a	^3SGK	~brinne	\brinne	_Iú0úV_RPaul-031{01r,10}.04	ø	:	³b=b³r=r³i=i³nn=nn³e=e³
+`sˆre @adv	ùsˆre	#adv	^	~sˆre	\$ere.(.)	_Iú0úV_RPaul-031{01r,10}.05@	ø	:	³s=s³e=ˆ³r=r³e=e³
+`[!] @[!]	ù“*	#interj	^	~“	\*CO	_Iú0úV_RPaul-032{01r,10}.01	ø	:	*³o=“³
+`[!] @[!]	ùrex*	#[!]	^	~rex	\rex	_Iú0úV_RPaul-032{01r,10}.02	ø	:	*³rex=rex³
+`[!] @[!]	ùangelus*	#[!]	^	~angelorum	\angelo4,,	_Iú0úV_RPaul-032{01r,10}.03@	ø	:	*³angelo4=angelorum³
+`n– @adv/konj	ùn–	#adv	^	~n–	\nu	_Iú0úV_RPaul-033{01r,10}.01	ø	:	³n=n³u=–³
+`sol(e)n @anv	ùsol(e)n	#anv	^2SG	~solt	\$holt|	_Iú0úV_RPaul-033{01r,10}.02	ø	:	³sh=s³o=o³l=l³t=t³
+`d– @pron	ùd–	#pron	^NS	~<d>–	\|u	_Iú0úV_RPaul-033{01r,10}.03	ø	:	³=d³u=–³
+`ich @pron	ùich	#pron	^AS	~mich	\mich	_Iú0úV_RPaul-033{01r,10}.04	ø	:	³m=m³i=i³ch=ch³
+`er-hoŠren @swv	ùer-hoŠren	#swv i	^-	~er-hoŠren	\irhorin	_Iú0úV_RPaul-033{01r,10}.05@	ø	:	³i=e³r=r³=-³h=h³o=oŠ³r=r³i=e³n=n³
+`durh @pr„p	ùdurh	#pr„p	^	~dur<h>	\dur	_Iú0úV_RPaul-034{01r,10}.01	ø	:	³d=d³u=u³r=r³=h³
+`dŒn @pron_poss	ùdŒn	#pron_poss	^ASf	~dŒne	\din e	_Iú0úV_RPaul-034{01r,10}.02	ø	:	³d=d³i=Œ³n=n³e=e³
+`wƒr @adj	ùwƒr	#adj	^ASfw	~wƒren	\war in	_Iú0úV_RPaul-034{01r,11}.03	ø	:	³w=w³a=ƒ³r=r³i=e³n=n³
+`triuwe @f	ùtriuwe	#f	^AS	~triuwe	\triuwe,,	_Iú0úV_RPaul-034{01r,11}.04@	ø	:	³t=t³r=r³iu=iu³w=w³e=e³
+`all-s“ @adv/konj	ùall-s“	#konj	^	~all-s“	\al$o	_Iú0úV_RPaul-035{01r,11}.01	ø	:	³a=a³l=ll³=-³s=s³o=“³
+`d– @pron	ùd–	#pron	^NS	~d–	\du|	_Iú0úV_RPaul-035{01r,11}.02	ø	:	³d=d³u=–³
+`ver-n‰men @stv4	ùver-n‰men	#stv4	^2SVI	~ver-n‘me	\|uernami	_Iú0úV_RPaul-035{01r,11}.03	ø	:	³u=v³e=e³r=r³=-³n=n³a=‘³m=m³i=e³
+`dŒn @pron_poss	ùdŒn	#pron_poss	^APf	~dŒne	\din e	_Iú0úV_RPaul-035{01r,11}.04	ø	:	³d=d³i=Œ³n=n³e=e³
+`diuw @f	ùdiuw	#f	^AP	~diuwe	\diwe	_Iú0úV_RPaul-035{01r,11}.05@	ø	:	³d=d³iw=iuw³e=e³
+`Maria* @PN	ùMaria*	#PN	^	~Mariam	\maria\-	_Iú0úV_RPaul-036{01r,11}.01	ø	:	*³maria\-=mariam³
+`unte @konj	ùunte	#konj	^	~unte	\unde	_Iú0úV_RPaul-036{01r,11}.02	ø	:	³u=u³n=n³d=t³e=e³
+`Martha* @PN	ùMartha*	#PN	^AS	~Martam	\marta\-,,	_Iú0úV_RPaul-036{01r,11}.03@	ø	:	*³marta\-=martam³
+`d‰r @pron	ùd‰r	#pron	^NPf+	~diŠ	\d ie	_Iú0úV_RPaul-037{01r,11}.01	ø	:	³d=d³ie=iŠ³
+`umbe @pr„p	ùumbe	#pr„p	^	~umbe	\umbe	_Iú0úV_RPaul-037{01r,11}.02	ø	:	³u=u³m=m³b=b³e=e³
+`d– @pron	ùd–	#pron	^AS	~dich	\dich	_Iú0úV_RPaul-037{01r,11}.03	ø	:	³d=d³i=i³ch=ch³
+`er-digen @swv	ùer-digen	#swv	^3PV	~er-diget‚n	\irdi(=)giton,,	_Iú0úV_RPaul-037{01r,11}.04@	ø	:	³i=e³r=r³=-³d=d³i=i³g=g³i=e³t=t³o=‚³n=n³
+`dazz @konj	ùdazz	#konj	^	~dazz	\daz	_Iú0úV_RPaul-038{01r,12}.01	ø	:	³d=d³a=a³z=zz³
+`ir(e) @pron_poss	ùir(e)	#pron_poss	^0NSm	~ir<e>	\ir	_Iú0úV_RPaul-038{01r,12}.02	ø	:	³i=i³r=r³=e³
+`bruoder @m<(u)>	ùbruoder	#m<(u)>	^NS	~bruoder	\brudir	_Iú0úV_RPaul-038{01r,12}.03	ø	:	³b=b³r=r³u=uo³d=d³i=e³r=r³
+`Lazarus* @PN	ùLazarus	#PN	^NS	~Lazarus	\lazar<%9>	_Iú0úV_RPaul-038{01r,12}.04	ø	:	*³[!]=[!]³
+`ge-n‰sen @stv5	ùge-n‰sen	#stv5	^3SVI	~ge-nas	\g%bena$,,(	_Iú0úV_RPaul-038{01r,12}.05@	ø	:/K[g%bena$: {b} oder {h} ?]	³g%b=g³e=e³=-³n=n³a=a³s=s³
+`d‰r @pron	ùd‰r	#pron	^NSm+	~d‰r	\d er	_Iú0úV_RPaul-039{01r,12}.01	ø	:	³d=d³e=‰³r=r³
+`drŒ @num	ùdrŒ	#num	^APf	~drŒe	\drie	_Iú0úV_RPaul-039{01r,12}.02	ø	:	³d=d³r=r³i=Œ³e=e³
+`naht @f<(u)>	ùnaht	#f<(u)>	^AP	~nahte	\nathe	_Iú0úV_RPaul-039{01r,12}.03	ø	:	³n=n³a=a³th=ht³e=e³
+`be-graben @stv6	ùbe-graben	#stv6 pV	^-	~be-graben	\begrabin 	_Iú0úV_RPaul-039{01r,12}.04	ø	:	³b=b³e=e³=-³g=g³r=r³a=a³b=b³i=e³n=n³
+`w‰sen @stv5	ùw‰sen	#stv5	^3SVI	~was	\wa$,,)	_Iú0úV_RPaul-039{01r,12}.05@	ø	:	³w=w³a=a³s=s³
+`unte @konj	ùunte	#konj	^	~unte	\undi	_Iú0úV_RPaul-040{01r,12}.01	ø	:	³u=u³n=n³d=t³i=e³
+`d– @pron	ùd–	#pron	^NS	~d–	\du	_Iú0úV_RPaul-040{01r,12}.02	ø	:	³d=d³u=–³
+`‰r @pron	ù‰r	#pron	^ASm	~in	\in\^	_Iú0úV_RPaul-040{01r,12}.03	ø	:	³i=i³n\^=n³
+`hŠizen @stv7	ùhŠizen	#stv7	^2SVI	~<h>iŠze	\i$ze	_Iú0úV_RPaul-040{01r,12}.04	ø	:	³=h³i=iŠ³sz=z³e=e³
+`–f @adv	ù–f/>+stƒn	#adv	^	~–f	\uf*1|	_Iú0úV_RPaul-040{01r,13}.05	ø	:	³u=–³f=f³
+`stƒn @anv	ùstƒn/–f>+	#anv i	^-	~stˆn	\|<$>ten*2,	_Iú0úV_RPaul-040{01r,13}.06@	ø	:	³s=s³t=t³e=ˆ³n=n³
+`vroŠ-lŒche @adv	ùvroŠ-lŒche	#adv	^	~vroŠ-lŒche	\uroliche	_Iú0úV_RPaul-041{01r,13}.01	ø	:	³u=v³r=r³o=oŠ³=-³l=l³i=Œ³ch=ch³e=e³
+`dannen @adv	ùdannen	#adv	^	~danne<n>	\dane	_Iú0úV_RPaul-041{01r,13}.02	ø	:	³d=d³a=a³n=nn³e=e³=n³
+`gƒn @anv	ùgƒn	#anv i	^-	~gˆn	\gen(.)	_Iú0úV_RPaul-041{01r,13}.03@	ø	:	³g=g³e=ˆ³n=n³
+`in @pr„p	ùin	#pr„p	^	~in	\in|	_Iú0úV_RPaul-042{01r,13}.01	ø	:	³i=i³n=n³
+`d‰r @art	ùd‰r	#art	^DP	~d‰n	\|d en	_Iú0úV_RPaul-042{01r,13}.02	ø	:	³d=d³e=‰³n=n³
+`s‰lb @pron	ùs‰lb	#pron	^DP!	~s‰lben	\$elb en	_Iú0úV_RPaul-042{01r,13}.03	ø	:	³s=s³e=‰³l=l³b=b³e=e³n=n³
+`name @m	ùname	#m	^DP	~namen	\namin	_Iú0úV_RPaul-042{01r,13}.04	ø	:	³n=n³a=a³m=m³i=e³n=n³
+`biten @stv5b	ùbiten	#stv5b	^1SG	~bit<e>	\bit	_Iú0úV_RPaul-042{01r,13}.05	ø	:	³b=b³i=i³t=t³=e³
+`ich @pron	ùich	#pron	^NS	~ich	\ich	_Iú0úV_RPaul-042{01r,13}.06	ø	:	³i=i³ch=ch³
+`d– @pron	ùd–	#pron	^AS	~dich	\tich,,	_Iú0úV_RPaul-042{01r,13}.07@	ø	:	³t=d³i=i³ch=ch³
+`dazz @konj	ùdazz	#konj	^	~dazz	\daz	_Iú0úV_RPaul-043{01r,13}.01	ø	:	³d=d³a=a³z=zz³
+`d– @pron	ùd–	#pron	^NS	~d–	\tu|	_Iú0úV_RPaul-043{01r,13}.02	ø	:	³t=d³u=–³
+`ge-lŒb-haften @swv	ùge-lŒb-haften	#swv	^2SG	~ge-lŒb-haft‚s	\|gelib#hafto$	_Iú0úV_RPaul-043{01r,13}.03	ø	:	³g=g³e=e³=-³l=l³i=Œ³b=b³=-³h=h³a=a³f=f³t=t³o=‚³s=s³
+`ich @pron	ùich	#pron	^AS	~mich	\mich(.)	_Iú0úV_RPaul-043{01r,13}.04@	ø	:	³m=m³i=i³ch=ch³
+`unte @konj	ùunte	#konj	^	~unte	\undi	_Iú0úV_RPaul-044{01r,14}.01	ø	:	³u=u³n=n³d=t³i=e³
+`g‰ben @stv5	ùg‰ben	#stv5	^2SGB	~gib	\gim|	_Iú0úV_RPaul-044{01r,14}.02	ø	:	³g=g³i=i³m=b³
+`ich @pron	ùich	#pron	^DS	~mir	\|mir	_Iú0úV_RPaul-044{01r,14}.03	ø	:	³m=m³i=i³r=r³
+`ur-stŠntede @f	ùur-stŠntede	#f	^AS	~ur-stŠntede	\ur$tendide	_Iú0úV_RPaul-044{01r,14}.04@	ø	:	³u=u³r=r³=-³s=s³t=t³e=Š³n=n³d=t³i=e³d=d³e=e³
+`all @pron	ùall	#pron	^GPf	~aller	\all er	_Iú0úV_RPaul-045{01r,14}.01	ø	:	³a=a³ll=ll³e=e³r=r³
+`mŒn @pron_poss	ùmŒn	#pron_poss	^GPf!	~mŒner	\min ir	_Iú0úV_RPaul-045{01r,14}.02	ø	:	³m=m³i=Œ³n=n³i=e³r=r³
+`snte @f	ùsnte	#f	^GP	~snt‚n	\$o\vndon	_Iú0úV_RPaul-045{01r,14}.03@	ø	:	³s=s³o\v=³n=n³d=t³o=‚³n=n³
+`durh @pr„p	ùdurh	#pr„p	^	~dur<h>	\dur	_Iú0úV_RPaul-046{01r,14}.01	ø	:	³d=d³u=u³r=r³=h³
+`dŒn @pron_poss	ùdŒn	#pron_poss	^ASm	~dŒnen	\tin in	_Iú0úV_RPaul-046{01r,14}.02	ø	:	³t=d³i=Œ³n=n³i=e³n=n³
+`hŠilig @adj	ùhŠilig	#adj	^ASm!	~hŠiligen	\helig in	_Iú0úV_RPaul-046{01r,14}.03	ø	:	³h=h³e=Ši³l=l³i=i³g=g³i=e³n=n³
+`t“d @m<(u)>	ùt“d	#m<(u)>	^AS	~t“d	\toth,,	_Iú0úV_RPaul-046{01r,14}.04@	ø	:	³t=t³o=“³th=d³
+`d‰r @pron	ùd‰r	#pron	^ASm+	~d‰n	\d <e>n	_Iú0úV_RPaul-047{01r,14}.01	ø	:	³d=d³e=‰³n=n³
+`d– @pron	ùd–	#pron	^NS	~d–	\du	_Iú0úV_RPaul-047{01r,14}.02	ø	:	³d=d³u=–³
+`durh @pr„p	ùdurh	#pr„p	^	~dur<h>	\dur	_Iú0úV_RPaul-047{01r,15}.03	ø	:	³d=d³u=u³r=r³=h³
+`unser @pron_poss	ùunser	#pron_poss	^0ASf	~unser	\un$ir	_Iú0úV_RPaul-047{01r,15}.04	ø	:	³u=u³n=n³s=s³i=e³r=r³
+`n“t @mf<u>	ùn“t	#f<u>	^AS	~n“t	\noth	_Iú0úV_RPaul-047{01r,15}.05@	ø	:	³n=n³o=“³th=t³
+`ane @pr„p	ùane	#pr„p	^	~an<e>	\an|	_Iú0úV_RPaul-048{01r,15}.01	ø	:	³a=a³n=n³=e³
+`d‰r @art	ùd‰r	#art	^DSn	~d‰m	\|d em	_Iú0úV_RPaul-048{01r,15}.02	ø	:	³d=d³e=‰³m=m³
+`kriuze @n	ùkriuze	#n	^DS	~kriuze	\cruce	_Iú0úV_RPaul-048{01r,15}.03	ø	:	³c=k³r=r³u=iu³c=z³e=e³
+`er-st‰rben @stv3b	ùer-st‰rben	#stv3b	^2SVI	~er-strbe	\ir#$turbe,,	_Iú0úV_RPaul-048{01r,15}.04@	ø	:	³i=e³r=r³=-³s=s³t=t³u=³r=r³b=b³e=e³
+`dƒr @adv	ùdƒr/.+mit(e)	#adv	^	~dƒ	\do|	_Iú0úV_RPaul-049{01r,15}.01	ø	:	³d=d³o=ƒ³
+`d– @pron	ùd–	#pron	^NS	~d–	\|du	_Iú0úV_RPaul-049{01r,15}.02	ø	:	³d=d³u=–³
+`d– @pron	ùd–	#pron	^DS©	~dir	\dir	_Iú0úV_RPaul-049{01r,15}.03	ø	:	³d=d³i=i³r=r³
+`mit(e) @adv	ùmit(e)/dƒr.+	#adv	^	~mit(e)	\mitte	_Iú0úV_RPaul-049{01r,15}.04	ø	:	³m=m³i=i³tt=t³e=e³
+`er-w‰rben @stv3b	ùer-w‰rben	#stv3b	^2SVI	~er-wrbe	\irwrbe,,	_Iú0úV_RPaul-049{01r,15}.05@	ø	:	³i=e³r=r³=-³w=w³r=r³b=b³e=e³
+`dazz @konj	ùdazz	#konj	^	~dazz	\daz	_Iú0úV_RPaul-050{01r,15}.01	ø	:	³d=d³a=a³z=zz³
+`d– @pron	ùd–	#pron	^NS	~d–	\du	_Iú0úV_RPaul-050{01r,15}.02	ø	:	³d=d³u=–³
+`d‰r @art	ùd‰r	#art	^APmfn	~diŠ	\d ie	_Iú0úV_RPaul-050{01r,15}.03	ø	:	³d=d³ie=iŠ³
+`dŒn @pron_poss	ùdŒn	#pron_poss	^APmfn%!	~dŒne	\din e	_Iú0úV_RPaul-050{01r,15}.04	ø	:	³d=d³i=Œ³n=n³e=e³
+`all @pron	ùall	#pron	^APmfnø!	~alle	\all e	_Iú0úV_RPaul-050{01r,16}.05@	ø	:	³a=a³ll=ll³e=e³
+`loŠsen @swv	ùloŠsen	#swv	^2SV	~l“st‚s	\lo$to$	_Iú0úV_RPaul-051{01r,16}.01	ø	:	³l=l³o=“³s=s³t=t³o=‚³s=s³
+`von @pr„p	ùvon	#pr„p	^	~von	\uon|	_Iú0úV_RPaul-051{01r,16}.02	ø	:	³u=v³o=o³n=n³
+`d‰r @art	ùd‰r	#art	^DSf	~d‰r	\|d er	_Iú0úV_RPaul-051{01r,16}.03	ø	:	³d=d³e=‰³r=r³
+`hŠlle @f	ùhŠlle	#f	^DS	~hŠlle	\helle(.)	_Iú0úV_RPaul-051{01r,16}.04@	ø	:	³h=h³e=Š³ll=ll³e=e³
+`durh @pr„p	ùdurh	#pr„p	^	~dur<h>	\dur	_Iú0úV_RPaul-052{01r,16}.01	ø	:	³d=d³u=u³r=r³=h³
+`d‰r @art	ùd‰r	#art	^ASf	~diŠ	\d ie	_Iú0úV_RPaul-052{01r,16}.02	ø	:	³d=d³ie=iŠ³
+`s‰lb @pron	ùs‰lb	#pron	^ASfw	~s‰lb‚n	\$elb un	_Iú0úV_RPaul-052{01r,16}.03	ø	:	³s=s³e=‰³l=l³b=b³u=‚³n=n³
+`l“sunge @f	ùl“sunge	#f	^AS	~l“sunge	\lo$unge	_Iú0úV_RPaul-052{01r,16}.04@	ø	:	³l=l³o=“³s=s³u=u³n=n³g=g³e=e³
+`biten @stv5b	ùbiten	#stv5b	^3SGI	~bittet	\bittit	_Iú0úV_RPaul-053{01r,16}.01	ø	:	³b=b³i=i³tt=tt³i=e³t=t³
+`d– @pron	ùd–	#pron	^AS	~dich	\dich	_Iú0úV_RPaul-053{01r,16}.02	ø	:	³d=d³i=i³ch=ch³
+`mŒn @pron_poss	ùmŒn	#pron_poss	^0NSf	~mŒn	\min	_Iú0úV_RPaul-053{01r,16}.03	ø	:	³m=m³i=Œ³n=n³
+`zunge @f	ùzunge	#f	^NS	~zunge	\zunge,,	_Iú0úV_RPaul-053{01r,16}.04@	ø	:	³z=z³u=u³n=n³g=g³e=e³
+`dazz @konj	ùdazz	#konj	^	~dazz	\daz	_Iú0úV_RPaul-054{01r,16}.01	ø	:	³d=d³a=a³z=zz³
+`d– @pron	ùd–	#pron	^NS	~d–	\du	_Iú0úV_RPaul-054{01r,17}.02	ø	:	³d=d³u=–³
+`er-loŠsen @swv	ùer-loŠsen	#swv	^2SG	~er-loŠsest	\irlo$e$t	_Iú0úV_RPaul-054{01r,17}.03	ø	:	³i=e³r=r³=-³l=l³o=oŠ³s=s³e=e³s=s³t=t³
+`mŒn @pron_poss	ùmŒn	#pron_poss	^ASf	~mŒne	\min e	_Iú0úV_RPaul-054{01r,17}.04	ø	:	³m=m³i=Œ³n=n³e=e³
+`sˆle @f	ùsˆle	#f	^AS	~sˆle	\$ele,,(	_Iú0úV_RPaul-054{01r,17}.05@	ø	:	³s=s³e=ˆ³l=l³e=e³
+`ge-n‘dig-lich @adj	ùge-n‘dig-lich	#adj	^NSm"	~ge-n‘dig-lŒcher	\genadiclich er	_Iú0úV_RPaul-055{01r,17}.01	ø	:	³g=g³e=e³=-³n=n³a=‘³d=d³i=i³c=g³=-³l=l³i=Œ³ch=ch³e=e³r=r³
+`hˆrre @m	ùhˆrre	#m	^NS	~hˆrre	\herre,,)	_Iú0úV_RPaul-055{01r,17}.02@	ø	:	³h=h³e=ˆ³rr=rr³e=e³
+`durh @pr„p	ùdurh	#pr„p	^	~dur<h>	\dur	_Iú0úV_RPaul-056{01r,17}.01	ø	:	³d=d³u=u³r=r³=h³
+`dŒn @pron_poss	ùdŒn	#pron_poss	^ASf	~dŒne	\tin e	_Iú0úV_RPaul-056{01r,17}.02	ø	:	³t=d³i=Œ³n=n³e=e³
+`gote-lich @adj	ùgote-lich	#adj	^ASfw	~gote-lŒch‚n	\gotilich un	_Iú0úV_RPaul-056{01r,17}.03	ø	:	³g=g³o=o³t=t³i=e³=-³l=l³i=Œ³ch=ch³u=‚³n=n³
+`kraft @f<u>	ùkraft	#f<u>	^AS	~kraft	\craft	_Iú0úV_RPaul-056{01r,17}.04@	ø	:	³c=k³r=r³a=a³f=f³t=t³
+`unte @konj	ùunte	#konj	^	~unte	\unde	_Iú0úV_RPaul-057{01r,17}.01	ø	:	³u=u³n=n³d=t³e=e³
+`durh @pr„p	ùdurh	#pr„p	^	~dur<h>	\dur|	_Iú0úV_RPaul-057{01r,18}.02	ø	:	³d=d³u=u³r=r³=h³
+`d‰r @art	ùd‰r	#art	^ASn	~dazz	\|t az	_Iú0úV_RPaul-057{01r,18}.03	ø	:	³t=d³a=a³z=zz³
+`hŠilig @adj	ùhŠilig	#adj	^ASnw	~hŠilige	\helig e	_Iú0úV_RPaul-057{01r,18}.04	ø	:	³h=h³e=Ši³l=l³i=i³g=g³e=e³
+`grab @n	ùgrab	#n	^AS	~grab	\grab,,	_Iú0úV_RPaul-057{01r,18}.05@	ø	:	³g=g³r=r³a=a³b=b³
+`dƒr @adv	ùdƒr/.+inne	#adv	^	~dƒ	\da|	_Iú0úV_RPaul-058{01r,18}.01	ø	:	³d=d³a=ƒ³
+`dŒn @pron_poss	ùdŒn	#pron_poss	^0NSm	~dŒn	\|din	_Iú0úV_RPaul-058{01r,18}.02	ø	:	³d=d³i=Œ³n=n³
+`lŒcham(e) @mn	ùlŒcham(e)	#m	^NS	~lŒcham<e>	\licham	_Iú0úV_RPaul-058{01r,18}.03	ø	:	³l=l³i=Œ³ch=ch³a=a³m=m³=e³
+`inne @adv	ùinne/dƒr.+	#adv	^	~inne	\inne	_Iú0úV_RPaul-058{01r,18}.04	ø	:	³i=i³nn=nn³e=e³
+`ligen @stv5b	ùligen	#stv5b	^3SVI	~lag	\lach.(.)	_Iú0úV_RPaul-058{01r,18}.05@	ø	:	³l=l³a=a³ch=g³
+`himel-kni(n)g @m	ùhimel-kni(n)g	#m	^NS	~himel-kni(n)g	\*CHimil#chuninch,	_Iú0úV_RPaul-059{01r,18}.01	ø	:	³h=h³i=i³m=m³i=e³l=l³=-³ch=k³u=³n=n³i=i³n=n³ch=g³
+`hˆrre @m	ùhˆrre	#m	^NS	~hˆrre	\herre,,	_Iú0úV_RPaul-059{01r,18}.02@	ø	:	³h=h³e=ˆ³rr=rr³e=e³
+`joh @adv/konj	ùjoh	#adv	^	~jo<h>	\io	_Iú0úV_RPaul-060{01r,18}.01	ø	:	³i=j³o=o³=h³
+`[!] @[!]	ù[!]	#[!]	^	~[!]	\f	_Iú0úV_RPaul-060{01r,18}.02	ø	:/K[f: wohl versehentlich statt {h} von {hulfi}]	*³f=?³
+`h‰lfen @stv3b	ùh‰lfen	#stv3b	^2SVI	~hlfe	\hulfi	_Iú0úV_RPaul-060{01r,18}.03	ø	:	³h=h³u=³l=l³f=f³i=e³
+`d– @pron	ùd–	#pron	^NS	~d–	\du	_Iú0úV_RPaul-060{01r,19}.04	ø	:	³d=d³u=–³
+`Daniel @PN	ùDaniel	#PN	^DS	~Daniele	\daniele	_Iú0úV_RPaul-060{01r,19}.05@	ø	:	*³d=d³a=a³n=n³i=i³e=e³l=l³e=e³
+`–zer @pr„p	ù–zer	#pr„p	^	~–zer	\uzer	_Iú0úV_RPaul-061{01r,19}.01	ø	:	³u=–³z=z³e=e³r=r³
+`d‰r @art	ùd‰r	#art	^DSf	~d‰r	\d er	_Iú0úV_RPaul-061{01r,19}.02	ø	:	³d=d³e=‰³r=r³
+`l‰we @m	ùl‰we	#m	^GP	~l‰wen	\lewin	_Iú0úV_RPaul-061{01r,19}.03	ø	:	³l=l³e=‰³w=w³i=e³n=n³
+`gruobe @f	ùgruobe	#f	^DS	~gruobe	\grube,,	_Iú0úV_RPaul-061{01r,19}.04@	ø	:	³g=g³r=r³u=uo³b=b³e=e³
+`dazz @konj	ùdazz	#konj	^	~dazz	\daz	_Iú0úV_RPaul-062{01r,19}.01	ø	:	³d=d³a=a³z=zz³
+`‰r @pron	ù‰r	#pron	^ASm	~in	\in	_Iú0úV_RPaul-062{01r,19}.02	ø	:	³i=i³n=n³
+`niht @adv	ùniht	#adv	^	~niuwet	\niuwet	_Iú0úV_RPaul-062{01r,19}.03	ø	:	³n=n³iu=iu³w=w³e=e³t=t³
+`ge-turren @anv	ùge-turren	#anv	^3PV	~ge-torst‚n	\geto%r$ton	_Iú0úV_RPaul-062{01r,19}.04	ø	:	³g=g³e=e³=-³t=t³o=o³r=r³s=s³t=t³o=‚³n=n³
+`be-rŠren @swv	ùbe-rŠren	#swv i	^-	~be-rŠren	\berurin,,	_Iú0úV_RPaul-062{01r,19}.05@	ø	:	³b=b³e=e³=-³r=r³u=Š³r=r³i=e³n=n³
+`d‰r @pron	ùd‰r	#pron	^DP+	~d‰n	\d en	_Iú0úV_RPaul-063{01r,19}.01	ø	:	³d=d³e=‰³n=n³
+`‰r @pron	ù‰r	#pron	^NSm	~‰r	\er	_Iú0úV_RPaul-063{01r,19}.02	ø	:	³e=‰³r=r³
+`dƒr @adv	ùdƒr/+Œn	#adv	^	~d<ƒ>r	\dr|	_Iú0úV_RPaul-063{01r,19}.03	ø	:	³d=d³=ƒ³r=r³
+`Œn @adv	ùŒn/dƒr+	#adv	^	~Œn	\|in	_Iú0úV_RPaul-063{01r,19}.04	ø	:	³i=Œ³n=n³
+`w‰sen @stv5	ùw‰sen	#stv5	^3SVI	~was	\wa$	_Iú0úV_RPaul-063{01r,20}.05	ø	:	³w=w³a=a³s=s³
+`g‰ben @stv5	ùg‰ben	#stv5 pV	^-	~ge-g‰ben	\gegebin ,,	_Iú0úV_RPaul-063{01r,20}.06@	ø	:	³g=g³e=e³=-³g=g³e=‰³b=b³i=e³n=n³
+`dazz @konj	ùdazz	#konj	^	~dazz	\da$	_Iú0úV_RPaul-064{01r,20}.01	ø	:	³d=d³a=a³s=zz³
+`‰r @pron	ù‰r	#pron	^ASm	~in	\in	_Iú0úV_RPaul-064{01r,20}.02	ø	:	³i=i³n=n³
+`zer-br‰chen @stv4	ùzer-br‰chen	#stv4	^3PV	~zer-brƒchen	\zerbrachin	_Iú0úV_RPaul-064{01r,20}.03	ø	:	³z=z³e=e³r=r³=-³b=b³r=r³a=ƒ³ch=ch³i=e³n=n³
+`d‰r @art	ùd‰r	#art	^NPm	~diŠ	\d ie	_Iú0úV_RPaul-064{01r,20}.04	ø	:	³d=d³ie=iŠ³
+`l‰we @m	ùl‰we	#m	^NP	~l‰wen	\lewin(.)	_Iú0úV_RPaul-064{01r,20}.05@	ø	:	³l=l³e=‰³w=w³i=e³n=n³
+`d“ @adv/konj	ùd“	#adv	^	~d“	\do	_Iú0úV_RPaul-065{01r,20}.01	ø	:	³d=d³o=“³
+`be-schirmen @swv	ùbe-schirmen	#swv	^2SV	~be-schirm<e>t‚s	\be$hirmdo$	_Iú0úV_RPaul-065{01r,20}.02	ø	:	³b=b³e=e³=-³sh=sch³i=i³r=r³m=m³=e³d=t³o=‚³s=s³
+`d– @pron	ùd–	#pron	^NS	~d–	\tu	_Iú0úV_RPaul-065{01r,20}.03	ø	:	³t=d³u=–³
+`dŒn @pron_poss	ùdŒn	#pron_poss	^ASm	~dŒnen	\din in	_Iú0úV_RPaul-065{01r,20}.04	ø	:	³d=d³i=Œ³n=n³i=e³n=n³
+`schalk @m<(u)>	ùschalk	#m<(u)>	^AS	~schalk	\$halch	_Iú0úV_RPaul-065{01r,20}.05@	ø	:	³sh=sch³a=a³l=l³ch=k³
+`mit @pr„p	ùmit	#pr„p	^	~mit	\mit	_Iú0úV_RPaul-066{01r,20}.01	ø	:	³m=m³i=i³t=t³
+`dŒn @pron_poss	ùdŒn	#pron_poss	^DSf	~dŒner	\tin er	_Iú0úV_RPaul-066{01r,21}.02	ø	:	³t=d³i=Œ³n=n³e=e³r=r³
+`ge-walt @mf<u>	ùge-walt	#f<u>	^DS	~ge-walt	\gewalth,,	_Iú0úV_RPaul-066{01r,21}.03@	ø	:	³g=g³e=e³=-³w=w³a=a³l=l³th=t³
+`dazz @konj	ùdazz	#konj	^	~dazz	\daz	_Iú0úV_RPaul-067{01r,21}.01	ø	:	³d=d³a=a³z=zz³
+`d‰r @art	ùd‰r	#art	^NPm	~diŠ	\t ie	_Iú0úV_RPaul-067{01r,21}.02	ø	:	³t=d³ie=iŠ³
+`l‰we @m	ùl‰we	#m	^NP	~l‰wen	\lewin	_Iú0úV_RPaul-067{01r,21}.03	ø	:	³l=l³e=‰³w=w³i=e³n=n³
+`von @pr„p	ùvon	#pr„p	^	~von	\uon|	_Iú0úV_RPaul-067{01r,21}.04	ø	:	³u=v³o=o³n=n³
+`‰r @pron	ù‰r	#pron	^DSm	~im‚	\|imo	_Iú0úV_RPaul-067{01r,21}.05	ø	:	³i=i³m=m³o=‚³
+`vliŠhen @stv2b	ùvliŠhen	#stv2b	^3PV	~vluhen	\uluhin,	_Iú0úV_RPaul-067{01r,21}.06@	ø	:	³u=v³l=l³u=u³h=h³i=e³n=n³
+`in @pr„p	ùin	#pr„p	^	~in	\in|	_Iú0úV_RPaul-068{01r,21}.01	ø	:	³i=i³n=n³
+`Šin @art	ùŠin	#art	^ASm	~Šinen	\|ein in	_Iú0úV_RPaul-068{01r,21}.02	ø	:	³ei=Ši³n=n³i=e³n=n³
+`winkel @m	ùwinkel	#m	^AS	~winkel	\winchil	_Iú0úV_RPaul-068{01r,21}.03	ø	:	³w=w³i=i³n=n³ch=k³i=e³l=l³
+`sich @pron	ùsich	#pron	^A	~sich	\$ich	_Iú0úV_RPaul-068{01r,21}.04	ø	:	³s=s³i=i³ch=ch³
+`smiŠgen @stv2a	ùsmiŠgen	#stv2a	^3PV	~smugen	\$mugin(.)	_Iú0úV_RPaul-068{01r,21}.05@	ø	:	³s=s³m=m³u=u³g=g³i=e³n=n³
+`d‰r @pron	ùd‰r	#pron	^ASn	~dazz	\d az	_Iú0úV_RPaul-069{01r,21}.01	ø	:	³d=d³a=a³z=zz³
+`machen @swv	ùmachen	#swv	^3SV	~mach‚t<e>	\mach<ot>h	_Iú0úV_RPaul-069{01r,22}.02	ø	:	³m=m³a=a³ch=ch³o=‚³th=t³=e³
+`all @pron	ùall	#pron	^0NSf	~all	\al|	_Iú0úV_RPaul-069{01r,22}.03	ø	:	³a=a³l=l³
+`dŒn @pron_poss	ùdŒn	#pron_poss	^0NSf	~dŒn	\|din	_Iú0úV_RPaul-069{01r,22}.04	ø	:	³d=d³i=Œ³n=n³
+`gote-hŠit @f	ùgote-hŠit	#f	^NS	~gote-hŠit	\gotehait(.)	_Iú0úV_RPaul-069{01r,22}.05@	ø	:	³g=g³o=o³t=t³e=e³=-³h=h³ai=Ši³t=t³
+`‰r @pron	ù‰r	#pron	^NPm	~si	\$i|	_Iú0úV_RPaul-070{01r,22}.01	ø	:	³s=s³i=i³
+`ne @partikel	ùne	#partikel	^	~n<e>	\|n|	_Iú0úV_RPaul-070{01r,22}.02	ø	:	³n=n³=e³
+`tuon @anv	ùtuon	#anv	^3PVI	~tƒten	\|tatin	_Iú0úV_RPaul-070{01r,22}.03	ø	:	³t=t³a=ƒ³t=t³i=e³n=n³
+`‰r @pron	ù‰r	#pron	^DSm	~ime	\ime	_Iú0úV_RPaul-070{01r,22}.04	ø	:	³i=i³m=m³e=e³
+`neh-Šin @pron	ùneh-Šin	#pron	^0ASn	~enhŠin	\inhein	_Iú0úV_RPaul-070{01r,22}.05	ø	:	³i=e³n=n³h=h³ei=Ši³n=n³
+`lŠid @n	ùlŠid	#n	^AS	~lŠid	\laith,,	_Iú0úV_RPaul-070{01r,22}.06@	ø	:	³l=l³ai=Ši³th=d³
+`unz(e) @adv/konj	ùunz(e)	#konj	^	~unze	\unzi	_Iú0úV_RPaul-071{01r,22}.01	ø	:	³u=u³n=n³z=z³i=e³
+`d– @pron	ùd–	#pron	^NS	~d–	\du	_Iú0úV_RPaul-071{01r,22}.02	ø	:	³d=d³u=–³
+`mit @pr„p	ùmit	#pr„p	^	~mit	\mit	_Iú0úV_RPaul-071{01r,22}.03	ø	:	³m=m³i=i³t=t³
+`Habakuk @PN	ùHabakuk	#PN	^GS	~<H>abakukes	\abacuchi$	_Iú0úV_RPaul-071{01r,22}.04	ø	:	*³=h³a=a³b=b³a=a³c=k³u=u³ch=k³i=e³s=s³
+`br“t @n	ùbr“t	#n	^DS	~br“te	\brote	_Iú0úV_RPaul-071{01r,22}.05@	ø	:	³b=b³r=r³o=“³t=t³e=e³
+`‰r @pron	ù‰r	#pron	^ASm	~in	\in	_Iú0úV_RPaul-072{01r,22}.01	ø	:	³i=i³n=n³
+`dƒr @adv	ùdƒr/+–z	#adv	^	~d<ƒ>r	\dr|	_Iú0úV_RPaul-072{01r,23}.02	ø	:	³d=d³=ƒ³r=r³
+`–z @adv	ù–z/dƒr+	#adv	^	~–z	\|uz	_Iú0úV_RPaul-072{01r,23}.03	ø	:	³u=–³z=z³
+`loŠsen @swv	ùloŠsen	#swv	^2SV	~l“st‚s	\lo$to$(.)	_Iú0úV_RPaul-072{01r,23}.04@	ø	:	³l=l³o=“³s=s³t=t³o=‚³s=s³
+`n– @adv/konj	ùn–	#adv	^	~n–	\nu|	_Iú0úV_RPaul-073{01r,23}.01	ø	:	³n=n³u=–³
+`biten @stv5b	ùbiten	#stv5b	^1SG	~bit<e>	\|bit|	_Iú0úV_RPaul-073{01r,23}.02	ø	:	³b=b³i=i³t=t³=e³
+`ich @pron	ùich	#pron	^NS	~ich	\|ich	_Iú0úV_RPaul-073{01r,23}.03	ø	:	³i=i³ch=ch³
+`d‰r @art	ùd‰r	#art	^ASm	~d‰n	\d en	_Iú0úV_RPaul-073{01r,23}.04	ø	:	³d=d³e=‰³n=n³
+`hˆrre @m	ùhˆrre	#m	^AS	~hˆrren	\herrin,	_Iú0úV_RPaul-073{01r,23}.05@	ø	:	³h=h³e=ˆ³rr=rr³i=e³n=n³
+`d‰r @art	ùd‰r	#art	^ASm	~d‰n	\d en	_Iú0úV_RPaul-074{01r,23}.01	ø	:	³d=d³e=‰³n=n³
+`guot @adj	ùguot	#adj	^ASm!	~guoten	\gut in	_Iú0úV_RPaul-074{01r,23}.02	ø	:	³g=g³u=uo³t=t³i=e³n=n³
+`Daniel @PN	ùDaniel	#PN	^AS	~Danielen	\danielin,,	_Iú0úV_RPaul-074{01r,23}.03@	ø	:	*³d=d³a=a³n=n³i=i³e=e³l=l³i=e³n=n³
+`dazz @konj	ùdazz	#konj	^	~dazz	\daz	_Iú0úV_RPaul-075{01r,23}.01	ø	:	³d=d³a=a³z=zz³
+`‰r @pron	ù‰r	#pron	^NSm	~‰r	\er	_Iú0úV_RPaul-075{01r,23}.02	ø	:	³e=‰³r=r³
+`ich @pron	ùich	#pron	^DS	~mir	\mir	_Iú0úV_RPaul-075{01r,23}.03	ø	:	³m=m³i=i³r=r³
+`sŒn @anv	ùsŒn	#anv	^3SGK	~sŒe	\$ie	_Iú0úV_RPaul-075{01r,23}.04	ø	:	³s=s³i=Œ³e=e³
+`w‰gen @stv5	ùw‰gen	#stv5 pG	^-	~w‰gente	\wegind e ,,	_Iú0úV_RPaul-075{01r,23}.05@	ø	:	³w=w³e=‰³g=g³i=e³n=n³d=t³e=e³
+`unte @konj	ùunte	#konj	^	~unte	\undi	_Iú0úV_RPaul-076{01r,23}.01	ø	:	³u=u³n=n³d=t³i=e³
+`d– @pron	ùd–	#pron	^NS	~d–	\du	_Iú0úV_RPaul-076{01r,24}.02	ø	:	³d=d³u=–³
+`ich @pron	ùich	#pron	^DS	~mir	\mir	_Iú0úV_RPaul-076{01r,24}.03	ø	:	³m=m³i=i³r=r³
+`sŒn @anv	ùsŒn	#anv	^2SGK	~sŒes	\$ie$	_Iú0úV_RPaul-076{01r,24}.04	ø	:	³s=s³i=Œ³e=e³s=s³
+`ver-g‰ben @stv5	ùver-g‰ben	#stv5 pG	^-	~ver-g‰bente	\uergebind e 	_Iú0úV_RPaul-076{01r,24}.05@	ø	:	³u=v³e=e³r=r³=-³g=g³e=‰³b=b³i=e³n=n³d=t³e=e³
+`d‰r @art	ùd‰r	#art	^APf	~diŠ	\d ie	_Iú0úV_RPaul-077{01r,24}.01	ø	:	³d=d³ie=iŠ³
+`snte @f	ùsnte	#f	^AP	~snte	\$undi	_Iú0úV_RPaul-077{01r,24}.02	ø	:	³s=s³u=³n=n³d=t³i=e³
+`mŒn @pron_poss	ùmŒn	#pron_poss	^GSm	~mŒnes	\min i$	_Iú0úV_RPaul-077{01r,24}.03	ø	:	³m=m³i=Œ³n=n³i=e³s=s³
+`lŒb @mn	ùlŒb	#m	^GS	~lŒbes	\libe$,,	_Iú0úV_RPaul-077{01r,24}.04@	ø	:	³l=l³i=Œ³b=b³e=e³s=s³
+`all-s“ @adv/konj	ùall-s“	#konj	^	~all-s“	\al$o	_Iú0úV_RPaul-078{01r,24}.01	ø	:	³a=a³l=ll³=-³s=s³o=“³
+`d– @pron	ùd–	#pron	^NS	~d–	\du|	_Iú0úV_RPaul-078{01r,24}.02	ø	:	³d=d³u=–³
+`tuon @anv	ùtuon	#anv	^2SVI	~t‘te	\|tate	_Iú0úV_RPaul-078{01r,24}.03	ø	:	³t=t³a=‘³t=t³e=e³
+`d‰r @art	ùd‰r	#art	^DSn	~d‰m	\d em	_Iú0úV_RPaul-078{01r,24}.04	ø	:	³d=d³e=‰³m=m³
+`wŒb @n	ùwŒb	#n	^DS	~wŒbe	\wibe,,	_Iú0úV_RPaul-078{01r,24}.05@	ø	:	³w=w³i=Œ³b=b³e=e³
+`d‰r @pron	ùd‰r	#pron	^NSf+	~diu	\d iu	_Iú0úV_RPaul-079{01r,24}.01	ø	:	³d=d³iu=iu³
+`durh @pr„p	ùdurh	#pr„p	^	~dur<h>	\dur	_Iú0úV_RPaul-079{01r,24}.02	ø	:	³d=d³u=u³r=r³=h³
+`rŠge @f	ùrŠge	#f	^AS	~rŠge	\ruge	_Iú0úV_RPaul-079{01r,24}.03@	ø	:	³r=r³u=Š³g=g³e=e³
+`vr(e) @pr„p	ùvr(e)	#pr„p	^	~vr<e>	\uur	_Iú0úV_RPaul-080{01r,25}.01	ø	:	³u=v³u=³r=r³=e³
+`d– @pron	ùd–	#pron	^AS	~dich	\dich	_Iú0úV_RPaul-080{01r,25}.02	ø	:	³d=d³i=i³ch=ch³
+`w‰rden @stv3b	ùw‰rden	#stv3b	^3SVI	~ward	\warth	_Iú0úV_RPaul-080{01r,25}.03	ø	:	³w=w³a=a³r=r³th=d³
+`vŠren @swv	ùvŠren	#swv pV	^-	~ge-vŠret	\geuurith ,,	_Iú0úV_RPaul-080{01r,25}.04@	ø	:	³g=g³e=e³=-³u=v³u=Š³r=r³i=e³th=t³
+`d‰r @pron	ùd‰r	#pron	^ASf+	~diŠ	\d ie	_Iú0úV_RPaul-081{01r,25}.01	ø	:	³d=d³ie=iŠ³
+`d‰r @art	ùd‰r	#art	^NPm	~di	\d i	_Iú0úV_RPaul-081{01r,25}.02	ø	:	³d=d³i=i³
+`jude @m	ùjude	#m	^NP	~juden	\iudin	_Iú0úV_RPaul-081{01r,25}.03	ø	:	³i=j³u=u³d=d³i=e³n=n³
+`vŠren @swv	ùvŠren	#swv	^3PV	~vuorten	\uurtin,,(	_Iú0úV_RPaul-081{01r,25}.04@	ø	:	³u=v³u=uo³r=r³t=t³i=e³n=n³
+`trŠhtŒn @m	ùtrŠhtŒn	#m	^NS	~trŠhtŒn	\drethin,	_Iú0úV_RPaul-082{01r,25}.01	ø	:	³d=t³r=r³e=Š³th=ht³i=Œ³n=n³
+`d‰r @art	ùd‰r	#art	^NSm	~d‰r	\d ir	_Iú0úV_RPaul-082{01r,25}.02	ø	:	³d=d³i=‰³r=r³
+`guot @adj	ùguot	#adj	^NSmw%	~guote	\gut e,,)	_Iú0úV_RPaul-082{01r,25}.03@	ø	:	³g=g³u=uo³t=t³e=e³
+`vr(e) @pr„p	ùvr(e)	#pr„p	^	~vr<e>	\uur|	_Iú0úV_RPaul-083{01r,25}.01	ø	:	³u=v³u=³r=r³=e³
+`d– @pron	ùd–	#pron	^AS	~dich	\|dich	_Iú0úV_RPaul-083{01r,25}.02	ø	:	³d=d³i=i³ch=ch³
+`durh @pr„p	ùdurh	#pr„p	^	~dur<h>	\dur	_Iú0úV_RPaul-083{01r,25}.03	ø	:	³d=d³u=u³r=r³=h³
+`d‰r @art	ùd‰r	#art	^ASn	~dazz	\d az	_Iú0úV_RPaul-083{01r,25}.04	ø	:	³d=d³a=a³z=zz³
+`Šin @num	ùŠin	#num	^ASnw%	~Šine	\ein i,,	_Iú0úV_RPaul-083{01r,26}.05@	ø	:	³ei=Ši³n=n³i=e³
+`dazz @konj	ùdazz	#konj	^	~dazz	\daz	_Iú0úV_RPaul-084{01r,26}.01	ø	:	³d=d³a=a³z=zz³
+`d– @pron	ùd–	#pron	^NS	~d–	\du	_Iú0úV_RPaul-084{01r,26}.02	ø	:	³d=d³u=–³
+`‰r @pron	ù‰r	#pron	^ASf	~si	\$i	_Iú0úV_RPaul-084{01r,26}.03	ø	:	³s=s³i=i³
+`hŠizen @stv7	ùhŠizen	#stv7	^2SVK	~hiŠzest	\hi#zi$t	_Iú0úV_RPaul-084{01r,26}.04	ø	:	³h=h³i=iŠ³z=z³i=e³s=s³t=t³
+`stŠinen @swv	ùstŠinen	#swv i	^-	~stŠinen	\$teinin(.)	_Iú0úV_RPaul-084{01r,26}.05@	ø	:	³s=s³t=t³ei=Ši³n=n³i=e³n=n³
+`‰r @pron	ù‰r	#pron	^NPm	~si	\$i	_Iú0úV_RPaul-085{01r,26}.01	ø	:	³s=s³i=i³
+`zŒhen @stv1b	ùzŒhen	#stv1b	^3PV	~zigen	\$cigin	_Iú0úV_RPaul-085{01r,26}.02	ø	:	³sc=z³i=i³g=g³i=e³n=n³
+`‰r @pron	ù‰r	#pron	^ASf	~si	\$i	_Iú0úV_RPaul-085{01r,26}.03	ø	:	³s=s³i=i³
+`Šin @art	ùŠin	#art	^GSn	~Šines	\ein i$	_Iú0úV_RPaul-085{01r,26}.04	ø	:	³ei=Ši³n=n³i=e³s=s³
+`huor @mn	ùhuor	#n	^GS	~huores	\huri$,,	_Iú0úV_RPaul-085{01r,26}.05@	ø	:	³h=h³u=uo³r=r³i=e³s=s³
+`‰r @pron	ù‰r	#pron	^NSf	~siu	\$iu	_Iú0úV_RPaul-086{01r,26}.01	ø	:	³s=s³iu=iu³
+`w‰sen @stv5	ùw‰sen	#stv5	^3SVK	~w‘re	\ware	_Iú0úV_RPaul-086{01r,26}.02	ø	:	³w=w³a=‘³r=r³e=e³
+`w‰rd @adj	ùw‰rd	#adj	^-	~w‰rd	\werth 	_Iú0úV_RPaul-086{01r,26}.03	ø	:	³w=w³e=‰³r=r³th=d³
+`d‰r @art	ùd‰r	#art	^GSm	~d‰s	\d e$	_Iú0úV_RPaul-086{01r,26}.04	ø	:	³d=d³e=‰³s=s³
+`t“d @m<(u)>	ùt“d	#m<(u)>	^GS	~t“des	\tode$,,	_Iú0úV_RPaul-086{01r,26}.05@	ø	:	³t=t³o=“³d=d³e=e³s=s³
+`all-s“ @adv/konj	ùall-s“	#konj	^	~all-s<“>	\al$|	_Iú0úV_RPaul-087{01r,26}.01	ø	:	³a=a³l=ll³=-³s=s³=“³
+`iŠ @adv	ùiŠ	#adv	^	~iŠ	\|ie	_Iú0úV_RPaul-087{01r,26}.02	ø	:	³ie=iŠ³
+`d‰r @art	ùd‰r	#art	^NSf	~diu	\d iu	_Iú0úV_RPaul-087{01r,27}.03	ø	:	³d=d³iu=iu³
+`alt @adj	ùalt	#adj	^NSfw	~alte	\alt e	_Iú0úV_RPaul-087{01r,27}.04	ø	:/K[alte: Loch im Pergament zwischen {a} und {lte}]	³a=a³l=l³t=t³e=e³
+`ˆwe @mf	ùˆwe	#f	^NS	~ˆwe	\evwe	_Iú0úV_RPaul-087{01r,27}.05	ø	:	³e=ˆ³vw=w³e=e³
+`ge-biŠten @stv2b	ùge-biŠten	#stv2b	^3SVI	~ge-b“t	\gebot(.)	_Iú0úV_RPaul-087{01r,27}.06@	ø	:	³g=g³e=e³=-³b=b³o=“³t=t³
+`d“ @adv/konj	ùd“	#adv	^	~d“	\do	_Iú0úV_RPaul-088{01r,27}.01	ø	:	³d=d³o=“³
+`loŠsen @swv	ùloŠsen	#swv	^2SV	~l“st‚s	\lo$to$	_Iú0úV_RPaul-088{01r,27}.02	ø	:	³l=l³o=“³s=s³t=t³o=‚³s=s³
+`d– @pron	ùd–	#pron	^NS	~d–	\tu	_Iú0úV_RPaul-088{01r,27}.03	ø	:	³t=d³u=–³
+`‰r @pron	ù‰r	#pron	^ASf	~si	\$¡	_Iú0úV_RPaul-088{01r,27}.04	ø	:	³s=s³¡=i³
+`–zer @pr„p	ù–zer	#pr„p	^	~–zer	\uzir	_Iú0úV_RPaul-088{01r,27}.05	ø	:	³u=–³z=z³i=e³r=r³
+`d‰r @art	ùd‰r	#art	^DSf	~d‰r	\d er	_Iú0úV_RPaul-088{01r,27}.06	ø	:	³d=d³e=‰³r=r³
+`n“t @mf<u>	ùn“t	#f<u>	^DS	~n“t	\noth,,	_Iú0úV_RPaul-088{01r,27}.07@	ø	:	³n=n³o=“³th=t³
+`d“ @adv/konj	ùd“	#adv	^	~d“	\do	_Iú0úV_RPaul-089{01r,27}.01	ø	:	³d=d³o=“³
+`schrŒben @stv1a	ùschrŒben	#stv1a	^2SVI	~schribe	\$cribi	_Iú0úV_RPaul-089{01r,27}.02	ø	:	³sc=sch³r=r³i=i³b=b³i=e³
+`d– @pron	ùd–	#pron	^NS	~d–	\du	_Iú0úV_RPaul-089{01r,27}.03	ø	:	³d=d³u=–³
+`ane @pr„p	ùane	#pr„p	^	~an<e>	\an	_Iú0úV_RPaul-089{01r,27}.04	ø	:	³a=a³n=n³=e³
+`d‰r @art	ùd‰r	#art	^DSf	~d‰r	\d er	_Iú0úV_RPaul-089{01r,27}.05	ø	:	³d=d³e=‰³r=r³
+`‰rde @f	ù‰rde	#f	^DS	~‰rde	\erde	_Iú0úV_RPaul-089{01r,27}.06@	ø	:	³e=‰³r=r³d=d³e=e³
+`d‰r @art	ùd‰r	#art	^DP	~d‰n	\d en	_Iú0úV_RPaul-090{01r,27}.01	ø	:	³d=d³e=‰³n=n³
+`jude @m	ùjude	#m	^DP	~juden	\iudin	_Iú0úV_RPaul-090{01r,28}.02	ø	:	³i=j³u=u³d=d³i=e³n=n³
+`un-w‰rd @adj	ùun-w‰rd	#adj	^DPø!	~un-w‰rde<n>	\unwerd e,,	_Iú0úV_RPaul-090{01r,28}.03@	ø	:	³u=u³n=n³=-³w=w³e=‰³r=r³d=d³e=e³=n³
+`d‰r @pron	ùd‰r	#pron	^NSm+	~d‰r	\d er	_Iú0úV_RPaul-091{01r,28}.01	ø	:	³d=d³e=‰³r=r³
+`ƒne @pr„p	ùƒne	#pr„p	^	~ƒne	\ane	_Iú0úV_RPaul-091{01r,28}.02	ø	:	³a=ƒ³n=n³e=e³
+`snte @f	ùsnte	#f	^AS	~snte	\$unde	_Iú0úV_RPaul-091{01r,28}.03	ø	:	³s=s³u=³n=n³d=t³e=e³
+`w‰sen @stv5	ùw‰sen	#stv5	^3SVK	~w‘re	\ware,,	_Iú0úV_RPaul-091{01r,28}.04@	ø	:	³w=w³a=‘³r=r³e=e³
+`dazz @konj	ùdazz	#konj	^	~dazz	\daz	_Iú0úV_RPaul-092{01r,28}.01	ø	:	³d=d³a=a³z=zz³
+`‰r @pron	ù‰r	#pron	^NSm	~‰r	\er	_Iú0úV_RPaul-092{01r,28}.02	ø	:	³e=‰³r=r³
+`niuwan @adv/konj	ùniuwan	#adv	^	~niuwan	\niuwin	_Iú0úV_RPaul-092{01r,28}.03	ø	:	³n=n³iu=iu³w=w³i=a³n=n³
+`ver-b‰r(e)n @stv4	ùver-b‰r(e)n	#stv4	^3SVK	~ver-b‘re	\uerbare,,	_Iú0úV_RPaul-092{01r,28}.04@	ø	:	³u=v³e=e³r=r³=-³b=b³a=‘³r=r³e=e³
+`‰r @pron	ù‰r	#pron	^NSm	~‰r	\er|	_Iú0úV_RPaul-093{01r,28}.01	ø	:	³e=‰³r=r³
+`ne @partikel	ùne	#partikel	^	~ne	\|ni	_Iú0úV_RPaul-093{01r,28}.02	ø	:	³n=n³i=e³
+`w‰rfen @stv3b	ùw‰rfen	#stv3b	^3SVK	~wrfe	\wurfi	_Iú0úV_RPaul-093{01r,28}.03	ø	:	³w=w³u=³r=r³f=f³i=e³
+`ane @pr„p	ùane	#pr„p	^	~an<e>	\an|	_Iú0úV_RPaul-093{01r,28}.04	ø	:	³a=a³n=n³=e³
+`‰r @pron	ù‰r	#pron	^ASf	~si	\|$i	_Iú0úV_RPaul-093{01r,28}.05	ø	:	³s=s³i=i³
+`Šin @art	ùŠin	#art	^ASm	~Šinen	\ein in	_Iú0úV_RPaul-093{01r,29}.06	ø	:	³ei=Ši³n=n³i=e³n=n³
+`stŠin @m	ùstŠin	#m	^AS	~stŠin	\$tein(.)	_Iú0úV_RPaul-093{01r,29}.07@	ø	:	³s=s³t=t³ei=Ši³n=n³
+`d“ @adv/konj	ùd“	#adv	^	~d“	\do	_Iú0úV_RPaul-094{01r,29}.01	ø	:	³d=d³o=“³
+`ne @partikel	ùne	#partikel	^	~en	\in|	_Iú0úV_RPaul-094{01r,29}.02	ø	:	³i=e³n=n³
+`w‰sen @stv5	ùw‰sen	#stv5	^3SVI	~was	\|wa$	_Iú0úV_RPaul-094{01r,29}.03	ø	:	³w=w³a=a³s=s³
+`‰r @pron	ù‰r	#pron	^GPmfn	~ir	\ir	_Iú0úV_RPaul-094{01r,29}.04	ø	:	³i=i³r=r³
+`all @pron	ùall	#pron	^GPmfn%&	~aller	\all er	_Iú0úV_RPaul-094{01r,29}.05	ø	:	³a=a³ll=ll³e=e³r=r³
+`neh-Šin @pron	ùneh-Šin	#pron	^0NSm	~enhŠin	\ineh%ein,,	_Iú0úV_RPaul-094{01r,29}.06@	ø	:	³i=e³n=n³e=³h=h³%ei=Ši³n=n³
+`d‰r @pron	ùd‰r	#pron	^NSm+	~d‰r	\d er	_Iú0úV_RPaul-095{01r,29}.01	ø	:	³d=d³e=‰³r=r³
+`sich @pron	ùsich	#pron	^A	~sich	\$ich	_Iú0úV_RPaul-095{01r,29}.02	ø	:	³s=s³i=i³ch=ch³
+`d‰r @pron	ùd‰r	#pron	^GSn	~d‰s	\d e$	_Iú0úV_RPaul-095{01r,29}.03	ø	:	³d=d³e=‰³s=s³
+`ver-m‰zzen @stv5	ùver-m‰zzen	#stv5	^3SVK	~ver-m‘ze	\uerma$ze(.)	_Iú0úV_RPaul-095{01r,29}.04@	ø	:	³u=v³e=e³r=r³=-³m=m³a=‘³sz=z³e=e³
+`Šine @adv	ùŠine	#adv	^	~Šine	\aini	_Iú0úV_RPaul-096{01r,29}.01	ø	:	³ai=Ši³n=n³i=e³
+`‰r @pron	ù‰r	#pron	^NPm	~siŠ	\$ie	_Iú0úV_RPaul-096{01r,29}.02	ø	:	³s=s³ie=iŠ³
+`‰r @pron	ù‰r	#pron	^ASf	~si	\$i	_Iú0úV_RPaul-096{01r,29}.03	ø	:	³s=s³i=i³
+`lƒzen @stv7	ùlƒzen	#stv7	^3PV	~liŠzen	\liezen(.)	_Iú0úV_RPaul-096{01r,29}.04@	ø	:	³l=l³ie=iŠ³z=z³e=e³n=n³
+`d“ @adv/konj	ùd“	#adv	^	~d“	\do	_Iú0úV_RPaul-097{01r,30}.01	ø	:	³d=d³o=“³
+`gƒn @anv	ùgƒn	#anv	^3PV	~giŠngen	\gingin	_Iú0úV_RPaul-097{01r,30}.02	ø	:	³g=g³i=iŠ³n=n³g=g³i=e³n=n³
+`‰r @pron	ù‰r	#pron	^NPmfn	~si	\$i	_Iú0úV_RPaul-097{01r,30}.03	ø	:	³s=s³i=i³
+`all @pron	ùall	#pron	^NPmfn%&	~alle	\all e	_Iú0úV_RPaul-097{01r,30}.04	ø	:	³a=a³ll=ll³e=e³
+`dannen @adv	ùdannen	#adv	^	~dannen	\dannin,,	_Iú0úV_RPaul-097{01r,30}.05@	ø	:	³d=d³a=a³nn=nn³i=e³n=n³
+`Šin @num	ùŠin	#num	^NSmw!%	~Šine	\e¡n e	_Iú0úV_RPaul-098{01r,30}.01	ø	:	³e¡=Ši³n=n³e=e³
+`nƒh @pr„p	ùnƒh	#pr„p	^	~nƒh	\nach	_Iú0úV_RPaul-098{01r,30}.02	ø	:	³n=n³a=ƒ³ch=h³
+`ander @pron	ùander	#pron	^DSm%	~ander<e>m‚	\andir mo,	_Iú0úV_RPaul-098{01r,30}.03@	ø	:	³a=a³n=n³d=d³i=e³r=r³=e³m=m³o=‚³
+`[!] @[!]	ùunus*	#[!]	^	~unus	\un%9	_Iú0úV_RPaul-099{01r,30}.01	ø	:	*³un%9=unus³
+`[!] @[!]	ùpost*	#[!]	^	~post	\po$t	_Iú0úV_RPaul-099{01r,30}.02	ø	:	*³post=post³
+`[!] @[!]	ùunus*	#[!]	^	~unum	\unu\-(.)	_Iú0úV_RPaul-099{01r,30}.03@	ø	:	*³unu\-=unum³
+`d“ @adv/konj	ùd“	#adv	^	~d“	\do	_Iú0úV_RPaul-100{01r,30}.01	ø	:	³d=d³o=“³
+`be-ginnen @anv	ùbe-ginnen	#anv	^3PV	~be-gund‚n	\begundon	_Iú0úV_RPaul-100{01r,30}.02	ø	:	³b=b³e=e³=-³g=g³u=u³n=n³d=d³o=‚³n=n³
+`‰r @pron	ù‰r	#pron	^NPm	~siŠ	\$¡e	_Iú0úV_RPaul-100{01r,30}.03	ø	:	³s=s³¡e=iŠ³
+`r–men @swv	ùr–men	#swv i	^-	~r–men	\rummin(.)	_Iú0úV_RPaul-100{01r,31}.04@	ø	:	³r=r³u=–³mm=m³i=e³n=n³
+`d“ @adv/konj	ùd“	#adv	^	~d“	\do	_Iú0úV_RPaul-101{01r,31}.01	ø	:	³d=d³o=“³
+`riuwen @stv2c	ùriuwen	#stv2c	^3PV	~r–wen	\<ru>win	_Iú0úV_RPaul-101{01r,31}.02	ø	:	³r=r³u=–³w=w³i=e³n=n³
+`‰r @pron	ù‰r	#pron	^NPm	~si	\$¡	_Iú0úV_RPaul-101{01r,31}.03	ø	:	³s=s³¡=i³
+`ir(e) @pron_poss	ùir(e)	#pron_poss	^0APf	~ir<e>	\¡r|	_Iú0úV_RPaul-101{01r,31}.04	ø	:	³¡=i³r=r³=e³
+`snte @f	ùsnte	#f	^AP	~snte	\|$unde,,	_Iú0úV_RPaul-101{01r,31}.05@	ø	:	³s=s³u=³n=n³d=t³e=e³
+`d– @pron	ùd–	#pron	^NS	~d–	\do	_Iú0úV_RPaul-102{01r,31}.01	ø	:	³d=d³o=–³
+`ver-g‰ben @stv5	ùver-g‰ben	#stv5	^2SVI	~ver-g‘be	\uer#gabe	_Iú0úV_RPaul-102{01r,31}.02	ø	:	³u=v³e=e³r=r³=-³g=g³a=‘³b=b³e=e³
+`‰r @pron	ù‰r	#pron	^DSf	~ir	\ir	_Iú0úV_RPaul-102{01r,31}.03	ø	:	³i=i³r=r³
+`ze @pr„p	ùze	#pr„p	^	~z<e>	\z|	_Iú0úV_RPaul-102{01r,31}.04	ø	:	³z=z³=e³
+`d‰r @art	ùd‰r	#art	^DSf	~<d>‰r	\|er|	_Iú0úV_RPaul-102{01r,31}.05	ø	:/\[!]	³=d³e=‰³r=r³
+`stunt(e) @f	ùstunt(e)	#f	^DS	~stunte	\|$tunde	_Iú0úV_RPaul-102{01r,31}.06@	ø	:	³s=s³t=t³u=u³n=n³d=t³e=e³
+`durh @pr„p	ùdurh	#pr„p	^	~dur<h>	\dur	_Iú0úV_RPaul-103{01r,31}.01	ø	:	³d=d³u=u³r=r³=h³
+`dŒn @pron_poss	ùdŒn	#pron_poss	^ASf	~dŒne	\din e	_Iú0úV_RPaul-103{01r,31}.02	ø	:	³d=d³i=Œ³n=n³e=e³
+`gŠte @f	ùgŠte	#f	^AS	~gŠte	\guti	_Iú0úV_RPaul-103{01r,31}.03@	ø	:	³g=g³u=Š³t=t³i=e³
+`all @pron	ùall	#pron	^ASn%	~allezz	\all i$,,	_Iú0úV_RPaul-104{01r,32}.01	ø	:	³a=a³ll=ll³i=e³s=z³
+`d‰r @pron	ùd‰r	#pron	^ASn+	~dazz	\d az	_Iú0úV_RPaul-104{01r,32}.02	ø	:	³d=d³a=a³z=z³
+`‰r @pron	ù‰r	#pron	^NSf	~siu	\$iu	_Iú0úV_RPaul-104{01r,32}.03	ø	:	³s=s³iu=iu³
+`iŠ @adv	ùiŠ	#adv	^	~iŠ	\ie	_Iú0úV_RPaul-104{01r,32}.04	ø	:	³ie=iŠ³
+`ge-snten @swv	ùge-snten	#swv	^3SV	~ge-sunt‚te	\ge%e$undote(.)	_Iú0úV_RPaul-104{01r,32}.05@	ø	:	³g=g³e%e=e³=-³s=s³u=u³n=n³d=t³o=‚³t=t³e=e³
+`d“ @adv/konj	ùd“	#adv	^	~d“	\do	_Iú0úV_RPaul-105{01r,32}.01	ø	:	³d=d³o=“³
+`hŠizen @stv7	ùhŠizen	#stv7	^2SVI	~hiŠze	\hi$ze	_Iú0úV_RPaul-105{01r,32}.02	ø	:	³h=h³i=iŠ³sz=z³e=e³
+`d– @pron	ùd–	#pron	^NS	~d–	\du	_Iú0úV_RPaul-105{01r,32}.03	ø	:	³d=d³u=–³
+`‰r @pron	ù‰r	#pron	^ASf	~si	\$i,,	_Iú0úV_RPaul-105{01r,32}.04	ø	:	³s=s³i=i³
+`hˆrre @m	ùhˆrre	#m	^NS	~hˆrre	\herre,,	_Iú0úV_RPaul-105{01r,32}.05@	ø	:	³h=h³e=ˆ³rr=rr³e=e³
+`dazz @konj	ùdazz	#konj	^	~dazz	\daz	_Iú0úV_RPaul-106{01r,32}.01	ø	:	³d=d³a=a³z=zz³
+`‰r @pron	ù‰r	#pron	^NSf	~siu	\$iu	_Iú0úV_RPaul-106{01r,32}.02	ø	:	³s=s³iu=iu³
+`‰r @pron	ù‰r	#pron	^GSn	~‰s	\i$#z|	_Iú0úV_RPaul-106{01r,32}.03	ø	:	³i=‰³sz=s³
+`ne @partikel	ùne	#partikel	^	~en	\|in|	_Iú0úV_RPaul-106{01r,32}.04	ø	:	³i=e³n=n³
+`tuon @anv	ùtuon	#anv	^3SVK	~t‘te	\|tate	_Iú0úV_RPaul-106{01r,32}.05	ø	:	³t=t³a=‘³t=t³e=e³
+`niht @n	ùniht	#n	^AS	~niuht	\niuth	_Iú0úV_RPaul-106{01r,32}.06	ø	:	³n=n³iu=iu³th=ht³
+`mˆr(e) @adv comp	ùmˆr(e)	#adv comp	^	~mˆr(e)	\mere,,	_Iú0úV_RPaul-106{01r,32}.07@	ø	:	³m=m³e=ˆ³r=r³e=e³
+`dazz @konj	ùdazz	#konj	^	~dazz	\daz	_Iú0úV_RPaul-107{01r,33}.01	ø	:	³d=d³a=a³z=zz³
+`ir(e) @pron_poss	ùir(e)	#pron_poss	^0ASn	~ir<e>	\ir	_Iú0úV_RPaul-107{01r,33}.02	ø	:	³i=i³r=r³=e³
+`snten @n	ùsnten	#n	^AS	~snt‚n	\$undon	_Iú0úV_RPaul-107{01r,33}.03	ø	:	³s=s³u=³n=n³d=t³o=‚³n=n³
+`lƒzen @stv7	ùlƒzen	#stv7	^3SVK	~liŠze	\lize	_Iú0úV_RPaul-107{01r,33}.04	ø	:	³l=l³i=iŠ³z=z³e=e³
+`sŒn @anv	ùsŒn	#anv i	^-	~sŒn	\$in(.)	_Iú0úV_RPaul-107{01r,33}.05@	ø	:	³s=s³i=Œ³n=n³
+`d“ @adv/konj	ùd“	#adv	^	~d“	\do	_Iú0úV_RPaul-108{01r,33}.01	ø	:	³d=d³o=“³
+`w‰rden @stv3b	ùw‰rden	#stv3b	^3SVI	~ward	\warth	_Iú0úV_RPaul-108{01r,33}.02	ø	:	³w=w³a=a³r=r³th=d³
+`‰r @pron	ù‰r	#pron	^NSf	~siu	\$iv	_Iú0úV_RPaul-108{01r,33}.03	ø	:	³s=s³iv=iu³
+`dŒn @pron_poss	ùdŒn	#pron_poss	^0NSf	~dŒn	\din	_Iú0úV_RPaul-108{01r,33}.04	ø	:	³d=d³i=Œ³n=n³
+`triutinne @f	ùtriutinne	#f	^NS	~triutinne	\trutinne(.)	_Iú0úV_RPaul-108{01r,33}.05@	ø	:	³t=t³r=r³u=iu³t=t³i=i³nn=nn³e=e³
+`vaste @adv	ùvaste	#adv	^	~vaste	\ua$te	_Iú0úV_RPaul-109{01r,33}.01	ø	:	³u=v³a=a³s=s³t=t³e=e³
+`ge-louben @swv	ùge-louben	#swv	^3SV	~g<e>-loub<e>te	\globte	_Iú0úV_RPaul-109{01r,33}.02	ø	:	³g=g³=e³=-³l=l³o=ou³b=b³=e³t=t³e=e³
+`‰r @pron	ù‰r	#pron	^NSf	~siu	\$iv	_Iú0úV_RPaul-109{01r,33}.03	ø	:	³s=s³iv=iu³
+`ane @pr„p	ùane	#pr„p	^	~an<e>	\an	_Iú0úV_RPaul-109{01r,33}.04	ø	:	³a=a³n=n³=e³
+`d– @pron	ùd–	#pron	^AS	~dich	\dich(.)	_Iú0úV_RPaul-109{01r,33}.05@	ø	:	³d=d³i=i³ch=ch³
+`d‰r @art	ùd‰r	#art	^GSmn	~d‰s	\d e$	_Iú0úV_RPaul-110{01r,34}.01	ø	:	³d=d³e=‰³s=s³
+`ant-lƒz @mn	ùant-lƒz	#mn	^GS	~ant-lƒzes	\anthla%aze$	_Iú0úV_RPaul-110{01r,34}.02	ø	:	³a=a³n=n³th=t³=-³l=l³a%a=ƒ³z=z³e=e³s=s³
+`g‰r(e)n @swv	ùg‰r(e)n	#swv	^1SGI	~g‰r(e)n	\gerin	_Iú0úV_RPaul-110{01r,34}.03	ø	:	³g=g³e=‰³r=r³i=e³n=n³
+`ich @pron	ùich	#pron	^NS	~ich	\ich,,	_Iú0úV_RPaul-110{01r,34}.04@	ø	:	³i=i³ch=ch³
+`d‰r @pron	ùd‰r	#pron	^GSmn	~d‰s	\d e$	_Iú0úV_RPaul-111{01r,34}.01	ø	:	³d=d³e=‰³s=s³
+`d– @pron	ùd–	#pron	^NS	~d–	\tu	_Iú0úV_RPaul-111{01r,34}.02	ø	:	³t=d³u=–³
+`ber @pr„p	ùber	#pr„p	^	~ber	\ubir	_Iú0úV_RPaul-111{01r,34}.03	ø	:	³u=³b=b³i=e³r=r³
+`‰r @pron	ù‰r	#pron	^ASf	~si	\$i|	_Iú0úV_RPaul-111{01r,34}.04	ø	:	³s=s³i=i³
+`tuon @anv	ùtuon	#anv	^2SVI	~t‘te	\|tate	_Iú0úV_RPaul-111{01r,34}.05@	ø	:	³t=t³a=‘³t=t³e=e³
+`durh @pr„p	ùdurh	#pr„p	^	~dur<h>	\dur	_Iú0úV_RPaul-112{01r,34}.01	ø	:	³d=d³u=u³r=r³=h³
+`dŒn @pron_poss	ùdŒn	#pron_poss	^ASf	~dŒne	\din e	_Iú0úV_RPaul-112{01r,34}.02	ø	:	³d=d³i=Œ³n=n³e=e³
+`gŠte @f	ùgŠte	#f	^AS	~gŠte	\gute(.)	_Iú0úV_RPaul-112{01r,34}.03@	ø	:	³g=g³u=Š³t=t³e=e³
+`vr“ @adj	ùvr“	#adj	^-	~vr“	\uro 	_Iú0úV_RPaul-113{01r,34}.01	ø	:	³u=v³r=r³o=“³
+`d– @pron	ùd–	#pron	^NS	~d–	\du	_Iú0úV_RPaul-113{01r,34}.02	ø	:	³d=d³u=–³
+`‰r @pron	ù‰r	#pron	^ASf	~si	\$i	_Iú0úV_RPaul-113{01r,34}.03	ø	:	³s=s³i=i³
+`lƒzen @stv7	ùlƒzen	#stv7	^2SVI	~liŠze	\lieze(.)	_Iú0úV_RPaul-113{01r,34}.04@	ø	:	³l=l³ie=iŠ³z=z³e=e³
+`n– @adv/konj	ùn–	#adv	^	~n–	\nu	_Iú0úV_RPaul-114{01r,35}.01	ø	:	³n=n³u=–³
+`lƒzen @stv7	ùlƒzen	#stv7	^2SGB	~lƒ	\la	_Iú0úV_RPaul-114{01r,35}.02	ø	:	³l=l³a=ƒ³
+`ich @pron	ùich	#pron	^AS	~mich	\mich	_Iú0úV_RPaul-114{01r,35}.03	ø	:	³m=m³i=i³ch=ch³
+`‰r @pron	ù‰r	#pron	^GSf	~ir	\ir	_Iú0úV_RPaul-114{01r,35}.04	ø	:	³i=i³r=r³
+`ge-niŠzen @stv2b	ùge-niŠzen	#stv2b i	^-	~ge-niŠzen	\genizin	_Iú0úV_RPaul-114{01r,35}.05@	ø	:	³g=g³e=e³=-³n=n³i=iŠ³z=z³i=e³n=n³
+`unte @konj	ùunte	#konj	^	~unte	\undi	_Iú0úV_RPaul-115{01r,35}.01	ø	:	³u=u³n=n³d=t³i=e³
+`Daniel @PN	ùDaniel	#PN	^GS	~Danieles	\danieli$,	_Iú0úV_RPaul-115{01r,35}.02@	ø	:	*³d=d³a=a³n=n³i=i³e=e³l=l³i=e³s=s³
+`dŒn @pron_poss	ùdŒn	#pron_poss	^GSm	~dŒnes	\din i$	_Iú0úV_RPaul-116{01r,35}.01	ø	:	³d=d³i=Œ³n=n³i=e³s=s³
+`wŒssage @m	ùwŒssage	#m	^GS	~wŒssagen	\wi$agin	_Iú0úV_RPaul-116{01r,35}.02	ø	:	³w=w³i=Œ³s=ss³a=a³g=g³i=e³n=n³
+`hˆr(e) @adj	ùhˆr(e)	#adj	^GSmø!	~hˆres	\her i $,)	_Iú0úV_RPaul-116{01r,35}.03@	ø	:/^[nach {dini$}]	³h=h³e=ˆ³r=r³i=e³s=s³
+`unte @konj	ùunte	#konj	^	~unte	\undi	_Iú0úV_RPaul-117{01r,35}.01	ø	:	³u=u³n=n³d=t³i=e³
+`dŒn @pron_poss	ùdŒn	#pron_poss	^GPm	~dŒner	\din ir	_Iú0úV_RPaul-117{01r,35}.02	ø	:	³d=d³i=Œ³n=n³i=e³r=r³
+`schalk @m<(u)>	ùschalk	#m<(u)>	^GP	~schalk<e>	\$halch	_Iú0úV_RPaul-117{01r,35}.03	ø	:	³sh=sch³a=a³l=l³ch=k³=e³
+`all @pron	ùall	#pron	^GPmø!	~aller	\all ir,,	_Iú0úV_RPaul-117{01r,35}.04@	ø	:	³a=a³ll=ll³i=e³r=r³
+`d‰r @pron	ùd‰r	#pron	^APmfn+	~di	\d i	_Iú0úV_RPaul-118{01r,36}.01	ø	:	³d=d³i=i³
+`d– @pron	ùd–	#pron	^NS	~d–	\du	_Iú0úV_RPaul-118{01r,36}.02	ø	:	³d=d³u=–³
+`er-loŠsen @swv	ùer-loŠsen	#swv	^2SV	~er-l“st‚st	\ir#lo$to$t	_Iú0úV_RPaul-118{01r,36}.03	ø	:	³i=e³r=r³=-³l=l³o=“³s=s³t=t³o=‚³s=s³t=t³
+`von @pr„p	ùvon	#pr„p	^	~von	\uon	_Iú0úV_RPaul-118{01r,36}.04	ø	:	³u=v³o=o³n=n³
+`d‰r @art	ùd‰r	#art	^DSf	~d‰r	\d er	_Iú0úV_RPaul-118{01r,36}.05	ø	:	³d=d³e=‰³r=r³
+`hŠlle @f	ùhŠlle	#f	^DS	~hŠlle	\helle(.)	_Iú0úV_RPaul-118{01r,36}.06@	ø	:	³h=h³e=Š³ll=ll³e=e³
+`durh @pr„p	ùdurh	#pr„p	^	~dur<h>	\dur	_Iú0úV_RPaul-119{01r,36}.01	ø	:	³d=d³u=u³r=r³=h³
+`d‰r @art	ùd‰r	#art	^ASf	~diŠ	\d ie	_Iú0úV_RPaul-119{01r,36}.02	ø	:	³d=d³ie=iŠ³
+`s‰lb @pron	ùs‰lb	#pron	^ASfw	~s‰lb‚n	\$elb un	_Iú0úV_RPaul-119{01r,36}.03	ø	:	³s=s³e=‰³l=l³b=b³u=‚³n=n³
+`karitƒt @f	ùkaritƒte	#f	^AS	~karitƒte	\car<it>ate,,	_Iú0úV_RPaul-119{01r,36}.04@	ø	:	³c=k³a=a³r=r³i=i³t=t³a=ƒ³t=t³e=e³
+`s“ @partikel	ùs“	#partikel	^	~s“	\$o|	_Iú0úV_RPaul-120{01r,36}.01	ø	:	³s=s³o=“³
+`d– @pron	ùd–	#pron	^NS	~d–	\|do\v	_Iú0úV_RPaul-120{01r,36}.02	ø	:	³d=d³o\v=–³
+`ber @pr„p	ùber	#pr„p	^	~ber	\ubir	_Iú0úV_RPaul-120{01r,36}.03	ø	:	³u=³b=b³i=e³r=r³
+`‰r @pron	ù‰r	#pron	^ASf	~siŠ	\$e|	_Iú0úV_RPaul-120{01r,36}.04	ø	:	³s=s³e=iŠ³
+`tuon @anv	ùtuon	#anv	^2SVI	~t‘te	\|tate,,	_Iú0úV_RPaul-120{01r,36}.05@	ø	:	³t=t³a=‘³t=t³e=e³
+`s“ @adv/konj	ùs“	#adv	^	~s“	\$o	_Iú0úV_RPaul-121{01r,36}.01	ø	:	³s=s³o=“³
+`biten @stv5b	ùbiten	#stv5b	^1SG	~bit<e>	\bit	_Iú0úV_RPaul-121{01r,36}.02	ø	:	³b=b³i=i³t=t³=e³
+`ich @pron	ùich	#pron	^NS	~ich	\ich	_Iú0úV_RPaul-121{01r,37}.03	ø	:	³i=i³ch=ch³
+`d– @pron	ùd–	#pron	^AS	~dich	\tich,	_Iú0úV_RPaul-121{01r,37}.04	ø	:	³t=d³i=i³ch=ch³
+`got @m	ùgot	#m	^GS	~gotes	\gote$	_Iú0úV_RPaul-121{01r,37}.05	ø	:	³g=g³o=o³t=t³e=e³s=s³
+`sun @m<u>	ùsun	#m<u>	^AS	~sun	\$un,)	_Iú0úV_RPaul-121{01r,37}.06@	ø	:	³s=s³u=u³n=n³
+`durh @pr„p	ùdurh	#pr„p	^	~dur<h>	\dur	_Iú0úV_RPaul-122{01r,37}.01	ø	:	³d=d³u=u³r=r³=h³
+`dŒn @pron_poss	ùdŒn	#pron_poss	^GSm	~dŒnes	\din i$	_Iú0úV_RPaul-122{01r,37}.02	ø	:	³d=d³i=Œ³n=n³i=e³s=s³
+`vater @m<(u)>	ùvater	#m<(u)>	^GS	~vater	\uater	_Iú0úV_RPaul-122{01r,37}.03	ø	:	³u=v³a=a³t=t³e=e³r=r³
+`wille @m	ùwille	#m	^AS	~willen	\willin,,	_Iú0úV_RPaul-122{01r,37}.04@	ø	:	³w=w³i=i³ll=ll³i=e³n=n³
+`dazz @konj	ùdazz	#konj	^	~dazz	\daz	_Iú0úV_RPaul-123{01r,37}.01	ø	:	³d=d³a=a³z=zz³
+`d– @pron	ùd–	#pron	^NS	~d–	\tu	_Iú0úV_RPaul-123{01r,37}.02	ø	:	³t=d³u=–³
+`ge-biŠten @stv2b	ùge-biŠten	#stv2b	^2SG	~ge-biŠtes	\gebite$,,	_Iú0úV_RPaul-123{01r,37}.03	ø	:	³g=g³e=e³=-³b=b³i=iŠ³t=t³e=e³s=s³
+`hˆrre @m	ùhˆrre	#m	^NS	~hˆrre	\herre,,	_Iú0úV_RPaul-123{01r,37}.04@	ø	:	³h=h³e=ˆ³rr=rr³e=e³
+`sancte @adj	ùsancte	#adj	^0	~sancte	\$c Œ 	_Iú0úV_RPaul-124{01r,37}.01	ø	:	³scŒ=sancte³
+`Michaˆl* @PN	ùMichahˆl	#PN	^DS	~Michahˆle	\michahele,,	_Iú0úV_RPaul-124{01r,37}.02@	ø	:	³m=m³i=i³ch=ch³a=a³h=³e=e³l=l³e=e³
+`dazz @konj	ùdazz	#konj	^	~dazz	\daz	_Iú0úV_RPaul-125{01r,38}.01	ø	:	³d=d³a=a³z=zz³
+`‰r @pron	ù‰r	#pron	^NSm	~‰r	\er	_Iú0úV_RPaul-125{01r,38}.02	ø	:	³e=‰³r=r³
+`mŒn @pron_poss	ùmŒn	#pron_poss	^ASf	~mŒne	\min e	_Iú0úV_RPaul-125{01r,38}.03	ø	:	³m=m³i=Œ³n=n³e=e³
+`sˆle @f	ùsˆle	#f	^AS	~sˆle	\$ele	_Iú0úV_RPaul-125{01r,38}.04	ø	:	³s=s³e=ˆ³l=l³e=e³
+`bringen @anv	ùbringen	#anv	^3SGK	~bringe	\bringe,(	_Iú0úV_RPaul-125{01r,38}.05@	ø	:	³b=b³r=r³i=i³n=n³g=g³e=e³
+`swanne @konj	ùswanne	#konj	^	~swŠnne	\$wenne	_Iú0úV_RPaul-126{01r,38}.01	ø	:	³s=s³w=w³e=Š³nn=nn³e=e³
+`‰r @pron	ù‰r	#pron	^NSf	~siu	\$iv	_Iú0úV_RPaul-126{01r,38}.02	ø	:	³s=s³iv=iu³
+`ge-schŠiden @stv7	ùge-schŠiden	#stv7	^3SGK	~ge-schŠide	\ge$hadi	_Iú0úV_RPaul-126{01r,38}.03	ø	:	³g=g³e=e³=-³sh=sch³a=Ši³d=d³i=e³
+`hinnen @adv	ùhinnen	#adv	^	~hinnen	\hinnin,)	_Iú0úV_RPaul-126{01r,38}.04@	ø	:	³h=h³i=i³nn=nn³i=e³n=n³
+`in @pr„p	ùin	#pr„p	^	~in	\in|	_Iú0úV_RPaul-127{01r,38}.01	ø	:	³i=i³n=n³
+`d‰r @art	ùd‰r	#art	^ASm	~d‰n	\|d en	_Iú0úV_RPaul-127{01r,38}.02	ø	:	³d=d³e=‰³n=n³
+`barm @m	ùbarm	#m	^AS	~barm	\barm	_Iú0úV_RPaul-127{01r,38}.03	ø	:	³b=b³a=a³r=r³m=m³
+`Abraham @PN	ùAbraham	#PN	^GS	~Abrahames	\abrahami$	_Iú0úV_RPaul-127{01r,38}.04@	ø	:	*³a=a³b=b³r=r³a=a³h=h³a=a³m=m³i=e³s=s³
+`ze @pr„p	ùze	#pr„p	^	~ze	\zi|	_Iú0úV_RPaul-128{01r,39}.01	ø	:	³z=z³i=e³
+`dŒn @pron_poss	ùdŒn	#pron_poss	^DP	~dŒnen	\|dinn en	_Iú0úV_RPaul-128{01r,39}.02	ø	:	³d=d³i=Œ³nn=n³e=e³n=n³
+`ge-nƒde @f	ùge-nƒde	#f	^DP	~ge-nƒden	\genadin	_Iú0úV_RPaul-128{01r,39}.03@	ø	:	³g=g³e=e³=-³n=n³a=ƒ³d=d³i=e³n=n³
+`durh @pr„p	ùdurh	#pr„p	^	~dur<h>	\dur	_Iú0úV_RPaul-129{01r,39}.01	ø	:	³d=d³u=u³r=r³=h³
+`dŒn @pron_poss	ùdŒn	#pron_poss	^APm	~dŒne	\din e	_Iú0úV_RPaul-129{01r,39}.02	ø	:	³d=d³i=Œ³n=n³e=e³
+`drŒ @num	ùdrŒ	#num	^APm	~drŒe	\trie	_Iú0úV_RPaul-129{01r,39}.03	ø	:	³t=d³r=r³i=Œ³e=e³
+`name @m	ùname	#m	^AP	~namen	\namin(.)	_Iú0úV_RPaul-129{01r,39}.04	ø	:	³n=n³a=a³m=m³i=e³n=n³
+`[!] @[!]	ùƒmˆn*	#interj	^	~ƒmˆn	\amin.(.)"	_Iú0úV_RPaul-129{01r,39}.05@	ø	:	³a=ƒ³m=m³i=e³n=n³
+`d“ @adv/konj	ùd“	#konj	^	~d“	\*CDo	_Iú0úV_RPaul-130{01r,39}.01	ø	:	³d=d³o=“³
+`d‰r @art	ùd‰r	#art	^NSm	~d‰r	\d er	_Iú0úV_RPaul-130{01r,39}.02	ø	:	³d=d³e=‰³r=r³
+`hŠiden @adj	ùhŠiden	#adj	^NSmw	~hŠidene	\hedin e	_Iú0úV_RPaul-130{01r,39}.03	ø	:	³h=h³e=Ši³d=d³i=e³n=n³e=e³
+`mann @m	ùmann	#m	^NS	~mann	\man	_Iú0úV_RPaul-130{01r,39}.04@	ø	:	³m=m³a=a³n=nn³
+`s“ @adv/konj	ùs“	#adv	^	~s“	\$o	_Iú0úV_RPaul-131{01r,39}.01	ø	:	³s=s³o=“³
+`v‰rre @adv	ùv‰rre	#adv	^	~v‰rre	\uerre	_Iú0úV_RPaul-131{01r,39}.02	ø	:	³u=v³e=‰³rr=rr³e=e³
+`w‰rden @stv3b	ùw‰rden	#stv3b	^3SVI	~ward	\warth	_Iú0úV_RPaul-131{01r,40}.03	ø	:	³w=w³a=a³r=r³th=d³
+`ge-h“r-sam @adj	ùge-h“r-sam	#adj	^-	~g‚-h“r-sam	\gohor$am 	_Iú0úV_RPaul-131{01r,40}.04@	ø	:	³g=g³o=‚³=-³h=h³o=“³r=r³=-³s=s³a=a³m=m³
+`mit @pr„p	ùmit	#pr„p	^	~mit	\mith	_Iú0úV_RPaul-132{01r,40}.01	ø	:	³m=m³i=i³th=t³
+`ge-loube @mf	ùge-loube	#mf	^DS	~g<e>-loube	\glovbe	_Iú0úV_RPaul-132{01r,40}.02	ø	:	³g=g³=e³=-³l=l³ov=ou³b=b³e=e³
+`unte @konj	ùunte	#konj	^	~unte	\undi	_Iú0úV_RPaul-132{01r,40}.03	ø	:	³u=u³n=n³d=t³i=e³
+`mit @pr„p	ùmit	#pr„p	^	~mit	\mit	_Iú0úV_RPaul-132{01r,40}.04	ø	:	³m=m³i=i³t=t³
+`bi-giht(e) @f	ùbi-giht(e)	#f	^DS	~bi-gihte	\pigithe	_Iú0úV_RPaul-132{01r,40}.05@	ø	:	³p=b³i=i³=-³g=g³i=i³th=ht³e=e³
+`unte @konj	ùunte	#konj	^	~unt<e>	\und|	_Iú0úV_RPaul-133{01r,40}.01	ø	:	³u=u³n=n³d=t³=e³
+`‰r @pron	ù‰r	#pron	^NSm	~‰r	\|ir	_Iú0úV_RPaul-133{01r,40}.02	ø	:	³i=‰³r=r³
+`all-s“ @adv/konj	ùall-s“	#adv	^	~all-s“	\al$o	_Iú0úV_RPaul-133{01r,40}.03	ø	:	³a=a³l=ll³=-³s=s³o=“³
+`w‘r-lŒche @adv	ùw‘r-lŒche	#adv	^	~w‘r-lŒch<e>	\warlich	_Iú0úV_RPaul-133{01r,40}.04@	ø	:	³w=w³a=‘³r=r³=-³l=l³i=Œ³ch=ch³=e³
+`sŒn @pron_poss	ùsŒn	#pron_poss	^APf	~sŒne	\$in e	_Iú0úV_RPaul-134{01r,40}.01	ø	:	³s=s³i=Œ³n=n³e=e³
+`snte @f	ùsnte	#f	^AP	~snte	\$unde	_Iú0úV_RPaul-134{01r,40}.02	ø	:	³s=s³u=³n=n³d=t³e=e³
+`be-ginnen @anv	ùbe-ginnen	#anv	^3SV	~be-gunde	\bigundi|	_Iú0úV_RPaul-134{01r,41}.03	ø	:	³b=b³i=e³=-³g=g³u=u³n=n³d=d³i=e³
+`riuwen @swv	ùriuwen	#swv i	^-	~riuwen	\|riugin,,	_Iú0úV_RPaul-134{01r,41}.04@	ø	:	³r=r³iu=iu³g=w³i=e³n=n³
+`d“ @adv/konj	ùd“	#adv	^	~d“	\do	_Iú0úV_RPaul-135{01r,41}.01	ø	:	³d=d³o=“³
+`ent-vƒhen @stv7	ùent-vƒhen	#stv7	^3SVI	~en<t>-viŠng	\inphing|	_Iú0úV_RPaul-135{01r,41}.02	ø	:	³i=e³n=n³=t³=-³ph=v³i=iŠ³n=n³g=g³
+`‰r @pron	ù‰r	#pron	^ASm	~in	\|in	_Iú0úV_RPaul-135{01r,41}.03	ø	:	³i=i³n=n³
+`d‰r @art	ùd‰r	#art	^NSm	~d‰r	\d er	_Iú0úV_RPaul-135{01r,41}.04	ø	:	³d=d³e=‰³r=r³
+`got @m	ùgot	#m	^GS	~gotes	\gote$	_Iú0úV_RPaul-135{01r,41}.05	ø	:	³g=g³o=o³t=t³e=e³s=s³
+`sun @m<u>	ùsun	#m<u>	^NS	~sun	\$un(.)	_Iú0úV_RPaul-135{01r,41}.06@	ø	:	³s=s³u=u³n=n³
+`d“ @adv/konj	ùd“	#adv	^	~d“	\do	_Iú0úV_RPaul-136{01r,41}.01	ø	:	³d=d³o=“³
+`hŠizen @stv7	ùhŠizen	#stv7	^3SVI	~hiŠz	\hiz|	_Iú0úV_RPaul-136{01r,41}.02	ø	:	³h=h³i=iŠ³z=z³
+`‰r @pron	ù‰r	#pron	^NSm	~‰r	\|er	_Iú0úV_RPaul-136{01r,41}.03	ø	:	³e=‰³r=r³
+`‰r @pron	ù‰r	#pron	^ASm	~in	\in	_Iú0úV_RPaul-136{01r,41}.04	ø	:	³i=i³n=n³
+`toufen @swv	ùtoufen	#swv i	^-	~toufen	\to\vfen,	_Iú0úV_RPaul-136{01r,41}.05@	ø	:	³t=t³o\v=ou³f=f³e=e³n=n³
+`ander(e)s @adv	ùander(e)s	#adv	^	~ander(e)s	\an[diri$]	_Iú0úV_RPaul-137{01r,41}.01	ø	:	³a=a³n=n³[d]=d³[i]=e³[r]=r³[i]=e³[s]=s³
+`hŠizen @stv7	ùhŠizen	#stv7 i	^-	~hŠizen	\[heizin](.)	_Iú0úV_RPaul-137{53v,01}.02@	ø	:	*³[heizin]=[hŠizen]³
+`ˆr @adv/konj	ùˆr	#adv	^	~ˆ<r>	\[e]	_Iú0úV_RPaul-138{53v,01}.01	ø	:	³[e]=[ˆr]³
+`hŠizen @stv7	ùhŠizen	#stv7	^3SVI	~hiŠz	\[hez]|	_Iú0úV_RPaul-138{53v,01}.02	ø	:	*³[hez]=[hiŠz]³
+`‰r @pron	ù‰r	#pron	^NSm	~‰r	\|[er]	_Iú0úV_RPaul-138{53v,01}.03	ø	:	*³[er]=[‰r]³
+`Saulus* @PN	ùSaulus	#PN	^NS	~Saulus	\[$a\vlu%9],,	_Iú0úV_RPaul-138{53v,01}.04@	ø	:	*³[sa\vlu%9]=[saulus]³
+`n– @adv/konj	ùn–	#adv	^	~n–	\[nu]	_Iú0úV_RPaul-139{53v,01}.01	ø	:	*³[nu]=[n–]³
+`sŒn @anv	ùsŒn	#anv	^3SGI	~ist	\[i$t]|	_Iú0úV_RPaul-139{53v,01}.02	ø	:	*³[ist]=[ist]³
+`‰r @pron	ù‰r	#pron	^NSm	~‰r	\|[er]	_Iú0úV_RPaul-139{53v,01}.03	ø	:	*³[er]=[‰r]³
+`namen @swv	ùnamen	#swv pV	^-	~ge-nam‚t	\[ginn%m%o%tmt] 	_Iú0úV_RPaul-139{53v,01}.04	ø	:	*³[ginn%m%o%tmt]=[ge-nam‚t]³
+`d‰r @art	ùd‰r	#art	^NSm	~d‰r	\[d er]	_Iú0úV_RPaul-139{53v,01}.05	ø	:	*³[der]=[d‰r]³
+`milte @adj	ùmilte	#adj	^NSmw	~milte	\[milt e] 	_Iú0úV_RPaul-139{53v,01}.06	ø	:	*³[milte]=[milte]³
+`[!] @[!]	ùsanctus*	#adj	^NS	~sanctus	\[$c\-$]	_Iú0úV_RPaul-139{53v,01}.07	ø	:	*³[sc\-s]=sanctus³
+`Paulus* @PN	ùPaulus	#PN	^NS	~Paulus	\[paulus](.)	_Iú0úV_RPaul-139{53v,01}.08@	ø	:/K[paulus: _ 8 "Punkte" unlesbar (Maurer)]	*³[paulus]=[paulus]³
+`got @m	ùgot	#m	^GS	~gotes	\[[goti$]]	_Iú0úV_RPaul-140{53v,01}.01	ø	:	*³[[gotis]]=[gotes]³
+`hazz @m	ùhazz	#m	^NS	~hazz	\[[haz]]	_Iú0úV_RPaul-140{53v,01}.02	ø	:/E[[[goti$]] [[haz]]: erg. nach Maurer]	*³[[haz]]=[haz]³
+`w‰sen @stv5	ùw‰sen	#stv5	^3SVI	~was	\[wa$]	_Iú0úV_RPaul-140{53v,01}.03	ø	:	*³[was]=[was]³
+`ˆr @adv/konj	ùˆr	#adv	^	~ˆ<r>	\[e]	_Iú0úV_RPaul-140{53v,01}.04	ø	:	³[e]=[ˆr]³
+`d‰r @pron	ùd‰r	#pron	^GSn	~d‰s	\[d e$]	_Iú0úV_RPaul-140{53v,01}.05	ø	:	*³[des]=[d‰s]³
+`iŠ @adv	ùiŠ	#adv	^	~iŠ	\[ie]	_Iú0úV_RPaul-140{53v,01}.06	ø	:/K[ie: _ 3 "Punkte" unlesbar (Maurer)]	*³[ie]=[iŠ]³
+`‰r @pron	ù‰r	#pron	^GSm	~sŒn	\[$in],,	_Iú0úV_RPaul-140{53v,02}.07@	ø	:	*³[sin]=[sŒn]³
+`n– @adv/konj	ùn–	#adv	^	~n–	\[nu]	_Iú0úV_RPaul-141{53v,02}.01	ø	:	*³[nu]=[n–]³
+`ne @partikel	ùne	#partikel	^	~n<e>	\[n]|	_Iú0úV_RPaul-141{53v,02}.02	ø	:	³[n]=[ne]³
+`sŒn @anv	ùsŒn	#anv	^3SGI	~ist	\|[i$t]	_Iú0úV_RPaul-141{53v,02}.03	ø	:	*³[ist]=[ist]³
+`‰r @pron	ù‰r	#pron	^GSm	~sŒn	\[$in]	_Iú0úV_RPaul-141{53v,02}.04	ø	:	*³[sin]=[sŒn]³
+`ge-n‘dig @adj	ùge-n‘dig	#adj comp	^-	~g<e>-n‘diger	\[gnadigir] 	_Iú0úV_RPaul-141{53v,02}.05	ø	:	³[gnadigir]=[ge-n‘diger]³
+`neh-Šin @pron	ùneh-Šin	#pron	^0NSm%	~nehŠin	\[ni%chain](.)	_Iú0úV_RPaul-141{53v,02}.06@	ø	:	*³[ni%chain]=[nehŠin]³
+`n– @adv/konj	ùn–	#adv	^	~n–	\[nu]|	_Iú0úV_RPaul-142{53v,02}.01	ø	:	*³[nu]=[n–]³
+`sŒn @anv	ùsŒn	#anv	^3SGI	~ist	\|[i$t]	_Iú0úV_RPaul-142{53v,02}.02	ø	:	*³[ist]=[ist]³
+`‰r @pron	ù‰r	#pron	^NSm	~‰r	\[er]	_Iú0úV_RPaul-142{53v,02}.03	ø	:	*³[er]=[‰r]³
+`Šin @art	ùŠin	#art	^0NSn	~Šin	\[an]	_Iú0úV_RPaul-142{53v,02}.04	ø	:	*³[an]=[Šin]³
+`er-wŠl(e)n @swv	ùer-wŠl(e)n	#swv pV	^NSn	~er-wŠl(e)tezz	\[irwelit iz]	_Iú0úV_RPaul-142{53v,02}.05	ø	:	*³[irwelitiz]=[er-wŠl(e)tez]³
+`got @m	ùgot	#m	^GS	~gotes	\[goti$]	_Iú0úV_RPaul-142{53v,02}.06	ø	:	*³[gotis]=[gotes]³
+`vazz @n	ùvazz	#n	^NS	~vazz	\[ua$](.)	_Iú0úV_RPaul-142{53v,02}.07@	ø	:	*³[uas]=[vaz]³
+`d‰r @art	ùd‰r	#art	^ASm	~d‰n	\d en	_Iú0úV_RPaul-143{53v,02}.01	ø	:	³d=d³e=‰³n=n³
+`s‰lb @pron	ùs‰lb	#pron	^ASm!	~s‰lben	\$el<b in>	_Iú0úV_RPaul-143{53v,02}.02	ø	:	³s=s³e=‰³l=l³b=b³i=e³n=n³
+`ge-walt @mf<u>	ùge-walt	#m<u>	^AS	~ge-walt	\[ge#wual]	_Iú0úV_RPaul-143{53v,02}.03	ø	:	*³[gewual]=[ge-walt]³
+`‰r @pron	ù‰r	#pron	^NSm	~‰r	\[er]	_Iú0úV_RPaul-143{53v,03}.04	ø	:	*³[er]=[‰r]³
+`‰r @pron	ù‰r	#pron	^DSm	~ime	\[ime]	_Iú0úV_RPaul-143{53v,03}.05	ø	:	*³[ime]=[ime]³
+`g‰ben @stv5	ùg‰ben	#stv5	^3SVI	~gab	\[g]ab,,	_Iú0úV_RPaul-143{53v,03}.06@	ø	:	³[g]=g³a=a³b=b³
+`dƒr @adv	ùdƒr/.+von(e)	#adv	^	~dƒ	\da|	_Iú0úV_RPaul-144{53v,03}.01	ø	:	³d=d³a=ƒ³
+`sich @pron	ùsich	#pron	^A	~sich	\|[$ich]	_Iú0úV_RPaul-144{53v,03}.02	ø	:	*³[sich]=[sich]³
+`ˆr @adv/konj	ùˆr	#adv	^	~ˆ<r>	\<e>	_Iú0úV_RPaul-144{53v,03}.03	ø	:/K[e: oder {i} ?]	³e=ˆ³=r³
+`Judas* @PN	ùJudas	#PN	^NS	~Judas	\iudi$	_Iú0úV_RPaul-144{53v,03}.04	ø	:	³i=j³u=u³d=d³i=a³s=s³
+`von(e) @adv	ùvon(e)/dƒr.+	#adv	^	~vone	\uoni	_Iú0úV_RPaul-144{53v,03}.05	ø	:	³u=v³o=o³n=n³i=e³
+`st“zen @stv7	ùst“zen	#stv7	^3SVI	~stiŠz	\$tiz(.)	_Iú0úV_RPaul-144{53v,03}.06@	ø	:	³s=s³t=t³i=iŠ³z=z³
+`d‰r @art	ùd‰r	#art	^ASm	~d‰n	\d en	_Iú0úV_RPaul-145{53v,03}.01	ø	:	³d=d³e=‰³n=n³
+`hˆrre @m	ùhˆrre	#m	^AS	~hˆrren	\[h]<erri\->	_Iú0úV_RPaul-145{53v,03}.02	ø	:	³[h]=h³e=ˆ³rr=rr³i=e³\-=n³
+`‰r @pron	ù‰r	#pron	^NSm	~‰r	\<er>	_Iú0úV_RPaul-145{53v,03}.03	ø	:	³e=‰³r=r³
+`d“ @adv/konj	ùd“	#adv	^	~d“	\<do>	_Iú0úV_RPaul-145{53v,03}.04	ø	:	³d=d³o=“³
+`var(e)n @stv6	ùvar(e)n	#stv6 i	^-	~var(e)n	\uari\-	_Iú0úV_RPaul-145{53v,03}.05	ø	:	³u=v³a=a³r=r³i=e³\-=n³
+`hŠizen @stv7	ùhŠizen	#stv7	^3SVI	~hiŠz	\hiz	_Iú0úV_RPaul-145{53v,03}.06@	ø	:	³h=h³i=iŠ³z=z³
+`in @pr„p	ùin	#pr„p	^	~in	\i\-	_Iú0úV_RPaul-146{53v,03}.01	ø	:	³i=i³\-=n³
+`d‰r @art	ùd‰r	#art	^ASn	~dazz	\<d az>	_Iú0úV_RPaul-146{53v,03}.02	ø	:	³d=d³a=a³z=zz³
+`lant @n	ùlant	#n	^AS	~lant	\lanth	_Iú0úV_RPaul-146{53v,03}.03	ø	:	³l=l³a=a³n=n³th=t³
+`ze @pr„p	ùze	#pr„p	^	~z<e>	\[z]|	_Iú0úV_RPaul-146{53v,04}.04	ø	:	³[z]=[ze]³
+`d‰r @art	ùd‰r	#art	^DP	~<d>‰n	\|[en]	_Iú0úV_RPaul-146{53v,04}.05	ø	:/\[!]	³[en]=[d‰n]³
+`KriŠche @m	ùKriŠche	#m	^DP	~KriŠchen	\[ch]richin(.)	_Iú0úV_RPaul-146{53v,04}.06@	ø	:	³[ch]=k³r=r³i=iŠ³ch=ch³i=e³n=n³
+`d“ @adv/konj	ùd“	#adv	^	~d“	\do	_Iú0úV_RPaul-147{53v,04}.01	ø	:	³d=d³o=“³
+`be-kˆren @swv	ùbe-kˆren	#swv	^3SV	~be-kˆrt<e>	\<bechert>|	_Iú0úV_RPaul-147{53v,04}.02	ø	:	³b=b³e=e³=-³ch=k³e=ˆ³r=r³t=t³=e³
+`‰r @pron	ù‰r	#pron	^NSm	~‰r	\|<er>	_Iú0úV_RPaul-147{53v,04}.03	ø	:	³e=‰³r=r³
+`mit @pr„p	ùmit	#pr„p	^	~mit	\mit	_Iú0úV_RPaul-147{53v,04}.04	ø	:	³m=m³i=i³t=t³
+`d‰r @art	ùd‰r	#art	^DP	~d‰n	\d en	_Iú0úV_RPaul-147{53v,04}.05	ø	:	³d=d³e=‰³n=n³
+`buoch @n	ùbuoch	#n	^DP	~buochen	\[buchin]	_Iú0úV_RPaul-147{53v,04}.06@	ø	:	*³[buchin]=[buochen]³
+`manig @pron	ùmanig	#pron	^ASm	~manigen	\manig in	_Iú0úV_RPaul-148{53v,04}.01	ø	:	³m=m³a=a³n=n³i=i³g=g³i=e³n=n³
+`hŠiden @adj	ùhŠiden	#adj	^ASm!	~hŠidenen	\hedin in	_Iú0úV_RPaul-148{53v,04}.02	ø	:	³h=h³e=Ši³d=d³i=e³n=n³i=e³n=n³
+`mann @m	ùmann	#m	^AS	~mann	\man(.)	_Iú0úV_RPaul-148{53v,04}.03@	ø	:	³m=m³a=a³n=nn³
+`n– @adv/konj	ùn–	#adv	^	~n–	\<nu>	_Iú0úV_RPaul-149{53v,04}.01	ø	:	³n=n³u=–³
+`sŒn @anv	ùsŒn	#anv	^3PGI	~sint	\<$int>	_Iú0úV_RPaul-149{53v,04}.02	ø	:	³s=s³i=i³n=n³t=t³
+`‰r @pron	ù‰r	#pron	^NPm	~siŠ	\<$e>	_Iú0úV_RPaul-149{53v,04}.03	ø	:/K[$e: oder {$%ie} ?]	³s=s³e=iŠ³
+`got @m	ùgot	#m	^DS	~gote	\<gote>	_Iú0úV_RPaul-149{53v,05}.04	ø	:	³g=g³o=o³t=t³e=e³
+`ge-h“r-sam @adj	ùge-h“r-sam	#adj	^-	~ge-h“r-sam	\<ge>#<hor>[$am] 	_Iú0úV_RPaul-149{53v,05}.05@	ø	:	³g=g³e=e³=-³h=h³o=“³r=r³=-³[s]=s³[a]=a³[m]=m³
+`unte @konj	ùunte	#konj	^	~unt<e>	\[und]	_Iú0úV_RPaul-150{53v,05}.01	ø	:	³[und]=[unte]³
+`sŒn @anv	ùsŒn	#anv	^3SGI	~ist	\[i$t]	_Iú0úV_RPaul-150{53v,05}.02	ø	:	*³[ist]=[ist]³
+`d‰r @pron	ùd‰r	#pron	^NSn	~dazz	\[d az]	_Iú0úV_RPaul-150{53v,05}.03	ø	:	*³[daz]=[daz]³
+`d‰r @art	ùd‰r	#art	^NSf	~diu	\[d iu]	_Iú0úV_RPaul-150{53v,05}.04	ø	:	*³[diu]=[diu]³
+`aller-hˆrest @adj sup	ùaller-hˆrest	#adj sup	^NSfw	~aller-hˆreste	\[allir]#[h]eri$t e	_Iú0úV_RPaul-150{53v,05}.05	ø	:	³[a]=a³ll=ll³[i]=e³[r]=r³=-³[h]=h³e=ˆ³r=r³i=e³s=s³t=t³e=e³
+`diŠt @mfn	ùdiŠt	#f	^NS	~diŠt	\diet[h](.)	_Iú0úV_RPaul-150{53v,05}.06@	ø	:	³d=d³ie=iŠ³t[h]=t³
+`n– @adv/konj	ùn–	#adv	^	~n–	\nu	_Iú0úV_RPaul-151{53v,05}.01	ø	:	³n=n³u=–³
+`sŒn @anv	ùsŒn	#anv	^3SGI	~ist	\i$t	_Iú0úV_RPaul-151{53v,05}.02	ø	:	³i=i³s=s³t=t³
+`d‰r @art	ùd‰r	#art	^NSm	~d‰r	\d e[r]	_Iú0úV_RPaul-151{53v,05}.03	ø	:	³d=d³e=‰³[r]=r³
+`hˆrre @m	ùhˆrre	#m	^NS	~hˆrre	\[herre]	_Iú0úV_RPaul-151{53v,05}.04	ø	:	*³[herre]=[hˆrre]³
+`got @m	ùgot	#m	^DS	~gote	\[gote]	_Iú0úV_RPaul-151{53v,05}.05	ø	:	*³[gote]=[gote]³
+`vil(e) @adv	ùvil(e)	#adv	^	~vil<e>	\uil	_Iú0úV_RPaul-151{53v,05}.06	ø	:	³u=v³i=i³l=l³=e³
+`liŠb @adj	ùliŠb	#adj	^-	~liŠb	\lieb (.)	_Iú0úV_RPaul-151{53v,05}.07@	ø	:	³l=l³ie=iŠ³b=b³
+`‰r @pron	ù‰r	#pron	^NSm	~‰r	\[er]	_Iú0úV_RPaul-152{53v,06}.01	ø	:	*³[er]=[‰r]³
+`sŒn @anv	ùsŒn	#anv	^3SGI	~ist	\[i$t]	_Iú0úV_RPaul-152{53v,06}.02	ø	:	*³[ist]=[ist]³
+`dƒr @adv	ùdƒr	#adv	^	~dƒ	\[da]	_Iú0úV_RPaul-152{53v,06}.03	ø	:	*³[da]=[dƒ]³
+`ze @pr„p	ùze	#pr„p	^	~ze	\[ze]	_Iú0úV_RPaul-152{53v,06}.04	ø	:	*³[ze]=[ze]³
+`himel @m	ùhimel	#m	^DS	~himel<e>	\[himil],,	_Iú0úV_RPaul-152{53v,06}.05@	ø	:/K[himil: _ etwa 10 "Punkte" unlesbar (Maurer)]	³[himil]=[himele]³
+`ouch @adv/konj	ùouch	#adv	^	~ouch	\[ouch]	_Iú0úV_RPaul-153{53v,06}.01	ø	:	*³[ouch]=[ouch]³
+`wir @pron	ùwir	#pron	^DP	~uns	\[un$]	_Iú0úV_RPaul-153{53v,06}.02	ø	:	*³[uns]=[uns]³
+`hiŠr @adv	ùhiŠr/+nider(e)	#adv	^	~hiŠ<r>	\[hie]|	_Iú0úV_RPaul-153{53v,06}.03	ø	:	³[hie]=[hiŠr]³
+`nider(e) @adv	ùnider(e)/hiŠr+	#adv	^	~nider(e)	\|[nidere],,	_Iú0úV_RPaul-153{53v,06}.04@	ø	:	*³[nidere]=[nider(e)]³
+`‰r @pron	ù‰r	#pron	^NSm	~‰r	\[er]	_Iú0úV_RPaul-154{53v,06}.01	ø	:	*³[er]=[‰r]³
+`ge-hŠizen @stv7	ùge-hŠizen	#stv7	^3SVK	~ge-hiŠze	\[gehiezze]	_Iú0úV_RPaul-154{53v,06}.02	ø	:	*³[gehiezze]=[ge-hiŠze]³
+`wir @pron	ùwir	#pron	^DP	~uns	\[un$]	_Iú0úV_RPaul-154{53v,06}.03	ø	:	*³[uns]=[uns]³
+`vil(e) @adv	ùvil(e)	#adv	^	~vil<e>	\[uil]	_Iú0úV_RPaul-154{53v,06}.04	ø	:	³[uil]=[vile]³
+`manig @pron	ùmanig	#pron	^ASf	~manige	\[manig e]	_Iú0úV_RPaul-154{53v,06}.05	ø	:	*³[manige]=[manige]³
+`ge-nƒde @f	ùge-nƒde	#f	^AS	~g<e>-nƒde	\[gnade],,	_Iú0úV_RPaul-154{53v,07}.06@	ø	:	³[gnade]=[ge-nƒde]³
+`wŠllen @anv	ùwŠllen	#anv	^1PV	~wolten	\[woltin]	_Iú0úV_RPaul-155{53v,07}.01	ø	:	*³[woltin]=[wolten]³
+`wir @pron	ùwir	#pron	^NP	~wir	\[wir]|	_Iú0úV_RPaul-155{53v,07}.02	ø	:	*³[wir]=[wir]³
+`‰r @pron	ù‰r	#pron	^ASn	~<‰>zz	\|[z]	_Iú0úV_RPaul-155{53v,07}.03	ø	:	³[z]=[‰zz]³
+`umbe @pr„p	ùumbe	#pr„p	^	~umb<e>	\[umb]	_Iú0úV_RPaul-155{53v,07}.04	ø	:/K[umb: _ 3 oder 4 "Punkte" unlesbar (Maurer)]	³[umb]=[umbe]³
+`got @m	ùgot	#m	^AS	~got	\[[got]]	_Iú0úV_RPaul-155{53v,07}.05	ø	:	*³[[got]]=[got]³
+`ver-diŠnen @swv	ùver-diŠnen	#swv i	^-	~ver-diŠnen	\[uerdinen](.)	_Iú0úV_RPaul-155{53v,07}.06@	ø	:	*³[uerdinen]=[ver-diŠnen]³
