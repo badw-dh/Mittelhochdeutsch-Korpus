@@ -1,10 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="utf-8"/>
-<title>TEST</title>
-</head>
-<body>
 <table>
 	<tr>
 		<td>Test</td>
@@ -529,5 +522,3 @@
 		<td>Test</td>
 	</tr>
 </table>
-</body>
-</html>
