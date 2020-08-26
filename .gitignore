@@ -1,5 +1,7 @@
 /*
 !/P/
-!/P-Leseansicht/
+!/public/
 !.gitignore
+!.gitlab-ci.yml
+!index.html
 !README.md
