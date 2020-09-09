@@ -3,5 +3,7 @@
 !/P-htm/
 !.gitignore
 !Korpushandbuch.odt
+!Leseansichten.md
+!Leseansichtsliste_schreiben.py
 !Mitarbeiter.md
 !README.md
