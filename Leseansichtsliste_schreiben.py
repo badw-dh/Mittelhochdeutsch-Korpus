@@ -6,7 +6,7 @@ url_form = 'https://gitlab.lrz.de/badw-data/mhd-korpus/-/raw/arbeitsfassung/P-ht
 listenlink_form = '- <a href="https://publikationen.badw.de/de/data?url={}" target="_blank" rel="noopener noreferrer">{}</a>\n'
 with open('Leseansichten.md', 'w', encoding = 'utf-8') as file:
     file.write('# Verlinkungen von Leseansichten\n\n')
-    for dirpath, subdirnames, subfilenames in os.walk(urpath):
+    for dirpath, subdirnames, subfilenames in sorted(os.walk(urpath)):
         for subfilename in subfilenames:
             if subfilename.lower().endswith('.htm'):
                 name = os.path.basename(dirpath) + '/' + subfilename
