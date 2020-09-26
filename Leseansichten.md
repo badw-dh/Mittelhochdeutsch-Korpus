@@ -1,4 +1,4 @@
-# Verlinkungen von Leseansichten
+# Verlinkungen von Leseansichten der Urdaten in aufbereiteter Form
 
 - <a href="https://publikationen.badw.de/de/data?url=https%3A%2F%2Fgitlab.lrz.de%2Fbadw-data%2Fmhd-korpus%2F-%2Fraw%2Farbeitsfassung%2FP-htm%2FI-0-p1.Wil%2FWill.htm" target="_blank" rel="noopener noreferrer">I-0-p1.Wil/Will.htm</a>
 - <a href="https://publikationen.badw.de/de/data?url=https%3A%2F%2Fgitlab.lrz.de%2Fbadw-data%2Fmhd-korpus%2F-%2Fraw%2Farbeitsfassung%2FP-htm%2FI-0-p2.WNo%2FWNot.htm" target="_blank" rel="noopener noreferrer">I-0-p2.WNo/WNot.htm</a>
