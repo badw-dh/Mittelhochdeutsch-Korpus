@@ -1,5 +1,8 @@
 import os
+import sys
 from urllib.parse import quote
+
+edition = quote('arbeitsfassung' if len(sys.argv) < 2 else sys.argv[1])
 
 for (urpath, url_form, listenlink_form, filename, heading) in zip(
         (
@@ -7,8 +10,8 @@ for (urpath, url_form, listenlink_form, filename, heading) in zip(
             os.path.abspath('P'),
         ),
         (
-            'https://gitlab.lrz.de/badw-data/mhd-korpus/-/raw/arbeitsfassung/P-htm/',
-            'https://gitlab.lrz.de/badw-data/mhd-korpus/-/raw/arbeitsfassung/P/',
+            f'https://gitlab.lrz.de/badw-data/mhd-korpus/-/raw/{edition}/P-htm/',
+            f'https://gitlab.lrz.de/badw-data/mhd-korpus/-/raw/{edition}/P/',
         ),
         (
             '- <a href="https://publikationen.badw.de/de/data?url={}" target="_blank" rel="noopener noreferrer">{}</a>\n',
