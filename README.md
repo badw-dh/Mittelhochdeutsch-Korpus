@@ -18,4 +18,4 @@ Die Daten im Ordner “P” sind die Urdaten und für wissenschaftliche Auswertu
 
 ## Entstehung, Aufbau und Inhalt des Korpus
 
-Siehe <https://daten.badw.de/mhd-korpus/-/blob/arbeitsfassung/Korpushandbuch.odt>.
+**Siehe die <a href="https://daten.badw.de/mhd-korpus/-/blob/arbeitsfassung/Kürzel-Übersicht.odt">Kürzel-Übersicht</a> und das <a href="https://daten.badw.de/mhd-korpus/-/blob/arbeitsfassung/Korpushandbuch.odt">Korpushandbuch.**
