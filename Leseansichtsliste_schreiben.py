@@ -15,7 +15,7 @@ for (urpath, url_form, listenlink_form, filename, heading) in zip(
         ),
         (
             '- <a href="https://publikationen.badw.de/de/data?url={}" target="_blank" rel="noopener noreferrer">{}</a>\n',
-            '- <a href="https://publikationen.badw.de/de/data?url={};encoding=cp437;template=data_pre.tpl" target="_blank" rel="noopener noreferrer">{}</a>\n',
+            '- <a href="https://publikationen.badw.de/de/data?encoding=cp437&template=data_pre.tpl&url={}" target="_blank" rel="noopener noreferrer">{}</a>\n',
         ),
         (
             'Leseansichten.md',
