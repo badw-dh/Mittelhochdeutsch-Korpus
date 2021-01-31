@@ -6,7 +6,7 @@
 
 ## Auswahl und Zitation von Zweigen
 
-Der Zweig “arbeitsfassung” ist die in Arbeit befindliche, also veränderliche Fassung. Von ihr abgezweigt und neben “arbeitsfassung” auswählbar sind Zweige wie “auflage_2020”, die nicht mehr verändert werden und daher als Verweisziele geeignet sind. Es empfiehlt sich, sie eindeutigkeitshalber mit ihrem jeweiligen Auflagendatum und steten Link anzuführen, z. B. “Müller, Stefan / Klein, Thomas: Mittelhochdeutsch-Korpus. Erarbeitet vom DFG-Projekt Mittelhochdeutsche Grammatik: <https://daten.badw.de/mhd-korpus/-/blob/auflage_2021/Mitarbeiter.md>. (2021, <https://daten.badw.de/mhd-korpus/-/tree/auflage_2021>)”.
+Der Zweig “arbeitsfassung” ist die in Arbeit befindliche, also veränderliche Fassung. Von ihr abgezweigt und neben “arbeitsfassung” auswählbar sind Zweige wie “auflage_2020”, die nicht mehr verändert werden und daher als Verweisziele geeignet sind. Es empfiehlt sich, sie eindeutigkeitshalber mit ihrem jeweiligen Auflagendatum und steten Link anzuführen, z. B. “Müller, Stefan / Klein, Thomas: Mittelhochdeutsch-Korpus. Erarbeitet vom DFG-Projekt Mittelhochdeutsche Grammatik: <https://daten.badw.de/mhd-korpus/-/blob/auflage_2020/Mitarbeiter.md>. (2020, <https://daten.badw.de/mhd-korpus/-/tree/auflage_2020>)”.
 
 ## Herunterladen der Urdaten und Leseansichten
 
