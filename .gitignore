@@ -3,7 +3,9 @@
 !/P-htm/
 !.gitignore
 !Korpushandbuch.odt
+!Korpushandbuch.pdf
 !Kürzelübersicht.odt
+!Kürzelübersicht.pdf
 !Leseansichten.md
 !Leseansichten_roh.md
 !Leseansichtsliste_schreiben.py
