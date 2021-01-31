@@ -10,8 +10,8 @@ for (urpath, url_form, listenlink_form, filename, heading) in zip(
             os.path.abspath('P'),
         ),
         (
-            f'https://gitlab.lrz.de/badw-data/mhd-korpus/-/raw/{edition}/P-htm/',
-            f'https://gitlab.lrz.de/badw-data/mhd-korpus/-/raw/{edition}/P/',
+            f'https://daten.badw.de/mhd-korpus/-/raw/{edition}/P-htm/',
+            f'https://daten.badw.de/mhd-korpus/-/raw/{edition}/P/',
         ),
         (
             '- <a href="https://publikationen.badw.de/de/data?url={}" target="_blank" rel="noopener noreferrer">{}</a>\n',
