@@ -18,7 +18,7 @@ Die Daten im Ordner “P-htm” sind für **Leseansichten** gedacht: Dafür klic
 
 Die Urdaten sind im Zeichenschlüssel <a href="https://de.wikipedia.org/wiki/Codepage_437">Codepage 437</a> gespeichert.
 
-**Zum Verständnis der Daten siehe die <a href="https://publikationen.badw.de/de/data?url=https%3A%2F%2Fdaten.badw.de%2Fmhd-korpus%2F-%2Fblob%2Farbeitsfassung%2FK%C3%BCrzel%C3%BCbersicht.pdf">Kürzelübersicht</a> und das <a href="https://publikationen.badw.de/de/data?url=https%3A%2F%2Fdaten.badw.de%2Fmhd-korpus%2F-%2Fblob%2Farbeitsfassung%2FKorpushandbuch.pdf">Korpushandbuch</a>.**
+**Zum Verständnis der Daten siehe die <a href="https://publikationen.badw.de/de/data?format=pdf&url=https%3A%2F%2Fdaten.badw.de%2Fmhd-korpus%2F-%2Fraw%2Farbeitsfassung%2FK%25C3%25BCrzel%25C3%25BCbersicht.pdf?inline=false">Kürzelübersicht</a> und das <a href="https://publikationen.badw.de/de/data?format=pdf&url=https%3A%2F%2Fdaten.badw.de%2Fmhd-korpus%2F-%2Fraw%2Farbeitsfassung%2FKorpushandbuch.pdf?inline=false">Korpushandbuch</a>.**
 
 ## Weitere Auskunft
 
