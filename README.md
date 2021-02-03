@@ -1,5 +1,7 @@
 # Mittelhochdeutsch-Korpus
 
+Rund 1 100 000 Wortformen aus gut 100 zeitlich und räumlich gestreuten, verfassernah überlieferten Texten – handschriftentreu transkribiert – lexikalisch, morphologisch, morphosyntaktisch und graphonologisch annotiert.
+
 ## Lizenz
 
 <a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode.de">CC BY-SA</a>
