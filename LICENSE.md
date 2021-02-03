@@ -1,0 +1,1 @@
+CC BY-SA (Creative Commons Attribution & Share-alike), siehe <https://creativecommons.org/licenses/by-sa/4.0/legalcode.de>.
