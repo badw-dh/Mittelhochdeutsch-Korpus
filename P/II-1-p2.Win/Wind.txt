@@ -7080,7 +7080,7 @@ Bearbeiter: Korrektur	Thomas Klein (Bonn)
 `wŠste @adj	ùwŠste	#adj	^DSfwø	~wŠsten	\wuo$t e n.,	_IIú1úP_Wind-062,03{91v,02}.04	ø	:/^[in {An erde der wuo$ten., awicken un#de unwazzeruoller}]	³w=w³uo=Š³s=s³t=t³e=e³n=n³
 `ƒ-wigge @adj	ùƒ-wigge	#adj	^DSfwø	~ƒ-wiggen	\awick e n.	_IIú1úP_Wind-062,03{91v,02}.05	ø	:/ù[adj L-; ahd. ƒ-wiggi!]/^[in {An erde der wuo$ten., awicken un#de unwazzeruoller}]	³a=ƒ³=-³w=w³i=i³c=g³k=g³e=e³n=n³
 `unte @konj	ùunte	#konj	^	~unte	\un#de	_IIú1úP_Wind-062,03{91v,02}.06	ø	:/K[un#de: de steht unter un]	³u=u³n=n³d=t³e=e³
-`un-wazzer-voll @adj	ùun-wazzer-voll	#adj	^DSfø!	~un-wazzervoller	\unwazzeruoll er.(.)	_IIú1úP_Wind-062,03{91v,02}.07	ø	:/ù[inaquosa; trocken;L-;Ll-]/^[in {An erde der wuo$ten., awicken un#de unwazzeruoller}]	³u=u³n=n³=-³w=w³a=a³zz=zz³e=e³r=r³u=v³o=o³ll=ll³e=e³r=r³
+`un-wazzer-voll @adj	ùun-wazzer-voll	#adj	^DSfø!	~un-wazzervoller	\unwazzeruoll er.(.)	_IIú1úP_Wind-062,03{91v,02}.07	ø	:/ù[inaquosa; trocken; L-; Ll-]/^[in {An erde der wuo$ten., awicken un#de unwazzeruoller}]	³u=u³n=n³=-³w=w³a=a³zz=zz³e=e³r=r³u=v³o=o³ll=ll³e=e³r=r³
 `s“ @adv/konj	ùs“	#adv	^	~s“	\$o	_IIú1úP_Wind-062,03{91v,02}.08	ø	:	³s=s³o=“³
 `in @pr„p	ùin	#pr„p	^	~in	\in	_IIú1úP_Wind-062,03{91v,02}.09	ø	:	³i=i³n=n³
 `d‰r @art	ùd‰r	#art	^DSn	~d‰m	\d em	_IIú1úP_Wind-062,03{91v,03}.10	ø	:	³d=d³e=‰³m=m³
