@@ -1,6 +1,6 @@
 # Mittelhochdeutsch-Korpus
 
-Rund 1 100 000 Wortformen aus gut 100 zeitlich und räumlich gestreuten, verfassernah überlieferten Texten – handschriftentreu transkribiert – lexikalisch, morphologisch, morphosyntaktisch und graphonologisch annotiert.
+Rund 1 100 000 Wortformen aus gut 100 zeitlich und räumlich gestreuten, verfassernah überlieferten Texten – handschriftentreu transkribiert – lexikalisch, morphologisch, morphosyntaktisch und graphonologisch annotiert. Erarbeitet vor allem im Rahmen eines DFG-Vorhabens zur Erstellung einer mhd. Grammatik: <a href="https://d-nb.info/996588450">Klein / Solms / Wegera</a>.
 
 ## Lizenz
 
