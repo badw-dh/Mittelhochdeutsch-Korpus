@@ -11,7 +11,7 @@
 
 ## Arbeitsstelle Bonn (Transkription, Präeditierung, Annotation, Programmierung, Regelwerk, Korpusbeschreibung)
 
-- (Leitung:) **Klein, Thomas** (Transkription, Präeditierung, Annotation, Programmierung, Regelwerk, Korpusbeschreibung im Wesentlichen oder in weiten Teilen)
+- (Leitung:) **Klein, Thomas** (Transkription, Präeditierung, Annotation, Programmierung, Regelwerk, Korpusbeschreibung – im Wesentlichen oder in weiten Teilen)
 - Büthe-Scheider, Eva
 - Chlench, Kathrin (u. a. Korpusbeschreibung)
 - Cuno-Janßen, Laila
