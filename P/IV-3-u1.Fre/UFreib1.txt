@@ -34,7 +34,7 @@ Lokalisierung_Text
 Autor
 Sprache des Autors	alemannisch
 šbersetzungsvorlage
-Edition	Corpus der altdeutschen Originalðurkunden bis zum Jahr 1300, Bd. I-V, hg. von Friedrich Wilhelm, Richard Newald, Helmut de Boor, Diether Haacke, Bettina Kirschstein, Lahr 1932-1986, Nr. 658, 677, 780, 831, 1371, 1542, 1639, 1648, 1651B, 1678, 1686, 1768, 1883, 1958, 1959, 1985, 2001, 2008, 2112, 2133, 2182, 2277, 2348, 2461, 2643, 2681, 2725, 2733, 2767, 2780, 2861, 2909, 2921, 2936, 3018.
+Edition	Corpus der altdeutschen Originalurkunden bis zum Jahr 1300, Bd. I-V, hg. von Friedrich Wilhelm, Richard Newald, Helmut de Boor, Diether Haacke, Bettina Kirschstein, Lahr 1932-1986, Nr. 658, 677, 780, 831, 1371, 1542, 1639, 1648, 1651B, 1678, 1686, 1768, 1883, 1958, 1959, 1985, 2001, 2008, 2112, 2133, 2182, 2277, 2348, 2461, 2643, 2681, 2725, 2733, 2767, 2780, 2861, 2909, 2921, 2936, 3018.
 5) Korpus, Transkription, Annotation
 Korpuszugeh”rigkeit	MiGraKo
 Besonderheiten: Transkription
