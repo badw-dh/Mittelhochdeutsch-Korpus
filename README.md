@@ -22,25 +22,20 @@ Die Urdaten sind im Zeichenschlüssel <a href="https://de.wikipedia.org/wiki/Cod
 
 **Zum Verständnis der Daten siehe die <a href="https://dienst.badw.de/varia?form=pdf&url=https%3A%2F%2Fdaten.badw.de%2Fmhd-korpus%2F-%2Fraw%2Farbeitsfassung%2FK%25C3%25BCrzel%25C3%25BCbersicht.pdf?inline=false">Kürzelübersicht</a> und das <a href="https://dienst.badw.de/varia?form=pdf&url=https%3A%2F%2Fdaten.badw.de%2Fmhd-korpus%2F-%2Fraw%2Farbeitsfassung%2FKorpushandbuch.pdf?inline=false">Korpushandbuch</a>.**
 
-## Weitere, veraltete Online-Kopien des Korpus
+## Weitere Online-Kopien des Korpus
 
-Unter https://www.linguistics.rub.de/rem/ findet sich eine **veraltete** und semantisch 
-sparsamer ausgezeichnete Version der Daten dieses Korpus. Es ist gut möglich, dass diese 
-veraltete Fassung auch noch an anderen Orten im Internet gespiegelt ist.
+Im Netz sind weitere Fassungen dieses Korpus verfügbar. So gibt es unter
+https://www.linguistics.rub.de/rem/ eine XML-Fassung, die im Vergleich zu 
+der hier veröffentlichten Ur-Fassung semantisch etwas sparsamer ausgezeichnet ist.
 
-Wir empfehlen die hier von den Autoren selbst veröffentlichte *aktuelle*, *fehlerkorrigierte* 
-und *semantisch reiche* Fassung des Mittelhochdeutsch-Korpus zu 
-verwenden. *Nur die in diesem gitlab-Repositorium veröffentliche Fassung stammt direkt von der Quelle.*
+Die Lizenzbedingungen erlauben ausdrücklich die Wiederveröffentlichung der Daten
+des Mittelhochdeutsch-Korpus - auch in abgewandelter Form. Für die Richtigkeit und 
+Aktualität anderer im Netz verfügbarer Fassungen können wir daher
+nicht bürgen. Wir empfehlen, sich im Zweifel bei den Betreibern der entsprechenden
+Angebote zu erkundigen, die sicherlich gerne Auskunft geben werden.
 
-Grundsätzlich erlauben es die Lizenzbedingungen jedem die Daten zu spiegeln oder auch 
-in abgewandelter Form, z.B. in einem anderen Datenformat, wieder zu veröffentlichen.
-Die Weitergabe der Daten unter Nennung der 
-[Urheber](https://gitlab.lrz.de/badw-data/mhd-korpus/-/blob/arbeitsfassung/Mitarbeiter.md) 
-wird von den Autoren ausdrücklich begrüßt! 
-
-Den Betreibern von Spiegel-Servern empfehlen wir, dieses Repositorium von Zeit zu Zeit auf
-Änderungen hin zu überprüfen und Aktualisierungen zeitnah zu übernehmen.
-
+Die in diesem Repositorium veröffentliche Fassung stammt direkt von der Quelle
+und wird von uns aktuell gehalten.
 
 ## Weitere Auskunft
 
