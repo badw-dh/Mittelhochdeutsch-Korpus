@@ -22,7 +22,7 @@ Die Urdaten sind im Zeichenschlüssel <a href="https://de.wikipedia.org/wiki/Cod
 
 **Zum Verständnis der Daten siehe die <a href="https://dienst.badw.de/varia?form=pdf&url=https%3A%2F%2Fdaten.badw.de%2Fmhd-korpus%2F-%2Fraw%2Farbeitsfassung%2FK%25C3%25BCrzel%25C3%25BCbersicht.pdf?inline=false">Kürzelübersicht</a> und das <a href="https://dienst.badw.de/varia?form=pdf&url=https%3A%2F%2Fdaten.badw.de%2Fmhd-korpus%2F-%2Fraw%2Farbeitsfassung%2FKorpushandbuch.pdf?inline=false">Korpushandbuch</a>.**
 
-## Weitere Online-Kopien des Korpus
+## Weitere Online-Fassungen des Korpus
 
 Im Netz sind weitere Fassungen dieses Korpus verfügbar. So gibt es unter
 https://www.linguistics.rub.de/rem/ eine XML-Fassung, die im Vergleich zu 
