@@ -38,7 +38,7 @@ Die Weitergabe der Daten unter Nennung der
 [Urheber](https://gitlab.lrz.de/badw-data/mhd-korpus/-/blob/arbeitsfassung/Mitarbeiter.md) 
 wird von den Autoren ausdrücklich begrüßt! 
 
-Den Betreibern von Spiegel-Servern empfehlen wir jedoch, dieses Repositorium von Zeit zu Zeit auf
+Den Betreibern von Spiegel-Servern empfehlen wir, dieses Repositorium von Zeit zu Zeit auf
 Änderungen hin zu überprüfen und Aktualisierungen zeitnah zu übernehmen.
 
 
