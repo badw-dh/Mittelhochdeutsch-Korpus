@@ -29,8 +29,8 @@ sparsamer ausgezeichnete Version der Daten dieses Korpus. Es ist gut möglich, d
 veraltete Fassung auch noch an anderen Orten im Internet gespiegelt ist.
 
 Wir empfehlen die hier von den Autoren selbst veröffentlichte *aktuelle*, *fehlerkorrigierte* 
-und *semantisch reiche* Fassung des Mittelhochdeutsch-Korpus zu verwenden.
-* Nur die in diesem gitlab-Repositorium veröffentliche Fassung stammt direkt von der Quelle.*
+und *semantisch reiche* Fassung des Mittelhochdeutsch-Korpus zu 
+verwenden. *Nur die in diesem gitlab-Repositorium veröffentliche Fassung stammt direkt von der Quelle.*
 
 Grundsätzlich erlauben es die Lizenzbedingungen jedem die Daten zu spiegeln oder auch 
 in abgewandelter Form, z.B. in einem anderen Datenformat, wieder zu veröffentlichen.
